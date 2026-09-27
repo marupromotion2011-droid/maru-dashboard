@@ -56,18 +56,20 @@
         },
         {
           "name": "부자재",
-          "krw_per_pc": 150,
-          "estimate": true,
+          "krw_per_pc": 0,
+          "estimate": false,
           "detail": {
             "items": [
               {
-                "item": "carelabel_etc",
-                "per_pc": 150,
-                "estimate": true,
-                "source": "케어라벨 PO만 존재, 단가 미기재 → 라벨류 150KRW/장 estimate"
+                "item": "carelabel",
+                "per_pc": 0,
+                "estimate": false,
+                "supplied_by": "본사",
+                "source": "본사 공급(케어라벨) — 케어라벨 본사 공급, 원가 0원 (2026-09-28 사용자 확인; 이전 150KRW/장 estimate 폐기)"
               }
             ]
-          }
+          },
+          "source_tag": "본사 공급(케어라벨)"
         },
         {
           "name": "나염(기은)",
@@ -130,10 +132,10 @@
           }
         }
       ],
-      "total_krw_per_pc": 4041.9,
-      "total_krw_color": 7275420.0,
+      "total_krw_per_pc": 3891.9,
+      "total_krw_color": 7005420.0,
       "nego_ref_krw": 7400,
-      "vs_nego": 3358.1
+      "vs_nego": 3508.1
     },
     {
       "style": "DR1LTR080",
@@ -172,18 +174,20 @@
         },
         {
           "name": "부자재",
-          "krw_per_pc": 150,
-          "estimate": true,
+          "krw_per_pc": 0,
+          "estimate": false,
           "detail": {
             "items": [
               {
-                "item": "carelabel_etc",
-                "per_pc": 150,
-                "estimate": true,
-                "source": "케어라벨 PO만 존재, 단가 미기재 → 라벨류 150KRW/장 estimate"
+                "item": "carelabel",
+                "per_pc": 0,
+                "estimate": false,
+                "supplied_by": "본사",
+                "source": "본사 공급(케어라벨) — 케어라벨 본사 공급, 원가 0원 (2026-09-28 사용자 확인; 이전 150KRW/장 estimate 폐기)"
               }
             ]
-          }
+          },
+          "source_tag": "본사 공급(케어라벨)"
         },
         {
           "name": "나염(기은)",
@@ -246,10 +250,10 @@
           }
         }
       ],
-      "total_krw_per_pc": 4041.9,
-      "total_krw_color": 5658660.0,
+      "total_krw_per_pc": 3891.9,
+      "total_krw_color": 5448660.0,
       "nego_ref_krw": 7400,
-      "vs_nego": 3358.1
+      "vs_nego": 3508.1
     },
     {
       "style": "DR1LTR080",
@@ -289,18 +293,20 @@
         },
         {
           "name": "부자재",
-          "krw_per_pc": 150,
-          "estimate": true,
+          "krw_per_pc": 0,
+          "estimate": false,
           "detail": {
             "items": [
               {
-                "item": "carelabel_etc",
-                "per_pc": 150,
-                "estimate": true,
-                "source": "케어라벨 PO만 존재, 단가 미기재 → 라벨류 150KRW/장 estimate"
+                "item": "carelabel",
+                "per_pc": 0,
+                "estimate": false,
+                "supplied_by": "본사",
+                "source": "본사 공급(케어라벨) — 케어라벨 본사 공급, 원가 0원 (2026-09-28 사용자 확인; 이전 150KRW/장 estimate 폐기)"
               }
             ]
-          }
+          },
+          "source_tag": "본사 공급(케어라벨)"
         },
         {
           "name": "나염(기은)",
@@ -363,10 +369,10 @@
           }
         }
       ],
-      "total_krw_per_pc": 4497.8,
-      "total_krw_color": 3598240.0,
+      "total_krw_per_pc": 4347.8,
+      "total_krw_color": 3478240.0,
       "nego_ref_krw": 7400,
-      "vs_nego": 2902.2
+      "vs_nego": 3052.2
     },
     {
       "style": "DR2LTR091",
@@ -405,18 +411,20 @@
         },
         {
           "name": "부자재",
-          "krw_per_pc": 150,
-          "estimate": true,
+          "krw_per_pc": 0,
+          "estimate": false,
           "detail": {
             "items": [
               {
-                "item": "carelabel_etc",
-                "per_pc": 150,
-                "estimate": true,
-                "source": "케어라벨 PO만 존재, 단가 미기재 → 라벨류 150KRW/장 estimate"
+                "item": "carelabel",
+                "per_pc": 0,
+                "estimate": false,
+                "supplied_by": "본사",
+                "source": "본사 공급(케어라벨) — 케어라벨 본사 공급, 원가 0원 (2026-09-28 사용자 확인; 이전 150KRW/장 estimate 폐기)"
               }
             ]
-          }
+          },
+          "source_tag": "본사 공급(케어라벨)"
         },
         {
           "name": "나염(기은)",
@@ -479,10 +487,10 @@
           }
         }
       ],
-      "total_krw_per_pc": 3431.9,
-      "total_krw_color": 12011650.0,
+      "total_krw_per_pc": 3281.9,
+      "total_krw_color": 11486650.0,
       "nego_ref_krw": 6300,
-      "vs_nego": 2868.1
+      "vs_nego": 3018.1
     },
     {
       "style": "DR2LTR091",
@@ -521,18 +529,20 @@
         },
         {
           "name": "부자재",
-          "krw_per_pc": 150,
-          "estimate": true,
+          "krw_per_pc": 0,
+          "estimate": false,
           "detail": {
             "items": [
               {
-                "item": "carelabel_etc",
-                "per_pc": 150,
-                "estimate": true,
-                "source": "케어라벨 PO만 존재, 단가 미기재 → 라벨류 150KRW/장 estimate"
+                "item": "carelabel",
+                "per_pc": 0,
+                "estimate": false,
+                "supplied_by": "본사",
+                "source": "본사 공급(케어라벨) — 케어라벨 본사 공급, 원가 0원 (2026-09-28 사용자 확인; 이전 150KRW/장 estimate 폐기)"
               }
             ]
-          }
+          },
+          "source_tag": "본사 공급(케어라벨)"
         },
         {
           "name": "나염(기은)",
@@ -595,10 +605,10 @@
           }
         }
       ],
-      "total_krw_per_pc": 3431.9,
-      "total_krw_color": 7893370.0,
+      "total_krw_per_pc": 3281.9,
+      "total_krw_color": 7548370.0,
       "nego_ref_krw": 6300,
-      "vs_nego": 2868.1
+      "vs_nego": 3018.1
     },
     {
       "style": "DR2LTR091",
@@ -638,18 +648,20 @@
         },
         {
           "name": "부자재",
-          "krw_per_pc": 150,
-          "estimate": true,
+          "krw_per_pc": 0,
+          "estimate": false,
           "detail": {
             "items": [
               {
-                "item": "carelabel_etc",
-                "per_pc": 150,
-                "estimate": true,
-                "source": "케어라벨 PO만 존재, 단가 미기재 → 라벨류 150KRW/장 estimate"
+                "item": "carelabel",
+                "per_pc": 0,
+                "estimate": false,
+                "supplied_by": "본사",
+                "source": "본사 공급(케어라벨) — 케어라벨 본사 공급, 원가 0원 (2026-09-28 사용자 확인; 이전 150KRW/장 estimate 폐기)"
               }
             ]
-          }
+          },
+          "source_tag": "본사 공급(케어라벨)"
         },
         {
           "name": "나염(기은)",
@@ -712,10 +724,10 @@
           }
         }
       ],
-      "total_krw_per_pc": 3551.1,
-      "total_krw_color": 6036870.0,
+      "total_krw_per_pc": 3401.1,
+      "total_krw_color": 5781870.0,
       "nego_ref_krw": 6300,
-      "vs_nego": 2748.9
+      "vs_nego": 2898.9
     },
     {
       "style": "DR2LTR091",
@@ -755,18 +767,20 @@
         },
         {
           "name": "부자재",
-          "krw_per_pc": 150,
-          "estimate": true,
+          "krw_per_pc": 0,
+          "estimate": false,
           "detail": {
             "items": [
               {
-                "item": "carelabel_etc",
-                "per_pc": 150,
-                "estimate": true,
-                "source": "케어라벨 PO만 존재, 단가 미기재 → 라벨류 150KRW/장 estimate"
+                "item": "carelabel",
+                "per_pc": 0,
+                "estimate": false,
+                "supplied_by": "본사",
+                "source": "본사 공급(케어라벨) — 케어라벨 본사 공급, 원가 0원 (2026-09-28 사용자 확인; 이전 150KRW/장 estimate 폐기)"
               }
             ]
-          }
+          },
+          "source_tag": "본사 공급(케어라벨)"
         },
         {
           "name": "나염(기은)",
@@ -829,10 +843,10 @@
           }
         }
       ],
-      "total_krw_per_pc": 3567.0,
-      "total_krw_color": 5350500.0,
+      "total_krw_per_pc": 3417.0,
+      "total_krw_color": 5125500.0,
       "nego_ref_krw": 6300,
-      "vs_nego": 2733.0
+      "vs_nego": 2883.0
     },
     {
       "style": "DR2LTR091",
@@ -872,18 +886,20 @@
         },
         {
           "name": "부자재",
-          "krw_per_pc": 150,
-          "estimate": true,
+          "krw_per_pc": 0,
+          "estimate": false,
           "detail": {
             "items": [
               {
-                "item": "carelabel_etc",
-                "per_pc": 150,
-                "estimate": true,
-                "source": "케어라벨 PO만 존재, 단가 미기재 → 라벨류 150KRW/장 estimate"
+                "item": "carelabel",
+                "per_pc": 0,
+                "estimate": false,
+                "supplied_by": "본사",
+                "source": "본사 공급(케어라벨) — 케어라벨 본사 공급, 원가 0원 (2026-09-28 사용자 확인; 이전 150KRW/장 estimate 폐기)"
               }
             ]
-          }
+          },
+          "source_tag": "본사 공급(케어라벨)"
         },
         {
           "name": "나염(기은)",
@@ -946,10 +962,10 @@
           }
         }
       ],
-      "total_krw_per_pc": 3594.0,
-      "total_krw_color": 5391000.0,
+      "total_krw_per_pc": 3444.0,
+      "total_krw_color": 5166000.0,
       "nego_ref_krw": 6300,
-      "vs_nego": 2706.0
+      "vs_nego": 2856.0
     },
     {
       "style": "DR2LTR091",
@@ -989,18 +1005,20 @@
         },
         {
           "name": "부자재",
-          "krw_per_pc": 150,
-          "estimate": true,
+          "krw_per_pc": 0,
+          "estimate": false,
           "detail": {
             "items": [
               {
-                "item": "carelabel_etc",
-                "per_pc": 150,
-                "estimate": true,
-                "source": "케어라벨 PO만 존재, 단가 미기재 → 라벨류 150KRW/장 estimate"
+                "item": "carelabel",
+                "per_pc": 0,
+                "estimate": false,
+                "supplied_by": "본사",
+                "source": "본사 공급(케어라벨) — 케어라벨 본사 공급, 원가 0원 (2026-09-28 사용자 확인; 이전 150KRW/장 estimate 폐기)"
               }
             ]
-          }
+          },
+          "source_tag": "본사 공급(케어라벨)"
         },
         {
           "name": "나염(기은)",
@@ -1063,10 +1081,10 @@
           }
         }
       ],
-      "total_krw_per_pc": 3567.0,
-      "total_krw_color": 5350500.0,
+      "total_krw_per_pc": 3417.0,
+      "total_krw_color": 5125500.0,
       "nego_ref_krw": 6300,
-      "vs_nego": 2733.0
+      "vs_nego": 2883.0
     },
     {
       "style": "DR2LTS090",
@@ -2026,18 +2044,20 @@
             },
             {
               "name": "부자재",
-              "krw_per_pc": 150,
-              "estimate": true,
+              "krw_per_pc": 0,
+              "estimate": false,
               "detail": {
                 "items": [
                   {
-                    "item": "carelabel_etc",
-                    "per_pc": 150,
-                    "estimate": true,
-                    "source": "케어라벨 PO만 존재, 단가 미기재 → 라벨류 150KRW/장 estimate"
+                    "item": "carelabel",
+                    "per_pc": 0,
+                    "estimate": false,
+                    "supplied_by": "본사",
+                    "source": "본사 공급(케어라벨) — 케어라벨 본사 공급, 원가 0원 (2026-09-28 사용자 확인; 이전 150KRW/장 estimate 폐기)"
                   }
                 ]
-              }
+              },
+              "source_tag": "본사 공급(케어라벨)"
             },
             {
               "name": "나염(기은)",
@@ -2100,10 +2120,10 @@
               }
             }
           ],
-          "total_krw_per_pc": 4041.9,
-          "total_krw_color": 7275420.0,
+          "total_krw_per_pc": 3891.9,
+          "total_krw_color": 7005420.0,
           "nego_ref_krw": 7400,
-          "vs_nego": 3358.1
+          "vs_nego": 3508.1
         },
         {
           "style": "DR1LTR080",
@@ -2142,18 +2162,20 @@
             },
             {
               "name": "부자재",
-              "krw_per_pc": 150,
-              "estimate": true,
+              "krw_per_pc": 0,
+              "estimate": false,
               "detail": {
                 "items": [
                   {
-                    "item": "carelabel_etc",
-                    "per_pc": 150,
-                    "estimate": true,
-                    "source": "케어라벨 PO만 존재, 단가 미기재 → 라벨류 150KRW/장 estimate"
+                    "item": "carelabel",
+                    "per_pc": 0,
+                    "estimate": false,
+                    "supplied_by": "본사",
+                    "source": "본사 공급(케어라벨) — 케어라벨 본사 공급, 원가 0원 (2026-09-28 사용자 확인; 이전 150KRW/장 estimate 폐기)"
                   }
                 ]
-              }
+              },
+              "source_tag": "본사 공급(케어라벨)"
             },
             {
               "name": "나염(기은)",
@@ -2216,10 +2238,10 @@
               }
             }
           ],
-          "total_krw_per_pc": 4041.9,
-          "total_krw_color": 5658660.0,
+          "total_krw_per_pc": 3891.9,
+          "total_krw_color": 5448660.0,
           "nego_ref_krw": 7400,
-          "vs_nego": 3358.1
+          "vs_nego": 3508.1
         },
         {
           "style": "DR1LTR080",
@@ -2259,18 +2281,20 @@
             },
             {
               "name": "부자재",
-              "krw_per_pc": 150,
-              "estimate": true,
+              "krw_per_pc": 0,
+              "estimate": false,
               "detail": {
                 "items": [
                   {
-                    "item": "carelabel_etc",
-                    "per_pc": 150,
-                    "estimate": true,
-                    "source": "케어라벨 PO만 존재, 단가 미기재 → 라벨류 150KRW/장 estimate"
+                    "item": "carelabel",
+                    "per_pc": 0,
+                    "estimate": false,
+                    "supplied_by": "본사",
+                    "source": "본사 공급(케어라벨) — 케어라벨 본사 공급, 원가 0원 (2026-09-28 사용자 확인; 이전 150KRW/장 estimate 폐기)"
                   }
                 ]
-              }
+              },
+              "source_tag": "본사 공급(케어라벨)"
             },
             {
               "name": "나염(기은)",
@@ -2333,13 +2357,13 @@
               }
             }
           ],
-          "total_krw_per_pc": 4497.8,
-          "total_krw_color": 3598240.0,
+          "total_krw_per_pc": 4347.8,
+          "total_krw_color": 3478240.0,
           "nego_ref_krw": 7400,
-          "vs_nego": 2902.2
+          "vs_nego": 3052.2
         }
       ],
-      "avg_unit_krw": 4133.1
+      "avg_unit_krw": 3983.1
     },
     "DR2LTR091": {
       "name": "여자 라운드 반팔 기획티셔츠",
@@ -2390,18 +2414,20 @@
             },
             {
               "name": "부자재",
-              "krw_per_pc": 150,
-              "estimate": true,
+              "krw_per_pc": 0,
+              "estimate": false,
               "detail": {
                 "items": [
                   {
-                    "item": "carelabel_etc",
-                    "per_pc": 150,
-                    "estimate": true,
-                    "source": "케어라벨 PO만 존재, 단가 미기재 → 라벨류 150KRW/장 estimate"
+                    "item": "carelabel",
+                    "per_pc": 0,
+                    "estimate": false,
+                    "supplied_by": "본사",
+                    "source": "본사 공급(케어라벨) — 케어라벨 본사 공급, 원가 0원 (2026-09-28 사용자 확인; 이전 150KRW/장 estimate 폐기)"
                   }
                 ]
-              }
+              },
+              "source_tag": "본사 공급(케어라벨)"
             },
             {
               "name": "나염(기은)",
@@ -2464,10 +2490,10 @@
               }
             }
           ],
-          "total_krw_per_pc": 3431.9,
-          "total_krw_color": 12011650.0,
+          "total_krw_per_pc": 3281.9,
+          "total_krw_color": 11486650.0,
           "nego_ref_krw": 6300,
-          "vs_nego": 2868.1
+          "vs_nego": 3018.1
         },
         {
           "style": "DR2LTR091",
@@ -2506,18 +2532,20 @@
             },
             {
               "name": "부자재",
-              "krw_per_pc": 150,
-              "estimate": true,
+              "krw_per_pc": 0,
+              "estimate": false,
               "detail": {
                 "items": [
                   {
-                    "item": "carelabel_etc",
-                    "per_pc": 150,
-                    "estimate": true,
-                    "source": "케어라벨 PO만 존재, 단가 미기재 → 라벨류 150KRW/장 estimate"
+                    "item": "carelabel",
+                    "per_pc": 0,
+                    "estimate": false,
+                    "supplied_by": "본사",
+                    "source": "본사 공급(케어라벨) — 케어라벨 본사 공급, 원가 0원 (2026-09-28 사용자 확인; 이전 150KRW/장 estimate 폐기)"
                   }
                 ]
-              }
+              },
+              "source_tag": "본사 공급(케어라벨)"
             },
             {
               "name": "나염(기은)",
@@ -2580,10 +2608,10 @@
               }
             }
           ],
-          "total_krw_per_pc": 3431.9,
-          "total_krw_color": 7893370.0,
+          "total_krw_per_pc": 3281.9,
+          "total_krw_color": 7548370.0,
           "nego_ref_krw": 6300,
-          "vs_nego": 2868.1
+          "vs_nego": 3018.1
         },
         {
           "style": "DR2LTR091",
@@ -2623,18 +2651,20 @@
             },
             {
               "name": "부자재",
-              "krw_per_pc": 150,
-              "estimate": true,
+              "krw_per_pc": 0,
+              "estimate": false,
               "detail": {
                 "items": [
                   {
-                    "item": "carelabel_etc",
-                    "per_pc": 150,
-                    "estimate": true,
-                    "source": "케어라벨 PO만 존재, 단가 미기재 → 라벨류 150KRW/장 estimate"
+                    "item": "carelabel",
+                    "per_pc": 0,
+                    "estimate": false,
+                    "supplied_by": "본사",
+                    "source": "본사 공급(케어라벨) — 케어라벨 본사 공급, 원가 0원 (2026-09-28 사용자 확인; 이전 150KRW/장 estimate 폐기)"
                   }
                 ]
-              }
+              },
+              "source_tag": "본사 공급(케어라벨)"
             },
             {
               "name": "나염(기은)",
@@ -2697,10 +2727,10 @@
               }
             }
           ],
-          "total_krw_per_pc": 3551.1,
-          "total_krw_color": 6036870.0,
+          "total_krw_per_pc": 3401.1,
+          "total_krw_color": 5781870.0,
           "nego_ref_krw": 6300,
-          "vs_nego": 2748.9
+          "vs_nego": 2898.9
         },
         {
           "style": "DR2LTR091",
@@ -2740,18 +2770,20 @@
             },
             {
               "name": "부자재",
-              "krw_per_pc": 150,
-              "estimate": true,
+              "krw_per_pc": 0,
+              "estimate": false,
               "detail": {
                 "items": [
                   {
-                    "item": "carelabel_etc",
-                    "per_pc": 150,
-                    "estimate": true,
-                    "source": "케어라벨 PO만 존재, 단가 미기재 → 라벨류 150KRW/장 estimate"
+                    "item": "carelabel",
+                    "per_pc": 0,
+                    "estimate": false,
+                    "supplied_by": "본사",
+                    "source": "본사 공급(케어라벨) — 케어라벨 본사 공급, 원가 0원 (2026-09-28 사용자 확인; 이전 150KRW/장 estimate 폐기)"
                   }
                 ]
-              }
+              },
+              "source_tag": "본사 공급(케어라벨)"
             },
             {
               "name": "나염(기은)",
@@ -2814,10 +2846,10 @@
               }
             }
           ],
-          "total_krw_per_pc": 3567.0,
-          "total_krw_color": 5350500.0,
+          "total_krw_per_pc": 3417.0,
+          "total_krw_color": 5125500.0,
           "nego_ref_krw": 6300,
-          "vs_nego": 2733.0
+          "vs_nego": 2883.0
         },
         {
           "style": "DR2LTR091",
@@ -2857,18 +2889,20 @@
             },
             {
               "name": "부자재",
-              "krw_per_pc": 150,
-              "estimate": true,
+              "krw_per_pc": 0,
+              "estimate": false,
               "detail": {
                 "items": [
                   {
-                    "item": "carelabel_etc",
-                    "per_pc": 150,
-                    "estimate": true,
-                    "source": "케어라벨 PO만 존재, 단가 미기재 → 라벨류 150KRW/장 estimate"
+                    "item": "carelabel",
+                    "per_pc": 0,
+                    "estimate": false,
+                    "supplied_by": "본사",
+                    "source": "본사 공급(케어라벨) — 케어라벨 본사 공급, 원가 0원 (2026-09-28 사용자 확인; 이전 150KRW/장 estimate 폐기)"
                   }
                 ]
-              }
+              },
+              "source_tag": "본사 공급(케어라벨)"
             },
             {
               "name": "나염(기은)",
@@ -2931,10 +2965,10 @@
               }
             }
           ],
-          "total_krw_per_pc": 3594.0,
-          "total_krw_color": 5391000.0,
+          "total_krw_per_pc": 3444.0,
+          "total_krw_color": 5166000.0,
           "nego_ref_krw": 6300,
-          "vs_nego": 2706.0
+          "vs_nego": 2856.0
         },
         {
           "style": "DR2LTR091",
@@ -2974,18 +3008,20 @@
             },
             {
               "name": "부자재",
-              "krw_per_pc": 150,
-              "estimate": true,
+              "krw_per_pc": 0,
+              "estimate": false,
               "detail": {
                 "items": [
                   {
-                    "item": "carelabel_etc",
-                    "per_pc": 150,
-                    "estimate": true,
-                    "source": "케어라벨 PO만 존재, 단가 미기재 → 라벨류 150KRW/장 estimate"
+                    "item": "carelabel",
+                    "per_pc": 0,
+                    "estimate": false,
+                    "supplied_by": "본사",
+                    "source": "본사 공급(케어라벨) — 케어라벨 본사 공급, 원가 0원 (2026-09-28 사용자 확인; 이전 150KRW/장 estimate 폐기)"
                   }
                 ]
-              }
+              },
+              "source_tag": "본사 공급(케어라벨)"
             },
             {
               "name": "나염(기은)",
@@ -3048,13 +3084,13 @@
               }
             }
           ],
-          "total_krw_per_pc": 3567.0,
-          "total_krw_color": 5350500.0,
+          "total_krw_per_pc": 3417.0,
+          "total_krw_color": 5125500.0,
           "nego_ref_krw": 6300,
-          "vs_nego": 2733.0
+          "vs_nego": 2883.0
         }
       ],
-      "avg_unit_krw": 3502.8
+      "avg_unit_krw": 3352.8
     },
     "DR2LTS090": {
       "name": "여자 요꼬에리 반팔 기획티셔츠",

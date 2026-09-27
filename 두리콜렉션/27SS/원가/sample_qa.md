@@ -7,7 +7,7 @@ FX: USD/KRW=1358.4, CNY/KRW=202.47 (2026-09-23 15:30 Seoul 연합)
   - trace: 요척 0.756 × 단가 6.73 CNY × CNY 202.47 = 0.756×6.73×202.47 = 1030.14
   - source cells: `overseas_fabric_labor.xlsx` sheet `금액정리` rows for DR1LTR080 WHITE; fabric_po 단가 일치
 - 소탕(염색차지): **0.00** [file]
-- 부자재: **150.00** [estimate]
+- 부자재: **0.00** [본사 공급(케어라벨)] — 2026-09-28 정정: 이전 150.00 estimate 폐기 (이 문서의 Unit total은 9/23 구버전 트레이스 값)
 - 나염(실리콘): **1,400.00** [estimate]
   - designs ['도안1']; source print_cost_4styles.pdf; mapping estimate
 - 공임(CM/labor): **1,494.24** [file]
