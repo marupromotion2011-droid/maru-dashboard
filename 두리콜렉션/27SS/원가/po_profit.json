@@ -14,14 +14,14 @@
       "qty": 4000,
       "po_unit_krw": 7400,
       "po_amount_krw": 29600000,
-      "cost_total_krw": 16532320,
+      "cost_total_krw": 15932320,
       "nego_ref_krw": 7400,
       "nego_match": true,
       "source_path": "Z:\\HDD1\\MARU\\생산부\\2. 디즈니\\27SS\\완사입\\디즈니 발주서\\DR1LTR080.jpg",
       "tag": "file",
       "notes": "확정단가 7400 = NEGO단가 7400 = nego_ref",
-      "profit_krw": 13067680,
-      "margin_pct": 44.15
+      "profit_krw": 13667680,
+      "margin_pct": 46.17
     },
     {
       "style": "DR2LTR091",
@@ -29,14 +29,14 @@
       "qty": 12000,
       "po_unit_krw": 6300,
       "po_amount_krw": 75600000,
-      "cost_total_krw": 42033890,
+      "cost_total_krw": 40233890,
       "nego_ref_krw": 6300,
       "nego_match": true,
       "source_path": "Z:\\HDD1\\MARU\\생산부\\2. 디즈니\\27SS\\완사입\\디즈니 발주서\\DR2LTR090.jpg",
       "tag": "file",
       "notes": "PO품번 DR2LTR090 → board DR2LTR091; 확정단가 6300 = nego_ref",
-      "profit_krw": 33566110,
-      "margin_pct": 44.4
+      "profit_krw": 35366110,
+      "margin_pct": 46.78
     },
     {
       "style": "DR2LTS090",
@@ -72,9 +72,10 @@
   "grand": {
     "qty": 24300,
     "po_amount_krw": 191500000,
-    "cost_total_krw": 132442100,
-    "profit_krw": 59057900,
-    "margin_pct": 30.84
+    "cost_total_krw": 130042100,
+    "profit_krw": 61457900,
+    "margin_pct": 32.09
   },
-  "nego_mismatch": []
+  "nego_mismatch": [],
+  "revised": "2026-09-28 Asia/Seoul — LTR080/LTR091 부자재 150→0 (본사 공급 케어라벨)"
 }
