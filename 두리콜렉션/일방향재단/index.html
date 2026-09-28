@@ -2,6 +2,8 @@
 <html lang="ko"><head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>일방향재단</title>
+<script src="../../_shared/fold-nav.js" defer></script>
+<link rel="stylesheet" href="../../_shared/visibility.css">
 <style>
 
 :root{
@@ -50,11 +52,16 @@ table{width:100%;border-collapse:collapse;font-size:12px}
 th,td{padding:8px 8px;border-bottom:1px solid var(--line);text-align:left;vertical-align:top}
 th{color:var(--muted);font-size:10px;font-weight:700;background:#f8fafc}
 
+/* visibility.css(공유) 속성 누수 차단 — 페이지 고유 스타일 유지 */
+html,body{font-size:medium;line-height:normal}
+.kpi{padding:0;border:0;border-radius:0}
+/* 「NAS 전용」 표시 — 생산부 문서 링크는 사내 NAS(Z:)에서만 열림 (2026-09-28 webgate) */
+.nas-note{margin:8px 22px;padding:8px 12px;border:1px dashed #cbd5e1;border-radius:8px;background:#f8fafc;font-size:14px;color:#475569}
+a[href*="생산부/"]::after{content:"NAS";margin-left:4px;padding:0 4px;border:1px solid #cbd5e1;border-radius:4px;font-size:.85em;font-weight:700;color:#64748b;background:#fff;text-decoration:none;display:inline-block}
 </style>
-<script src="../../../_shared/fold-nav.js" defer></script>
-<link rel="stylesheet" href="../../../_shared/visibility.css">
 <script src="/maru-dashboard/js/auth-gate.js"></script>
 </head><body>
+<p class="nas-note">「NAS 전용」 — <b>NAS</b> 표시가 붙은 생산부 문서 링크는 사내 NAS(Z: 드라이브)에서만 열립니다. 웹 사이트에서는 열리지 않습니다(404).</p>
 <a class="back" href="../index.html">← 뒤로</a>
 <div class="top"><h1>일방향재단</h1>
 <p>기획티 · 원단 추가발주 이슈</p></div>

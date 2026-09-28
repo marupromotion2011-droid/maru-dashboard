@@ -4,6 +4,8 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>섬유 · 교육자료</title>
+<link rel="stylesheet" href="../../_shared/visibility.css">
+<script src="../../_shared/fold-nav.js" defer></script>
 <style>
 /* 교육자료 공통 2026-09-03. 모든 칸 동일 껍데기. */
 :root{
@@ -62,9 +64,12 @@ iframe{width:100%;aspect-ratio:16/9;border:0;border-radius:12px;background:#000}
 .why.show{display:block}
 footer{margin-top:48px;padding-top:16px;border-top:1px solid var(--line);color:var(--faint);font-size:12px}
 .src{font-size:12px;color:var(--faint)}
+/* 공통CSS 보정: 본문 링크 밑줄·상단 메뉴 겹침 */
+html{background:var(--paper)}
+.wrap a:not(.card){text-decoration:underline}
+.fold-nav{position:relative}
+.sec-nav{top:0}
 </style>
-<script src="../../../_shared/fold-nav.js" defer></script>
-<link rel="stylesheet" href="../../../_shared/visibility.css">
 <script src="/maru-dashboard/js/auth-gate.js"></script>
 </head>
 <body>

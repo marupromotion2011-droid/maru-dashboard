@@ -1,6 +1,8 @@
 <!DOCTYPE html><html lang="ko"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>공정 · MARU2011</title>
+<script src="../_shared/fold-nav.js" defer></script>
+<link rel="stylesheet" href="../_shared/visibility.css">
 <style>
 html,body{margin:0;background:#f4f0e8 !important;color:#14171c !important;font-family:"Malgun Gothic","Apple SD Gothic Neo","Noto Sans KR",sans-serif}
 .wrap{max-width:960px;margin:0 auto;padding:28px 20px 80px}
@@ -12,9 +14,12 @@ a.card:hover{border-color:#0e6e68}
 a.card b{display:block;font-size:16px;margin-bottom:4px}
 a.card span{color:#5c6570;font-size:13px}
 .k{color:#c45c26;font-size:12px;letter-spacing:.12em;font-weight:700}
+/* shared override 2026-09-28: 공통CSS 로드순서 후 공정 고유값 유지 */
+.fold-nav{position:static !important}
+.card{box-shadow:none}
+.card.start{box-shadow:inset 0 0 0 1px var(--heat)}
+.card.last{box-shadow:inset 0 0 0 1px var(--teal)}
 </style>
-<script src="../_shared/fold-nav.js" defer></script>
-<link rel="stylesheet" href="../_shared/visibility.css">
 <script src="/maru-dashboard/js/auth-gate.js"></script>
 </head><body>
 <div class="wrap">
