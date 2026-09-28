@@ -63,6 +63,9 @@ a{color:var(--accent);text-decoration:none} a:hover{text-decoration:underline}
 .badge.ai{opacity:.7}
 .pct{font-size:11px;color:var(--muted);font-weight:700}
 .err{color:var(--bad);padding:12px}
+/* 「NAS 전용」 표시 — 생산부 문서 링크는 사내 NAS(Z:)에서만 열림 (2026-09-28 webgate) */
+.nas-note{margin:8px 22px;padding:8px 12px;border:1px dashed #cbd5e1;border-radius:8px;background:#f8fafc;font-size:14px;color:#475569}
+a[href*="생산부/"]::after{content:"NAS";margin-left:4px;padding:0 4px;border:1px solid #cbd5e1;border-radius:4px;font-size:.85em;font-weight:700;color:#64748b;background:#fff;text-decoration:none;display:inline-block}
 </style>
 <script src="../../../_shared/fold-nav.js" defer></script>
 <link rel="stylesheet" href="../../../_shared/visibility.css">
@@ -4191,6 +4194,7 @@ a{color:var(--accent);text-decoration:none} a:hover{text-decoration:underline}
 </script>
 <script src="/maru-dashboard/js/auth-gate.js"></script>
 </head><body>
+<p class="nas-note">「NAS 전용」 — <b>NAS</b> 표시가 붙은 생산부 문서 링크는 사내 NAS(Z: 드라이브)에서만 열립니다. 웹 사이트에서는 열리지 않습니다(404).</p>
 <a class="back" href="../index.html">← 디즈니</a>
 <div class="top">
   <h1>디즈니 스타일별 진행</h1>
