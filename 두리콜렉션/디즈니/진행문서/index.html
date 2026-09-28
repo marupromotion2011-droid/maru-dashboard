@@ -66,7 +66,9 @@ a{color:var(--accent);text-decoration:none} a:hover{text-decoration:underline}
 .empty-sec{color:var(--faint);font-size:12px}
 /* 「NAS 전용」 표시 — 생산부 문서 링크는 사내 NAS(Z:)에서만 열림 (2026-09-28 webgate) */
 .nas-note{margin:8px 22px;padding:8px 12px;border:1px dashed #cbd5e1;border-radius:8px;background:#f8fafc;font-size:14px;color:#475569}
-a[href*="생산부/"]::after{content:"NAS";margin-left:4px;padding:0 4px;border:1px solid #cbd5e1;border-radius:4px;font-size:.85em;font-weight:700;color:#64748b;background:#fff;text-decoration:none;display:inline-block}
+a[href*="생산부/"]::after,.nas-off::after{content:"NAS";margin-left:4px;padding:0 4px;border:1px solid #cbd5e1;border-radius:4px;font-size:.85em;font-weight:700;color:#64748b;background:#fff;text-decoration:none;display:inline-block}
+.nas-off{cursor:not-allowed}
+.nas-thumb{display:flex;align-items:center;justify-content:center;width:100%;height:100%;min-height:60px;font-size:14px;font-weight:700;color:#64748b;background:#f1f5f9;text-align:center}
 </style>
 <link rel="stylesheet" href="../../../_shared/visibility.css">
 <script src="../../../_shared/fold-nav.js" defer></script>
@@ -625,6 +627,25 @@ a[href*="생산부/"]::after{content:"NAS";margin-left:4px;padding:0 4px;border:
   q.addEventListener('input', apply);
   fltSec.addEventListener('change', apply);
   fltFill.addEventListener('change', apply);
+})();
+</script>
+<script>
+/* NAS 전용 링크 — 웹(file: 아님)에서는 클릭 불가 span으로 교체, NAS 표시 유지 (사후정산 패턴). file:(Z/NAS)에서는 그대로. JS 렌더 후에도 적용(MutationObserver). 2026-09-28 webfix2 */
+(function(){
+  if(location.protocol==="file:")return;
+  var PUB={};
+  function swap(){
+    [].slice.call(document.querySelectorAll('a[href*="생산부/"]')).forEach(function(a){
+      var s=document.createElement("span");s.className=(a.className?a.className+" ":"")+"nas-off";
+      while(a.firstChild)s.appendChild(a.firstChild);s.title="NAS 전용 · Z 드라이브에서 열기";a.parentNode.replaceChild(s,a);});
+    [].slice.call(document.querySelectorAll('img[src*="생산부/"]')).forEach(function(im){
+      var k=im.getAttribute("alt")||"";
+      if(PUB[k]){im.setAttribute("src",PUB[k]);return;}
+      var s=document.createElement("span");s.className="nas-thumb";s.textContent="NAS 전용";s.title="NAS 전용 · Z 드라이브에서 보기";im.parentNode.replaceChild(s,im);});
+  }
+  swap();
+  if(document.readyState==="loading")document.addEventListener("DOMContentLoaded",swap);
+  if(window.MutationObserver)new MutationObserver(swap).observe(document.documentElement,{childList:true,subtree:true});
 })();
 </script>
 </body></html>
