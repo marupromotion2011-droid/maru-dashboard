@@ -2,10 +2,12 @@
 <html lang="ko"><head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>디즈니 스타일별 진행 · 두리콜렉션</title>
+<script src="../../../_shared/fold-nav.js" defer></script>
+<link rel="stylesheet" href="../../../_shared/visibility.css">
 <style>
 :root{
   --bg:#f0f4f8; --card:#ffffff; --line:#e2e8f0; --line2:#cbd5e1;
-  --text:#0f172a; --muted:#64748b; --faint:#94a3b8;
+  --text:#0f172a; --muted:#475569; --faint:#94a3b8;
   --navy:#1e3a5f; --navy2:#243b55; --accent:#2563eb; --ok:#059669; --warn:#d97706; --bad:#dc2626;
   --chip-on:#ecfdf5; --chip-on-b:#059669; --chip-off:#f1f5f9;
 }
@@ -14,7 +16,7 @@ html,body{margin:0;padding:0;background:var(--bg);color:var(--text)}
 body{font-family:"Malgun Gothic","맑은 고딕","Apple SD Gothic Neo","Noto Sans KR","Segoe UI",sans-serif;letter-spacing:-.01em;min-height:100vh}
 a{color:var(--accent);text-decoration:none} a:hover{text-decoration:underline}
 .fold-nav{display:flex;gap:8px;flex-wrap:wrap;align-items:center;padding:12px 22px;background:#fff;border-bottom:1px solid var(--line);box-shadow:0 1px 0 rgba(15,23,42,.04)}
-.fold-nav a{display:inline-flex;border:1px solid var(--line2);border-radius:999px;padding:5px 14px;font-size:12px;font-weight:700;color:var(--navy);background:#fff}
+.fold-nav a{display:inline-flex;border:1px solid var(--line2);border-radius:999px;padding:5px 14px;font-size:13px;font-weight:700;color:var(--navy);background:#fff}
 .fold-nav a:hover,.fold-nav a.on{border-color:var(--navy);background:#e8eef6;color:var(--navy);text-decoration:none}
 .back{display:inline-block;margin:14px 22px 0;font-size:12px;color:var(--accent);font-weight:700}
 .top{padding:18px 22px 16px;background:#fff;border-bottom:1px solid var(--line)}
@@ -54,7 +56,7 @@ a{color:var(--accent);text-decoration:none} a:hover{text-decoration:underline}
 .chip.on{border-color:#a7f3d0;color:var(--chip-on-b);background:var(--chip-on)}
 .chip.off{opacity:.55}
 .files{display:flex;flex-wrap:wrap;gap:4px;margin-top:4px}
-.badge{display:inline-flex;align-items:center;gap:3px;padding:2px 7px;border-radius:6px;font-size:10px;font-weight:800;border:1px solid var(--line2);color:var(--navy);background:#f8fafc}
+.badge{display:inline-flex;align-items:center;gap:3px;padding:2px 7px;border-radius:6px;font-size:11px;font-weight:800;border:1px solid var(--line2);color:var(--navy);background:#f8fafc}
 .badge:hover{background:#e8eef6;text-decoration:none}
 .badge.jpg,.badge.jpeg,.badge.png{border-color:#bfdbfe;color:#1d4ed8;background:#eff6ff}
 .badge.pdf{border-color:#fecaca;color:#b91c1c;background:#fef2f2}
@@ -63,15 +65,13 @@ a{color:var(--accent);text-decoration:none} a:hover{text-decoration:underline}
 .badge.ai{opacity:.7}
 .pct{font-size:11px;color:var(--muted);font-weight:700}
 .err{color:var(--bad);padding:12px}
-/* 「NAS 전용」 표시 — 생산부 문서 링크는 사내 NAS(Z:)에서만 열림 (2026-09-28 webgate) */
+/* 「NAS 전용」 표시 — 생산부 문서 링크는 사내 NAS(Z:)에서만 열림 (2026-09-28 webgate; webfix4: 말줄임에 가리지 않도록 파일명 앞 ::before) */
 .nas-note{margin:8px 22px;padding:8px 12px;border:1px dashed #cbd5e1;border-radius:8px;background:#f8fafc;font-size:14px;color:#475569}
-a[href*="생산부/"]::after,.nas-off::after{content:"NAS";margin-left:4px;padding:0 4px;border:1px solid #cbd5e1;border-radius:4px;font-size:14px;font-weight:700;color:#64748b;background:#fff;text-decoration:none;display:inline-block}
+a[href*="생산부/"]::before,.nas-off::before{content:"NAS";margin-right:4px;padding:0 4px;border:1px solid #cbd5e1;border-radius:4px;font-size:14px;font-weight:700;color:#64748b;background:#fff;text-decoration:none;display:inline-block}
 .nas-off{cursor:not-allowed}
 .nas-thumb{display:flex;align-items:center;justify-content:center;width:100%;height:100%;min-height:60px;font-size:14px;font-weight:700;color:#475569;background:#f1f5f9;text-align:center}
 .style-row span.style{font-size:15px;font-weight:800;color:var(--navy)}
 </style>
-<script src="../../../_shared/fold-nav.js" defer></script>
-<link rel="stylesheet" href="../../../_shared/visibility.css">
 <script type="application/json" id="maru-progress-embed">
 {
   "asOf": "2026-09-25",
