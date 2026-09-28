@@ -2,6 +2,8 @@
 <html lang="ko"><head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>두리콜렉션 · 스타일 생산현황 요약</title>
+<script src="../_shared/fold-nav.js" defer></script>
+<link rel="stylesheet" href="../_shared/visibility.css">
 <style>
 :root{
   --bg:#f0f4f8; --panel:#ffffff; --line:#e2e8f0; --line2:#cbd5e1;
@@ -66,12 +68,18 @@ a{color:var(--cyan);text-decoration:none} a:hover{text-decoration:underline;colo
 .badge.xlsx,.badge.xls{border-color:#bbf7d0;color:#047857;background:#ecfdf5}
 .badge.missing{opacity:.45;text-decoration:line-through;border-style:dashed}
 .foot{margin-top:28px;font-size:11px;color:var(--faint)}
+/* visibility.css(공유) 속성 누수 차단 — 허브 고유 스타일 유지 */
+html,body{font-size:medium;line-height:normal}
+.kpi{padding:0;border:0;border-radius:0}
+.card.cost span.en{font-size:14px}
+.card.cost p{font-size:14px}
+/* 「NAS 전용」 표시 — 생산부 문서 링크는 사내 NAS(Z:)에서만 열림 (2026-09-28 webgate) */
+.nas-note{margin:8px 22px;padding:8px 12px;border:1px dashed #cbd5e1;border-radius:8px;background:#f8fafc;font-size:14px;color:#475569}
+a[href*="생산부/"]::after{content:"NAS";margin-left:4px;padding:0 4px;border:1px solid #cbd5e1;border-radius:4px;font-size:.85em;font-weight:700;color:#64748b;background:#fff;text-decoration:none;display:inline-block}
 </style>
-<script src="../../_shared/fold-nav.js" defer></script>
-<link rel="stylesheet" href="../../_shared/visibility.css">
 <script src="/maru-dashboard/js/auth-gate.js"></script>
 </head><body>
-<div style="margin:12px 20px;padding:12px 16px;background:#1c3558;border-radius:8px"><a href="27SS/원가/index.html" style="color:#f4f0e8;font-weight:600;text-decoration:none">27SS 기획티셔츠 원가 · 나염비교 (기은 기준)</a></div>
+<p class="nas-note">「NAS 전용」 — <b>NAS</b> 표시가 붙은 생산부 문서 링크는 사내 NAS(Z: 드라이브)에서만 열립니다. 웹 사이트에서는 열리지 않습니다(404).</p>
 <div class="top"><h1>두리콜렉션</h1>
 <p>디즈니 · 스팍스 · 워너 오더 · 스타일별 생산현황 일괄 요약 (asOf 2026-09-21)</p></div>
 
@@ -94,6 +102,10 @@ a{color:var(--cyan);text-decoration:none} a:hover{text-decoration:underline;colo
     <a class="card" href="워너/index.html"><b>워너</b><span class="en">WARNER</span><p>소스 동일 · 시즌/오더 자리</p></a>
     <a class="card prog" href="디즈니/진행/index.html"><b>진행 보드</b><span class="en">PROGRESS</span><p>스타일 카드 · 필터 · 썸네일</p></a>
     <a class="card prog" href="디즈니/진행문서/index.html"><b>진행문서 7슬롯</b><span class="en">DOCS</span><p>작지·원단·BT·생산량·부자재·QC·패킹 고정칸</p></a>
+  </div>
+
+  <div class="cards" style="grid-template-columns:1fr">
+    <a class="card prog cost" href="27SS/원가/index.html"><b>27SS 기획티셔츠 원가 · 나염비교 (기은 기준)</b><span class="en">27SS COST</span><p>스타일별 원가 · 발주·예상수익 · 기은/금산 나염 단가비교</p></a>
   </div>
 
   <h2 style="font-size:14px;margin:8px 0 4px;color:var(--navy);font-weight:800">스타일별 생산현황 요약</h2>

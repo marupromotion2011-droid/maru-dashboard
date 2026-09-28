@@ -2,6 +2,8 @@
 <html lang="ko"><head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>워너</title>
+<script src="../../_shared/fold-nav.js" defer></script>
+<link rel="stylesheet" href="../../_shared/visibility.css">
 <style>
 
 :root{
@@ -50,9 +52,9 @@ table{width:100%;border-collapse:collapse;font-size:12px}
 th,td{padding:8px 8px;border-bottom:1px solid var(--line);text-align:left;vertical-align:top}
 th{color:var(--muted);font-size:10px;font-weight:700;background:#f8fafc}
 
+/* visibility.css(공유) 속성 누수 차단 — 페이지 고유 스타일 유지 */
+html,body{font-size:medium;line-height:normal}
 </style>
-<script src="../../../_shared/fold-nav.js" defer></script>
-<link rel="stylesheet" href="../../../_shared/visibility.css">
 <script src="/maru-dashboard/js/auth-gate.js"></script>
 </head><body>
 <a class="back" href="../index.html">← 뒤로</a>

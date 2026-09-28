@@ -1,7 +1,7 @@
 {
   "kind": "stage-sync-from-status",
-  "runAt": "2026-09-24T23:43:11.779Z",
-  "asOf": "2026-09-25",
+  "runAt": "2026-09-28T00:15:43.972Z",
+  "asOf": "2026-09-28",
   "xlsx": "생산현황표 9월.xlsx",
   "weekly": "9월 5주차 주간회의.xlsx",
   "sheetRows": 92,
@@ -15,15 +15,16 @@
   },
   "ddayCounts": {
     "완료": 27,
-    "정상": 50,
-    "미정": 15
+    "정상": 49,
+    "미정": 15,
+    "임박": 1
   },
   "dueFromWeeklyN": 13,
   "dueFallbackN": 64,
   "shipN": 27,
   "emb": 1,
-  "bp1": 0,
-  "bp2": 0,
+  "bp1": 51,
+  "bp2": 51,
   "sample": [
     {
       "no": "RH-1",
@@ -42,7 +43,7 @@
       "deliveryDue": "2026-10-08",
       "dueSource": "weekly",
       "ddayStatus": "정상",
-      "dday": 13,
+      "dday": 10,
       "ship": ""
     },
     {
@@ -52,7 +53,7 @@
       "deliveryDue": "2026-10-09",
       "dueSource": "fallback",
       "ddayStatus": "정상",
-      "dday": 14,
+      "dday": 11,
       "ship": ""
     },
     {
@@ -62,7 +63,7 @@
       "deliveryDue": "2026-10-09",
       "dueSource": "fallback",
       "ddayStatus": "정상",
-      "dday": 14,
+      "dday": 11,
       "ship": ""
     },
     {
@@ -72,7 +73,7 @@
       "deliveryDue": "2026-10-09",
       "dueSource": "fallback",
       "ddayStatus": "정상",
-      "dday": 14,
+      "dday": 11,
       "ship": ""
     }
   ]

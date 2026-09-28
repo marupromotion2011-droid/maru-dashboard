@@ -3,7 +3,7 @@
 
 경로: Z:\HDD1\MARU\dashboard\sales\
 소스: Z:\HDD1\MARU\관리부 (1월–8월 작지 파일명)
-asOf: 2026-09-14
+asOf: 2026-09-28
 
 집계 내용:
 - 관리부 월별 폴더의 PDF/XLSX 파일 건수 (작업지시서 파일명 기준)
