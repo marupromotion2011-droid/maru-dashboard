@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-30",
   "href_root": "../../생산부/2. 디즈니/27SS/",
   "stages": [
     "원단발주",
@@ -21,15 +21,15 @@
   ],
   "complete_rule": "패킹리스트 존재 + 완제품 디즈니 물류 입고 시에만 완료",
   "kpi": {
-    "styles": 48,
-    "avg_pct": 8,
+    "styles": 49,
+    "avg_pct": 9,
     "complete": 0,
     "oneway": 2,
     "counts": {
       "완사입기획": 12,
       "완사입정상": 9,
-      "원단": 23,
-      "BT미정": 4
+      "원단": 24,
+      "BT미정": 21
     }
   },
   "rows": [
@@ -149,15 +149,15 @@
       "flags": {
         "fabric_po": true,
         "trim_po": true,
-        "qc": false,
+        "qc": true,
         "sew": false,
         "finish": false,
         "pack": false,
         "logistics": false
       },
-      "done": 2,
+      "done": 3,
       "total": 7,
-      "pct": 29,
+      "pct": 43,
       "complete": false,
       "oneway": false,
       "pending_note": "",
@@ -313,15 +313,15 @@
       "flags": {
         "fabric_po": true,
         "trim_po": true,
-        "qc": false,
+        "qc": true,
         "sew": false,
         "finish": false,
         "pack": false,
         "logistics": false
       },
-      "done": 2,
+      "done": 3,
       "total": 7,
-      "pct": 29,
+      "pct": 43,
       "complete": false,
       "oneway": false,
       "pending_note": "",
@@ -388,7 +388,9 @@
       "art": "CS-04C RMB 6.73",
       "due": "26.12.23",
       "fabric_order": "2026-09-15",
-      "bt_cfm": [],
+      "bt_cfm": [
+        "2026-09-29"
+      ],
       "bt_links": [],
       "wip_links": [],
       "fabric_po_links": [
@@ -3968,6 +3970,62 @@
           "exists": true
         }
       ],
+      "color_str": ""
+    },
+    {
+      "style": "SR1MJB080",
+      "name": "",
+      "brand": "스팍스",
+      "source": "폴더스캔",
+      "category": "완사입",
+      "category_sub": "기획",
+      "qty": 0,
+      "vendor": "",
+      "art": "",
+      "due": "",
+      "flags": {
+        "fabric_po": false,
+        "trim_po": false,
+        "qc": false,
+        "sew": false,
+        "finish": false,
+        "pack": false,
+        "logistics": false
+      },
+      "done": 0,
+      "total": 7,
+      "pct": 0,
+      "complete": false,
+      "oneway": false,
+      "thumb": null,
+      "color_str": "L/GREY · D/GREEN · BLACK"
+    },
+    {
+      "style": "DQ3-LAC-005",
+      "name": "",
+      "brand": "디즈니",
+      "source": "폴더스캔",
+      "category": "원단",
+      "category_sub": "",
+      "qty": 0,
+      "vendor": "",
+      "art": "NX-1402+DTP",
+      "due": "",
+      "flags": {
+        "fabric_po": true,
+        "trim_po": false,
+        "qc": false,
+        "sew": false,
+        "finish": false,
+        "pack": false,
+        "logistics": false
+      },
+      "done": 1,
+      "total": 7,
+      "pct": 14,
+      "complete": false,
+      "oneway": false,
+      "thumb": null,
       "color_str": ""
     }
   ]

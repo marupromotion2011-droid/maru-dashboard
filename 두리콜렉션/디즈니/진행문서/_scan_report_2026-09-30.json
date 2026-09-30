@@ -1,0 +1,47 @@
+{
+  "asOf": "2026-09-30",
+  "ran_at": "2026-09-30T08:08:23.376368+09:00",
+  "cutoff_used": "2026-09-28 08:06:46 Asia/Seoul",
+  "scan_count": 14,
+  "changes": [
+    "SR1MTR081 bt += BK, WH BT컨펌.jpg",
+    "DR2LTS090 qc += DR2LTS090, MTS090 검사리포트.xlsx",
+    "DR2MTS090 qc += DR2LTS090, MTS090 검사리포트.xlsx",
+    "DR1LTR080 fabric_po/DR2LTR080 원단발주서.xlsx mtime→2026-09-28",
+    "DR2LTR080 fabric_po/DR2LTR080 원단발주서.xlsx mtime→2026-09-28",
+    "DR1-LJP-003 bt/DR1-LJP-003(MYN-2070)BT.xls mtime→2026-09-28",
+    "DQ3-LAC-005 added (원단 fabric_po only)"
+  ],
+  "silent_skip": [
+    "해외생산·원가·견적·MAINLIST·이화학·TIANHAO납기단가 → 원가보드/비슬롯 skip"
+  ],
+  "merge": [
+    {
+      "style": "SR1MTR081",
+      "ok": true,
+      "used": [
+        "wip:SM1MTR081 메인작업지시서.pdf",
+        "fabric_po:SR1MTR081 완사입 발주서.pdf",
+        "fabric_po:SR1MTR081 원단 발주서.pdf",
+        "fabric_po:SR1MTS081 TP-01 발주서 2609014.pdf",
+        "fabric_po:SR1MTS081 고주파와펜 발주서 260914.png",
+        "bt:SR1MTR081 BK, WH BT컨펌.jpg"
+      ],
+      "pages": 6,
+      "path": "/workspace/duri_daily_scan/0930/out/merged/SR1MTR081.pdf"
+    }
+  ],
+  "thumb_skip": "all: no 작지/colorway diagram mtime >= cutoff",
+  "written": [
+    "디즈니/진행문서/progress.json",
+    "디즈니/진행문서/slots.json",
+    "디즈니/진행문서/진행-progress.json",
+    "디즈니/진행문서/index.html",
+    "디즈니/진행/index.html",
+    "디즈니/진행문서/merged/SR1MTR081.pdf",
+    "디즈니/진행문서/_scan_stamp.json",
+    "summary.json",
+    "index.html"
+  ],
+  "gate": "Z:\\HDD1\\MARU\\dashboard\\두리콜렉션\\ — 2026-09-30 일일폴더반영(SR1MTR081 BT·LTS/MTS090 QC·DQ3-LAC-005·merged SR1MTR081) 게이트"
+}

@@ -1,1 +1,22 @@
-﻿{"asOf":"2026-09-25","ranAt":"2026-09-25T08:13:48.0514481+09:00","silent_skip":["나염단가→원가보드기반영"],"changes":["SR1MJB080","DR1LJB080+CS3030.xls","merged×2"]}
+{
+  "asOf": "2026-09-30",
+  "ranAt": "2026-09-30T08:08:23.376238+09:00",
+  "cutoff_used": "2026-09-28 08:06:46 Asia/Seoul",
+  "silent_skip": [
+    "해외생산·원가·견적·MAINLIST·이화학·TIANHAO납기단가 → 원가보드/비슬롯 skip"
+  ],
+  "changes": [
+    "SR1MTR081 bt += BK, WH BT컨펌.jpg",
+    "DR2LTS090 qc += DR2LTS090, MTS090 검사리포트.xlsx",
+    "DR2MTS090 qc += DR2LTS090, MTS090 검사리포트.xlsx",
+    "DR1LTR080 fabric_po/DR2LTR080 원단발주서.xlsx mtime→2026-09-28",
+    "DR2LTR080 fabric_po/DR2LTR080 원단발주서.xlsx mtime→2026-09-28",
+    "DR1-LJP-003 bt/DR1-LJP-003(MYN-2070)BT.xls mtime→2026-09-28",
+    "DQ3-LAC-005 added (원단 fabric_po only)"
+  ],
+  "thumbs": "none (no 작지 color diagram change)",
+  "merge": [
+    "SR1MTR081"
+  ],
+  "integrate_pdf": "skipped: only SR1MTR081 new merge this run; full 27SS_진행문서_통합 deferred"
+}
