@@ -10,7 +10,7 @@
     "note": "현작업분 따로 · 나머지 납기 월별 · 첨부는 칩만",
     "shipN": 27,
     "rebuiltFrom": "data.json",
-    "rebuiltAt": "2026-10-01T00:18:21.697Z"
+    "rebuiltAt": "2026-10-01T00:54:07.000Z"
   },
   "sections": [
     {
@@ -79,7 +79,7 @@
               "stageLabel": "완성",
               "deliveryDue": "2026-10-08",
               "dueSource": "weekly",
-              "ddayStatus": "임박",
+              "ddayStatus": "정상",
               "dday": 7,
               "ship": "",
               "stageDate": "2026-09-02"

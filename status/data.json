@@ -4,8 +4,8 @@
     "qty": 22713,
     "overdueN": 1,
     "overdueQ": 212,
-    "soonN": 1,
-    "soonQ": 525,
+    "soonN": 0,
+    "soonQ": 0,
     "fabMissN": 31,
     "fabMissQ": 6376,
     "fabTodayN": 0,
@@ -51,8 +51,8 @@
         "qty": 12326,
         "overdueN": 0,
         "overdueQ": 0,
-        "soonN": 1,
-        "soonQ": 525,
+        "soonN": 0,
+        "soonQ": 0,
         "fabMissN": 28,
         "fabMissQ": 3336,
         "fabTodayN": 0,
@@ -265,14 +265,13 @@
     },
     "ddayCounts": {
       "완료": 27,
-      "임박": 1,
-      "정상": 48,
+      "정상": 49,
       "미정": 15,
       "지연": 1
     },
-    "stageSyncAt": "2026-10-01T00:18:10.477Z",
+    "stageSyncAt": "2026-10-01T00:53:57.555Z",
     "weeklyLabel": "5주차",
-    "shipGuardAt": "2026-10-01T00:18:17.634Z",
+    "shipGuardAt": "2026-10-01T00:54:04.133Z",
     "preserveMerge": {
       "prevKept": 26,
       "dueKept": 11,
@@ -417,7 +416,7 @@
       "stageDate": "2026-09-02",
       "deliveryDue": "2026-10-08",
       "dueSource": "weekly",
-      "ddayStatus": "임박",
+      "ddayStatus": "정상",
       "dday": 7,
       "cutQtyIssue": "",
       "jikjiUrl": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%203차.pdf",
@@ -8560,7 +8559,7 @@
     {
       "id": "risk",
       "name": "납기리스크",
-      "sub": "경과 1 · 임박 1"
+      "sub": "경과 1 · 임박 0"
     },
     {
       "id": "생산3팀",
