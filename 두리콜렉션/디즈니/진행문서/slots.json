@@ -1,7 +1,7 @@
 {
   "meta": {
-    "asOf": "2026-09-30",
-    "n_styles": 49,
+    "asOf": "2026-10-02",
+    "n_styles": 58,
     "slots": [
       {
         "key": "wip",
@@ -39,12 +39,12 @@
         "n": 7
       }
     ],
-    "fill_styles": 39,
-    "fill_files": 111,
+    "fill_styles": 49,
+    "fill_files": 122,
     "counts": {
       "wip": 11,
       "fabric_po": 23,
-      "bt": 26,
+      "bt": 36,
       "fabric_qty": 0,
       "trim_po": 2,
       "qc": 2,
@@ -56,7 +56,7 @@
     "tsv_scanned": 314,
     "tsv_qty_hits": 0,
     "tsv_qc_hits": 0,
-    "fix_note": "2026-09-24: drop ghost DR2LTR091(090 shell); merge 090 PO into 091; sync SR1MTR081/MTS081 thumb+SM1 WIP | 2026-09-25 fixes: 진행문서 HTML DR2LTR091 alias PO href restored to 디즈니 발주서/DR2LTR090.jpg (LTR→LTS only for DR2-LTS-090 헤리테잎변경 작지 filename); _shared path → ../../../_shared/ (진행문서·진행); 합본 PDF links merged/SR1MJB080.pdf · merged/DR1LJB080.pdf; 진행 stale 9/21 progress-data block removed | 2026-09-30 daily: SR1MTR081 bt+=BK/WH BT컨펌; DR2LTS090/DR2MTS090 qc+=검사리포트; DQ3-LAC-005 원단발주 추가; LTR080/LJP003 mtime sync; 원가·견적·MAINLIST silent skip"
+    "fix_note": "2026-09-24: drop ghost DR2LTR091(090 shell); merge 090 PO into 091; sync SR1MTR081/MTS081 thumb+SM1 WIP | 2026-09-25 fixes: 진행문서 HTML DR2LTR091 alias PO href restored to 디즈니 발주서/DR2LTR090.jpg (LTR→LTS only for DR2-LTS-090 헤리테잎변경 작지 filename); _shared path → ../../../_shared/ (진행문서·진행); 합본 PDF links merged/SR1MJB080.pdf · merged/DR1LJB080.pdf; 진행 stale 9/21 progress-data block removed | 2026-09-30 daily: SR1MTR081 bt+=BK/WH BT컨펌; DR2LTS090/DR2MTS090 qc+=검사리포트; DQ3-LAC-005 원단발주 추가; LTR080/LJP003 mtime sync; 원가·견적·MAINLIST silent skip | 2026-10-02 daily: 원단 BT 다건(DR2-LSH/MSH/LTV/LTR/LTL/MTS 등) + SR2-LPA-047 bt + LAC005/MPA015/LTS003 mtime; 견적·parent PPS silent skip; thumbs/merge skip(xls)"
   },
   "rows": [
     {
@@ -1231,7 +1231,7 @@
           {
             "name": "NX-1402+DTP(DQ3-LAC-005)발주서.xlsx",
             "href": "../../../../생산부/2. 디즈니/27SS/원단/27SS/NX-1402+DTP(DQ3-LAC-005)발주서.xlsx",
-            "mtime": "2026-09-29",
+            "mtime": "2026-10-01",
             "rel": "원단/27SS/NX-1402+DTP(DQ3-LAC-005)발주서.xlsx",
             "missing": false
           }
@@ -1762,7 +1762,7 @@
       "qty": 0,
       "vendor": "",
       "due": "",
-      "art": "",
+      "art": "NX-1353",
       "color_str": "",
       "oneway": false,
       "pending_note": "",
@@ -1774,7 +1774,7 @@
           {
             "name": "NX-1353(DR1-LTS-003)BT.xls",
             "href": "../../../../생산부/2. 디즈니/27SS/원단/27SS/NX-1353 + DTP(DR1-LTS-003)/NX-1353(DR1-LTS-003)BT.xls",
-            "mtime": "2026-09-17",
+            "mtime": "2026-10-01",
             "rel": "원단/27SS/NX-1353 + DTP(DR1-LTS-003)/NX-1353(DR1-LTS-003)BT.xls",
             "missing": false
           }
@@ -1886,6 +1886,310 @@
       "filled": 1
     },
     {
+      "style": "DR2-LSH-032",
+      "brand": "디즈니",
+      "section": "원단",
+      "category": "원단",
+      "category_sub": "",
+      "qty": 0,
+      "vendor": "",
+      "due": "",
+      "art": "PPS-M3383",
+      "color_str": "",
+      "oneway": false,
+      "pending_note": "",
+      "thumb": null,
+      "slots": {
+        "wip": [],
+        "fabric_po": [],
+        "bt": [
+          {
+            "name": "PPS-M3383(DR2-LSH-032, MSH-034)BT.xls",
+            "href": "../../../../생산부/2. 디즈니/27SS/원단/27SS/PPS-M3383(DR2-LSH-032, MSH-034)/PPS-M3383(DR2-LSH-032, MSH-034)BT.xls",
+            "mtime": "2026-10-01",
+            "rel": "원단/27SS/PPS-M3383(DR2-LSH-032, MSH-034)/PPS-M3383(DR2-LSH-032, MSH-034)BT.xls",
+            "missing": false
+          }
+        ],
+        "fabric_qty": [],
+        "trim_po": [],
+        "qc": [],
+        "pack": []
+      },
+      "filled": 1
+    },
+    {
+      "style": "DR2-LSH-034",
+      "brand": "디즈니",
+      "section": "원단",
+      "category": "원단",
+      "category_sub": "",
+      "qty": 0,
+      "vendor": "",
+      "due": "",
+      "art": "NSR-T2441",
+      "color_str": "",
+      "oneway": false,
+      "pending_note": "",
+      "thumb": null,
+      "slots": {
+        "wip": [],
+        "fabric_po": [],
+        "bt": [
+          {
+            "name": "NSR-T2441(DR2-LSH-034)BT.xls",
+            "href": "../../../../생산부/2. 디즈니/27SS/원단/27SS/NSR-T2441(DR2-LSH-034)/NSR-T2441(DR2-LSH-034)BT.xls",
+            "mtime": "2026-10-01",
+            "rel": "원단/27SS/NSR-T2441(DR2-LSH-034)/NSR-T2441(DR2-LSH-034)BT.xls",
+            "missing": false
+          }
+        ],
+        "fabric_qty": [],
+        "trim_po": [],
+        "qc": [],
+        "pack": []
+      },
+      "filled": 1
+    },
+    {
+      "style": "DR2-LTL-043",
+      "brand": "디즈니",
+      "section": "원단",
+      "category": "원단",
+      "category_sub": "",
+      "qty": 0,
+      "vendor": "",
+      "due": "",
+      "art": "HS-296N",
+      "color_str": "",
+      "oneway": false,
+      "pending_note": "",
+      "thumb": null,
+      "slots": {
+        "wip": [],
+        "fabric_po": [],
+        "bt": [
+          {
+            "name": "HS-296N(DR2-LTL-043)BT.xls",
+            "href": "../../../../생산부/2. 디즈니/27SS/원단/27SS/HS-296N(DR2-LTL-043)/HS-296N(DR2-LTL-043)BT.xls",
+            "mtime": "2026-10-01",
+            "rel": "원단/27SS/HS-296N(DR2-LTL-043)/HS-296N(DR2-LTL-043)BT.xls",
+            "missing": false
+          }
+        ],
+        "fabric_qty": [],
+        "trim_po": [],
+        "qc": [],
+        "pack": []
+      },
+      "filled": 1
+    },
+    {
+      "style": "DR2-LTR-040",
+      "brand": "디즈니",
+      "section": "원단",
+      "category": "원단",
+      "category_sub": "",
+      "qty": 0,
+      "vendor": "",
+      "due": "",
+      "art": "JDK-S0501",
+      "color_str": "",
+      "oneway": false,
+      "pending_note": "",
+      "thumb": null,
+      "slots": {
+        "wip": [],
+        "fabric_po": [],
+        "bt": [
+          {
+            "name": "JDK-S0501(DR2-LTR-040, DR2-MTS-043).xls",
+            "href": "../../../../생산부/2. 디즈니/27SS/원단/27SS/JDK-S0501(DR2-LTR-040, DR2-MTS-043)/JDK-S0501(DR2-LTR-040, DR2-MTS-043).xls",
+            "mtime": "2026-10-01",
+            "rel": "원단/27SS/JDK-S0501(DR2-LTR-040, DR2-MTS-043)/JDK-S0501(DR2-LTR-040, DR2-MTS-043).xls",
+            "missing": false
+          }
+        ],
+        "fabric_qty": [],
+        "trim_po": [],
+        "qc": [],
+        "pack": []
+      },
+      "filled": 1
+    },
+    {
+      "style": "DR2-LTV-038",
+      "brand": "디즈니",
+      "section": "원단",
+      "category": "원단",
+      "category_sub": "",
+      "qty": 0,
+      "vendor": "",
+      "due": "",
+      "art": "PN-1440",
+      "color_str": "",
+      "oneway": false,
+      "pending_note": "",
+      "thumb": null,
+      "slots": {
+        "wip": [],
+        "fabric_po": [],
+        "bt": [
+          {
+            "name": "PN-1440(DR2-LTV-038)BT.xls",
+            "href": "../../../../생산부/2. 디즈니/27SS/원단/27SS/PN-1440(DR2-LTV-038)/PN-1440(DR2-LTV-038)BT.xls",
+            "mtime": "2026-10-01",
+            "rel": "원단/27SS/PN-1440(DR2-LTV-038)/PN-1440(DR2-LTV-038)BT.xls",
+            "missing": false
+          }
+        ],
+        "fabric_qty": [],
+        "trim_po": [],
+        "qc": [],
+        "pack": []
+      },
+      "filled": 1
+    },
+    {
+      "style": "DR2-MSH-034",
+      "brand": "디즈니",
+      "section": "원단",
+      "category": "원단",
+      "category_sub": "",
+      "qty": 0,
+      "vendor": "",
+      "due": "",
+      "art": "PPS-M3383",
+      "color_str": "",
+      "oneway": false,
+      "pending_note": "",
+      "thumb": null,
+      "slots": {
+        "wip": [],
+        "fabric_po": [],
+        "bt": [
+          {
+            "name": "PPS-M3383(DR2-LSH-032, MSH-034)BT.xls",
+            "href": "../../../../생산부/2. 디즈니/27SS/원단/27SS/PPS-M3383(DR2-LSH-032, MSH-034)/PPS-M3383(DR2-LSH-032, MSH-034)BT.xls",
+            "mtime": "2026-10-01",
+            "rel": "원단/27SS/PPS-M3383(DR2-LSH-032, MSH-034)/PPS-M3383(DR2-LSH-032, MSH-034)BT.xls",
+            "missing": false
+          }
+        ],
+        "fabric_qty": [],
+        "trim_po": [],
+        "qc": [],
+        "pack": []
+      },
+      "filled": 1
+    },
+    {
+      "style": "DR2-MTS-031",
+      "brand": "디즈니",
+      "section": "원단",
+      "category": "원단",
+      "category_sub": "",
+      "qty": 0,
+      "vendor": "",
+      "due": "",
+      "art": "NX-0886P",
+      "color_str": "",
+      "oneway": false,
+      "pending_note": "",
+      "thumb": null,
+      "slots": {
+        "wip": [],
+        "fabric_po": [],
+        "bt": [
+          {
+            "name": "NX-0886P(DR2-MTS-031)BT.xls",
+            "href": "../../../../생산부/2. 디즈니/27SS/원단/27SS/NX-0886P(DR2-MTS-031)/NX-0886P(DR2-MTS-031)BT.xls",
+            "mtime": "2026-10-01",
+            "rel": "원단/27SS/NX-0886P(DR2-MTS-031)/NX-0886P(DR2-MTS-031)BT.xls",
+            "missing": false
+          }
+        ],
+        "fabric_qty": [],
+        "trim_po": [],
+        "qc": [],
+        "pack": []
+      },
+      "filled": 1
+    },
+    {
+      "style": "DR2-MTS-032",
+      "brand": "디즈니",
+      "section": "원단",
+      "category": "원단",
+      "category_sub": "",
+      "qty": 0,
+      "vendor": "",
+      "due": "",
+      "art": "LS-N364",
+      "color_str": "",
+      "oneway": false,
+      "pending_note": "",
+      "thumb": null,
+      "slots": {
+        "wip": [],
+        "fabric_po": [],
+        "bt": [
+          {
+            "name": "LS-N364(DR2-MTS-032)BT.xls",
+            "href": "../../../../생산부/2. 디즈니/27SS/원단/27SS/LS-N364(DR2-MTS-032)/LS-N364(DR2-MTS-032)BT.xls",
+            "mtime": "2026-10-01",
+            "rel": "원단/27SS/LS-N364(DR2-MTS-032)/LS-N364(DR2-MTS-032)BT.xls",
+            "missing": false
+          },
+          {
+            "name": "NX-1553(DR2-MTS-032)BT.xls",
+            "href": "../../../../생산부/2. 디즈니/27SS/원단/27SS/NX-1553(DR2-MTS-032)/NX-1553(DR2-MTS-032)BT.xls",
+            "mtime": "2026-10-01",
+            "rel": "원단/27SS/NX-1553(DR2-MTS-032)/NX-1553(DR2-MTS-032)BT.xls",
+            "missing": false
+          }
+        ],
+        "fabric_qty": [],
+        "trim_po": [],
+        "qc": [],
+        "pack": []
+      },
+      "filled": 1
+    },
+    {
+      "style": "DR2-MTS-043",
+      "brand": "디즈니",
+      "section": "원단",
+      "category": "원단",
+      "category_sub": "",
+      "qty": 0,
+      "vendor": "",
+      "due": "",
+      "art": "JDK-S0501",
+      "color_str": "",
+      "oneway": false,
+      "pending_note": "",
+      "thumb": null,
+      "slots": {
+        "wip": [],
+        "fabric_po": [],
+        "bt": [
+          {
+            "name": "JDK-S0501(DR2-LTR-040, DR2-MTS-043).xls",
+            "href": "../../../../생산부/2. 디즈니/27SS/원단/27SS/JDK-S0501(DR2-LTR-040, DR2-MTS-043)/JDK-S0501(DR2-LTR-040, DR2-MTS-043).xls",
+            "mtime": "2026-10-01",
+            "rel": "원단/27SS/JDK-S0501(DR2-LTR-040, DR2-MTS-043)/JDK-S0501(DR2-LTR-040, DR2-MTS-043).xls",
+            "missing": false
+          }
+        ],
+        "fabric_qty": [],
+        "trim_po": [],
+        "qc": [],
+        "pack": []
+      },
+      "filled": 1
+    },
+    {
       "style": "SR1-LTR-017",
       "brand": "스팍스",
       "section": "원단",
@@ -1952,7 +2256,7 @@
       "qty": 0,
       "vendor": "",
       "due": "",
-      "art": "",
+      "art": "MYN-1335-2",
       "color_str": "",
       "oneway": false,
       "pending_note": "",
@@ -1964,7 +2268,7 @@
           {
             "name": "MYN-1335-2(SR1-MPA-0015)BT.xls",
             "href": "../../../../생산부/2. 디즈니/27SS/원단/27SS/MYN-1335-2(SR1-MPA-015)/MYN-1335-2(SR1-MPA-0015)BT.xls",
-            "mtime": "2026-09-19",
+            "mtime": "2026-10-01",
             "rel": "원단/27SS/MYN-1335-2(SR1-MPA-015)/MYN-1335-2(SR1-MPA-0015)BT.xls",
             "missing": false
           }
@@ -1985,7 +2289,7 @@
       "qty": 0,
       "vendor": "",
       "due": "",
-      "art": "",
+      "art": "MYP-2846",
       "color_str": "",
       "oneway": false,
       "pending_note": "",
@@ -1993,13 +2297,21 @@
       "slots": {
         "wip": [],
         "fabric_po": [],
-        "bt": [],
+        "bt": [
+          {
+            "name": "MYP-2846(SR2-LPA-047).xls",
+            "href": "../../../../생산부/2. 디즈니/27SS/원단/27SS/MYP-2846(SR2-LPA-047)/MYP-2846(SR2-LPA-047).xls",
+            "mtime": "2026-10-01",
+            "rel": "원단/27SS/MYP-2846(SR2-LPA-047)/MYP-2846(SR2-LPA-047).xls",
+            "missing": false
+          }
+        ],
         "fabric_qty": [],
         "trim_po": [],
         "qc": [],
         "pack": []
       },
-      "filled": 0
+      "filled": 1
     },
     {
       "style": "SR2-MTR-049",
