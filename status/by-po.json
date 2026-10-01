@@ -1,6 +1,6 @@
 {
   "meta": {
-    "asOf": "2026-09-28",
+    "asOf": "2026-10-01",
     "nOrders": 92,
     "nCurrent": 78,
     "nRest": 14,
@@ -10,7 +10,7 @@
     "note": "현작업분 따로 · 나머지 납기 월별 · 첨부는 칩만",
     "shipN": 27,
     "rebuiltFrom": "data.json",
-    "rebuiltAt": "2026-09-28T00:36:04.953Z"
+    "rebuiltAt": "2026-10-01T00:03:56.879Z"
   },
   "sections": [
     {
@@ -80,7 +80,7 @@
               "deliveryDue": "2026-10-08",
               "dueSource": "weekly",
               "ddayStatus": "정상",
-              "dday": 10,
+              "dday": 7,
               "ship": "",
               "stageDate": "2026-09-02"
             }
@@ -114,7 +114,7 @@
               "deliveryDue": "2026-10-09",
               "dueSource": "fallback",
               "ddayStatus": "정상",
-              "dday": 11,
+              "dday": 8,
               "ship": "",
               "stageDate": "2026-09-01"
             }
@@ -148,7 +148,7 @@
               "deliveryDue": "2026-10-09",
               "dueSource": "fallback",
               "ddayStatus": "정상",
-              "dday": 11,
+              "dday": 8,
               "ship": "",
               "stageDate": "2026-08-24"
             }
@@ -182,7 +182,7 @@
               "deliveryDue": "2026-10-09",
               "dueSource": "fallback",
               "ddayStatus": "정상",
-              "dday": 11,
+              "dday": 8,
               "ship": "",
               "stageDate": "2026-08-24"
             }
@@ -250,7 +250,7 @@
               "deliveryDue": "2026-10-09",
               "dueSource": "fallback",
               "ddayStatus": "정상",
-              "dday": 11,
+              "dday": 8,
               "ship": "",
               "stageDate": "2026-08-25"
             }
@@ -284,7 +284,7 @@
               "deliveryDue": "2026-10-09",
               "dueSource": "fallback",
               "ddayStatus": "정상",
-              "dday": 11,
+              "dday": 8,
               "ship": "",
               "stageDate": "2026-08-26"
             }
@@ -318,7 +318,7 @@
               "deliveryDue": "2026-10-09",
               "dueSource": "fallback",
               "ddayStatus": "정상",
-              "dday": 11,
+              "dday": 8,
               "ship": "",
               "stageDate": "2026-08-26"
             }
@@ -352,7 +352,7 @@
               "deliveryDue": "2026-10-09",
               "dueSource": "fallback",
               "ddayStatus": "정상",
-              "dday": 11,
+              "dday": 8,
               "ship": "",
               "stageDate": "2026-08-26"
             }
@@ -386,7 +386,7 @@
               "deliveryDue": "2026-10-09",
               "dueSource": "fallback",
               "ddayStatus": "정상",
-              "dday": 11,
+              "dday": 8,
               "ship": "",
               "stageDate": "2026-08-27"
             }
@@ -454,7 +454,7 @@
               "deliveryDue": "2026-10-09",
               "dueSource": "fallback",
               "ddayStatus": "정상",
-              "dday": 11,
+              "dday": 8,
               "ship": "",
               "stageDate": "2026-08-27"
             }
@@ -556,7 +556,7 @@
               "deliveryDue": "2026-10-09",
               "dueSource": "fallback",
               "ddayStatus": "정상",
-              "dday": 11,
+              "dday": 8,
               "ship": "",
               "stageDate": "2026-08-28"
             }
@@ -590,7 +590,7 @@
               "deliveryDue": "2026-10-09",
               "dueSource": "fallback",
               "ddayStatus": "정상",
-              "dday": 11,
+              "dday": 8,
               "ship": "",
               "stageDate": "2026-08-31"
             }
@@ -624,7 +624,7 @@
               "deliveryDue": "2026-10-09",
               "dueSource": "fallback",
               "ddayStatus": "정상",
-              "dday": 11,
+              "dday": 8,
               "ship": "",
               "stageDate": "2026-08-31"
             }
@@ -658,7 +658,7 @@
               "deliveryDue": "2026-10-09",
               "dueSource": "fallback",
               "ddayStatus": "정상",
-              "dday": 11,
+              "dday": 8,
               "ship": "",
               "stageDate": "2026-08-31"
             }
@@ -692,7 +692,7 @@
               "deliveryDue": "2026-10-09",
               "dueSource": "fallback",
               "ddayStatus": "정상",
-              "dday": 11,
+              "dday": 8,
               "ship": "",
               "stageDate": "2026-08-31"
             }
@@ -760,7 +760,7 @@
               "deliveryDue": "2026-10-09",
               "dueSource": "fallback",
               "ddayStatus": "정상",
-              "dday": 11,
+              "dday": 8,
               "ship": "",
               "stageDate": "2026-09-15"
             }
@@ -794,7 +794,7 @@
               "deliveryDue": "2026-10-09",
               "dueSource": "fallback",
               "ddayStatus": "정상",
-              "dday": 11,
+              "dday": 8,
               "ship": "",
               "stageDate": "2026-09-15"
             }
@@ -828,7 +828,7 @@
               "deliveryDue": "2026-10-09",
               "dueSource": "fallback",
               "ddayStatus": "정상",
-              "dday": 11,
+              "dday": 8,
               "ship": "",
               "stageDate": "2026-09-15"
             }
@@ -862,7 +862,7 @@
               "deliveryDue": "2026-10-09",
               "dueSource": "fallback",
               "ddayStatus": "정상",
-              "dday": 11,
+              "dday": 8,
               "ship": "",
               "stageDate": "2026-09-15"
             }
@@ -896,7 +896,7 @@
               "deliveryDue": "2026-10-09",
               "dueSource": "fallback",
               "ddayStatus": "정상",
-              "dday": 11,
+              "dday": 8,
               "ship": "",
               "stageDate": "2026-09-15"
             }
@@ -930,7 +930,7 @@
               "deliveryDue": "2026-10-09",
               "dueSource": "fallback",
               "ddayStatus": "정상",
-              "dday": 11,
+              "dday": 8,
               "ship": "",
               "stageDate": "2026-09-15"
             }
@@ -964,7 +964,7 @@
               "deliveryDue": "2026-10-09",
               "dueSource": "fallback",
               "ddayStatus": "정상",
-              "dday": 11,
+              "dday": 8,
               "ship": "",
               "stageDate": "2026-09-15"
             }
@@ -998,7 +998,7 @@
               "deliveryDue": "2026-10-09",
               "dueSource": "fallback",
               "ddayStatus": "정상",
-              "dday": 11,
+              "dday": 8,
               "ship": "",
               "stageDate": "2026-09-16"
             }
@@ -1032,7 +1032,7 @@
               "deliveryDue": "2026-10-09",
               "dueSource": "fallback",
               "ddayStatus": "정상",
-              "dday": 11,
+              "dday": 8,
               "ship": "",
               "stageDate": "2026-09-09"
             }
@@ -1066,7 +1066,7 @@
               "deliveryDue": "2026-10-09",
               "dueSource": "fallback",
               "ddayStatus": "정상",
-              "dday": 11,
+              "dday": 8,
               "ship": "",
               "stageDate": "2026-09-09"
             }
@@ -1100,7 +1100,7 @@
               "deliveryDue": "2026-10-09",
               "dueSource": "fallback",
               "ddayStatus": "정상",
-              "dday": 11,
+              "dday": 8,
               "ship": "",
               "stageDate": "2026-09-09"
             }
@@ -1134,7 +1134,7 @@
               "deliveryDue": "2026-10-09",
               "dueSource": "fallback",
               "ddayStatus": "정상",
-              "dday": 11,
+              "dday": 8,
               "ship": "",
               "stageDate": "2026-09-11"
             }
@@ -1168,7 +1168,7 @@
               "deliveryDue": "2026-10-09",
               "dueSource": "fallback",
               "ddayStatus": "정상",
-              "dday": 11,
+              "dday": 8,
               "ship": "",
               "stageDate": "2026-09-11"
             }
@@ -1202,7 +1202,7 @@
               "deliveryDue": "2026-10-09",
               "dueSource": "fallback",
               "ddayStatus": "정상",
-              "dday": 11,
+              "dday": 8,
               "ship": "",
               "stageDate": "2026-09-11"
             }
@@ -1236,7 +1236,7 @@
               "deliveryDue": "2026-10-09",
               "dueSource": "fallback",
               "ddayStatus": "정상",
-              "dday": 11,
+              "dday": 8,
               "ship": "",
               "stageDate": "2026-09-11"
             }
@@ -1270,7 +1270,7 @@
               "deliveryDue": "2026-10-09",
               "dueSource": "fallback",
               "ddayStatus": "정상",
-              "dday": 11,
+              "dday": 8,
               "ship": "",
               "stageDate": "2026-09-11"
             }
@@ -1304,7 +1304,7 @@
               "deliveryDue": "2026-10-09",
               "dueSource": "fallback",
               "ddayStatus": "정상",
-              "dday": 11,
+              "dday": 8,
               "ship": "",
               "stageDate": "2026-09-09"
             }
@@ -1338,7 +1338,7 @@
               "deliveryDue": "2026-10-09",
               "dueSource": "fallback",
               "ddayStatus": "정상",
-              "dday": 11,
+              "dday": 8,
               "ship": "",
               "stageDate": "2026-09-11"
             }
@@ -1372,7 +1372,7 @@
               "deliveryDue": "2026-10-09",
               "dueSource": "fallback",
               "ddayStatus": "정상",
-              "dday": 11,
+              "dday": 8,
               "ship": "",
               "stageDate": "2026-09-11"
             }
@@ -1406,7 +1406,7 @@
               "deliveryDue": "2026-10-09",
               "dueSource": "fallback",
               "ddayStatus": "정상",
-              "dday": 11,
+              "dday": 8,
               "ship": "",
               "stageDate": "2026-09-16"
             }
@@ -1440,7 +1440,7 @@
               "deliveryDue": "2026-10-09",
               "dueSource": "fallback",
               "ddayStatus": "정상",
-              "dday": 11,
+              "dday": 8,
               "ship": "",
               "stageDate": "2026-09-16"
             }
@@ -1474,7 +1474,7 @@
               "deliveryDue": "2026-10-09",
               "dueSource": "fallback",
               "ddayStatus": "정상",
-              "dday": 11,
+              "dday": 8,
               "ship": "",
               "stageDate": "2026-09-17"
             }
@@ -1508,7 +1508,7 @@
               "deliveryDue": "2026-10-09",
               "dueSource": "fallback",
               "ddayStatus": "정상",
-              "dday": 11,
+              "dday": 8,
               "ship": "",
               "stageDate": ""
             }
@@ -1542,7 +1542,7 @@
               "deliveryDue": "2026-10-09",
               "dueSource": "fallback",
               "ddayStatus": "정상",
-              "dday": 11,
+              "dday": 8,
               "ship": "",
               "stageDate": "2026-09-17"
             }
@@ -1576,7 +1576,7 @@
               "deliveryDue": "2026-10-09",
               "dueSource": "fallback",
               "ddayStatus": "정상",
-              "dday": 11,
+              "dday": 8,
               "ship": "",
               "stageDate": ""
             }
@@ -1610,7 +1610,7 @@
               "deliveryDue": "2026-10-09",
               "dueSource": "fallback",
               "ddayStatus": "정상",
-              "dday": 11,
+              "dday": 8,
               "ship": "",
               "stageDate": "2026-09-17"
             }
@@ -1644,7 +1644,7 @@
               "deliveryDue": "2026-10-09",
               "dueSource": "fallback",
               "ddayStatus": "정상",
-              "dday": 11,
+              "dday": 8,
               "ship": "",
               "stageDate": ""
             }
@@ -1678,7 +1678,7 @@
               "deliveryDue": "2026-10-09",
               "dueSource": "fallback",
               "ddayStatus": "정상",
-              "dday": 11,
+              "dday": 8,
               "ship": "",
               "stageDate": "2026-09-17"
             }
@@ -1712,7 +1712,7 @@
               "deliveryDue": "2026-10-09",
               "dueSource": "fallback",
               "ddayStatus": "정상",
-              "dday": 11,
+              "dday": 8,
               "ship": "",
               "stageDate": ""
             }
@@ -1746,7 +1746,7 @@
               "deliveryDue": "2026-10-09",
               "dueSource": "fallback",
               "ddayStatus": "정상",
-              "dday": 11,
+              "dday": 8,
               "ship": "",
               "stageDate": "2026-09-17"
             }
@@ -1780,7 +1780,7 @@
               "deliveryDue": "2026-10-09",
               "dueSource": "fallback",
               "ddayStatus": "정상",
-              "dday": 11,
+              "dday": 8,
               "ship": "",
               "stageDate": ""
             }
@@ -2056,8 +2056,8 @@
               "stageLabel": "봉제",
               "deliveryDue": "2026-09-30",
               "dueSource": "weekly",
-              "ddayStatus": "임박",
-              "dday": 2,
+              "ddayStatus": "지연",
+              "dday": -1,
               "ship": "",
               "stageDate": "2026-09-22"
             }
@@ -2091,7 +2091,7 @@
               "deliveryDue": "2026-10-14",
               "dueSource": "weekly",
               "ddayStatus": "정상",
-              "dday": 16,
+              "dday": 13,
               "ship": "",
               "stageDate": "2026-09-19"
             }
@@ -2967,7 +2967,7 @@
               "deliveryDue": "2026-10-09",
               "dueSource": "fallback",
               "ddayStatus": "정상",
-              "dday": 11,
+              "dday": 8,
               "ship": "",
               "stageDate": "2026-09-09"
             }
@@ -3001,7 +3001,7 @@
               "deliveryDue": "2026-10-09",
               "dueSource": "fallback",
               "ddayStatus": "정상",
-              "dday": 11,
+              "dday": 8,
               "ship": "",
               "stageDate": "2026-09-09"
             }

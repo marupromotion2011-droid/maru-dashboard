@@ -1,7 +1,7 @@
 {
   "kind": "stage-sync-from-status",
-  "runAt": "2026-09-28T00:15:43.972Z",
-  "asOf": "2026-09-28",
+  "runAt": "2026-10-01T00:01:16.133Z",
+  "asOf": "2026-10-01",
   "xlsx": "생산현황표 9월.xlsx",
   "weekly": "9월 5주차 주간회의.xlsx",
   "sheetRows": 92,
@@ -17,7 +17,7 @@
     "완료": 27,
     "정상": 49,
     "미정": 15,
-    "임박": 1
+    "지연": 1
   },
   "dueFromWeeklyN": 13,
   "dueFallbackN": 64,
@@ -43,7 +43,7 @@
       "deliveryDue": "2026-10-08",
       "dueSource": "weekly",
       "ddayStatus": "정상",
-      "dday": 10,
+      "dday": 7,
       "ship": ""
     },
     {
@@ -53,7 +53,7 @@
       "deliveryDue": "2026-10-09",
       "dueSource": "fallback",
       "ddayStatus": "정상",
-      "dday": 11,
+      "dday": 8,
       "ship": ""
     },
     {
@@ -63,7 +63,7 @@
       "deliveryDue": "2026-10-09",
       "dueSource": "fallback",
       "ddayStatus": "정상",
-      "dday": 11,
+      "dday": 8,
       "ship": ""
     },
     {
@@ -73,7 +73,7 @@
       "deliveryDue": "2026-10-09",
       "dueSource": "fallback",
       "ddayStatus": "정상",
-      "dday": 11,
+      "dday": 8,
       "ship": ""
     }
   ]
