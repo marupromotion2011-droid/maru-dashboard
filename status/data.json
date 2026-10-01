@@ -14,8 +14,8 @@
     "fabIssueQ": 7282,
     "cutN": 79,
     "cutQtySum": 20269,
-    "sewN": 45,
-    "sewQ": 15650,
+    "sewN": 72,
+    "sewQ": 19037,
     "completeN": 26,
     "completeQ": 10396,
     "inboundN": 13,
@@ -24,7 +24,7 @@
     "shipQ": 11726,
     "unshipOverdueN": 1,
     "unshipOverdueQ": 212,
-    "asOf": "2026-10-01",
+    "asOf": "2026-10-02",
     "source": "생산현황표 9월.xlsx",
     "sourcePath": "Z:\\HDD1\\MARU\\생산부\\생산현황표\\생산현황표 9월.xlsx",
     "teams": {
@@ -61,8 +61,8 @@
         "fabIssueQ": 3336,
         "cutN": 57,
         "cutQtySum": 12065,
-        "sewN": 29,
-        "sewQ": 7066,
+        "sewN": 56,
+        "sewQ": 10453,
         "completeN": 8,
         "completeQ": 3301,
         "inboundN": 0,
@@ -164,18 +164,18 @@
       "완성": 12
     },
     "calMonth": {
-      "재단": 3200,
+      "재단": 0,
       "부속": 0,
-      "합봉": 8979,
-      "완성": 3037
+      "합봉": 0,
+      "완성": 0
     },
     "calMonthN": {
-      "재단": 5,
+      "재단": 0,
       "부속": 0,
-      "합봉": 29,
-      "완성": 9
+      "합봉": 0,
+      "완성": 0
     },
-    "month": "2026-09",
+    "month": "2026-10",
     "teamCal": {
       "생산3팀": {
         "재단": 5033,
@@ -240,14 +240,14 @@
     ],
     "imgMapped": 46,
     "imgMissing": 46,
-    "jikjiFiles": 195,
+    "jikjiFiles": 196,
     "jikjiLinked": 89,
     "jikjiUnlinked": 3,
     "matFiles": 114,
     "matLinked": 53,
     "matUnlinked": 39,
-    "packingCloseAt": "2026-10-01T00:00:18.165Z",
-    "dueSyncAt": "2026-10-01T00:00:44.331Z",
+    "packingCloseAt": "2026-10-01T23:30:21.091Z",
+    "dueSyncAt": "2026-10-01T23:34:54.873Z",
     "dueSyncSource": "9월 5주차 주간회의.xlsx",
     "dueSyncPath": "Z:\\HDD1\\관리자료\\주간회의\\9월 5주차 주간회의.xlsx",
     "stageSource": "생산현황표 9월.xlsx",
@@ -271,7 +271,7 @@
     },
     "stageSyncAt": "2026-10-01T00:53:57.555Z",
     "weeklyLabel": "5주차",
-    "shipGuardAt": "2026-10-01T00:54:04.133Z",
+    "shipGuardAt": "2026-10-01T23:34:57.932Z",
     "preserveMerge": {
       "prevKept": 26,
       "dueKept": 11,
@@ -379,7 +379,7 @@
       "ppSend": "",
       "note": "8/28 / 실밥출고 / 사고발생",
       "source": "생산3팀",
-      "days": 7,
+      "days": 6,
       "fabricToday": false,
       "fabricMissing": true,
       "fabricIssue": true,
@@ -417,13 +417,19 @@
       "deliveryDue": "2026-10-08",
       "dueSource": "weekly",
       "ddayStatus": "정상",
-      "dday": 7,
+      "dday": 6,
       "cutQtyIssue": "",
       "jikjiUrl": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%203차.pdf",
       "jikjiName": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 3차.pdf",
       "jikjiRel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 3차.pdf",
       "jikjiScore": 145,
       "jikjiAlts": [
+        {
+          "name": "마루) SP27 WPOD 작업지시서_스펙변경-유영.pdf",
+          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\마루) SP27 WPOD 작업지시서_스펙변경-유영.pdf",
+          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/마루)%20SP27%20WPOD%20작업지시서_스펙변경-유영.pdf",
+          "score": 145
+        },
         {
           "name": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
           "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
@@ -434,12 +440,6 @@
           "name": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 1차.pdf",
           "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 1차.pdf",
           "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%201차.pdf",
-          "score": 145
-        },
-        {
-          "name": "[마루] SP27_WVPO(DTP 3, SOLID 6).pdf",
-          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] SP27_WVPO(DTP 3, SOLID 6).pdf",
-          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20SP27_WVPO(DTP%203,%20SOLID%206).pdf",
           "score": 145
         }
       ],
@@ -488,7 +488,7 @@
       "ppSend": "",
       "note": "8/31 / 실밥 출고 / 사고 발생",
       "source": "생산3팀",
-      "days": 8,
+      "days": 7,
       "fabricToday": false,
       "fabricMissing": false,
       "fabricIssue": false,
@@ -530,13 +530,19 @@
       "deliveryDue": "2026-10-09",
       "dueSource": "fallback",
       "ddayStatus": "정상",
-      "dday": 8,
+      "dday": 7,
       "cutQtyIssue": "",
       "jikjiUrl": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%203차.pdf",
       "jikjiName": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 3차.pdf",
       "jikjiRel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 3차.pdf",
       "jikjiScore": 145,
       "jikjiAlts": [
+        {
+          "name": "마루) SP27 WPOD 작업지시서_스펙변경-유영.pdf",
+          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\마루) SP27 WPOD 작업지시서_스펙변경-유영.pdf",
+          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/마루)%20SP27%20WPOD%20작업지시서_스펙변경-유영.pdf",
+          "score": 145
+        },
         {
           "name": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
           "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
@@ -547,12 +553,6 @@
           "name": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 1차.pdf",
           "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 1차.pdf",
           "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%201차.pdf",
-          "score": 145
-        },
-        {
-          "name": "[마루] SP27_WVPO(DTP 3, SOLID 6).pdf",
-          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] SP27_WVPO(DTP 3, SOLID 6).pdf",
-          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20SP27_WVPO(DTP%203,%20SOLID%206).pdf",
           "score": 145
         }
       ],
@@ -601,7 +601,7 @@
       "ppSend": "",
       "note": "9/2실밥 / 출고",
       "source": "생산3팀",
-      "days": 8,
+      "days": 7,
       "fabricToday": false,
       "fabricMissing": true,
       "fabricIssue": true,
@@ -637,13 +637,19 @@
       "deliveryDue": "2026-10-09",
       "dueSource": "fallback",
       "ddayStatus": "정상",
-      "dday": 8,
+      "dday": 7,
       "cutQtyIssue": "",
       "jikjiUrl": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%203차.pdf",
       "jikjiName": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 3차.pdf",
       "jikjiRel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 3차.pdf",
       "jikjiScore": 145,
       "jikjiAlts": [
+        {
+          "name": "마루) SP27 WPOD 작업지시서_스펙변경-유영.pdf",
+          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\마루) SP27 WPOD 작업지시서_스펙변경-유영.pdf",
+          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/마루)%20SP27%20WPOD%20작업지시서_스펙변경-유영.pdf",
+          "score": 145
+        },
         {
           "name": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
           "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
@@ -654,12 +660,6 @@
           "name": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 1차.pdf",
           "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 1차.pdf",
           "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%201차.pdf",
-          "score": 145
-        },
-        {
-          "name": "[마루] SP27_WVPO(DTP 3, SOLID 6).pdf",
-          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] SP27_WVPO(DTP 3, SOLID 6).pdf",
-          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20SP27_WVPO(DTP%203,%20SOLID%206).pdf",
           "score": 145
         }
       ],
@@ -708,7 +708,7 @@
       "ppSend": "",
       "note": "",
       "source": "생산3팀",
-      "days": 8,
+      "days": 7,
       "fabricToday": false,
       "fabricMissing": false,
       "fabricIssue": false,
@@ -740,13 +740,19 @@
       "deliveryDue": "2026-10-09",
       "dueSource": "fallback",
       "ddayStatus": "정상",
-      "dday": 8,
+      "dday": 7,
       "cutQtyIssue": "",
       "jikjiUrl": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%203차.pdf",
       "jikjiName": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 3차.pdf",
       "jikjiRel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 3차.pdf",
       "jikjiScore": 145,
       "jikjiAlts": [
+        {
+          "name": "마루) SP27 WPOD 작업지시서_스펙변경-유영.pdf",
+          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\마루) SP27 WPOD 작업지시서_스펙변경-유영.pdf",
+          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/마루)%20SP27%20WPOD%20작업지시서_스펙변경-유영.pdf",
+          "score": 145
+        },
         {
           "name": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
           "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
@@ -757,12 +763,6 @@
           "name": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 1차.pdf",
           "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 1차.pdf",
           "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%201차.pdf",
-          "score": 145
-        },
-        {
-          "name": "[마루] SP27_WVPO(DTP 3, SOLID 6).pdf",
-          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] SP27_WVPO(DTP 3, SOLID 6).pdf",
-          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20SP27_WVPO(DTP%203,%20SOLID%206).pdf",
           "score": 145
         }
       ],
@@ -851,6 +851,12 @@
       "jikjiScore": 145,
       "jikjiAlts": [
         {
+          "name": "마루) SP27 WPOD 작업지시서_스펙변경-유영.pdf",
+          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\마루) SP27 WPOD 작업지시서_스펙변경-유영.pdf",
+          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/마루)%20SP27%20WPOD%20작업지시서_스펙변경-유영.pdf",
+          "score": 145
+        },
+        {
           "name": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
           "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
           "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%202차.pdf",
@@ -860,12 +866,6 @@
           "name": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 1차.pdf",
           "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 1차.pdf",
           "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%201차.pdf",
-          "score": 145
-        },
-        {
-          "name": "[마루] SP27_WVPO(DTP 3, SOLID 6).pdf",
-          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] SP27_WVPO(DTP 3, SOLID 6).pdf",
-          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20SP27_WVPO(DTP%203,%20SOLID%206).pdf",
           "score": 145
         }
       ],
@@ -920,7 +920,7 @@
       "ppSend": "",
       "note": "",
       "source": "생산3팀",
-      "days": 8,
+      "days": 7,
       "fabricToday": false,
       "fabricMissing": true,
       "fabricIssue": true,
@@ -952,13 +952,19 @@
       "deliveryDue": "2026-10-09",
       "dueSource": "fallback",
       "ddayStatus": "정상",
-      "dday": 8,
+      "dday": 7,
       "cutQtyIssue": "",
       "jikjiUrl": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%203차.pdf",
       "jikjiName": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 3차.pdf",
       "jikjiRel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 3차.pdf",
       "jikjiScore": 145,
       "jikjiAlts": [
+        {
+          "name": "마루) SP27 WPOD 작업지시서_스펙변경-유영.pdf",
+          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\마루) SP27 WPOD 작업지시서_스펙변경-유영.pdf",
+          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/마루)%20SP27%20WPOD%20작업지시서_스펙변경-유영.pdf",
+          "score": 145
+        },
         {
           "name": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
           "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
@@ -969,12 +975,6 @@
           "name": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 1차.pdf",
           "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 1차.pdf",
           "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%201차.pdf",
-          "score": 145
-        },
-        {
-          "name": "[마루] SP27_WVPO(DTP 3, SOLID 6).pdf",
-          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] SP27_WVPO(DTP 3, SOLID 6).pdf",
-          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20SP27_WVPO(DTP%203,%20SOLID%206).pdf",
           "score": 145
         }
       ],
@@ -1029,7 +1029,7 @@
       "ppSend": "",
       "note": "",
       "source": "생산3팀",
-      "days": 8,
+      "days": 7,
       "fabricToday": false,
       "fabricMissing": false,
       "fabricIssue": false,
@@ -1061,13 +1061,19 @@
       "deliveryDue": "2026-10-09",
       "dueSource": "fallback",
       "ddayStatus": "정상",
-      "dday": 8,
+      "dday": 7,
       "cutQtyIssue": "",
       "jikjiUrl": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%203차.pdf",
       "jikjiName": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 3차.pdf",
       "jikjiRel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 3차.pdf",
       "jikjiScore": 145,
       "jikjiAlts": [
+        {
+          "name": "마루) SP27 WPOD 작업지시서_스펙변경-유영.pdf",
+          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\마루) SP27 WPOD 작업지시서_스펙변경-유영.pdf",
+          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/마루)%20SP27%20WPOD%20작업지시서_스펙변경-유영.pdf",
+          "score": 145
+        },
         {
           "name": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
           "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
@@ -1078,12 +1084,6 @@
           "name": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 1차.pdf",
           "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 1차.pdf",
           "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%201차.pdf",
-          "score": 145
-        },
-        {
-          "name": "[마루] SP27_WVPO(DTP 3, SOLID 6).pdf",
-          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] SP27_WVPO(DTP 3, SOLID 6).pdf",
-          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20SP27_WVPO(DTP%203,%20SOLID%206).pdf",
           "score": 145
         }
       ],
@@ -1138,7 +1138,7 @@
       "ppSend": "",
       "note": "",
       "source": "생산3팀",
-      "days": 8,
+      "days": 7,
       "fabricToday": false,
       "fabricMissing": true,
       "fabricIssue": true,
@@ -1170,13 +1170,19 @@
       "deliveryDue": "2026-10-09",
       "dueSource": "fallback",
       "ddayStatus": "정상",
-      "dday": 8,
+      "dday": 7,
       "cutQtyIssue": "",
       "jikjiUrl": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%203차.pdf",
       "jikjiName": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 3차.pdf",
       "jikjiRel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 3차.pdf",
       "jikjiScore": 145,
       "jikjiAlts": [
+        {
+          "name": "마루) SP27 WPOD 작업지시서_스펙변경-유영.pdf",
+          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\마루) SP27 WPOD 작업지시서_스펙변경-유영.pdf",
+          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/마루)%20SP27%20WPOD%20작업지시서_스펙변경-유영.pdf",
+          "score": 145
+        },
         {
           "name": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
           "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
@@ -1187,12 +1193,6 @@
           "name": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 1차.pdf",
           "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 1차.pdf",
           "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%201차.pdf",
-          "score": 145
-        },
-        {
-          "name": "[마루] SP27_WVPO(DTP 3, SOLID 6).pdf",
-          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] SP27_WVPO(DTP 3, SOLID 6).pdf",
-          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20SP27_WVPO(DTP%203,%20SOLID%206).pdf",
           "score": 145
         }
       ],
@@ -1247,7 +1247,7 @@
       "ppSend": "",
       "note": "",
       "source": "생산3팀",
-      "days": 8,
+      "days": 7,
       "fabricToday": false,
       "fabricMissing": false,
       "fabricIssue": false,
@@ -1279,13 +1279,19 @@
       "deliveryDue": "2026-10-09",
       "dueSource": "fallback",
       "ddayStatus": "정상",
-      "dday": 8,
+      "dday": 7,
       "cutQtyIssue": "",
       "jikjiUrl": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%203차.pdf",
       "jikjiName": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 3차.pdf",
       "jikjiRel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 3차.pdf",
       "jikjiScore": 145,
       "jikjiAlts": [
+        {
+          "name": "마루) SP27 WPOD 작업지시서_스펙변경-유영.pdf",
+          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\마루) SP27 WPOD 작업지시서_스펙변경-유영.pdf",
+          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/마루)%20SP27%20WPOD%20작업지시서_스펙변경-유영.pdf",
+          "score": 145
+        },
         {
           "name": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
           "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
@@ -1296,12 +1302,6 @@
           "name": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 1차.pdf",
           "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 1차.pdf",
           "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%201차.pdf",
-          "score": 145
-        },
-        {
-          "name": "[마루] SP27_WVPO(DTP 3, SOLID 6).pdf",
-          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] SP27_WVPO(DTP 3, SOLID 6).pdf",
-          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20SP27_WVPO(DTP%203,%20SOLID%206).pdf",
           "score": 145
         }
       ],
@@ -1356,7 +1356,7 @@
       "ppSend": "",
       "note": "",
       "source": "생산3팀",
-      "days": 8,
+      "days": 7,
       "fabricToday": false,
       "fabricMissing": true,
       "fabricIssue": true,
@@ -1388,13 +1388,19 @@
       "deliveryDue": "2026-10-09",
       "dueSource": "fallback",
       "ddayStatus": "정상",
-      "dday": 8,
+      "dday": 7,
       "cutQtyIssue": "",
       "jikjiUrl": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%203차.pdf",
       "jikjiName": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 3차.pdf",
       "jikjiRel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 3차.pdf",
       "jikjiScore": 145,
       "jikjiAlts": [
+        {
+          "name": "마루) SP27 WPOD 작업지시서_스펙변경-유영.pdf",
+          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\마루) SP27 WPOD 작업지시서_스펙변경-유영.pdf",
+          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/마루)%20SP27%20WPOD%20작업지시서_스펙변경-유영.pdf",
+          "score": 145
+        },
         {
           "name": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
           "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
@@ -1405,12 +1411,6 @@
           "name": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 1차.pdf",
           "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 1차.pdf",
           "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%201차.pdf",
-          "score": 145
-        },
-        {
-          "name": "[마루] SP27_WVPO(DTP 3, SOLID 6).pdf",
-          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] SP27_WVPO(DTP 3, SOLID 6).pdf",
-          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20SP27_WVPO(DTP%203,%20SOLID%206).pdf",
           "score": 145
         }
       ],
@@ -1505,6 +1505,12 @@
       "jikjiScore": 145,
       "jikjiAlts": [
         {
+          "name": "마루) SP27 WPOD 작업지시서_스펙변경-유영.pdf",
+          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\마루) SP27 WPOD 작업지시서_스펙변경-유영.pdf",
+          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/마루)%20SP27%20WPOD%20작업지시서_스펙변경-유영.pdf",
+          "score": 145
+        },
+        {
           "name": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
           "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
           "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%202차.pdf",
@@ -1514,12 +1520,6 @@
           "name": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 1차.pdf",
           "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 1차.pdf",
           "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%201차.pdf",
-          "score": 145
-        },
-        {
-          "name": "[마루] SP27_WVPO(DTP 3, SOLID 6).pdf",
-          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] SP27_WVPO(DTP 3, SOLID 6).pdf",
-          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20SP27_WVPO(DTP%203,%20SOLID%206).pdf",
           "score": 145
         }
       ],
@@ -1568,7 +1568,7 @@
       "ppSend": "",
       "note": "",
       "source": "생산3팀",
-      "days": 8,
+      "days": 7,
       "fabricToday": false,
       "fabricMissing": false,
       "fabricIssue": false,
@@ -1600,13 +1600,19 @@
       "deliveryDue": "2026-10-09",
       "dueSource": "fallback",
       "ddayStatus": "정상",
-      "dday": 8,
+      "dday": 7,
       "cutQtyIssue": "",
       "jikjiUrl": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%203차.pdf",
       "jikjiName": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 3차.pdf",
       "jikjiRel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 3차.pdf",
       "jikjiScore": 145,
       "jikjiAlts": [
+        {
+          "name": "마루) SP27 WPOD 작업지시서_스펙변경-유영.pdf",
+          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\마루) SP27 WPOD 작업지시서_스펙변경-유영.pdf",
+          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/마루)%20SP27%20WPOD%20작업지시서_스펙변경-유영.pdf",
+          "score": 145
+        },
         {
           "name": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
           "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
@@ -1617,12 +1623,6 @@
           "name": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 1차.pdf",
           "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 1차.pdf",
           "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%201차.pdf",
-          "score": 145
-        },
-        {
-          "name": "[마루] SP27_WVPO(DTP 3, SOLID 6).pdf",
-          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] SP27_WVPO(DTP 3, SOLID 6).pdf",
-          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20SP27_WVPO(DTP%203,%20SOLID%206).pdf",
           "score": 145
         }
       ],
@@ -1677,7 +1677,7 @@
       "ppSend": "",
       "note": "",
       "source": "생산3팀",
-      "days": 8,
+      "days": 7,
       "fabricToday": false,
       "fabricMissing": false,
       "fabricIssue": false,
@@ -1703,13 +1703,19 @@
       "deliveryDue": "2026-10-09",
       "dueSource": "fallback",
       "ddayStatus": "정상",
-      "dday": 8,
+      "dday": 7,
       "cutQtyIssue": "",
       "jikjiUrl": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%203차.pdf",
       "jikjiName": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 3차.pdf",
       "jikjiRel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 3차.pdf",
       "jikjiScore": 145,
       "jikjiAlts": [
+        {
+          "name": "마루) SP27 WPOD 작업지시서_스펙변경-유영.pdf",
+          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\마루) SP27 WPOD 작업지시서_스펙변경-유영.pdf",
+          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/마루)%20SP27%20WPOD%20작업지시서_스펙변경-유영.pdf",
+          "score": 145
+        },
         {
           "name": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
           "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
@@ -1720,12 +1726,6 @@
           "name": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 1차.pdf",
           "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 1차.pdf",
           "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%201차.pdf",
-          "score": 145
-        },
-        {
-          "name": "[마루] SP27_WVPO(DTP 3, SOLID 6).pdf",
-          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] SP27_WVPO(DTP 3, SOLID 6).pdf",
-          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20SP27_WVPO(DTP%203,%20SOLID%206).pdf",
           "score": 145
         }
       ],
@@ -1824,6 +1824,12 @@
       "jikjiScore": 145,
       "jikjiAlts": [
         {
+          "name": "마루) SP27 WPOD 작업지시서_스펙변경-유영.pdf",
+          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\마루) SP27 WPOD 작업지시서_스펙변경-유영.pdf",
+          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/마루)%20SP27%20WPOD%20작업지시서_스펙변경-유영.pdf",
+          "score": 145
+        },
+        {
           "name": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
           "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
           "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%202차.pdf",
@@ -1833,12 +1839,6 @@
           "name": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 1차.pdf",
           "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 1차.pdf",
           "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%201차.pdf",
-          "score": 145
-        },
-        {
-          "name": "[마루] SP27_WVPO(DTP 3, SOLID 6).pdf",
-          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] SP27_WVPO(DTP 3, SOLID 6).pdf",
-          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20SP27_WVPO(DTP%203,%20SOLID%206).pdf",
           "score": 145
         }
       ],
@@ -1933,6 +1933,12 @@
       "jikjiScore": 145,
       "jikjiAlts": [
         {
+          "name": "마루) SP27 WPOD 작업지시서_스펙변경-유영.pdf",
+          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\마루) SP27 WPOD 작업지시서_스펙변경-유영.pdf",
+          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/마루)%20SP27%20WPOD%20작업지시서_스펙변경-유영.pdf",
+          "score": 145
+        },
+        {
           "name": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
           "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
           "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%202차.pdf",
@@ -1942,12 +1948,6 @@
           "name": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 1차.pdf",
           "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 1차.pdf",
           "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%201차.pdf",
-          "score": 145
-        },
-        {
-          "name": "[마루] SP27_WVPO(DTP 3, SOLID 6).pdf",
-          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] SP27_WVPO(DTP 3, SOLID 6).pdf",
-          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20SP27_WVPO(DTP%203,%20SOLID%206).pdf",
           "score": 145
         }
       ],
@@ -2002,7 +2002,7 @@
       "ppSend": "",
       "note": "",
       "source": "생산3팀",
-      "days": 8,
+      "days": 7,
       "fabricToday": false,
       "fabricMissing": false,
       "fabricIssue": false,
@@ -2028,13 +2028,19 @@
       "deliveryDue": "2026-10-09",
       "dueSource": "fallback",
       "ddayStatus": "정상",
-      "dday": 8,
+      "dday": 7,
       "cutQtyIssue": "",
       "jikjiUrl": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%203차.pdf",
       "jikjiName": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 3차.pdf",
       "jikjiRel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 3차.pdf",
       "jikjiScore": 145,
       "jikjiAlts": [
+        {
+          "name": "마루) SP27 WPOD 작업지시서_스펙변경-유영.pdf",
+          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\마루) SP27 WPOD 작업지시서_스펙변경-유영.pdf",
+          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/마루)%20SP27%20WPOD%20작업지시서_스펙변경-유영.pdf",
+          "score": 145
+        },
         {
           "name": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
           "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
@@ -2045,12 +2051,6 @@
           "name": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 1차.pdf",
           "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 1차.pdf",
           "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%201차.pdf",
-          "score": 145
-        },
-        {
-          "name": "[마루] SP27_WVPO(DTP 3, SOLID 6).pdf",
-          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] SP27_WVPO(DTP 3, SOLID 6).pdf",
-          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20SP27_WVPO(DTP%203,%20SOLID%206).pdf",
           "score": 145
         }
       ],
@@ -2105,7 +2105,7 @@
       "ppSend": "",
       "note": "",
       "source": "생산3팀",
-      "days": 8,
+      "days": 7,
       "fabricToday": false,
       "fabricMissing": true,
       "fabricIssue": true,
@@ -2131,13 +2131,19 @@
       "deliveryDue": "2026-10-09",
       "dueSource": "fallback",
       "ddayStatus": "정상",
-      "dday": 8,
+      "dday": 7,
       "cutQtyIssue": "",
       "jikjiUrl": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%203차.pdf",
       "jikjiName": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 3차.pdf",
       "jikjiRel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 3차.pdf",
       "jikjiScore": 145,
       "jikjiAlts": [
+        {
+          "name": "마루) SP27 WPOD 작업지시서_스펙변경-유영.pdf",
+          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\마루) SP27 WPOD 작업지시서_스펙변경-유영.pdf",
+          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/마루)%20SP27%20WPOD%20작업지시서_스펙변경-유영.pdf",
+          "score": 145
+        },
         {
           "name": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
           "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
@@ -2148,12 +2154,6 @@
           "name": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 1차.pdf",
           "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 1차.pdf",
           "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%201차.pdf",
-          "score": 145
-        },
-        {
-          "name": "[마루] SP27_WVPO(DTP 3, SOLID 6).pdf",
-          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] SP27_WVPO(DTP 3, SOLID 6).pdf",
-          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20SP27_WVPO(DTP%203,%20SOLID%206).pdf",
           "score": 145
         }
       ],
@@ -2208,7 +2208,7 @@
       "ppSend": "",
       "note": "",
       "source": "생산3팀",
-      "days": 8,
+      "days": 7,
       "fabricToday": false,
       "fabricMissing": false,
       "fabricIssue": false,
@@ -2234,13 +2234,19 @@
       "deliveryDue": "2026-10-09",
       "dueSource": "fallback",
       "ddayStatus": "정상",
-      "dday": 8,
+      "dday": 7,
       "cutQtyIssue": "",
       "jikjiUrl": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%203차.pdf",
       "jikjiName": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 3차.pdf",
       "jikjiRel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 3차.pdf",
       "jikjiScore": 145,
       "jikjiAlts": [
+        {
+          "name": "마루) SP27 WPOD 작업지시서_스펙변경-유영.pdf",
+          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\마루) SP27 WPOD 작업지시서_스펙변경-유영.pdf",
+          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/마루)%20SP27%20WPOD%20작업지시서_스펙변경-유영.pdf",
+          "score": 145
+        },
         {
           "name": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
           "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
@@ -2251,12 +2257,6 @@
           "name": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 1차.pdf",
           "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 1차.pdf",
           "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%201차.pdf",
-          "score": 145
-        },
-        {
-          "name": "[마루] SP27_WVPO(DTP 3, SOLID 6).pdf",
-          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] SP27_WVPO(DTP 3, SOLID 6).pdf",
-          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20SP27_WVPO(DTP%203,%20SOLID%206).pdf",
           "score": 145
         }
       ],
@@ -2311,7 +2311,7 @@
       "ppSend": "",
       "note": "",
       "source": "생산3팀",
-      "days": 8,
+      "days": 7,
       "fabricToday": false,
       "fabricMissing": false,
       "fabricIssue": false,
@@ -2337,13 +2337,19 @@
       "deliveryDue": "2026-10-09",
       "dueSource": "fallback",
       "ddayStatus": "정상",
-      "dday": 8,
+      "dday": 7,
       "cutQtyIssue": "",
       "jikjiUrl": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%203차.pdf",
       "jikjiName": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 3차.pdf",
       "jikjiRel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 3차.pdf",
       "jikjiScore": 145,
       "jikjiAlts": [
+        {
+          "name": "마루) SP27 WPOD 작업지시서_스펙변경-유영.pdf",
+          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\마루) SP27 WPOD 작업지시서_스펙변경-유영.pdf",
+          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/마루)%20SP27%20WPOD%20작업지시서_스펙변경-유영.pdf",
+          "score": 145
+        },
         {
           "name": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
           "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
@@ -2354,12 +2360,6 @@
           "name": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 1차.pdf",
           "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 1차.pdf",
           "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%201차.pdf",
-          "score": 145
-        },
-        {
-          "name": "[마루] SP27_WVPO(DTP 3, SOLID 6).pdf",
-          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] SP27_WVPO(DTP 3, SOLID 6).pdf",
-          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20SP27_WVPO(DTP%203,%20SOLID%206).pdf",
           "score": 145
         }
       ],
@@ -2448,6 +2448,12 @@
       "jikjiScore": 145,
       "jikjiAlts": [
         {
+          "name": "마루) SP27 WPOD 작업지시서_스펙변경-유영.pdf",
+          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\마루) SP27 WPOD 작업지시서_스펙변경-유영.pdf",
+          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/마루)%20SP27%20WPOD%20작업지시서_스펙변경-유영.pdf",
+          "score": 145
+        },
+        {
           "name": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
           "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
           "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%202차.pdf",
@@ -2457,12 +2463,6 @@
           "name": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 1차.pdf",
           "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 1차.pdf",
           "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%201차.pdf",
-          "score": 145
-        },
-        {
-          "name": "[마루] SP27_WVPO(DTP 3, SOLID 6).pdf",
-          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] SP27_WVPO(DTP 3, SOLID 6).pdf",
-          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20SP27_WVPO(DTP%203,%20SOLID%206).pdf",
           "score": 145
         }
       ],
@@ -2517,7 +2517,7 @@
       "ppSend": "",
       "note": "",
       "source": "생산3팀",
-      "days": 8,
+      "days": 7,
       "fabricToday": false,
       "fabricMissing": false,
       "fabricIssue": false,
@@ -2536,7 +2536,7 @@
       "deliveryDue": "2026-10-09",
       "dueSource": "fallback",
       "ddayStatus": "정상",
-      "dday": 8,
+      "dday": 7,
       "cutQtyIssue": "",
       "jikjiUrl": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%203차.pdf",
       "jikjiName": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 3차.pdf",
@@ -2589,7 +2589,7 @@
       "ppSend": "",
       "note": "",
       "source": "생산3팀",
-      "days": 8,
+      "days": 7,
       "fabricToday": false,
       "fabricMissing": false,
       "fabricIssue": false,
@@ -2608,7 +2608,7 @@
       "deliveryDue": "2026-10-09",
       "dueSource": "fallback",
       "ddayStatus": "정상",
-      "dday": 8,
+      "dday": 7,
       "cutQtyIssue": "",
       "jikjiUrl": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%203차.pdf",
       "jikjiName": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 3차.pdf",
@@ -2685,7 +2685,7 @@
       "ppSend": "",
       "note": "",
       "source": "생산3팀",
-      "days": 8,
+      "days": 7,
       "fabricToday": false,
       "fabricMissing": true,
       "fabricIssue": true,
@@ -2704,7 +2704,7 @@
       "deliveryDue": "2026-10-09",
       "dueSource": "fallback",
       "ddayStatus": "정상",
-      "dday": 8,
+      "dday": 7,
       "cutQtyIssue": "",
       "jikjiUrl": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%203차.pdf",
       "jikjiName": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 3차.pdf",
@@ -2781,7 +2781,7 @@
       "ppSend": "",
       "note": "",
       "source": "생산3팀",
-      "days": 8,
+      "days": 7,
       "fabricToday": false,
       "fabricMissing": true,
       "fabricIssue": true,
@@ -2800,7 +2800,7 @@
       "deliveryDue": "2026-10-09",
       "dueSource": "fallback",
       "ddayStatus": "정상",
-      "dday": 8,
+      "dday": 7,
       "cutQtyIssue": "",
       "jikjiUrl": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%203차.pdf",
       "jikjiName": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 3차.pdf",
@@ -2877,7 +2877,7 @@
       "ppSend": "",
       "note": "",
       "source": "생산3팀",
-      "days": 8,
+      "days": 7,
       "fabricToday": false,
       "fabricMissing": false,
       "fabricIssue": false,
@@ -2896,7 +2896,7 @@
       "deliveryDue": "2026-10-09",
       "dueSource": "fallback",
       "ddayStatus": "정상",
-      "dday": 8,
+      "dday": 7,
       "cutQtyIssue": "",
       "jikjiUrl": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%203차.pdf",
       "jikjiName": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 3차.pdf",
@@ -2949,7 +2949,7 @@
       "ppSend": "",
       "note": "",
       "source": "생산3팀",
-      "days": 8,
+      "days": 7,
       "fabricToday": false,
       "fabricMissing": true,
       "fabricIssue": true,
@@ -2968,7 +2968,7 @@
       "deliveryDue": "2026-10-09",
       "dueSource": "fallback",
       "ddayStatus": "정상",
-      "dday": 8,
+      "dday": 7,
       "cutQtyIssue": "",
       "jikjiUrl": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%203차.pdf",
       "jikjiName": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 3차.pdf",
@@ -3021,7 +3021,7 @@
       "ppSend": "",
       "note": "",
       "source": "생산3팀",
-      "days": 8,
+      "days": 7,
       "fabricToday": false,
       "fabricMissing": false,
       "fabricIssue": false,
@@ -3040,7 +3040,7 @@
       "deliveryDue": "2026-10-09",
       "dueSource": "fallback",
       "ddayStatus": "정상",
-      "dday": 8,
+      "dday": 7,
       "cutQtyIssue": "",
       "jikjiUrl": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%203차.pdf",
       "jikjiName": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 3차.pdf",
@@ -3093,7 +3093,7 @@
       "ppSend": "",
       "note": "",
       "source": "생산3팀",
-      "days": 8,
+      "days": 7,
       "fabricToday": false,
       "fabricMissing": false,
       "fabricIssue": false,
@@ -3112,7 +3112,7 @@
       "deliveryDue": "2026-10-09",
       "dueSource": "fallback",
       "ddayStatus": "정상",
-      "dday": 8,
+      "dday": 7,
       "cutQtyIssue": "",
       "jikjiUrl": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%203차.pdf",
       "jikjiName": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 3차.pdf",
@@ -3181,7 +3181,7 @@
       "cutDate": "2026-09-09",
       "cutQty": 184,
       "artwork": "",
-      "sewDate": "",
+      "sewDate": "2026-09-18",
       "complete": "",
       "inbound": "",
       "ship": "",
@@ -3189,7 +3189,7 @@
       "ppSend": "",
       "note": "",
       "source": "생산3팀",
-      "days": 8,
+      "days": 7,
       "fabricToday": false,
       "fabricMissing": false,
       "fabricIssue": false,
@@ -3208,7 +3208,7 @@
       "deliveryDue": "2026-10-09",
       "dueSource": "fallback",
       "ddayStatus": "정상",
-      "dday": 8,
+      "dday": 7,
       "cutQtyIssue": "",
       "jikjiUrl": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%203차.pdf",
       "jikjiName": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 3차.pdf",
@@ -3277,7 +3277,7 @@
       "cutDate": "2026-09-09",
       "cutQty": 184,
       "artwork": "",
-      "sewDate": "",
+      "sewDate": "2026-09-18",
       "complete": "",
       "inbound": "",
       "ship": "",
@@ -3285,7 +3285,7 @@
       "ppSend": "",
       "note": "",
       "source": "생산3팀",
-      "days": 8,
+      "days": 7,
       "fabricToday": false,
       "fabricMissing": true,
       "fabricIssue": true,
@@ -3304,7 +3304,7 @@
       "deliveryDue": "2026-10-09",
       "dueSource": "fallback",
       "ddayStatus": "정상",
-      "dday": 8,
+      "dday": 7,
       "cutQtyIssue": "",
       "jikjiUrl": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%203차.pdf",
       "jikjiName": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 3차.pdf",
@@ -3373,7 +3373,7 @@
       "cutDate": "2026-09-09",
       "cutQty": 4,
       "artwork": "",
-      "sewDate": "",
+      "sewDate": "2026-09-18",
       "complete": "",
       "inbound": "",
       "ship": "",
@@ -3381,7 +3381,7 @@
       "ppSend": "",
       "note": "",
       "source": "생산3팀",
-      "days": 8,
+      "days": 7,
       "fabricToday": false,
       "fabricMissing": true,
       "fabricIssue": true,
@@ -3400,7 +3400,7 @@
       "deliveryDue": "2026-10-09",
       "dueSource": "fallback",
       "ddayStatus": "정상",
-      "dday": 8,
+      "dday": 7,
       "cutQtyIssue": "",
       "jikjiUrl": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%203차.pdf",
       "jikjiName": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 3차.pdf",
@@ -3469,7 +3469,7 @@
       "cutDate": "2026-09-11",
       "cutQty": 213,
       "artwork": "",
-      "sewDate": "",
+      "sewDate": "2026-09-21",
       "complete": "",
       "inbound": "",
       "ship": "",
@@ -3477,7 +3477,7 @@
       "ppSend": "",
       "note": "",
       "source": "생산3팀",
-      "days": 8,
+      "days": 7,
       "fabricToday": false,
       "fabricMissing": false,
       "fabricIssue": false,
@@ -3496,7 +3496,7 @@
       "deliveryDue": "2026-10-09",
       "dueSource": "fallback",
       "ddayStatus": "정상",
-      "dday": 8,
+      "dday": 7,
       "cutQtyIssue": "",
       "jikjiUrl": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%203차.pdf",
       "jikjiName": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 3차.pdf",
@@ -3565,7 +3565,7 @@
       "cutDate": "2026-09-11",
       "cutQty": 3,
       "artwork": "",
-      "sewDate": "",
+      "sewDate": "2026-09-21",
       "complete": "",
       "inbound": "",
       "ship": "",
@@ -3573,7 +3573,7 @@
       "ppSend": "",
       "note": "",
       "source": "생산3팀",
-      "days": 8,
+      "days": 7,
       "fabricToday": false,
       "fabricMissing": true,
       "fabricIssue": true,
@@ -3592,7 +3592,7 @@
       "deliveryDue": "2026-10-09",
       "dueSource": "fallback",
       "ddayStatus": "정상",
-      "dday": 8,
+      "dday": 7,
       "cutQtyIssue": "",
       "jikjiUrl": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%203차.pdf",
       "jikjiName": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 3차.pdf",
@@ -3661,7 +3661,7 @@
       "cutDate": "2026-09-11",
       "cutQty": 264,
       "artwork": "",
-      "sewDate": "",
+      "sewDate": "2026-09-21",
       "complete": "",
       "inbound": "",
       "ship": "",
@@ -3669,7 +3669,7 @@
       "ppSend": "",
       "note": "가슴자수 X",
       "source": "생산3팀",
-      "days": 8,
+      "days": 7,
       "fabricToday": false,
       "fabricMissing": true,
       "fabricIssue": true,
@@ -3688,7 +3688,7 @@
       "deliveryDue": "2026-10-09",
       "dueSource": "fallback",
       "ddayStatus": "정상",
-      "dday": 8,
+      "dday": 7,
       "cutQtyIssue": "",
       "jikjiUrl": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%203차.pdf",
       "jikjiName": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 3차.pdf",
@@ -3757,7 +3757,7 @@
       "cutDate": "2026-09-11",
       "cutQty": 4,
       "artwork": "",
-      "sewDate": "",
+      "sewDate": "2026-09-21",
       "complete": "",
       "inbound": "",
       "ship": "",
@@ -3765,7 +3765,7 @@
       "ppSend": "",
       "note": "",
       "source": "생산3팀",
-      "days": 8,
+      "days": 7,
       "fabricToday": false,
       "fabricMissing": true,
       "fabricIssue": true,
@@ -3784,7 +3784,7 @@
       "deliveryDue": "2026-10-09",
       "dueSource": "fallback",
       "ddayStatus": "정상",
-      "dday": 8,
+      "dday": 7,
       "cutQtyIssue": "",
       "jikjiUrl": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%203차.pdf",
       "jikjiName": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 3차.pdf",
@@ -3853,7 +3853,7 @@
       "cutDate": "2026-09-09",
       "cutQty": 263,
       "artwork": "",
-      "sewDate": "",
+      "sewDate": "2026-09-22",
       "complete": "",
       "inbound": "",
       "ship": "",
@@ -3861,7 +3861,7 @@
       "ppSend": "",
       "note": "",
       "source": "생산3팀",
-      "days": 8,
+      "days": 7,
       "fabricToday": false,
       "fabricMissing": false,
       "fabricIssue": false,
@@ -3880,7 +3880,7 @@
       "deliveryDue": "2026-10-09",
       "dueSource": "fallback",
       "ddayStatus": "정상",
-      "dday": 8,
+      "dday": 7,
       "cutQtyIssue": "",
       "jikjiUrl": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%203차.pdf",
       "jikjiName": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 3차.pdf",
@@ -3949,7 +3949,7 @@
       "cutDate": "2026-09-09",
       "cutQty": 263,
       "artwork": "",
-      "sewDate": "",
+      "sewDate": "2026-09-22",
       "complete": "",
       "inbound": "",
       "ship": "",
@@ -3957,7 +3957,7 @@
       "ppSend": "",
       "note": "",
       "source": "생산3팀",
-      "days": 8,
+      "days": 7,
       "fabricToday": false,
       "fabricMissing": true,
       "fabricIssue": true,
@@ -3976,7 +3976,7 @@
       "deliveryDue": "2026-10-09",
       "dueSource": "fallback",
       "ddayStatus": "정상",
-      "dday": 8,
+      "dday": 7,
       "cutQtyIssue": "",
       "jikjiUrl": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%203차.pdf",
       "jikjiName": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 3차.pdf",
@@ -4045,7 +4045,7 @@
       "cutDate": "2026-09-09",
       "cutQty": 3,
       "artwork": "",
-      "sewDate": "",
+      "sewDate": "2026-09-22",
       "complete": "",
       "inbound": "",
       "ship": "",
@@ -4053,7 +4053,7 @@
       "ppSend": "",
       "note": "",
       "source": "생산3팀",
-      "days": 8,
+      "days": 7,
       "fabricToday": false,
       "fabricMissing": true,
       "fabricIssue": true,
@@ -4072,7 +4072,7 @@
       "deliveryDue": "2026-10-09",
       "dueSource": "fallback",
       "ddayStatus": "정상",
-      "dday": 8,
+      "dday": 7,
       "cutQtyIssue": "",
       "jikjiUrl": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%203차.pdf",
       "jikjiName": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 3차.pdf",
@@ -4141,7 +4141,7 @@
       "cutDate": "2026-09-11",
       "cutQty": 213,
       "artwork": "",
-      "sewDate": "",
+      "sewDate": "2026-09-22",
       "complete": "",
       "inbound": "",
       "ship": "",
@@ -4149,7 +4149,7 @@
       "ppSend": "",
       "note": "가슴자수 X",
       "source": "생산3팀",
-      "days": 8,
+      "days": 7,
       "fabricToday": false,
       "fabricMissing": true,
       "fabricIssue": true,
@@ -4168,7 +4168,7 @@
       "deliveryDue": "2026-10-09",
       "dueSource": "fallback",
       "ddayStatus": "정상",
-      "dday": 8,
+      "dday": 7,
       "cutQtyIssue": "",
       "jikjiUrl": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%203차.pdf",
       "jikjiName": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 3차.pdf",
@@ -4237,7 +4237,7 @@
       "cutDate": "2026-09-11",
       "cutQty": 156,
       "artwork": "",
-      "sewDate": "",
+      "sewDate": "2026-09-23",
       "complete": "",
       "inbound": "",
       "ship": "",
@@ -4245,7 +4245,7 @@
       "ppSend": "",
       "note": "",
       "source": "생산3팀",
-      "days": 8,
+      "days": 7,
       "fabricToday": false,
       "fabricMissing": false,
       "fabricIssue": false,
@@ -4264,7 +4264,7 @@
       "deliveryDue": "2026-10-09",
       "dueSource": "fallback",
       "ddayStatus": "정상",
-      "dday": 8,
+      "dday": 7,
       "cutQtyIssue": "",
       "jikjiUrl": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%203차.pdf",
       "jikjiName": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 3차.pdf",
@@ -4309,7 +4309,7 @@
       "cutDate": "2026-09-11",
       "cutQty": 156,
       "artwork": "",
-      "sewDate": "",
+      "sewDate": "2026-09-23",
       "complete": "",
       "inbound": "",
       "ship": "",
@@ -4317,7 +4317,7 @@
       "ppSend": "",
       "note": "",
       "source": "생산3팀",
-      "days": 8,
+      "days": 7,
       "fabricToday": false,
       "fabricMissing": true,
       "fabricIssue": true,
@@ -4336,7 +4336,7 @@
       "deliveryDue": "2026-10-09",
       "dueSource": "fallback",
       "ddayStatus": "정상",
-      "dday": 8,
+      "dday": 7,
       "cutQtyIssue": "",
       "jikjiUrl": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%203차.pdf",
       "jikjiName": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 3차.pdf",
@@ -4381,7 +4381,7 @@
       "cutDate": "2026-09-16",
       "cutQty": 163,
       "artwork": "",
-      "sewDate": "",
+      "sewDate": "2026-09-28",
       "complete": "",
       "inbound": "",
       "ship": "",
@@ -4389,7 +4389,7 @@
       "ppSend": "",
       "note": "",
       "source": "생산3팀",
-      "days": 8,
+      "days": 7,
       "fabricToday": false,
       "fabricMissing": true,
       "fabricIssue": true,
@@ -4408,7 +4408,7 @@
       "deliveryDue": "2026-10-09",
       "dueSource": "fallback",
       "ddayStatus": "정상",
-      "dday": 8,
+      "dday": 7,
       "cutQtyIssue": "",
       "jikjiUrl": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%203차.pdf",
       "jikjiName": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 3차.pdf",
@@ -4453,7 +4453,7 @@
       "cutDate": "2026-09-16",
       "cutQty": 163,
       "artwork": "",
-      "sewDate": "",
+      "sewDate": "2026-09-28",
       "complete": "",
       "inbound": "",
       "ship": "",
@@ -4461,7 +4461,7 @@
       "ppSend": "",
       "note": "",
       "source": "생산3팀",
-      "days": 8,
+      "days": 7,
       "fabricToday": false,
       "fabricMissing": true,
       "fabricIssue": true,
@@ -4480,7 +4480,7 @@
       "deliveryDue": "2026-10-09",
       "dueSource": "fallback",
       "ddayStatus": "정상",
-      "dday": 8,
+      "dday": 7,
       "cutQtyIssue": "",
       "jikjiUrl": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%203차.pdf",
       "jikjiName": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 3차.pdf",
@@ -4525,7 +4525,7 @@
       "cutDate": "2026-09-17",
       "cutQty": 264,
       "artwork": "",
-      "sewDate": "",
+      "sewDate": "2026-09-29",
       "complete": "",
       "inbound": "",
       "ship": "",
@@ -4533,7 +4533,7 @@
       "ppSend": "",
       "note": "아동용 반팔",
       "source": "생산3팀",
-      "days": 8,
+      "days": 7,
       "fabricToday": false,
       "fabricMissing": true,
       "fabricIssue": true,
@@ -4552,7 +4552,7 @@
       "deliveryDue": "2026-10-09",
       "dueSource": "fallback",
       "ddayStatus": "정상",
-      "dday": 8,
+      "dday": 7,
       "cutQtyIssue": "",
       "jikjiUrl": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/★%20TPOL_RHO%20공통작지%20(DTP,솔리드,스트라이프).pdf",
       "jikjiName": "★ TPOL_RHO 공통작지 (DTP,솔리드,스트라이프).pdf",
@@ -4566,15 +4566,15 @@
           "score": 145
         },
         {
-          "name": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
-          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
-          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%202차.pdf",
+          "name": "마루) SP27 WPOD 작업지시서_스펙변경-유영.pdf",
+          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\마루) SP27 WPOD 작업지시서_스펙변경-유영.pdf",
+          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/마루)%20SP27%20WPOD%20작업지시서_스펙변경-유영.pdf",
           "score": 145
         },
         {
-          "name": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 1차.pdf",
-          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 1차.pdf",
-          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%201차.pdf",
+          "name": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
+          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
+          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%202차.pdf",
           "score": 145
         }
       ],
@@ -4615,7 +4615,7 @@
       "cutDate": "",
       "cutQty": null,
       "artwork": "",
-      "sewDate": "",
+      "sewDate": "2026-09-29",
       "complete": "",
       "inbound": "",
       "ship": "",
@@ -4623,7 +4623,7 @@
       "ppSend": "",
       "note": "아동용 반팔",
       "source": "생산3팀",
-      "days": 8,
+      "days": 7,
       "fabricToday": false,
       "fabricMissing": true,
       "fabricIssue": true,
@@ -4642,7 +4642,7 @@
       "deliveryDue": "2026-10-09",
       "dueSource": "fallback",
       "ddayStatus": "정상",
-      "dday": 8,
+      "dday": 7,
       "cutQtyIssue": "",
       "jikjiUrl": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/★%20TPOL_RHO%20공통작지%20(DTP,솔리드,스트라이프).pdf",
       "jikjiName": "★ TPOL_RHO 공통작지 (DTP,솔리드,스트라이프).pdf",
@@ -4656,15 +4656,15 @@
           "score": 145
         },
         {
-          "name": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
-          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
-          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%202차.pdf",
+          "name": "마루) SP27 WPOD 작업지시서_스펙변경-유영.pdf",
+          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\마루) SP27 WPOD 작업지시서_스펙변경-유영.pdf",
+          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/마루)%20SP27%20WPOD%20작업지시서_스펙변경-유영.pdf",
           "score": 145
         },
         {
-          "name": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 1차.pdf",
-          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 1차.pdf",
-          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%201차.pdf",
+          "name": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
+          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
+          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%202차.pdf",
           "score": 145
         }
       ],
@@ -4705,7 +4705,7 @@
       "cutDate": "2026-09-17",
       "cutQty": 108,
       "artwork": "",
-      "sewDate": "",
+      "sewDate": "2026-09-29",
       "complete": "",
       "inbound": "",
       "ship": "",
@@ -4713,7 +4713,7 @@
       "ppSend": "",
       "note": "아동용 반팔",
       "source": "생산3팀",
-      "days": 8,
+      "days": 7,
       "fabricToday": false,
       "fabricMissing": false,
       "fabricIssue": false,
@@ -4732,7 +4732,7 @@
       "deliveryDue": "2026-10-09",
       "dueSource": "fallback",
       "ddayStatus": "정상",
-      "dday": 8,
+      "dday": 7,
       "cutQtyIssue": "",
       "jikjiUrl": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/★%20TPOL_RHO%20공통작지%20(DTP,솔리드,스트라이프).pdf",
       "jikjiName": "★ TPOL_RHO 공통작지 (DTP,솔리드,스트라이프).pdf",
@@ -4746,15 +4746,15 @@
           "score": 145
         },
         {
-          "name": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
-          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
-          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%202차.pdf",
+          "name": "마루) SP27 WPOD 작업지시서_스펙변경-유영.pdf",
+          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\마루) SP27 WPOD 작업지시서_스펙변경-유영.pdf",
+          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/마루)%20SP27%20WPOD%20작업지시서_스펙변경-유영.pdf",
           "score": 145
         },
         {
-          "name": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 1차.pdf",
-          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 1차.pdf",
-          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%201차.pdf",
+          "name": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
+          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
+          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%202차.pdf",
           "score": 145
         }
       ],
@@ -4801,7 +4801,7 @@
       "cutDate": "",
       "cutQty": null,
       "artwork": "",
-      "sewDate": "",
+      "sewDate": "2026-09-29",
       "complete": "",
       "inbound": "",
       "ship": "",
@@ -4809,7 +4809,7 @@
       "ppSend": "",
       "note": "아동용 반팔",
       "source": "생산3팀",
-      "days": 8,
+      "days": 7,
       "fabricToday": false,
       "fabricMissing": true,
       "fabricIssue": true,
@@ -4828,7 +4828,7 @@
       "deliveryDue": "2026-10-09",
       "dueSource": "fallback",
       "ddayStatus": "정상",
-      "dday": 8,
+      "dday": 7,
       "cutQtyIssue": "",
       "jikjiUrl": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/★%20TPOL_RHO%20공통작지%20(DTP,솔리드,스트라이프).pdf",
       "jikjiName": "★ TPOL_RHO 공통작지 (DTP,솔리드,스트라이프).pdf",
@@ -4842,15 +4842,15 @@
           "score": 145
         },
         {
-          "name": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
-          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
-          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%202차.pdf",
+          "name": "마루) SP27 WPOD 작업지시서_스펙변경-유영.pdf",
+          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\마루) SP27 WPOD 작업지시서_스펙변경-유영.pdf",
+          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/마루)%20SP27%20WPOD%20작업지시서_스펙변경-유영.pdf",
           "score": 145
         },
         {
-          "name": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 1차.pdf",
-          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 1차.pdf",
-          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%201차.pdf",
+          "name": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
+          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
+          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%202차.pdf",
           "score": 145
         }
       ],
@@ -4897,7 +4897,7 @@
       "cutDate": "2026-09-17",
       "cutQty": 102,
       "artwork": "",
-      "sewDate": "",
+      "sewDate": "2026-09-29",
       "complete": "",
       "inbound": "",
       "ship": "",
@@ -4905,7 +4905,7 @@
       "ppSend": "",
       "note": "아동용 반팔",
       "source": "생산3팀",
-      "days": 8,
+      "days": 7,
       "fabricToday": false,
       "fabricMissing": false,
       "fabricIssue": false,
@@ -4924,7 +4924,7 @@
       "deliveryDue": "2026-10-09",
       "dueSource": "fallback",
       "ddayStatus": "정상",
-      "dday": 8,
+      "dday": 7,
       "cutQtyIssue": "",
       "jikjiUrl": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%203차.pdf",
       "jikjiName": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 3차.pdf",
@@ -4987,7 +4987,7 @@
       "cutDate": "",
       "cutQty": null,
       "artwork": "",
-      "sewDate": "",
+      "sewDate": "2026-09-29",
       "complete": "",
       "inbound": "",
       "ship": "",
@@ -4995,7 +4995,7 @@
       "ppSend": "",
       "note": "아동용 반팔",
       "source": "생산3팀",
-      "days": 8,
+      "days": 7,
       "fabricToday": false,
       "fabricMissing": true,
       "fabricIssue": true,
@@ -5014,7 +5014,7 @@
       "deliveryDue": "2026-10-09",
       "dueSource": "fallback",
       "ddayStatus": "정상",
-      "dday": 8,
+      "dday": 7,
       "cutQtyIssue": "",
       "jikjiUrl": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%203차.pdf",
       "jikjiName": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 3차.pdf",
@@ -5077,7 +5077,7 @@
       "cutDate": "2026-09-17",
       "cutQty": 85,
       "artwork": "",
-      "sewDate": "",
+      "sewDate": "2026-09-30",
       "complete": "",
       "inbound": "",
       "ship": "",
@@ -5085,7 +5085,7 @@
       "ppSend": "",
       "note": "초등생 반팔",
       "source": "생산3팀",
-      "days": 8,
+      "days": 7,
       "fabricToday": false,
       "fabricMissing": true,
       "fabricIssue": true,
@@ -5104,7 +5104,7 @@
       "deliveryDue": "2026-10-09",
       "dueSource": "fallback",
       "ddayStatus": "정상",
-      "dday": 8,
+      "dday": 7,
       "cutQtyIssue": "",
       "jikjiUrl": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/★%20YPOL_RHO%20공통작지%20(DTP,솔리드,스트라이프).pdf",
       "jikjiName": "★ YPOL_RHO 공통작지 (DTP,솔리드,스트라이프).pdf",
@@ -5118,15 +5118,15 @@
           "score": 145
         },
         {
-          "name": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
-          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
-          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%202차.pdf",
+          "name": "마루) SP27 WPOD 작업지시서_스펙변경-유영.pdf",
+          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\마루) SP27 WPOD 작업지시서_스펙변경-유영.pdf",
+          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/마루)%20SP27%20WPOD%20작업지시서_스펙변경-유영.pdf",
           "score": 145
         },
         {
-          "name": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 1차.pdf",
-          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 1차.pdf",
-          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%201차.pdf",
+          "name": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
+          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
+          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%202차.pdf",
           "score": 145
         }
       ],
@@ -5173,7 +5173,7 @@
       "cutDate": "",
       "cutQty": null,
       "artwork": "",
-      "sewDate": "",
+      "sewDate": "2026-09-30",
       "complete": "",
       "inbound": "",
       "ship": "",
@@ -5181,7 +5181,7 @@
       "ppSend": "",
       "note": "초등생 반팔",
       "source": "생산3팀",
-      "days": 8,
+      "days": 7,
       "fabricToday": false,
       "fabricMissing": true,
       "fabricIssue": true,
@@ -5200,7 +5200,7 @@
       "deliveryDue": "2026-10-09",
       "dueSource": "fallback",
       "ddayStatus": "정상",
-      "dday": 8,
+      "dday": 7,
       "cutQtyIssue": "",
       "jikjiUrl": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/★%20YPOL_RHO%20공통작지%20(DTP,솔리드,스트라이프).pdf",
       "jikjiName": "★ YPOL_RHO 공통작지 (DTP,솔리드,스트라이프).pdf",
@@ -5214,15 +5214,15 @@
           "score": 145
         },
         {
-          "name": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
-          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
-          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%202차.pdf",
+          "name": "마루) SP27 WPOD 작업지시서_스펙변경-유영.pdf",
+          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\마루) SP27 WPOD 작업지시서_스펙변경-유영.pdf",
+          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/마루)%20SP27%20WPOD%20작업지시서_스펙변경-유영.pdf",
           "score": 145
         },
         {
-          "name": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 1차.pdf",
-          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 1차.pdf",
-          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%201차.pdf",
+          "name": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
+          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
+          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%202차.pdf",
           "score": 145
         }
       ],
@@ -5269,7 +5269,7 @@
       "cutDate": "2026-09-17",
       "cutQty": 120,
       "artwork": "",
-      "sewDate": "",
+      "sewDate": "2026-09-30",
       "complete": "",
       "inbound": "",
       "ship": "",
@@ -5277,7 +5277,7 @@
       "ppSend": "",
       "note": "아동용 반팔",
       "source": "생산3팀",
-      "days": 8,
+      "days": 7,
       "fabricToday": false,
       "fabricMissing": false,
       "fabricIssue": false,
@@ -5296,7 +5296,7 @@
       "deliveryDue": "2026-10-09",
       "dueSource": "fallback",
       "ddayStatus": "정상",
-      "dday": 8,
+      "dday": 7,
       "cutQtyIssue": "",
       "jikjiUrl": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%203차.pdf",
       "jikjiName": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 3차.pdf",
@@ -5359,7 +5359,7 @@
       "cutDate": "",
       "cutQty": null,
       "artwork": "",
-      "sewDate": "",
+      "sewDate": "2026-09-30",
       "complete": "",
       "inbound": "",
       "ship": "",
@@ -5367,7 +5367,7 @@
       "ppSend": "",
       "note": "아동용 반팔",
       "source": "생산3팀",
-      "days": 8,
+      "days": 7,
       "fabricToday": false,
       "fabricMissing": true,
       "fabricIssue": true,
@@ -5386,7 +5386,7 @@
       "deliveryDue": "2026-10-09",
       "dueSource": "fallback",
       "ddayStatus": "정상",
-      "dday": 8,
+      "dday": 7,
       "cutQtyIssue": "",
       "jikjiUrl": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%203차.pdf",
       "jikjiName": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 3차.pdf",
@@ -5449,7 +5449,7 @@
       "cutDate": "2026-09-19",
       "cutQty": 299,
       "artwork": "",
-      "sewDate": "",
+      "sewDate": "2026-10-01",
       "complete": "",
       "inbound": "",
       "ship": "",
@@ -5457,7 +5457,7 @@
       "ppSend": "",
       "note": "",
       "source": "생산3팀",
-      "days": 13,
+      "days": 12,
       "fabricToday": false,
       "fabricMissing": false,
       "fabricIssue": false,
@@ -5476,7 +5476,7 @@
       "deliveryDue": "2026-10-14",
       "dueSource": "weekly",
       "ddayStatus": "정상",
-      "dday": 13,
+      "dday": 12,
       "cutQtyIssue": "",
       "jikjiUrl": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20SP27_WVPO(DTP%203,%20SOLID%206).pdf",
       "jikjiName": "[마루] SP27_WVPO(DTP 3, SOLID 6).pdf",
@@ -5490,15 +5490,15 @@
           "score": 145
         },
         {
-          "name": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
-          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
-          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%202차.pdf",
+          "name": "마루) SP27 WPOD 작업지시서_스펙변경-유영.pdf",
+          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\마루) SP27 WPOD 작업지시서_스펙변경-유영.pdf",
+          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/마루)%20SP27%20WPOD%20작업지시서_스펙변경-유영.pdf",
           "score": 145
         },
         {
-          "name": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 1차.pdf",
-          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 1차.pdf",
-          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%201차.pdf",
+          "name": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
+          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
+          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%202차.pdf",
           "score": 145
         }
       ]
@@ -5521,7 +5521,7 @@
       "cutDate": "2026-09-19",
       "cutQty": 299,
       "artwork": "",
-      "sewDate": "",
+      "sewDate": "2026-10-01",
       "complete": "",
       "inbound": "",
       "ship": "",
@@ -5562,15 +5562,15 @@
           "score": 145
         },
         {
-          "name": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
-          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
-          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%202차.pdf",
+          "name": "마루) SP27 WPOD 작업지시서_스펙변경-유영.pdf",
+          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\마루) SP27 WPOD 작업지시서_스펙변경-유영.pdf",
+          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/마루)%20SP27%20WPOD%20작업지시서_스펙변경-유영.pdf",
           "score": 145
         },
         {
-          "name": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 1차.pdf",
-          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 1차.pdf",
-          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%201차.pdf",
+          "name": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
+          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
+          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%202차.pdf",
           "score": 145
         }
       ]
@@ -5634,15 +5634,15 @@
           "score": 145
         },
         {
-          "name": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
-          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
-          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%202차.pdf",
+          "name": "마루) SP27 WPOD 작업지시서_스펙변경-유영.pdf",
+          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\마루) SP27 WPOD 작업지시서_스펙변경-유영.pdf",
+          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/마루)%20SP27%20WPOD%20작업지시서_스펙변경-유영.pdf",
           "score": 145
         },
         {
-          "name": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 1차.pdf",
-          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 1차.pdf",
-          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%201차.pdf",
+          "name": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
+          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
+          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%202차.pdf",
           "score": 145
         }
       ]
@@ -5706,15 +5706,15 @@
           "score": 145
         },
         {
-          "name": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
-          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
-          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%202차.pdf",
+          "name": "마루) SP27 WPOD 작업지시서_스펙변경-유영.pdf",
+          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\마루) SP27 WPOD 작업지시서_스펙변경-유영.pdf",
+          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/마루)%20SP27%20WPOD%20작업지시서_스펙변경-유영.pdf",
           "score": 145
         },
         {
-          "name": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 1차.pdf",
-          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 1차.pdf",
-          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%201차.pdf",
+          "name": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
+          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
+          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%202차.pdf",
           "score": 145
         }
       ]
@@ -5778,15 +5778,15 @@
           "score": 145
         },
         {
-          "name": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
-          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
-          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%202차.pdf",
+          "name": "마루) SP27 WPOD 작업지시서_스펙변경-유영.pdf",
+          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\마루) SP27 WPOD 작업지시서_스펙변경-유영.pdf",
+          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/마루)%20SP27%20WPOD%20작업지시서_스펙변경-유영.pdf",
           "score": 145
         },
         {
-          "name": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 1차.pdf",
-          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 1차.pdf",
-          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%201차.pdf",
+          "name": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
+          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
+          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%202차.pdf",
           "score": 145
         }
       ]
@@ -5850,15 +5850,15 @@
           "score": 145
         },
         {
-          "name": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
-          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
-          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%202차.pdf",
+          "name": "마루) SP27 WPOD 작업지시서_스펙변경-유영.pdf",
+          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\마루) SP27 WPOD 작업지시서_스펙변경-유영.pdf",
+          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/마루)%20SP27%20WPOD%20작업지시서_스펙변경-유영.pdf",
           "score": 145
         },
         {
-          "name": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 1차.pdf",
-          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 1차.pdf",
-          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%201차.pdf",
+          "name": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
+          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
+          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%202차.pdf",
           "score": 145
         }
       ]
@@ -5922,15 +5922,15 @@
           "score": 145
         },
         {
-          "name": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
-          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
-          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%202차.pdf",
+          "name": "마루) SP27 WPOD 작업지시서_스펙변경-유영.pdf",
+          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\마루) SP27 WPOD 작업지시서_스펙변경-유영.pdf",
+          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/마루)%20SP27%20WPOD%20작업지시서_스펙변경-유영.pdf",
           "score": 145
         },
         {
-          "name": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 1차.pdf",
-          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 1차.pdf",
-          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%201차.pdf",
+          "name": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
+          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
+          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%202차.pdf",
           "score": 145
         }
       ]
@@ -5994,15 +5994,15 @@
           "score": 145
         },
         {
-          "name": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
-          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
-          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%202차.pdf",
+          "name": "마루) SP27 WPOD 작업지시서_스펙변경-유영.pdf",
+          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\마루) SP27 WPOD 작업지시서_스펙변경-유영.pdf",
+          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/마루)%20SP27%20WPOD%20작업지시서_스펙변경-유영.pdf",
           "score": 145
         },
         {
-          "name": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 1차.pdf",
-          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 1차.pdf",
-          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%201차.pdf",
+          "name": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
+          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
+          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%202차.pdf",
           "score": 145
         }
       ]
@@ -6066,15 +6066,15 @@
           "score": 145
         },
         {
-          "name": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
-          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
-          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%202차.pdf",
+          "name": "마루) SP27 WPOD 작업지시서_스펙변경-유영.pdf",
+          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\마루) SP27 WPOD 작업지시서_스펙변경-유영.pdf",
+          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/마루)%20SP27%20WPOD%20작업지시서_스펙변경-유영.pdf",
           "score": 145
         },
         {
-          "name": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 1차.pdf",
-          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 1차.pdf",
-          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%201차.pdf",
+          "name": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
+          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
+          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%202차.pdf",
           "score": 145
         }
       ]
@@ -6138,15 +6138,15 @@
           "score": 145
         },
         {
-          "name": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
-          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
-          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%202차.pdf",
+          "name": "마루) SP27 WPOD 작업지시서_스펙변경-유영.pdf",
+          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\마루) SP27 WPOD 작업지시서_스펙변경-유영.pdf",
+          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/마루)%20SP27%20WPOD%20작업지시서_스펙변경-유영.pdf",
           "score": 145
         },
         {
-          "name": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 1차.pdf",
-          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 1차.pdf",
-          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%201차.pdf",
+          "name": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
+          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
+          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%202차.pdf",
           "score": 145
         }
       ]
@@ -6210,15 +6210,15 @@
           "score": 145
         },
         {
-          "name": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
-          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
-          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%202차.pdf",
+          "name": "마루) SP27 WPOD 작업지시서_스펙변경-유영.pdf",
+          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\마루) SP27 WPOD 작업지시서_스펙변경-유영.pdf",
+          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/마루)%20SP27%20WPOD%20작업지시서_스펙변경-유영.pdf",
           "score": 145
         },
         {
-          "name": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 1차.pdf",
-          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 1차.pdf",
-          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%201차.pdf",
+          "name": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
+          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
+          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%202차.pdf",
           "score": 145
         }
       ]
@@ -6282,15 +6282,15 @@
           "score": 145
         },
         {
-          "name": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
-          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
-          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%202차.pdf",
+          "name": "마루) SP27 WPOD 작업지시서_스펙변경-유영.pdf",
+          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\마루) SP27 WPOD 작업지시서_스펙변경-유영.pdf",
+          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/마루)%20SP27%20WPOD%20작업지시서_스펙변경-유영.pdf",
           "score": 145
         },
         {
-          "name": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 1차.pdf",
-          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 1차.pdf",
-          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%201차.pdf",
+          "name": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
+          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
+          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%202차.pdf",
           "score": 145
         }
       ]
@@ -6354,15 +6354,15 @@
           "score": 145
         },
         {
-          "name": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
-          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
-          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%202차.pdf",
+          "name": "마루) SP27 WPOD 작업지시서_스펙변경-유영.pdf",
+          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\마루) SP27 WPOD 작업지시서_스펙변경-유영.pdf",
+          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/마루)%20SP27%20WPOD%20작업지시서_스펙변경-유영.pdf",
           "score": 145
         },
         {
-          "name": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 1차.pdf",
-          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 1차.pdf",
-          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%201차.pdf",
+          "name": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
+          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
+          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%202차.pdf",
           "score": 145
         }
       ]
@@ -6426,15 +6426,15 @@
           "score": 145
         },
         {
-          "name": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
-          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
-          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%202차.pdf",
+          "name": "마루) SP27 WPOD 작업지시서_스펙변경-유영.pdf",
+          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\마루) SP27 WPOD 작업지시서_스펙변경-유영.pdf",
+          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/마루)%20SP27%20WPOD%20작업지시서_스펙변경-유영.pdf",
           "score": 145
         },
         {
-          "name": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 1차.pdf",
-          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 1차.pdf",
-          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%201차.pdf",
+          "name": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
+          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
+          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%202차.pdf",
           "score": 145
         }
       ]
@@ -6498,15 +6498,15 @@
           "score": 145
         },
         {
-          "name": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
-          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
-          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%202차.pdf",
+          "name": "마루) SP27 WPOD 작업지시서_스펙변경-유영.pdf",
+          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\마루) SP27 WPOD 작업지시서_스펙변경-유영.pdf",
+          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/마루)%20SP27%20WPOD%20작업지시서_스펙변경-유영.pdf",
           "score": 145
         },
         {
-          "name": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 1차.pdf",
-          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 1차.pdf",
-          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%201차.pdf",
+          "name": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
+          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
+          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%202차.pdf",
           "score": 145
         }
       ]
@@ -6570,15 +6570,15 @@
           "score": 145
         },
         {
-          "name": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
-          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
-          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%202차.pdf",
+          "name": "마루) SP27 WPOD 작업지시서_스펙변경-유영.pdf",
+          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\마루) SP27 WPOD 작업지시서_스펙변경-유영.pdf",
+          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/마루)%20SP27%20WPOD%20작업지시서_스펙변경-유영.pdf",
           "score": 145
         },
         {
-          "name": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 1차.pdf",
-          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 1차.pdf",
-          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%201차.pdf",
+          "name": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
+          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
+          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%202차.pdf",
           "score": 145
         }
       ]
@@ -7412,7 +7412,7 @@
       "ppSend": "",
       "note": "",
       "source": "생산5팀",
-      "days": -1,
+      "days": -2,
       "fabricToday": false,
       "fabricMissing": false,
       "fabricIssue": false,
@@ -7438,7 +7438,7 @@
       "deliveryDue": "2026-09-30",
       "dueSource": "weekly",
       "ddayStatus": "지연",
-      "dday": -1,
+      "dday": -2,
       "cutQtyIssue": "",
       "jikjiUrl": "../../1.%20GOODTRUST/국내생산/2027/생산5팀/IDAKA/이다카%20FA26%20메인%20작업지시서%20IDKP001(마루).pdf",
       "jikjiName": "이다카 FA26 메인 작업지시서 IDKP001(마루).pdf",
@@ -8584,7 +8584,7 @@
     {
       "id": "공정",
       "name": "공정",
-      "sub": "2026-09 합봉 8,979"
+      "sub": "2026-10 캘린더"
     },
     {
       "id": "작지",
@@ -13212,6 +13212,14 @@
             "url": "../../1.%20GOODTRUST/국내생산/2026/생산3팀/RHOBACK/로백_WSCR_SOLID-FLEET%20NAVY%20외%203_%237201,7202,7203,7204_생3%20남주연.pdf",
             "path": "Z:\\HDD1\\MARU\\생산부\\1. GOODTRUST\\국내생산\\2026\\생산3팀\\RHOBACK\\로백_WSCR_SOLID-FLEET NAVY 외 3_#7201,7202,7203,7204_생3 남주연.pdf",
             "year": "2026",
+            "status": ""
+          },
+          {
+            "name": "마루) SP27 WPOD 작업지시서_스펙변경-유영.pdf",
+            "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\마루) SP27 WPOD 작업지시서_스펙변경-유영.pdf",
+            "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/마루)%20SP27%20WPOD%20작업지시서_스펙변경-유영.pdf",
+            "path": "Z:\\HDD1\\MARU\\생산부\\1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\마루) SP27 WPOD 작업지시서_스펙변경-유영.pdf",
+            "year": "2027",
             "status": ""
           }
         ],

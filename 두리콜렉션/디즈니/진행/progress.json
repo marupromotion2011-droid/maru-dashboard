@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-09-25",
+  "asOf": "2026-10-02",
   "stages": [
     "원단발주",
     "부자재발주",
@@ -133,19 +133,19 @@
           "qty": 708
         }
       ],
-      "nfiles": 11,
+      "nfiles": 10,
       "flags": {
         "fabric_po": true,
         "trim_po": true,
-        "qc": false,
+        "qc": true,
         "sew": false,
         "finish": false,
         "pack": false,
         "logistics": false
       },
-      "done": 2,
+      "done": 3,
       "total": 7,
-      "pct": 29,
+      "pct": 43,
       "complete": false,
       "oneway": false,
       "pending_note": "",
@@ -298,19 +298,19 @@
           "qty": 510
         }
       ],
-      "nfiles": 10,
+      "nfiles": 8,
       "flags": {
         "fabric_po": true,
         "trim_po": true,
-        "qc": false,
+        "qc": true,
         "sew": false,
         "finish": false,
         "pack": false,
         "logistics": false
       },
-      "done": 2,
+      "done": 3,
       "total": 7,
-      "pct": 29,
+      "pct": 43,
       "complete": false,
       "oneway": false,
       "pending_note": "",
@@ -378,8 +378,18 @@
       "art": "CS-04C RMB 6.73",
       "due": "26.12.23",
       "fabric_order": "2026-09-15",
-      "bt_cfm": [],
-      "bt_links": [],
+      "bt_cfm": [
+        "2026-09-29"
+      ],
+      "bt_links": [
+        {
+          "name": "SR1MTR081 BK, WH BT컨펌.jpg",
+          "href": "../../../../생산부/2. 디즈니/27SS/완사입/기획/SR1MTR081/SR1MTR081 BK, WH BT컨펌.jpg",
+          "mtime": "2026-09-29",
+          "rel": "완사입/기획/SR1MTR081/SR1MTR081 BK, WH BT컨펌.jpg",
+          "missing": false
+        }
+      ],
       "wip_links": [
         {
           "name": "SM1MTR081 메인작업지시서.pdf",
@@ -470,6 +480,12 @@
       },
       "thumb": "../진행문서/thumbs/SR1MTR081.jpg",
       "images": [
+        {
+          "name": "SR1MTR081 BK, WH BT컨펌.jpg",
+          "href": "../../../../생산부/2. 디즈니/27SS/완사입/기획/SR1MTR081/SR1MTR081 BK, WH BT컨펌.jpg",
+          "rel": "완사입/기획/SR1MTR081/SR1MTR081 BK, WH BT컨펌.jpg",
+          "exists": true
+        },
         {
           "name": "SR1MTS081 고주파와펜 발주서 260914.png",
           "href": "../../../../생산부/2. 디즈니/27SS/완사입/기획/SR1MTR081/SR1MTS081 고주파와펜 발주서 260914.png",
@@ -893,7 +909,7 @@
         {
           "name": "DR2LTR080 원단발주서.xlsx",
           "href": "../../../../생산부/2. 디즈니/27SS/완사입/기획/DR1LTR080/DR2LTR080 원단발주서.xlsx",
-          "mtime": "2026-09-15",
+          "mtime": "2026-09-28",
           "rel": "완사입/기획/DR1LTR080/DR2LTR080 원단발주서.xlsx",
           "missing": false
         },
@@ -1154,7 +1170,7 @@
         {
           "name": "DR2LTR080 원단발주서.xlsx",
           "href": "../../../../생산부/2. 디즈니/27SS/완사입/기획/DR1LTR080/DR2LTR080 원단발주서.xlsx",
-          "mtime": "2026-09-15",
+          "mtime": "2026-09-28",
           "rel": "완사입/기획/DR1LTR080/DR2LTR080 원단발주서.xlsx",
           "missing": false
         }
@@ -1721,7 +1737,7 @@
         {
           "name": "DR1-LJP-003(MYN-2070)BT.xls",
           "href": "../../../../생산부/2. 디즈니/27SS/완사입/정상/DR1-LJP-003(MYN-2070)/DR1-LJP-003(MYN-2070)BT.xls",
-          "mtime": "2026-09-12",
+          "mtime": "2026-09-28",
           "rel": "완사입/정상/DR1-LJP-003(MYN-2070)/DR1-LJP-003(MYN-2070)BT.xls",
           "missing": false
         }
@@ -2173,6 +2189,72 @@
       "thumb": null,
       "images": [],
       "color_str": ""
+    },
+    {
+      "style": "DQ3-LAC-005",
+      "name": "",
+      "brand": "디즈니",
+      "source": "폴더스캔",
+      "category": "원단",
+      "category_sub": "",
+      "qty": 0,
+      "colors": {},
+      "vendor": "",
+      "art": "NX-1402+DTP",
+      "due": "",
+      "fabric_order": "",
+      "bt_cfm": [],
+      "bt_links": [],
+      "wip_links": [],
+      "fabric_po_links": [
+        {
+          "name": "NX-1402+DTP(DQ3-LAC-005)발주서.xlsx",
+          "href": "../../../../생산부/2. 디즈니/27SS/원단/27SS/NX-1402+DTP(DQ3-LAC-005)발주서.xlsx",
+          "mtime": "2026-10-01",
+          "rel": "원단/27SS/NX-1402+DTP(DQ3-LAC-005)발주서.xlsx",
+          "missing": false
+        }
+      ],
+      "trim_po_links": [],
+      "pack_links": [],
+      "trim_orders": [],
+      "nfiles": 1,
+      "flags": {
+        "fabric_po": true,
+        "trim_po": false,
+        "qc": false,
+        "sew": false,
+        "finish": false,
+        "pack": false,
+        "logistics": false
+      },
+      "done": 1,
+      "total": 7,
+      "pct": 14,
+      "complete": false,
+      "oneway": false,
+      "pending_note": "",
+      "code": {
+        "raw": "DQ3-LAC-005",
+        "code": "DQ3LAC005",
+        "brand_code": "D",
+        "brand": "디즈니",
+        "year_code": "Q",
+        "year": "2026년",
+        "season_code": "3",
+        "season": "가을",
+        "gender_code": "L",
+        "gender": "여성",
+        "item_code": "AC",
+        "item": "ACC",
+        "seq": "005",
+        "seq_band": "MAIN",
+        "ok": true
+      },
+      "thumb": null,
+      "images": [],
+      "color_str": "",
+      "thumb_src": null
     },
     {
       "style": "DQ3-LTS-013",
@@ -3164,17 +3246,18 @@
       "qty": 0,
       "colors": {},
       "vendor": "",
-      "art": "",
+      "art": "NX-1353",
       "due": "",
       "fabric_order": "",
       "bt_cfm": [
-        "2026-09-17"
+        "2026-09-17",
+        "2026-10-01"
       ],
       "bt_links": [
         {
           "name": "NX-1353(DR1-LTS-003)BT.xls",
           "href": "../../../../생산부/2. 디즈니/27SS/원단/27SS/NX-1353 + DTP(DR1-LTS-003)/NX-1353(DR1-LTS-003)BT.xls",
-          "mtime": "2026-09-17",
+          "mtime": "2026-10-01",
           "rel": "원단/27SS/NX-1353 + DTP(DR1-LTS-003)/NX-1353(DR1-LTS-003)BT.xls",
           "missing": false
         }
@@ -3430,6 +3513,625 @@
       "color_str": ""
     },
     {
+      "style": "DR2-LSH-032",
+      "name": "",
+      "brand": "디즈니",
+      "source": "폴더스캔",
+      "category": "원단",
+      "category_sub": "",
+      "qty": 0,
+      "colors": {},
+      "vendor": "",
+      "art": "PPS-M3383",
+      "due": "",
+      "fabric_order": "",
+      "bt_cfm": [
+        "2026-10-01"
+      ],
+      "bt_links": [
+        {
+          "name": "PPS-M3383(DR2-LSH-032, MSH-034)BT.xls",
+          "href": "../../../../생산부/2. 디즈니/27SS/원단/27SS/PPS-M3383(DR2-LSH-032, MSH-034)/PPS-M3383(DR2-LSH-032, MSH-034)BT.xls",
+          "mtime": "2026-10-01",
+          "rel": "원단/27SS/PPS-M3383(DR2-LSH-032, MSH-034)/PPS-M3383(DR2-LSH-032, MSH-034)BT.xls",
+          "missing": false
+        }
+      ],
+      "wip_links": [],
+      "fabric_po_links": [],
+      "trim_po_links": [],
+      "pack_links": [],
+      "trim_orders": [],
+      "nfiles": 1,
+      "flags": {
+        "fabric_po": false,
+        "trim_po": false,
+        "qc": false,
+        "sew": false,
+        "finish": false,
+        "pack": false,
+        "logistics": false
+      },
+      "done": 0,
+      "total": 7,
+      "pct": 0,
+      "complete": false,
+      "oneway": false,
+      "pending_note": "",
+      "code": {
+        "raw": "DR2-LSH-032",
+        "code": "DR2LSH032",
+        "brand_code": "D",
+        "brand": "디즈니",
+        "year_code": "R",
+        "year": "2027년",
+        "season_code": "2",
+        "season": "여름",
+        "gender_code": "L",
+        "gender": "여성",
+        "item_code": "SH",
+        "item": "셔츠",
+        "seq": "032",
+        "seq_band": "MAIN",
+        "ok": true
+      },
+      "thumb": null,
+      "images": [],
+      "color_str": "",
+      "thumb_src": null
+    },
+    {
+      "style": "DR2-LSH-034",
+      "name": "",
+      "brand": "디즈니",
+      "source": "폴더스캔",
+      "category": "원단",
+      "category_sub": "",
+      "qty": 0,
+      "colors": {},
+      "vendor": "",
+      "art": "NSR-T2441",
+      "due": "",
+      "fabric_order": "",
+      "bt_cfm": [
+        "2026-10-01"
+      ],
+      "bt_links": [
+        {
+          "name": "NSR-T2441(DR2-LSH-034)BT.xls",
+          "href": "../../../../생산부/2. 디즈니/27SS/원단/27SS/NSR-T2441(DR2-LSH-034)/NSR-T2441(DR2-LSH-034)BT.xls",
+          "mtime": "2026-10-01",
+          "rel": "원단/27SS/NSR-T2441(DR2-LSH-034)/NSR-T2441(DR2-LSH-034)BT.xls",
+          "missing": false
+        }
+      ],
+      "wip_links": [],
+      "fabric_po_links": [],
+      "trim_po_links": [],
+      "pack_links": [],
+      "trim_orders": [],
+      "nfiles": 1,
+      "flags": {
+        "fabric_po": false,
+        "trim_po": false,
+        "qc": false,
+        "sew": false,
+        "finish": false,
+        "pack": false,
+        "logistics": false
+      },
+      "done": 0,
+      "total": 7,
+      "pct": 0,
+      "complete": false,
+      "oneway": false,
+      "pending_note": "",
+      "code": {
+        "raw": "DR2-LSH-034",
+        "code": "DR2LSH034",
+        "brand_code": "D",
+        "brand": "디즈니",
+        "year_code": "R",
+        "year": "2027년",
+        "season_code": "2",
+        "season": "여름",
+        "gender_code": "L",
+        "gender": "여성",
+        "item_code": "SH",
+        "item": "셔츠",
+        "seq": "034",
+        "seq_band": "MAIN",
+        "ok": true
+      },
+      "thumb": null,
+      "images": [],
+      "color_str": "",
+      "thumb_src": null
+    },
+    {
+      "style": "DR2-LTL-043",
+      "name": "",
+      "brand": "디즈니",
+      "source": "폴더스캔",
+      "category": "원단",
+      "category_sub": "",
+      "qty": 0,
+      "colors": {},
+      "vendor": "",
+      "art": "HS-296N",
+      "due": "",
+      "fabric_order": "",
+      "bt_cfm": [
+        "2026-10-01"
+      ],
+      "bt_links": [
+        {
+          "name": "HS-296N(DR2-LTL-043)BT.xls",
+          "href": "../../../../생산부/2. 디즈니/27SS/원단/27SS/HS-296N(DR2-LTL-043)/HS-296N(DR2-LTL-043)BT.xls",
+          "mtime": "2026-10-01",
+          "rel": "원단/27SS/HS-296N(DR2-LTL-043)/HS-296N(DR2-LTL-043)BT.xls",
+          "missing": false
+        }
+      ],
+      "wip_links": [],
+      "fabric_po_links": [],
+      "trim_po_links": [],
+      "pack_links": [],
+      "trim_orders": [],
+      "nfiles": 1,
+      "flags": {
+        "fabric_po": false,
+        "trim_po": false,
+        "qc": false,
+        "sew": false,
+        "finish": false,
+        "pack": false,
+        "logistics": false
+      },
+      "done": 0,
+      "total": 7,
+      "pct": 0,
+      "complete": false,
+      "oneway": false,
+      "pending_note": "",
+      "code": {
+        "raw": "DR2-LTL-043",
+        "code": "DR2LTL043",
+        "brand_code": "D",
+        "brand": "디즈니",
+        "year_code": "R",
+        "year": "2027년",
+        "season_code": "2",
+        "season": "여름",
+        "gender_code": "L",
+        "gender": "여성",
+        "item_code": "TL",
+        "item": "민소매티셔츠",
+        "seq": "043",
+        "seq_band": "MAIN",
+        "ok": true
+      },
+      "thumb": null,
+      "images": [],
+      "color_str": "",
+      "thumb_src": null
+    },
+    {
+      "style": "DR2-LTR-040",
+      "name": "",
+      "brand": "디즈니",
+      "source": "폴더스캔",
+      "category": "원단",
+      "category_sub": "",
+      "qty": 0,
+      "colors": {},
+      "vendor": "",
+      "art": "JDK-S0501",
+      "due": "",
+      "fabric_order": "",
+      "bt_cfm": [
+        "2026-10-01"
+      ],
+      "bt_links": [
+        {
+          "name": "JDK-S0501(DR2-LTR-040, DR2-MTS-043).xls",
+          "href": "../../../../생산부/2. 디즈니/27SS/원단/27SS/JDK-S0501(DR2-LTR-040, DR2-MTS-043)/JDK-S0501(DR2-LTR-040, DR2-MTS-043).xls",
+          "mtime": "2026-10-01",
+          "rel": "원단/27SS/JDK-S0501(DR2-LTR-040, DR2-MTS-043)/JDK-S0501(DR2-LTR-040, DR2-MTS-043).xls",
+          "missing": false
+        }
+      ],
+      "wip_links": [],
+      "fabric_po_links": [],
+      "trim_po_links": [],
+      "pack_links": [],
+      "trim_orders": [],
+      "nfiles": 1,
+      "flags": {
+        "fabric_po": false,
+        "trim_po": false,
+        "qc": false,
+        "sew": false,
+        "finish": false,
+        "pack": false,
+        "logistics": false
+      },
+      "done": 0,
+      "total": 7,
+      "pct": 0,
+      "complete": false,
+      "oneway": false,
+      "pending_note": "",
+      "code": {
+        "raw": "DR2-LTR-040",
+        "code": "DR2LTR040",
+        "brand_code": "D",
+        "brand": "디즈니",
+        "year_code": "R",
+        "year": "2027년",
+        "season_code": "2",
+        "season": "여름",
+        "gender_code": "L",
+        "gender": "여성",
+        "item_code": "TR",
+        "item": "라운드티셔츠",
+        "seq": "040",
+        "seq_band": "MAIN",
+        "ok": true
+      },
+      "thumb": null,
+      "images": [],
+      "color_str": "",
+      "thumb_src": null
+    },
+    {
+      "style": "DR2-LTV-038",
+      "name": "",
+      "brand": "디즈니",
+      "source": "폴더스캔",
+      "category": "원단",
+      "category_sub": "",
+      "qty": 0,
+      "colors": {},
+      "vendor": "",
+      "art": "PN-1440",
+      "due": "",
+      "fabric_order": "",
+      "bt_cfm": [
+        "2026-10-01"
+      ],
+      "bt_links": [
+        {
+          "name": "PN-1440(DR2-LTV-038)BT.xls",
+          "href": "../../../../생산부/2. 디즈니/27SS/원단/27SS/PN-1440(DR2-LTV-038)/PN-1440(DR2-LTV-038)BT.xls",
+          "mtime": "2026-10-01",
+          "rel": "원단/27SS/PN-1440(DR2-LTV-038)/PN-1440(DR2-LTV-038)BT.xls",
+          "missing": false
+        }
+      ],
+      "wip_links": [],
+      "fabric_po_links": [],
+      "trim_po_links": [],
+      "pack_links": [],
+      "trim_orders": [],
+      "nfiles": 1,
+      "flags": {
+        "fabric_po": false,
+        "trim_po": false,
+        "qc": false,
+        "sew": false,
+        "finish": false,
+        "pack": false,
+        "logistics": false
+      },
+      "done": 0,
+      "total": 7,
+      "pct": 0,
+      "complete": false,
+      "oneway": false,
+      "pending_note": "",
+      "code": {
+        "raw": "DR2-LTV-038",
+        "code": "DR2LTV038",
+        "brand_code": "D",
+        "brand": "디즈니",
+        "year_code": "R",
+        "year": "2027년",
+        "season_code": "2",
+        "season": "여름",
+        "gender_code": "L",
+        "gender": "여성",
+        "item_code": "TV",
+        "item": "TV",
+        "seq": "038",
+        "seq_band": "MAIN",
+        "ok": true
+      },
+      "thumb": null,
+      "images": [],
+      "color_str": "",
+      "thumb_src": null
+    },
+    {
+      "style": "DR2-MSH-034",
+      "name": "",
+      "brand": "디즈니",
+      "source": "폴더스캔",
+      "category": "원단",
+      "category_sub": "",
+      "qty": 0,
+      "colors": {},
+      "vendor": "",
+      "art": "PPS-M3383",
+      "due": "",
+      "fabric_order": "",
+      "bt_cfm": [
+        "2026-10-01"
+      ],
+      "bt_links": [
+        {
+          "name": "PPS-M3383(DR2-LSH-032, MSH-034)BT.xls",
+          "href": "../../../../생산부/2. 디즈니/27SS/원단/27SS/PPS-M3383(DR2-LSH-032, MSH-034)/PPS-M3383(DR2-LSH-032, MSH-034)BT.xls",
+          "mtime": "2026-10-01",
+          "rel": "원단/27SS/PPS-M3383(DR2-LSH-032, MSH-034)/PPS-M3383(DR2-LSH-032, MSH-034)BT.xls",
+          "missing": false
+        }
+      ],
+      "wip_links": [],
+      "fabric_po_links": [],
+      "trim_po_links": [],
+      "pack_links": [],
+      "trim_orders": [],
+      "nfiles": 1,
+      "flags": {
+        "fabric_po": false,
+        "trim_po": false,
+        "qc": false,
+        "sew": false,
+        "finish": false,
+        "pack": false,
+        "logistics": false
+      },
+      "done": 0,
+      "total": 7,
+      "pct": 0,
+      "complete": false,
+      "oneway": false,
+      "pending_note": "",
+      "code": {
+        "raw": "DR2-MSH-034",
+        "code": "DR2MSH034",
+        "brand_code": "D",
+        "brand": "디즈니",
+        "year_code": "R",
+        "year": "2027년",
+        "season_code": "2",
+        "season": "여름",
+        "gender_code": "M",
+        "gender": "남성",
+        "item_code": "SH",
+        "item": "셔츠",
+        "seq": "034",
+        "seq_band": "MAIN",
+        "ok": true
+      },
+      "thumb": null,
+      "images": [],
+      "color_str": "",
+      "thumb_src": null
+    },
+    {
+      "style": "DR2-MTS-031",
+      "name": "",
+      "brand": "디즈니",
+      "source": "폴더스캔",
+      "category": "원단",
+      "category_sub": "",
+      "qty": 0,
+      "colors": {},
+      "vendor": "",
+      "art": "NX-0886P",
+      "due": "",
+      "fabric_order": "",
+      "bt_cfm": [
+        "2026-10-01"
+      ],
+      "bt_links": [
+        {
+          "name": "NX-0886P(DR2-MTS-031)BT.xls",
+          "href": "../../../../생산부/2. 디즈니/27SS/원단/27SS/NX-0886P(DR2-MTS-031)/NX-0886P(DR2-MTS-031)BT.xls",
+          "mtime": "2026-10-01",
+          "rel": "원단/27SS/NX-0886P(DR2-MTS-031)/NX-0886P(DR2-MTS-031)BT.xls",
+          "missing": false
+        }
+      ],
+      "wip_links": [],
+      "fabric_po_links": [],
+      "trim_po_links": [],
+      "pack_links": [],
+      "trim_orders": [],
+      "nfiles": 1,
+      "flags": {
+        "fabric_po": false,
+        "trim_po": false,
+        "qc": false,
+        "sew": false,
+        "finish": false,
+        "pack": false,
+        "logistics": false
+      },
+      "done": 0,
+      "total": 7,
+      "pct": 0,
+      "complete": false,
+      "oneway": false,
+      "pending_note": "",
+      "code": {
+        "raw": "DR2-MTS-031",
+        "code": "DR2MTS031",
+        "brand_code": "D",
+        "brand": "디즈니",
+        "year_code": "R",
+        "year": "2027년",
+        "season_code": "2",
+        "season": "여름",
+        "gender_code": "M",
+        "gender": "남성",
+        "item_code": "TS",
+        "item": "티셔츠",
+        "seq": "031",
+        "seq_band": "MAIN",
+        "ok": true
+      },
+      "thumb": null,
+      "images": [],
+      "color_str": "",
+      "thumb_src": null
+    },
+    {
+      "style": "DR2-MTS-032",
+      "name": "",
+      "brand": "디즈니",
+      "source": "폴더스캔",
+      "category": "원단",
+      "category_sub": "",
+      "qty": 0,
+      "colors": {},
+      "vendor": "",
+      "art": "LS-N364",
+      "due": "",
+      "fabric_order": "",
+      "bt_cfm": [
+        "2026-10-01"
+      ],
+      "bt_links": [
+        {
+          "name": "LS-N364(DR2-MTS-032)BT.xls",
+          "href": "../../../../생산부/2. 디즈니/27SS/원단/27SS/LS-N364(DR2-MTS-032)/LS-N364(DR2-MTS-032)BT.xls",
+          "mtime": "2026-10-01",
+          "rel": "원단/27SS/LS-N364(DR2-MTS-032)/LS-N364(DR2-MTS-032)BT.xls",
+          "missing": false
+        },
+        {
+          "name": "NX-1553(DR2-MTS-032)BT.xls",
+          "href": "../../../../생산부/2. 디즈니/27SS/원단/27SS/NX-1553(DR2-MTS-032)/NX-1553(DR2-MTS-032)BT.xls",
+          "mtime": "2026-10-01",
+          "rel": "원단/27SS/NX-1553(DR2-MTS-032)/NX-1553(DR2-MTS-032)BT.xls",
+          "missing": false
+        }
+      ],
+      "wip_links": [],
+      "fabric_po_links": [],
+      "trim_po_links": [],
+      "pack_links": [],
+      "trim_orders": [],
+      "nfiles": 2,
+      "flags": {
+        "fabric_po": false,
+        "trim_po": false,
+        "qc": false,
+        "sew": false,
+        "finish": false,
+        "pack": false,
+        "logistics": false
+      },
+      "done": 0,
+      "total": 7,
+      "pct": 0,
+      "complete": false,
+      "oneway": false,
+      "pending_note": "",
+      "code": {
+        "raw": "DR2-MTS-032",
+        "code": "DR2MTS032",
+        "brand_code": "D",
+        "brand": "디즈니",
+        "year_code": "R",
+        "year": "2027년",
+        "season_code": "2",
+        "season": "여름",
+        "gender_code": "M",
+        "gender": "남성",
+        "item_code": "TS",
+        "item": "티셔츠",
+        "seq": "032",
+        "seq_band": "MAIN",
+        "ok": true
+      },
+      "thumb": null,
+      "images": [],
+      "color_str": "",
+      "thumb_src": null
+    },
+    {
+      "style": "DR2-MTS-043",
+      "name": "",
+      "brand": "디즈니",
+      "source": "폴더스캔",
+      "category": "원단",
+      "category_sub": "",
+      "qty": 0,
+      "colors": {},
+      "vendor": "",
+      "art": "JDK-S0501",
+      "due": "",
+      "fabric_order": "",
+      "bt_cfm": [
+        "2026-10-01"
+      ],
+      "bt_links": [
+        {
+          "name": "JDK-S0501(DR2-LTR-040, DR2-MTS-043).xls",
+          "href": "../../../../생산부/2. 디즈니/27SS/원단/27SS/JDK-S0501(DR2-LTR-040, DR2-MTS-043)/JDK-S0501(DR2-LTR-040, DR2-MTS-043).xls",
+          "mtime": "2026-10-01",
+          "rel": "원단/27SS/JDK-S0501(DR2-LTR-040, DR2-MTS-043)/JDK-S0501(DR2-LTR-040, DR2-MTS-043).xls",
+          "missing": false
+        }
+      ],
+      "wip_links": [],
+      "fabric_po_links": [],
+      "trim_po_links": [],
+      "pack_links": [],
+      "trim_orders": [],
+      "nfiles": 1,
+      "flags": {
+        "fabric_po": false,
+        "trim_po": false,
+        "qc": false,
+        "sew": false,
+        "finish": false,
+        "pack": false,
+        "logistics": false
+      },
+      "done": 0,
+      "total": 7,
+      "pct": 0,
+      "complete": false,
+      "oneway": false,
+      "pending_note": "",
+      "code": {
+        "raw": "DR2-MTS-043",
+        "code": "DR2MTS043",
+        "brand_code": "D",
+        "brand": "디즈니",
+        "year_code": "R",
+        "year": "2027년",
+        "season_code": "2",
+        "season": "여름",
+        "gender_code": "M",
+        "gender": "남성",
+        "item_code": "TS",
+        "item": "티셔츠",
+        "seq": "043",
+        "seq_band": "MAIN",
+        "ok": true
+      },
+      "thumb": null,
+      "images": [],
+      "color_str": "",
+      "thumb_src": null
+    },
+    {
       "style": "SR1-LTR-017",
       "name": "",
       "brand": "스팍스",
@@ -3563,17 +4265,18 @@
       "qty": 0,
       "colors": {},
       "vendor": "",
-      "art": "",
+      "art": "MYN-1335-2",
       "due": "",
       "fabric_order": "",
       "bt_cfm": [
-        "2026-09-19"
+        "2026-09-19",
+        "2026-10-01"
       ],
       "bt_links": [
         {
           "name": "MYN-1335-2(SR1-MPA-0015)BT.xls",
           "href": "../../../../생산부/2. 디즈니/27SS/원단/27SS/MYN-1335-2(SR1-MPA-015)/MYN-1335-2(SR1-MPA-0015)BT.xls",
-          "mtime": "2026-09-19",
+          "mtime": "2026-10-01",
           "rel": "원단/27SS/MYN-1335-2(SR1-MPA-015)/MYN-1335-2(SR1-MPA-0015)BT.xls",
           "missing": false
         }
@@ -3630,11 +4333,21 @@
       "qty": 0,
       "colors": {},
       "vendor": "",
-      "art": "",
+      "art": "MYP-2846",
       "due": "",
       "fabric_order": "",
-      "bt_cfm": [],
-      "bt_links": [],
+      "bt_cfm": [
+        "2026-10-01"
+      ],
+      "bt_links": [
+        {
+          "name": "MYP-2846(SR2-LPA-047).xls",
+          "href": "../../../../생산부/2. 디즈니/27SS/원단/27SS/MYP-2846(SR2-LPA-047)/MYP-2846(SR2-LPA-047).xls",
+          "mtime": "2026-10-01",
+          "rel": "원단/27SS/MYP-2846(SR2-LPA-047)/MYP-2846(SR2-LPA-047).xls",
+          "missing": false
+        }
+      ],
       "wip_links": [],
       "fabric_po_links": [],
       "trim_po_links": [],
@@ -3990,8 +4703,8 @@
   "counts": {
     "완사입기획": 12,
     "완사입정상": 9,
-    "원단": 23,
-    "BT미정": 21
+    "원단": 33,
+    "BT미정": 20
   },
   "meta": {
     "canonical": "progress.json",
@@ -4003,7 +4716,7 @@
     "style_code_parse": "Brand+Year+Season+Gender+Item2+Seq",
     "href_root": "../../../../생산부/2. 디즈니/27SS/",
     "thumb_note": "jpg/png priority: BT/CFM/컨펌/착장; from style folder or 발주서",
-    "fix_note": "2026-09-24: removed ghost DR2LTR090→merged PO into DR2LTR091; SR1MTR081/MTS081 thumb→thumbs + SM1MTR081 WIP linked; asOf 2026-09-24 | 2026-09-25 daily: +SR1MJB080(wip only, thumb blocked no color flats); DR1LJB080 bt += DR1-LJB-080(CS3030).xls; 나염/원가 파일은 원가보드 기존반영.",
+    "fix_note": "2026-09-24: removed ghost DR2LTR090→merged PO into DR2LTR091; SR1MTR081/MTS081 thumb→thumbs + SM1MTR081 WIP linked; asOf 2026-09-24 | 2026-09-25 daily: +SR1MJB080(wip only, thumb blocked no color flats); DR1LJB080 bt += DR1-LJB-080(CS3030).xls; 나염/원가 파일은 원가보드 기존반영. | 2026-09-30 daily: SR1MTR081 bt+=BK/WH BT컨펌; DR2LTS090/DR2MTS090 qc+=검사리포트; DQ3-LAC-005 원단발주 추가; LTR080/LJP003 mtime sync; 원가·견적·MAINLIST silent skip | 2026-10-02 daily: 원단 BT 다건(DR2-LSH/MSH/LTV/LTR/LTL/MTS 등) + SR2-LPA-047 bt + LAC005/MPA015/LTS003 mtime; 견적·parent PPS silent skip; thumbs/merge skip(xls)",
     "counts_note": "BT미정(counts)=bt_links·bt_cfm 모두 없는 행 수(BT 파일 미확인, 2026-09-25~). category=BT미정 행 수와 다름(현재 4). counts는 키별 독립 집계라 합계≠rows."
   },
   "code_rules": {
@@ -4109,7 +4822,7 @@
   },
   "vis": {
     "with_thumb": 17,
-    "without_thumb": 31,
+    "without_thumb": 41,
     "link_stats": {
       "depth4": 103,
       "missing": 0,

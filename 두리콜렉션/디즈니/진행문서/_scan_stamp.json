@@ -1,22 +1,37 @@
 {
-  "asOf": "2026-09-30",
-  "ranAt": "2026-09-30T08:08:23.376238+09:00",
-  "cutoff_used": "2026-09-28 08:06:46 Asia/Seoul",
+  "asOf": "2026-10-02",
+  "ranAt": "2026-10-02T08:11:35.498047+09:00",
+  "cutoff_used": "2026-09-30 08:09:30 Asia/Seoul",
   "silent_skip": [
-    "해외생산·원가·견적·MAINLIST·이화학·TIANHAO납기단가 → 원가보드/비슬롯 skip"
+    "해외생산·원가·견적·MAINLIST·이화학·TIANHAO납기단가 → 원가보드/비슬롯 skip",
+    "원단/27SS/PPS-M3383(DR2-LSH-032, MSH-034)BT.xls parent duplicate → use folder copy"
   ],
   "changes": [
-    "SR1MTR081 bt += BK, WH BT컨펌.jpg",
-    "DR2LTS090 qc += DR2LTS090, MTS090 검사리포트.xlsx",
-    "DR2MTS090 qc += DR2LTS090, MTS090 검사리포트.xlsx",
-    "DR1LTR080 fabric_po/DR2LTR080 원단발주서.xlsx mtime→2026-09-28",
-    "DR2LTR080 fabric_po/DR2LTR080 원단발주서.xlsx mtime→2026-09-28",
-    "DR1-LJP-003 bt/DR1-LJP-003(MYN-2070)BT.xls mtime→2026-09-28",
-    "DQ3-LAC-005 added (원단 fabric_po only)"
+    "DQ3-LAC-005 fabric_po/NX-1402+DTP(DQ3-LAC-005)발주서.xlsx mtime→2026-10-01",
+    "SR1-MPA-015 bt/MYN-1335-2(SR1-MPA-0015)BT.xls mtime→2026-10-01",
+    "DR1-LTS-003 bt/NX-1353(DR1-LTS-003)BT.xls mtime→2026-10-01",
+    "SR2-LPA-047 bt += MYP-2846(SR2-LPA-047).xls",
+    "DR2-LSH-032 added (원단 bt: PPS-M3383(DR2-LSH-032, MSH-034)BT.xls)",
+    "DR2-MSH-034 added (원단 bt: PPS-M3383(DR2-LSH-032, MSH-034)BT.xls)",
+    "DR2-LSH-034 added (원단 bt: NSR-T2441(DR2-LSH-034)BT.xls)",
+    "DR2-LTV-038 added (원단 bt: PN-1440(DR2-LTV-038)BT.xls)",
+    "DR2-LTR-040 added (원단 bt: JDK-S0501(DR2-LTR-040, DR2-MTS-043).xls)",
+    "DR2-MTS-043 added (원단 bt: JDK-S0501(DR2-LTR-040, DR2-MTS-043).xls)",
+    "DR2-LTL-043 added (원단 bt: HS-296N(DR2-LTL-043)BT.xls)",
+    "DR2-MTS-031 added (원단 bt: NX-0886P(DR2-MTS-031)BT.xls)",
+    "DR2-MTS-032 added (원단 bt: LS-N364(DR2-MTS-032)BT.xls)",
+    "DR2-MTS-032 bt += NX-1553(DR2-MTS-032)BT.xls",
+    "DR2-LSH-032 progdocs article inserted",
+    "DR2-LSH-034 progdocs article inserted",
+    "DR2-LTL-043 progdocs article inserted",
+    "DR2-LTR-040 progdocs article inserted",
+    "DR2-LTV-038 progdocs article inserted",
+    "DR2-MSH-034 progdocs article inserted",
+    "DR2-MTS-031 progdocs article inserted",
+    "DR2-MTS-032 progdocs article inserted",
+    "DR2-MTS-043 progdocs article inserted"
   ],
   "thumbs": "none (no 작지 color diagram change)",
-  "merge": [
-    "SR1MTR081"
-  ],
-  "integrate_pdf": "skipped: only SR1MTR081 new merge this run; full 27SS_진행문서_통합 deferred"
+  "merge": [],
+  "integrate_pdf": "skipped: changed files are xls/xlsx only (not mergeable); 27SS_진행문서_통합 deferred"
 }
