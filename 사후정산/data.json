@@ -1,24 +1,25 @@
 {
-  "generated": "2026-09-28 08:14",
+  "generated": "2026-10-02 08:02",
   "scope": "정산서만(누락작지·관리부·ETC 제외) · 패킹=파일명 · 종결=status meta(읽기만)",
   "targetZ": "Z:\\HDD1\\MARU\\dashboard\\사후정산\\",
-  "count": 37,
+  "count": 38,
   "packingN": 11,
   "brandCounts": {
+    "?": 1,
     "디즈니": 12,
     "시머트리": 4,
     "굿트러스트": 21
   },
   "statusMeta": {
-    "asOf": "2026-09-25",
+    "asOf": "2026-10-01",
     "n": 92,
     "qty": 22713,
     "completeN": 26,
     "inboundN": 13,
     "shipN": 27,
     "shipQ": 11726,
-    "unshipOverdueN": 0,
-    "unshipOverdueQ": 0
+    "unshipOverdueN": 1,
+    "unshipOverdueQ": 212
   },
   "inventorySource": "air-morning",
   "items": [
@@ -501,6 +502,19 @@
       "bytes": 18008,
       "mtime": "2026-08-08",
       "href": "../../생산부/정산서/2026/디즈니/6월/마루 6월 마감.xlsx",
+      "packing": false
+    },
+    {
+      "src": "PROD",
+      "brand": "",
+      "year": "2026",
+      "month": "",
+      "path": "생산부\\정산서\\2026\\월별마감\\국내생산 8월 마감 금액.xlsx",
+      "name": "국내생산 8월 마감 금액.xlsx",
+      "ext": ".xlsx",
+      "bytes": 18173,
+      "mtime": "2026-09-28",
+      "href": "../../생산부/정산서/2026/월별마감/국내생산 8월 마감 금액.xlsx",
       "packing": false
     }
   ]
