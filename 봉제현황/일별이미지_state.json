@@ -1,16 +1,16 @@
 {
-  "updated": "2026-10-02 07:57",
+  "updated": "2026-10-06 07:23",
   "source_folder": "Z:\\HDD1\\MARU\\생산부\\생산현황표\\봉제생산현황",
   "processed": [
     {
       "name": "봉제생산현황_묶음.pdf",
-      "sha256": "e1e15eccdef5ced35d29791509d3ea43a45fbc89608d0354b7246016d414886c",
-      "size": 34469673,
-      "pages": 49,
-      "images": 49,
+      "sha256": "7bef87e613445d91feb0f0b49c2e3148ae5eaced1524292d3e11280537920fa1",
+      "size": 35687953,
+      "pages": 51,
+      "images": 51,
       "name_old": "봉제생산현황.pdf",
       "path": "Z:\\HDD1\\MARU\\생산부\\생산현황표\\봉제생산현황\\PDF\\봉제생산현황_묶음.pdf",
-      "sha256_prev": "169b25f3480f71d94e19b27226a63281c96083eea3a667fd2faca107fcd41a56"
+      "sha256_prev": "e1e15eccdef5ced35d29791509d3ea43a45fbc89608d0354b7246016d414886c"
     },
     {
       "name": "2026-09-18_일지.pdf",
@@ -121,6 +121,28 @@
       "note": "본문10/01(목)확정 애리후세607",
       "name_old": null,
       "path": "Z:\\HDD1\\MARU\\생산부\\생산현황표\\봉제생산현황\\PDF\\2026-10-01_일지.pdf"
+    },
+    {
+      "name": "2026-10-02_일지.pdf",
+      "sha256": "2523d530f2120d64e0cb251d92a99bed57871d5a1a444ba7a9d7746200cd19f6",
+      "size": 615583,
+      "pages": 1,
+      "images": 1,
+      "date_guess": "2026-10-02",
+      "note": "본문10/02(금)확정 애리후세404",
+      "name_old": null,
+      "path": "Z:\\HDD1\\MARU\\생산부\\생산현황표\\봉제생산현황\\PDF\\2026-10-02_일지.pdf"
+    },
+    {
+      "name": "2026-10-03_일지.pdf",
+      "sha256": "a7c24385777c805435af0858840e124f9d3875260635886050df364cc2eaf4be",
+      "size": 611471,
+      "pages": 1,
+      "images": 1,
+      "date_guess": "2026-10-03",
+      "note": "본문10/03(토)확정 애리후세323",
+      "name_old": null,
+      "path": "Z:\\HDD1\\MARU\\생산부\\생산현황표\\봉제생산현황\\PDF\\2026-10-03_일지.pdf"
     }
   ],
   "output": "Z:\\HDD1\\MARU\\생산부\\생산현황표\\봉제생산현황\\일별",
@@ -134,7 +156,7 @@
     "enabled": true,
     "note": "평일 08:00 · 신규 PDF만 · 생산현황 일일보드와 별개"
   },
-  "image_count": 60,
+  "image_count": 64,
   "source_pdf": "Z:\\HDD1\\MARU\\생산부\\생산현황표\\봉제생산현황\\PDF",
   "source_daily": "Z:\\HDD1\\MARU\\생산부\\생산현황표\\봉제생산현황\\일별",
   "dashboard_mirror": "Z:\\HDD1\\MARU\\dashboard\\봉제현황\\일별이미지",
