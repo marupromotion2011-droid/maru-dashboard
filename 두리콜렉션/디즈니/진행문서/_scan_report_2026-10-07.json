@@ -1,0 +1,135 @@
+{
+  "asOf": "2026-10-07",
+  "ran_at": "2026-10-07T08:20:19.259108+09:00",
+  "cutoff_used": "2026-10-02 08:12:32 Asia/Seoul",
+  "scan_count": 26,
+  "changes": [
+    "DR2-MTR-036 added (원단 bt: NX-1981CP(DR2-MTR-035).xls)",
+    "DR2-MTS-035 added (원단 bt: L1-2495P(DR2-MTS-035)BT.xls)",
+    "DR2-LPS-037 added (원단 bt: BDS-2708(DR2-LPS-037,DR2-LTR-039)BT.xls)",
+    "DR2-LTR-039 added (원단 bt: BDS-2708(DR2-LPS-037,DR2-LTR-039)BT.xls)",
+    "DR2-LPA-033 added (원단 bt: AB-6180(DR2-LPA-033, DR2-LPS-036).xls)",
+    "DR2-LPS-036 added (원단 bt: AB-6180(DR2-LPA-033, DR2-LPS-036).xls)",
+    "DR2-LPA-032 added (원단 bt: MYN-585(DR2-LPA-032)BT.xls)",
+    "DR2-MPA-031 added (원단 bt: AB-6086(DR2-MPA-031, DR2-LCR-030)BT.xls)",
+    "DR2-LCR-030 added (원단 bt: AB-6086(DR2-MPA-031, DR2-LCR-030)BT.xls)",
+    "DR2-MTS-043 bt += JDK-S0501(DR2-MTS-043)BT.xls",
+    "DR2-MTR-036 note: BT 파일명은 MTR-035 표기 — 의뢰서 본문 STYLE NO(DR2-MTR-036) 기준",
+    "DR2-LPS-036 note: BT 의뢰서 본문은 DR2-LPA-036 표기 — 폴더·파일명(LPS-036) 기준, 확인 필요",
+    "DR1MPA003 AB-6098 링크 3건 → '- 복사본' 폴더 경로 (원폴더 없음, 파일 동일 사본); 09-03 발주서.pdf 파일 없음 → missing",
+    "DR1MPA003 note: 기타: AB-6098 폴더가 '- 복사본' 이름으로만 존재 — 원폴더명 복구 시 링크 재확인",
+    "DR1-MJP-003 note: 기타: 폴더에 AB-6098 발주서 사본(10-06, 동일파일) — 자체 원단발주서 확정 시 반영",
+    "DR1LTR080 trim_po += 두리 기획티셔츠 투명어깨테이프 발주서.xlsx",
+    "DR1LTR080 trim_po += KakaoTalk_20261002_094503673.png",
+    "DR1LTR080 trim_po += 투명모빌론 어깨TAPE.txt",
+    "DR2LTS090 trim_po += 두리 기획티셔츠 투명어깨테이프 발주서.xlsx",
+    "DR2LTS090 trim_po += KakaoTalk_20261002_094503673.png",
+    "DR2LTS090 trim_po += 투명모빌론 어깨TAPE.txt",
+    "DR2LTR091 trim_po += 두리 기획티셔츠 투명어깨테이프 발주서.xlsx",
+    "DR2LTR091 trim_po += KakaoTalk_20261002_094503673.png",
+    "DR2LTR091 trim_po += 투명모빌론 어깨TAPE.txt",
+    "DR2MTS090 trim_po += 두리 기획티셔츠 투명어깨테이프 발주서.xlsx",
+    "DR2MTS090 trim_po += KakaoTalk_20261002_094503673.png",
+    "DR2MTS090 trim_po += 투명모빌론 어깨TAPE.txt",
+    "DR2-LCR-030 progdocs article inserted",
+    "DR2-LPA-032 progdocs article inserted",
+    "DR2-LPA-033 progdocs article inserted",
+    "DR2-LPS-036 progdocs article inserted",
+    "DR2-LPS-037 progdocs article inserted",
+    "DR2-LTR-039 progdocs article inserted",
+    "DR2-MPA-031 progdocs article inserted",
+    "DR2-MTR-036 progdocs article inserted",
+    "DR2-MTS-035 progdocs article inserted"
+  ],
+  "silent_skip": [
+    "27SS MAINLIST.xlsx · 완사입/정상/견적서/27SS디즈니 아우터 원가 견적서 09.23 추가 3건.xlsx · 26FW/완사입/2006 해외생산 전체 가공임 단가 2026.xlsx → 원가보드/비슬롯 skip",
+    "~$* 임시파일 3건 무시",
+    "원단/27SS/MYN-1416(DR1-MJP-003)/AB-6098(DR1-MPA-003, MJV-002, LPA-006) 발주서.xlsx = AB-6098 발주서와 동일 해시 사본(10-06 편집중 ~$ 있음) → 슬롯 미반영, DR1-MJP-003 기타 note"
+  ],
+  "merge": [],
+  "thumb_skip": "all: no 작지/colorway diagram mtime >= cutoff",
+  "touched_styles": [
+    "DR1-MJP-003",
+    "DR1LTR080",
+    "DR1MPA003",
+    "DR2-LCR-030",
+    "DR2-LPA-032",
+    "DR2-LPA-033",
+    "DR2-LPS-036",
+    "DR2-LPS-037",
+    "DR2-LTR-039",
+    "DR2-MPA-031",
+    "DR2-MTR-036",
+    "DR2-MTS-035",
+    "DR2-MTS-043",
+    "DR2LTR091",
+    "DR2LTS090",
+    "DR2MTS090"
+  ],
+  "new_styles": [
+    "DR2-LCR-030",
+    "DR2-LPA-032",
+    "DR2-LPA-033",
+    "DR2-LPS-036",
+    "DR2-LPS-037",
+    "DR2-LTR-039",
+    "DR2-MPA-031",
+    "DR2-MTR-036",
+    "DR2-MTS-035"
+  ],
+  "n_styles": 67,
+  "written": [
+    "디즈니/진행문서/progress.json",
+    "디즈니/진행문서/slots.json",
+    "디즈니/진행문서/진행-progress.json",
+    "디즈니/진행문서/index.html",
+    "디즈니/진행/index.html",
+    "디즈니/진행문서/_scan_stamp.json",
+    "summary.json",
+    "index.html",
+    "디즈니/진행/progress.json",
+    "디즈니/진행문서/_scan_report_2026-10-07.json"
+  ],
+  "gate": "Z:\\HDD1\\MARU\\dashboard\\두리콜렉션\\ — 2026-10-07 일일폴더반영(원단 BT 9스타일 신규·MTS-043 BT+·기획4 어깨테이프 부자재발주·AB-6098 복사본 링크) 게이트",
+  "regen": {
+    "cmd": "python3 /workspace/duri_daily_scan/regen_views.py --root /workspace/duri_daily_scan/1007/out --report /workspace/duri_daily_scan/1007/out/regen_report.json",
+    "kpi": {
+      "styles": 67,
+      "avg_pct": 7,
+      "complete": 0,
+      "oneway": 2,
+      "counts": {
+        "완사입기획": 12,
+        "완사입정상": 9,
+        "원단": 42,
+        "BT미정": 4
+      },
+      "bt_file_none": 20
+    },
+    "docs_sec_counts": {
+      "완사입 기획": {
+        "before": 12,
+        "after": 12
+      },
+      "완사입 정상": {
+        "before": 9,
+        "after": 9
+      },
+      "원단": {
+        "before": 33,
+        "after": 42
+      },
+      "BT미정": {
+        "before": 4,
+        "after": 4
+      }
+    },
+    "written": [
+      "index.html",
+      "summary.json",
+      "디즈니/진행문서/index.html",
+      "디즈니/진행/progress.json"
+    ]
+  },
+  "concurrent_note": "10-07 08:14~08:15 KST 다른 작업이 Z 허브·진행문서 index.html·27SS/index.html의 AB-6098 링크를 '- 복사본'으로 갱신(백업 없음, mtime 08:15). 본 회차는 그 최신본을 입력으로 사용, 27SS/index.html은 미변경."
+}

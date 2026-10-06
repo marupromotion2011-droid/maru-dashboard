@@ -1,6 +1,6 @@
 {
   "meta": {
-    "asOf": "2026-10-02",
+    "asOf": "2026-10-07",
     "nOrders": 92,
     "nCurrent": 78,
     "nRest": 14,
@@ -8,9 +8,9 @@
     "source": "current-work-week.xlsx",
     "unmatchedPos": [],
     "note": "현작업분 따로 · 나머지 납기 월별 · 첨부는 칩만",
-    "shipN": 27,
+    "shipN": 28,
     "rebuiltFrom": "data.json",
-    "rebuiltAt": "2026-10-01T23:35:01.573Z"
+    "rebuiltAt": "2026-10-06T23:39:22.976Z"
   },
   "sections": [
     {
@@ -45,10 +45,10 @@
               "stage": "납품완료",
               "stageLabel": "납품완료",
               "deliveryDue": "2026-09-18",
-              "dueSource": "weekly",
+              "dueSource": "fallback",
               "ddayStatus": "완료",
-              "stageDate": "2026-09-11",
-              "dday": null
+              "dday": null,
+              "stageDate": "2026-09-11"
             }
           ]
         },
@@ -78,9 +78,9 @@
               "stage": "완성",
               "stageLabel": "완성",
               "deliveryDue": "2026-10-08",
-              "dueSource": "weekly",
-              "ddayStatus": "정상",
-              "dday": 6,
+              "dueSource": "fallback",
+              "ddayStatus": "임박",
+              "dday": 1,
               "ship": "",
               "stageDate": "2026-09-02"
             }
@@ -113,8 +113,8 @@
               "stageLabel": "완성",
               "deliveryDue": "2026-10-09",
               "dueSource": "fallback",
-              "ddayStatus": "정상",
-              "dday": 7,
+              "ddayStatus": "임박",
+              "dday": 2,
               "ship": "",
               "stageDate": "2026-09-01"
             }
@@ -147,8 +147,8 @@
               "stageLabel": "봉제",
               "deliveryDue": "2026-10-09",
               "dueSource": "fallback",
-              "ddayStatus": "정상",
-              "dday": 7,
+              "ddayStatus": "임박",
+              "dday": 2,
               "ship": "",
               "stageDate": "2026-08-24"
             }
@@ -181,8 +181,8 @@
               "stageLabel": "봉제",
               "deliveryDue": "2026-10-09",
               "dueSource": "fallback",
-              "ddayStatus": "정상",
-              "dday": 7,
+              "ddayStatus": "임박",
+              "dday": 2,
               "ship": "",
               "stageDate": "2026-08-24"
             }
@@ -217,8 +217,8 @@
               "deliveryDue": "2026-10-09",
               "dueSource": "fallback",
               "ddayStatus": "완료",
-              "stageDate": "2026-09-21",
-              "dday": null
+              "dday": null,
+              "stageDate": "2026-09-21"
             }
           ]
         },
@@ -249,8 +249,8 @@
               "stageLabel": "봉제",
               "deliveryDue": "2026-10-09",
               "dueSource": "fallback",
-              "ddayStatus": "정상",
-              "dday": 7,
+              "ddayStatus": "임박",
+              "dday": 2,
               "ship": "",
               "stageDate": "2026-08-25"
             }
@@ -283,8 +283,8 @@
               "stageLabel": "봉제",
               "deliveryDue": "2026-10-09",
               "dueSource": "fallback",
-              "ddayStatus": "정상",
-              "dday": 7,
+              "ddayStatus": "임박",
+              "dday": 2,
               "ship": "",
               "stageDate": "2026-08-26"
             }
@@ -317,8 +317,8 @@
               "stageLabel": "봉제",
               "deliveryDue": "2026-10-09",
               "dueSource": "fallback",
-              "ddayStatus": "정상",
-              "dday": 7,
+              "ddayStatus": "임박",
+              "dday": 2,
               "ship": "",
               "stageDate": "2026-08-26"
             }
@@ -351,8 +351,8 @@
               "stageLabel": "봉제",
               "deliveryDue": "2026-10-09",
               "dueSource": "fallback",
-              "ddayStatus": "정상",
-              "dday": 7,
+              "ddayStatus": "임박",
+              "dday": 2,
               "ship": "",
               "stageDate": "2026-08-26"
             }
@@ -385,8 +385,8 @@
               "stageLabel": "봉제",
               "deliveryDue": "2026-10-09",
               "dueSource": "fallback",
-              "ddayStatus": "정상",
-              "dday": 7,
+              "ddayStatus": "임박",
+              "dday": 2,
               "ship": "",
               "stageDate": "2026-08-27"
             }
@@ -421,8 +421,8 @@
               "deliveryDue": "2026-10-09",
               "dueSource": "fallback",
               "ddayStatus": "완료",
-              "stageDate": "2026-09-21",
-              "dday": null
+              "dday": null,
+              "stageDate": "2026-09-21"
             }
           ]
         },
@@ -453,8 +453,8 @@
               "stageLabel": "봉제",
               "deliveryDue": "2026-10-09",
               "dueSource": "fallback",
-              "ddayStatus": "정상",
-              "dday": 7,
+              "ddayStatus": "임박",
+              "dday": 2,
               "ship": "",
               "stageDate": "2026-08-27"
             }
@@ -489,8 +489,8 @@
               "deliveryDue": "2026-10-09",
               "dueSource": "fallback",
               "ddayStatus": "완료",
-              "stageDate": "2026-09-21",
-              "dday": null
+              "dday": null,
+              "stageDate": "2026-09-21"
             }
           ]
         },
@@ -523,8 +523,8 @@
               "deliveryDue": "2026-10-09",
               "dueSource": "fallback",
               "ddayStatus": "완료",
-              "stageDate": "2026-09-21",
-              "dday": null
+              "dday": null,
+              "stageDate": "2026-09-21"
             }
           ]
         },
@@ -555,8 +555,8 @@
               "stageLabel": "봉제",
               "deliveryDue": "2026-10-09",
               "dueSource": "fallback",
-              "ddayStatus": "정상",
-              "dday": 7,
+              "ddayStatus": "임박",
+              "dday": 2,
               "ship": "",
               "stageDate": "2026-08-28"
             }
@@ -589,8 +589,8 @@
               "stageLabel": "봉제",
               "deliveryDue": "2026-10-09",
               "dueSource": "fallback",
-              "ddayStatus": "정상",
-              "dday": 7,
+              "ddayStatus": "임박",
+              "dday": 2,
               "ship": "",
               "stageDate": "2026-08-31"
             }
@@ -623,8 +623,8 @@
               "stageLabel": "봉제",
               "deliveryDue": "2026-10-09",
               "dueSource": "fallback",
-              "ddayStatus": "정상",
-              "dday": 7,
+              "ddayStatus": "임박",
+              "dday": 2,
               "ship": "",
               "stageDate": "2026-08-31"
             }
@@ -657,8 +657,8 @@
               "stageLabel": "봉제",
               "deliveryDue": "2026-10-09",
               "dueSource": "fallback",
-              "ddayStatus": "정상",
-              "dday": 7,
+              "ddayStatus": "임박",
+              "dday": 2,
               "ship": "",
               "stageDate": "2026-08-31"
             }
@@ -691,8 +691,8 @@
               "stageLabel": "봉제",
               "deliveryDue": "2026-10-09",
               "dueSource": "fallback",
-              "ddayStatus": "정상",
-              "dday": 7,
+              "ddayStatus": "임박",
+              "dday": 2,
               "ship": "",
               "stageDate": "2026-08-31"
             }
@@ -727,8 +727,8 @@
               "deliveryDue": "2026-10-09",
               "dueSource": "fallback",
               "ddayStatus": "완료",
-              "stageDate": "2026-09-21",
-              "dday": null
+              "dday": null,
+              "stageDate": "2026-09-21"
             }
           ]
         },
@@ -759,8 +759,8 @@
               "stageLabel": "봉제",
               "deliveryDue": "2026-10-09",
               "dueSource": "fallback",
-              "ddayStatus": "정상",
-              "dday": 7,
+              "ddayStatus": "임박",
+              "dday": 2,
               "ship": "",
               "stageDate": "2026-09-15"
             }
@@ -793,8 +793,8 @@
               "stageLabel": "봉제",
               "deliveryDue": "2026-10-09",
               "dueSource": "fallback",
-              "ddayStatus": "정상",
-              "dday": 7,
+              "ddayStatus": "임박",
+              "dday": 2,
               "ship": "",
               "stageDate": "2026-09-15"
             }
@@ -827,8 +827,8 @@
               "stageLabel": "봉제",
               "deliveryDue": "2026-10-09",
               "dueSource": "fallback",
-              "ddayStatus": "정상",
-              "dday": 7,
+              "ddayStatus": "임박",
+              "dday": 2,
               "ship": "",
               "stageDate": "2026-09-15"
             }
@@ -861,8 +861,8 @@
               "stageLabel": "봉제",
               "deliveryDue": "2026-10-09",
               "dueSource": "fallback",
-              "ddayStatus": "정상",
-              "dday": 7,
+              "ddayStatus": "임박",
+              "dday": 2,
               "ship": "",
               "stageDate": "2026-09-15"
             }
@@ -895,8 +895,8 @@
               "stageLabel": "봉제",
               "deliveryDue": "2026-10-09",
               "dueSource": "fallback",
-              "ddayStatus": "정상",
-              "dday": 7,
+              "ddayStatus": "임박",
+              "dday": 2,
               "ship": "",
               "stageDate": "2026-09-15"
             }
@@ -929,8 +929,8 @@
               "stageLabel": "봉제",
               "deliveryDue": "2026-10-09",
               "dueSource": "fallback",
-              "ddayStatus": "정상",
-              "dday": 7,
+              "ddayStatus": "임박",
+              "dday": 2,
               "ship": "",
               "stageDate": "2026-09-15"
             }
@@ -963,8 +963,8 @@
               "stageLabel": "봉제",
               "deliveryDue": "2026-10-09",
               "dueSource": "fallback",
-              "ddayStatus": "정상",
-              "dday": 7,
+              "ddayStatus": "임박",
+              "dday": 2,
               "ship": "",
               "stageDate": "2026-09-15"
             }
@@ -997,8 +997,8 @@
               "stageLabel": "봉제",
               "deliveryDue": "2026-10-09",
               "dueSource": "fallback",
-              "ddayStatus": "정상",
-              "dday": 7,
+              "ddayStatus": "임박",
+              "dday": 2,
               "ship": "",
               "stageDate": "2026-09-16"
             }
@@ -1027,14 +1027,14 @@
               "matName": "로백 SP27 MPOL 더 멀리건 - 플리트 네이비화이트).xlsx",
               "imgUrl": "",
               "imgName": "",
-              "stage": "재단",
-              "stageLabel": "재단 184/175",
+              "stage": "봉제",
+              "stageLabel": "봉제",
               "deliveryDue": "2026-10-09",
               "dueSource": "fallback",
-              "ddayStatus": "정상",
-              "dday": 7,
+              "ddayStatus": "임박",
+              "dday": 2,
               "ship": "",
-              "stageDate": "2026-09-09"
+              "stageDate": "2026-09-18"
             }
           ]
         },
@@ -1061,14 +1061,14 @@
               "matName": "로백 SP27 MPOL 더 멀리건 - 플리트 네이비화이트).xlsx",
               "imgUrl": "",
               "imgName": "",
-              "stage": "재단",
-              "stageLabel": "재단 184/175",
+              "stage": "봉제",
+              "stageLabel": "봉제",
               "deliveryDue": "2026-10-09",
               "dueSource": "fallback",
-              "ddayStatus": "정상",
-              "dday": 7,
+              "ddayStatus": "임박",
+              "dday": 2,
               "ship": "",
-              "stageDate": "2026-09-09"
+              "stageDate": "2026-09-18"
             }
           ]
         },
@@ -1095,14 +1095,14 @@
               "matName": "로백 SP27 MPOL 더 멀리건 - 플리트 네이비화이트).xlsx",
               "imgUrl": "",
               "imgName": "",
-              "stage": "재단",
-              "stageLabel": "재단 4/3",
+              "stage": "봉제",
+              "stageLabel": "봉제",
               "deliveryDue": "2026-10-09",
               "dueSource": "fallback",
-              "ddayStatus": "정상",
-              "dday": 7,
+              "ddayStatus": "임박",
+              "dday": 2,
               "ship": "",
-              "stageDate": "2026-09-09"
+              "stageDate": "2026-09-18"
             }
           ]
         },
@@ -1129,14 +1129,14 @@
               "matName": "로백 SP27 MPOL 더 멀리건 - 플리트 네이비화이트).xlsx",
               "imgUrl": "",
               "imgName": "",
-              "stage": "재단",
-              "stageLabel": "재단 213/200",
+              "stage": "봉제",
+              "stageLabel": "봉제",
               "deliveryDue": "2026-10-09",
               "dueSource": "fallback",
-              "ddayStatus": "정상",
-              "dday": 7,
+              "ddayStatus": "임박",
+              "dday": 2,
               "ship": "",
-              "stageDate": "2026-09-11"
+              "stageDate": "2026-09-21"
             }
           ]
         },
@@ -1163,14 +1163,14 @@
               "matName": "로백 SP27 MPOL 더 멀리건 - 플리트 네이비화이트).xlsx",
               "imgUrl": "",
               "imgName": "",
-              "stage": "재단",
-              "stageLabel": "재단 3/3",
+              "stage": "봉제",
+              "stageLabel": "봉제",
               "deliveryDue": "2026-10-09",
               "dueSource": "fallback",
-              "ddayStatus": "정상",
-              "dday": 7,
+              "ddayStatus": "임박",
+              "dday": 2,
               "ship": "",
-              "stageDate": "2026-09-11"
+              "stageDate": "2026-09-21"
             }
           ]
         },
@@ -1197,14 +1197,14 @@
               "matName": "로백 SP27 MPOL 더 멀리건 - 플리트 네이비화이트).xlsx",
               "imgUrl": "",
               "imgName": "",
-              "stage": "재단",
-              "stageLabel": "재단 264/250",
+              "stage": "봉제",
+              "stageLabel": "봉제",
               "deliveryDue": "2026-10-09",
               "dueSource": "fallback",
-              "ddayStatus": "정상",
-              "dday": 7,
+              "ddayStatus": "임박",
+              "dday": 2,
               "ship": "",
-              "stageDate": "2026-09-11"
+              "stageDate": "2026-09-21"
             }
           ]
         },
@@ -1231,14 +1231,14 @@
               "matName": "로백 SP27 MPOL 더 멀리건 - 플리트 네이비화이트).xlsx",
               "imgUrl": "",
               "imgName": "",
-              "stage": "재단",
-              "stageLabel": "재단 4/3",
+              "stage": "봉제",
+              "stageLabel": "봉제",
               "deliveryDue": "2026-10-09",
               "dueSource": "fallback",
-              "ddayStatus": "정상",
-              "dday": 7,
+              "ddayStatus": "임박",
+              "dday": 2,
               "ship": "",
-              "stageDate": "2026-09-11"
+              "stageDate": "2026-09-21"
             }
           ]
         },
@@ -1265,14 +1265,14 @@
               "matName": "로백 SP27 MPOL 더 멀리건 - 플리트 네이비화이트).xlsx",
               "imgUrl": "",
               "imgName": "",
-              "stage": "재단",
-              "stageLabel": "재단 213/200",
+              "stage": "봉제",
+              "stageLabel": "봉제",
               "deliveryDue": "2026-10-09",
               "dueSource": "fallback",
-              "ddayStatus": "정상",
-              "dday": 7,
+              "ddayStatus": "임박",
+              "dday": 2,
               "ship": "",
-              "stageDate": "2026-09-11"
+              "stageDate": "2026-09-22"
             }
           ]
         },
@@ -1299,14 +1299,14 @@
               "matName": "로백 SP27 MPOL 더 멀리건 - 플리트 네이비화이트).xlsx",
               "imgUrl": "",
               "imgName": "",
-              "stage": "재단",
-              "stageLabel": "재단 3/3",
+              "stage": "봉제",
+              "stageLabel": "봉제",
               "deliveryDue": "2026-10-09",
               "dueSource": "fallback",
-              "ddayStatus": "정상",
-              "dday": 7,
+              "ddayStatus": "임박",
+              "dday": 2,
               "ship": "",
-              "stageDate": "2026-09-09"
+              "stageDate": "2026-09-22"
             }
           ]
         },
@@ -1333,14 +1333,14 @@
               "matName": "",
               "imgUrl": "",
               "imgName": "",
-              "stage": "재단",
-              "stageLabel": "재단 156/150",
+              "stage": "봉제",
+              "stageLabel": "봉제",
               "deliveryDue": "2026-10-09",
               "dueSource": "fallback",
-              "ddayStatus": "정상",
-              "dday": 7,
+              "ddayStatus": "임박",
+              "dday": 2,
               "ship": "",
-              "stageDate": "2026-09-11"
+              "stageDate": "2026-09-23"
             }
           ]
         },
@@ -1367,14 +1367,14 @@
               "matName": "",
               "imgUrl": "",
               "imgName": "",
-              "stage": "재단",
-              "stageLabel": "재단 156/150",
+              "stage": "봉제",
+              "stageLabel": "봉제",
               "deliveryDue": "2026-10-09",
               "dueSource": "fallback",
-              "ddayStatus": "정상",
-              "dday": 7,
+              "ddayStatus": "임박",
+              "dday": 2,
               "ship": "",
-              "stageDate": "2026-09-11"
+              "stageDate": "2026-09-23"
             }
           ]
         },
@@ -1401,14 +1401,14 @@
               "matName": "",
               "imgUrl": "",
               "imgName": "",
-              "stage": "재단",
-              "stageLabel": "재단 163/150",
+              "stage": "봉제",
+              "stageLabel": "봉제",
               "deliveryDue": "2026-10-09",
               "dueSource": "fallback",
-              "ddayStatus": "정상",
-              "dday": 7,
+              "ddayStatus": "임박",
+              "dday": 2,
               "ship": "",
-              "stageDate": "2026-09-16"
+              "stageDate": "2026-09-28"
             }
           ]
         },
@@ -1435,14 +1435,14 @@
               "matName": "",
               "imgUrl": "",
               "imgName": "",
-              "stage": "재단",
-              "stageLabel": "재단 163/150",
+              "stage": "봉제",
+              "stageLabel": "봉제",
               "deliveryDue": "2026-10-09",
               "dueSource": "fallback",
-              "ddayStatus": "정상",
-              "dday": 7,
+              "ddayStatus": "임박",
+              "dday": 2,
               "ship": "",
-              "stageDate": "2026-09-16"
+              "stageDate": "2026-09-28"
             }
           ]
         },
@@ -1469,14 +1469,14 @@
               "matName": "로백 SP27 MPOL,TPOL 더 플뢰르 드리-로백퍼플 ,허니골드.xlsx",
               "imgUrl": "../img/rhoback_sp27_1st-2.jpg",
               "imgName": "rhoback_sp27_1st-2.jpg",
-              "stage": "재단",
-              "stageLabel": "재단 264/250",
+              "stage": "봉제",
+              "stageLabel": "봉제",
               "deliveryDue": "2026-10-09",
               "dueSource": "fallback",
-              "ddayStatus": "정상",
-              "dday": 7,
+              "ddayStatus": "임박",
+              "dday": 2,
               "ship": "",
-              "stageDate": "2026-09-17"
+              "stageDate": "2026-09-29"
             }
           ]
         },
@@ -1503,14 +1503,14 @@
               "matName": "로백 SP27 MPOL,TPOL 더 플뢰르 드리-로백퍼플 ,허니골드.xlsx",
               "imgUrl": "../img/rhoback_sp27_1st-2.jpg",
               "imgName": "rhoback_sp27_1st-2.jpg",
-              "stage": "대기",
-              "stageLabel": "대기",
+              "stage": "봉제",
+              "stageLabel": "봉제",
               "deliveryDue": "2026-10-09",
               "dueSource": "fallback",
-              "ddayStatus": "정상",
-              "dday": 7,
+              "ddayStatus": "임박",
+              "dday": 2,
               "ship": "",
-              "stageDate": ""
+              "stageDate": "2026-09-29"
             }
           ]
         },
@@ -1537,14 +1537,14 @@
               "matName": "로백 SP27 TPOL 더 쳐브스3.0-화이트,벙커블루.xlsx",
               "imgUrl": "../img/rhoback_sp27-5.jpg",
               "imgName": "rhoback_sp27-5.jpg",
-              "stage": "재단",
-              "stageLabel": "재단 108/100",
+              "stage": "봉제",
+              "stageLabel": "봉제",
               "deliveryDue": "2026-10-09",
               "dueSource": "fallback",
-              "ddayStatus": "정상",
-              "dday": 7,
+              "ddayStatus": "임박",
+              "dday": 2,
               "ship": "",
-              "stageDate": "2026-09-17"
+              "stageDate": "2026-09-29"
             }
           ]
         },
@@ -1571,14 +1571,14 @@
               "matName": "로백 SP27 TPOL 더 쳐브스3.0-화이트,벙커블루.xlsx",
               "imgUrl": "../img/rhoback_sp27-5.jpg",
               "imgName": "rhoback_sp27-5.jpg",
-              "stage": "대기",
-              "stageLabel": "대기",
+              "stage": "봉제",
+              "stageLabel": "봉제",
               "deliveryDue": "2026-10-09",
               "dueSource": "fallback",
-              "ddayStatus": "정상",
-              "dday": 7,
+              "ddayStatus": "임박",
+              "dday": 2,
               "ship": "",
-              "stageDate": ""
+              "stageDate": "2026-09-29"
             }
           ]
         },
@@ -1605,14 +1605,14 @@
               "matName": "로백 SP27 TPOL 더 멀리건 - 화이트,코스탈블루.xlsx",
               "imgUrl": "",
               "imgName": "",
-              "stage": "재단",
-              "stageLabel": "재단 120/150",
+              "stage": "봉제",
+              "stageLabel": "봉제",
               "deliveryDue": "2026-10-09",
               "dueSource": "fallback",
-              "ddayStatus": "정상",
-              "dday": 7,
+              "ddayStatus": "임박",
+              "dday": 2,
               "ship": "",
-              "stageDate": "2026-09-17"
+              "stageDate": "2026-09-30"
             }
           ]
         },
@@ -1639,14 +1639,14 @@
               "matName": "로백 SP27 TPOL 더 멀리건 - 화이트,코스탈블루.xlsx",
               "imgUrl": "",
               "imgName": "",
-              "stage": "대기",
-              "stageLabel": "대기",
+              "stage": "봉제",
+              "stageLabel": "봉제",
               "deliveryDue": "2026-10-09",
               "dueSource": "fallback",
-              "ddayStatus": "정상",
-              "dday": 7,
+              "ddayStatus": "임박",
+              "dday": 2,
               "ship": "",
-              "stageDate": ""
+              "stageDate": "2026-09-30"
             }
           ]
         },
@@ -1673,14 +1673,14 @@
               "matName": "로백 SP27 TPOL 더 멀리건 - 화이트,코스탈블루.xlsx",
               "imgUrl": "",
               "imgName": "",
-              "stage": "재단",
-              "stageLabel": "재단 102/93",
+              "stage": "봉제",
+              "stageLabel": "봉제",
               "deliveryDue": "2026-10-09",
               "dueSource": "fallback",
-              "ddayStatus": "정상",
-              "dday": 7,
+              "ddayStatus": "임박",
+              "dday": 2,
               "ship": "",
-              "stageDate": "2026-09-17"
+              "stageDate": "2026-09-29"
             }
           ]
         },
@@ -1707,14 +1707,14 @@
               "matName": "로백 SP27 TPOL 더 멀리건 - 화이트,코스탈블루.xlsx",
               "imgUrl": "",
               "imgName": "",
-              "stage": "대기",
-              "stageLabel": "대기",
+              "stage": "봉제",
+              "stageLabel": "봉제",
               "deliveryDue": "2026-10-09",
               "dueSource": "fallback",
-              "ddayStatus": "정상",
-              "dday": 7,
+              "ddayStatus": "임박",
+              "dday": 2,
               "ship": "",
-              "stageDate": ""
+              "stageDate": "2026-09-29"
             }
           ]
         },
@@ -1741,14 +1741,14 @@
               "matName": "로백 SP27 TPOL 더 멀리건 - 화이트,코스탈블루.xlsx",
               "imgUrl": "",
               "imgName": "",
-              "stage": "재단",
-              "stageLabel": "재단 85/74",
+              "stage": "봉제",
+              "stageLabel": "봉제",
               "deliveryDue": "2026-10-09",
               "dueSource": "fallback",
-              "ddayStatus": "정상",
-              "dday": 7,
+              "ddayStatus": "임박",
+              "dday": 2,
               "ship": "",
-              "stageDate": "2026-09-17"
+              "stageDate": "2026-09-30"
             }
           ]
         },
@@ -1775,14 +1775,14 @@
               "matName": "로백 SP27 TPOL 더 멀리건 - 화이트,코스탈블루.xlsx",
               "imgUrl": "",
               "imgName": "",
-              "stage": "대기",
-              "stageLabel": "대기",
+              "stage": "봉제",
+              "stageLabel": "봉제",
               "deliveryDue": "2026-10-09",
               "dueSource": "fallback",
-              "ddayStatus": "정상",
-              "dday": 7,
+              "ddayStatus": "임박",
+              "dday": 2,
               "ship": "",
-              "stageDate": ""
+              "stageDate": "2026-09-30"
             }
           ]
         },
@@ -1813,10 +1813,10 @@
               "stage": "납품완료",
               "stageLabel": "납품완료",
               "deliveryDue": "2026-09-21",
-              "dueSource": "weekly",
+              "dueSource": "fallback",
               "ddayStatus": "완료",
-              "stageDate": "2026-09-21",
-              "dday": null
+              "dday": null,
+              "stageDate": "2026-09-21"
             }
           ]
         },
@@ -1839,7 +1839,7 @@
               "season": "SP26 MAIN 23차",
               "jikjiUrl": "../../1.%20GOODTRUST/국내생산/2026/생산5팀/IRON%20OAK/아이언오크%20SP26%20메인%2023차%20_0073%20IO-VPL004%20작업지시서_마루.pdf",
               "jikjiName": "아이언오크 SP26 메인 23차 _0073 IO-VPL004 작업지시서_마루.pdf",
-              "matUrl": "../../1.%20GOODTRUST/자재리스트/아이언오크/현재진행건/아이언오크%20PO%230073.xlsx",
+              "matUrl": "../../1.%20GOODTRUST/자재리스트/아이언오크/9월/아이언오크%20PO%230073.xlsx",
               "matName": "아이언오크 PO#0073.xlsx",
               "imgUrl": "../img/ironoak_0073-01.jpg",
               "imgName": "ironoak_0073-01.jpg",
@@ -1847,10 +1847,10 @@
               "stage": "납품완료",
               "stageLabel": "납품완료",
               "deliveryDue": "2026-10-02",
-              "dueSource": "weekly",
+              "dueSource": "fallback",
               "ddayStatus": "완료",
-              "stageDate": "2026-09-18",
-              "dday": null
+              "dday": null,
+              "stageDate": "2026-09-18"
             },
             {
               "no": "IO-09",
@@ -1864,7 +1864,7 @@
               "season": "SP26 MAIN 23차",
               "jikjiUrl": "../../1.%20GOODTRUST/국내생산/2026/생산5팀/IRON%20OAK/아이언오크%20SP26%20메인%2023차%20_0073%20IO-VPL004%20작업지시서_마루.pdf",
               "jikjiName": "아이언오크 SP26 메인 23차 _0073 IO-VPL004 작업지시서_마루.pdf",
-              "matUrl": "../../1.%20GOODTRUST/자재리스트/아이언오크/현재진행건/아이언오크%20PO%230073.xlsx",
+              "matUrl": "../../1.%20GOODTRUST/자재리스트/아이언오크/9월/아이언오크%20PO%230073.xlsx",
               "matName": "아이언오크 PO#0073.xlsx",
               "imgUrl": "../img/ironoak_0073-01.jpg",
               "imgName": "ironoak_0073-01.jpg",
@@ -1872,10 +1872,10 @@
               "stage": "납품완료",
               "stageLabel": "납품완료",
               "deliveryDue": "2026-10-02",
-              "dueSource": "weekly",
+              "dueSource": "fallback",
               "ddayStatus": "완료",
-              "stageDate": "2026-09-18",
-              "dday": null
+              "dday": null,
+              "stageDate": "2026-09-18"
             },
             {
               "no": "IO-10",
@@ -1889,7 +1889,7 @@
               "season": "SP26 MAIN 23차",
               "jikjiUrl": "../../1.%20GOODTRUST/국내생산/2026/생산5팀/IRON%20OAK/아이언오크%20SP26%20메인%2023차%20_0073%20IO-VPL004%20작업지시서_마루.pdf",
               "jikjiName": "아이언오크 SP26 메인 23차 _0073 IO-VPL004 작업지시서_마루.pdf",
-              "matUrl": "../../1.%20GOODTRUST/자재리스트/아이언오크/현재진행건/아이언오크%20PO%230073.xlsx",
+              "matUrl": "../../1.%20GOODTRUST/자재리스트/아이언오크/9월/아이언오크%20PO%230073.xlsx",
               "matName": "아이언오크 PO#0073.xlsx",
               "imgUrl": "../img/ironoak_0073-01.jpg",
               "imgName": "ironoak_0073-01.jpg",
@@ -1897,10 +1897,10 @@
               "stage": "납품완료",
               "stageLabel": "납품완료",
               "deliveryDue": "2026-10-02",
-              "dueSource": "weekly",
+              "dueSource": "fallback",
               "ddayStatus": "완료",
-              "stageDate": "2026-09-18",
-              "dday": null
+              "dday": null,
+              "stageDate": "2026-09-18"
             },
             {
               "no": "IO-11",
@@ -1914,7 +1914,7 @@
               "season": "SP26 MAIN 23차",
               "jikjiUrl": "../../1.%20GOODTRUST/국내생산/2026/생산5팀/IRON%20OAK/아이언오크%20SP26%20메인%2023차%20_0073%20IO-VPL004%20작업지시서_마루.pdf",
               "jikjiName": "아이언오크 SP26 메인 23차 _0073 IO-VPL004 작업지시서_마루.pdf",
-              "matUrl": "../../1.%20GOODTRUST/자재리스트/아이언오크/현재진행건/아이언오크%20PO%230073.xlsx",
+              "matUrl": "../../1.%20GOODTRUST/자재리스트/아이언오크/9월/아이언오크%20PO%230073.xlsx",
               "matName": "아이언오크 PO#0073.xlsx",
               "imgUrl": "../img/ironoak_0073-01.jpg",
               "imgName": "ironoak_0073-01.jpg",
@@ -1922,10 +1922,10 @@
               "stage": "납품완료",
               "stageLabel": "납품완료",
               "deliveryDue": "2026-10-02",
-              "dueSource": "weekly",
+              "dueSource": "fallback",
               "ddayStatus": "완료",
-              "stageDate": "2026-09-18",
-              "dday": null
+              "dday": null,
+              "stageDate": "2026-09-18"
             },
             {
               "no": "IO-12",
@@ -1939,7 +1939,7 @@
               "season": "SP26 MAIN 23차",
               "jikjiUrl": "../../1.%20GOODTRUST/국내생산/2026/생산5팀/IRON%20OAK/아이언오크%20SP26%20메인%2023차%20_0073%20IO-VPL004%20작업지시서_마루.pdf",
               "jikjiName": "아이언오크 SP26 메인 23차 _0073 IO-VPL004 작업지시서_마루.pdf",
-              "matUrl": "../../1.%20GOODTRUST/자재리스트/아이언오크/현재진행건/아이언오크%20PO%230073.xlsx",
+              "matUrl": "../../1.%20GOODTRUST/자재리스트/아이언오크/9월/아이언오크%20PO%230073.xlsx",
               "matName": "아이언오크 PO#0073.xlsx",
               "imgUrl": "../img/ironoak_0073-01.jpg",
               "imgName": "ironoak_0073-01.jpg",
@@ -1947,10 +1947,10 @@
               "stage": "납품완료",
               "stageLabel": "납품완료",
               "deliveryDue": "2026-10-02",
-              "dueSource": "weekly",
+              "dueSource": "fallback",
               "ddayStatus": "완료",
-              "stageDate": "2026-09-18",
-              "dday": null
+              "dday": null,
+              "stageDate": "2026-09-18"
             },
             {
               "no": "IO-13",
@@ -1964,7 +1964,7 @@
               "season": "SP26 MAIN 23차",
               "jikjiUrl": "../../1.%20GOODTRUST/국내생산/2026/생산5팀/IRON%20OAK/아이언오크%20SP26%20메인%2023차%20_0073%20IO-VPL004%20작업지시서_마루.pdf",
               "jikjiName": "아이언오크 SP26 메인 23차 _0073 IO-VPL004 작업지시서_마루.pdf",
-              "matUrl": "../../1.%20GOODTRUST/자재리스트/아이언오크/현재진행건/아이언오크%20PO%230073.xlsx",
+              "matUrl": "../../1.%20GOODTRUST/자재리스트/아이언오크/9월/아이언오크%20PO%230073.xlsx",
               "matName": "아이언오크 PO#0073.xlsx",
               "imgUrl": "../img/ironoak_0073-01.jpg",
               "imgName": "ironoak_0073-01.jpg",
@@ -1972,10 +1972,10 @@
               "stage": "납품완료",
               "stageLabel": "납품완료",
               "deliveryDue": "2026-10-02",
-              "dueSource": "weekly",
+              "dueSource": "fallback",
               "ddayStatus": "완료",
-              "stageDate": "2026-09-18",
-              "dday": null
+              "dday": null,
+              "stageDate": "2026-09-18"
             },
             {
               "no": "IO-14",
@@ -1989,7 +1989,7 @@
               "season": "SP26 MAIN 23차",
               "jikjiUrl": "../../1.%20GOODTRUST/국내생산/2026/생산5팀/IRON%20OAK/아이언오크%20SP26%20메인%2023차%20_0073%20IO-VPL004%20작업지시서_마루.pdf",
               "jikjiName": "아이언오크 SP26 메인 23차 _0073 IO-VPL004 작업지시서_마루.pdf",
-              "matUrl": "../../1.%20GOODTRUST/자재리스트/아이언오크/현재진행건/아이언오크%20PO%230073.xlsx",
+              "matUrl": "../../1.%20GOODTRUST/자재리스트/아이언오크/9월/아이언오크%20PO%230073.xlsx",
               "matName": "아이언오크 PO#0073.xlsx",
               "imgUrl": "../img/ironoak_0073-01.jpg",
               "imgName": "ironoak_0073-01.jpg",
@@ -1997,10 +1997,10 @@
               "stage": "납품완료",
               "stageLabel": "납품완료",
               "deliveryDue": "2026-10-02",
-              "dueSource": "weekly",
+              "dueSource": "fallback",
               "ddayStatus": "완료",
-              "stageDate": "2026-09-18",
-              "dday": null
+              "dday": null,
+              "stageDate": "2026-09-18"
             },
             {
               "no": "IO-15",
@@ -2014,7 +2014,7 @@
               "season": "SP26 MAIN 23차",
               "jikjiUrl": "../../1.%20GOODTRUST/국내생산/2026/생산5팀/IRON%20OAK/아이언오크%20SP26%20메인%2023차%20_0073%20IO-VPL004%20작업지시서_마루.pdf",
               "jikjiName": "아이언오크 SP26 메인 23차 _0073 IO-VPL004 작업지시서_마루.pdf",
-              "matUrl": "../../1.%20GOODTRUST/자재리스트/아이언오크/현재진행건/아이언오크%20PO%230073.xlsx",
+              "matUrl": "../../1.%20GOODTRUST/자재리스트/아이언오크/9월/아이언오크%20PO%230073.xlsx",
               "matName": "아이언오크 PO#0073.xlsx",
               "imgUrl": "../img/ironoak_0073-01.jpg",
               "imgName": "ironoak_0073-01.jpg",
@@ -2022,10 +2022,10 @@
               "stage": "납품완료",
               "stageLabel": "납품완료",
               "deliveryDue": "2026-10-02",
-              "dueSource": "weekly",
+              "dueSource": "fallback",
               "ddayStatus": "완료",
-              "stageDate": "2026-09-18",
-              "dday": null
+              "dday": null,
+              "stageDate": "2026-09-18"
             }
           ]
         },
@@ -2052,14 +2052,14 @@
               "matName": "",
               "imgUrl": "",
               "imgName": "",
-              "stage": "봉제",
-              "stageLabel": "봉제",
+              "stage": "납품완료",
+              "stageLabel": "납품완료",
               "deliveryDue": "2026-09-30",
-              "dueSource": "weekly",
-              "ddayStatus": "지연",
-              "dday": -2,
-              "ship": "",
-              "stageDate": "2026-09-22"
+              "dueSource": "fallback",
+              "ddayStatus": "완료",
+              "dday": null,
+              "ship": "2026-10-06",
+              "stageDate": "2026-10-06"
             }
           ]
         },
@@ -2086,14 +2086,14 @@
               "matName": "",
               "imgUrl": "",
               "imgName": "",
-              "stage": "재단",
-              "stageLabel": "재단 299/294",
+              "stage": "봉제",
+              "stageLabel": "봉제",
               "deliveryDue": "2026-10-14",
-              "dueSource": "weekly",
+              "dueSource": "fallback",
               "ddayStatus": "정상",
-              "dday": 12,
+              "dday": 7,
               "ship": "",
-              "stageDate": "2026-09-19"
+              "stageDate": "2026-10-01"
             }
           ]
         },
@@ -2120,14 +2120,14 @@
               "matName": "",
               "imgUrl": "",
               "imgName": "",
-              "stage": "재단",
-              "stageLabel": "재단 299/294",
+              "stage": "봉제",
+              "stageLabel": "봉제",
               "dueSource": "none",
               "ddayStatus": "미정",
-              "ship": "",
-              "stageDate": "2026-09-19",
               "deliveryDue": "",
-              "dday": null
+              "dday": null,
+              "ship": "",
+              "stageDate": "2026-10-01"
             }
           ]
         },
@@ -2158,10 +2158,10 @@
               "stageLabel": "재단",
               "dueSource": "none",
               "ddayStatus": "미정",
-              "ship": "",
-              "stageDate": "2026-09-19",
               "deliveryDue": "",
-              "dday": null
+              "dday": null,
+              "ship": "",
+              "stageDate": "2026-09-19"
             }
           ]
         },
@@ -2192,10 +2192,10 @@
               "stageLabel": "재단 257/250",
               "dueSource": "none",
               "ddayStatus": "미정",
-              "ship": "",
-              "stageDate": "2026-09-19",
               "deliveryDue": "",
-              "dday": null
+              "dday": null,
+              "ship": "",
+              "stageDate": "2026-09-19"
             }
           ]
         },
@@ -2226,10 +2226,10 @@
               "stageLabel": "재단 312/299",
               "dueSource": "none",
               "ddayStatus": "미정",
-              "ship": "",
-              "stageDate": "2026-09-19",
               "deliveryDue": "",
-              "dday": null
+              "dday": null,
+              "ship": "",
+              "stageDate": "2026-09-19"
             }
           ]
         },
@@ -2260,10 +2260,10 @@
               "stageLabel": "원단",
               "dueSource": "none",
               "ddayStatus": "미정",
-              "ship": "",
-              "stageDate": "2026-09-15",
               "deliveryDue": "",
-              "dday": null
+              "dday": null,
+              "ship": "",
+              "stageDate": "2026-09-15"
             }
           ]
         },
@@ -2294,10 +2294,10 @@
               "stageLabel": "재단 116/103",
               "dueSource": "none",
               "ddayStatus": "미정",
-              "ship": "",
-              "stageDate": "2026-09-19",
               "deliveryDue": "",
-              "dday": null
+              "dday": null,
+              "ship": "",
+              "stageDate": "2026-09-19"
             }
           ]
         },
@@ -2328,10 +2328,10 @@
               "stageLabel": "원단",
               "dueSource": "none",
               "ddayStatus": "미정",
-              "ship": "",
-              "stageDate": "2026-09-15",
               "deliveryDue": "",
-              "dday": null
+              "dday": null,
+              "ship": "",
+              "stageDate": "2026-09-15"
             }
           ]
         },
@@ -2362,10 +2362,10 @@
               "stageLabel": "재단 272/266",
               "dueSource": "none",
               "ddayStatus": "미정",
-              "ship": "",
-              "stageDate": "2026-09-19",
               "deliveryDue": "",
-              "dday": null
+              "dday": null,
+              "ship": "",
+              "stageDate": "2026-09-19"
             }
           ]
         },
@@ -2396,10 +2396,10 @@
               "stageLabel": "재단 200/200",
               "dueSource": "none",
               "ddayStatus": "미정",
-              "ship": "",
-              "stageDate": "2026-09-22",
               "deliveryDue": "",
-              "dday": null
+              "dday": null,
+              "ship": "",
+              "stageDate": "2026-09-22"
             }
           ]
         },
@@ -2430,10 +2430,10 @@
               "stageLabel": "재단 4/4",
               "dueSource": "none",
               "ddayStatus": "미정",
-              "ship": "",
-              "stageDate": "2026-09-22",
               "deliveryDue": "",
-              "dday": null
+              "dday": null,
+              "ship": "",
+              "stageDate": "2026-09-22"
             }
           ]
         },
@@ -2464,10 +2464,10 @@
               "stageLabel": "재단 176/176",
               "dueSource": "none",
               "ddayStatus": "미정",
-              "ship": "",
-              "stageDate": "2026-09-21",
               "deliveryDue": "",
-              "dday": null
+              "dday": null,
+              "ship": "",
+              "stageDate": "2026-09-21"
             }
           ]
         },
@@ -2498,10 +2498,10 @@
               "stageLabel": "재단 175/176",
               "dueSource": "none",
               "ddayStatus": "미정",
-              "ship": "",
-              "stageDate": "2026-09-21",
               "deliveryDue": "",
-              "dday": null
+              "dday": null,
+              "ship": "",
+              "stageDate": "2026-09-21"
             }
           ]
         },
@@ -2532,10 +2532,10 @@
               "stageLabel": "재단 4/4",
               "dueSource": "none",
               "ddayStatus": "미정",
-              "ship": "",
-              "stageDate": "2026-09-21",
               "deliveryDue": "",
-              "dday": null
+              "dday": null,
+              "ship": "",
+              "stageDate": "2026-09-21"
             }
           ]
         },
@@ -2566,10 +2566,10 @@
               "stageLabel": "재단 233/233",
               "dueSource": "none",
               "ddayStatus": "미정",
-              "ship": "",
-              "stageDate": "2026-09-22",
               "deliveryDue": "",
-              "dday": null
+              "dday": null,
+              "ship": "",
+              "stageDate": "2026-09-22"
             }
           ]
         },
@@ -2600,10 +2600,10 @@
               "stageLabel": "재단 4/4",
               "dueSource": "none",
               "ddayStatus": "미정",
-              "ship": "",
-              "stageDate": "2026-09-22",
               "deliveryDue": "",
-              "dday": null
+              "dday": null,
+              "ship": "",
+              "stageDate": "2026-09-22"
             }
           ]
         }
@@ -2643,8 +2643,8 @@
               "deliveryDue": "2026-08-30",
               "dueSource": "fallback",
               "ddayStatus": "완료",
-              "stageDate": "2026-08-31",
-              "dday": null
+              "dday": null,
+              "stageDate": "2026-08-31"
             },
             {
               "no": "DS-02",
@@ -2668,8 +2668,8 @@
               "deliveryDue": "2026-08-30",
               "dueSource": "fallback",
               "ddayStatus": "완료",
-              "stageDate": "2026-08-31",
-              "dday": null
+              "dday": null,
+              "stageDate": "2026-08-31"
             }
           ]
         },
@@ -2702,8 +2702,8 @@
               "deliveryDue": "2026-08-31",
               "dueSource": "fallback",
               "ddayStatus": "완료",
-              "stageDate": "2026-09-02",
-              "dday": null
+              "dday": null,
+              "stageDate": "2026-09-02"
             },
             {
               "no": "SM-02",
@@ -2727,8 +2727,8 @@
               "deliveryDue": "2026-08-31",
               "dueSource": "fallback",
               "ddayStatus": "완료",
-              "stageDate": "2026-09-02",
-              "dday": null
+              "dday": null,
+              "stageDate": "2026-09-02"
             },
             {
               "no": "SM-03",
@@ -2752,8 +2752,8 @@
               "deliveryDue": "2026-08-31",
               "dueSource": "fallback",
               "ddayStatus": "완료",
-              "stageDate": "2026-09-02",
-              "dday": null
+              "dday": null,
+              "stageDate": "2026-09-02"
             },
             {
               "no": "SM-04",
@@ -2777,8 +2777,8 @@
               "deliveryDue": "2026-08-31",
               "dueSource": "fallback",
               "ddayStatus": "완료",
-              "stageDate": "2026-09-02",
-              "dday": null
+              "dday": null,
+              "stageDate": "2026-09-02"
             },
             {
               "no": "SM-05",
@@ -2802,8 +2802,8 @@
               "deliveryDue": "2026-08-31",
               "dueSource": "fallback",
               "ddayStatus": "완료",
-              "stageDate": "2026-09-02",
-              "dday": null
+              "dday": null,
+              "stageDate": "2026-09-02"
             },
             {
               "no": "SM-06",
@@ -2827,8 +2827,8 @@
               "deliveryDue": "2026-08-31",
               "dueSource": "fallback",
               "ddayStatus": "완료",
-              "stageDate": "2026-09-02",
-              "dday": null
+              "dday": null,
+              "stageDate": "2026-09-02"
             },
             {
               "no": "SM-07",
@@ -2852,8 +2852,8 @@
               "deliveryDue": "2026-08-31",
               "dueSource": "fallback",
               "ddayStatus": "완료",
-              "stageDate": "2026-09-02",
-              "dday": null
+              "dday": null,
+              "stageDate": "2026-09-02"
             },
             {
               "no": "SM-08",
@@ -2877,8 +2877,8 @@
               "deliveryDue": "2026-08-31",
               "dueSource": "fallback",
               "ddayStatus": "완료",
-              "stageDate": "2026-09-02",
-              "dday": null
+              "dday": null,
+              "stageDate": "2026-09-02"
             },
             {
               "no": "SM-09",
@@ -2902,8 +2902,8 @@
               "deliveryDue": "2026-08-31",
               "dueSource": "fallback",
               "ddayStatus": "완료",
-              "stageDate": "2026-09-02",
-              "dday": null
+              "dday": null,
+              "stageDate": "2026-09-02"
             },
             {
               "no": "SM-10",
@@ -2927,8 +2927,8 @@
               "deliveryDue": "2026-08-31",
               "dueSource": "fallback",
               "ddayStatus": "완료",
-              "stageDate": "2026-09-02",
-              "dday": null
+              "dday": null,
+              "stageDate": "2026-09-02"
             }
           ]
         }
@@ -2962,14 +2962,14 @@
               "matName": "로백 SP27 MPOL 더 멀리건 - 플리트 네이비화이트).xlsx",
               "imgUrl": "",
               "imgName": "",
-              "stage": "재단",
-              "stageLabel": "재단 263/250",
+              "stage": "봉제",
+              "stageLabel": "봉제",
               "deliveryDue": "2026-10-09",
               "dueSource": "fallback",
-              "ddayStatus": "정상",
-              "dday": 7,
+              "ddayStatus": "임박",
+              "dday": 2,
               "ship": "",
-              "stageDate": "2026-09-09"
+              "stageDate": "2026-09-22"
             }
           ]
         },
@@ -2996,14 +2996,14 @@
               "matName": "로백 SP27 MPOL 더 멀리건 - 플리트 네이비화이트).xlsx",
               "imgUrl": "",
               "imgName": "",
-              "stage": "재단",
-              "stageLabel": "재단 263/250",
+              "stage": "봉제",
+              "stageLabel": "봉제",
               "deliveryDue": "2026-10-09",
               "dueSource": "fallback",
-              "ddayStatus": "정상",
-              "dday": 7,
+              "ddayStatus": "임박",
+              "dday": 2,
               "ship": "",
-              "stageDate": "2026-09-09"
+              "stageDate": "2026-09-22"
             }
           ]
         }
