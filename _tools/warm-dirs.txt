@@ -1,0 +1,354 @@
+Z:\HDD1\MARU
+Z:\HDD1\MARU\dashboard
+Z:\HDD1\MARU\dashboard\_shared
+Z:\HDD1\MARU\dashboard\education
+Z:\HDD1\MARU\dashboard\education\_errors
+Z:\HDD1\MARU\dashboard\education\care-label
+Z:\HDD1\MARU\dashboard\education\care-label\img
+Z:\HDD1\MARU\dashboard\education\colorfastness
+Z:\HDD1\MARU\dashboard\education\colorfastness\img
+Z:\HDD1\MARU\dashboard\education\count
+Z:\HDD1\MARU\dashboard\education\count\img
+Z:\HDD1\MARU\dashboard\education\cut
+Z:\HDD1\MARU\dashboard\education\cut\img
+Z:\HDD1\MARU\dashboard\education\dyeing
+Z:\HDD1\MARU\dashboard\education\dyeing\img
+Z:\HDD1\MARU\dashboard\education\dyestuff
+Z:\HDD1\MARU\dashboard\education\dyestuff\img
+Z:\HDD1\MARU\dashboard\education\fabric-inspect
+Z:\HDD1\MARU\dashboard\education\fabric-inspect\img
+Z:\HDD1\MARU\dashboard\education\fabric-spec
+Z:\HDD1\MARU\dashboard\education\fabric-spec\img
+Z:\HDD1\MARU\dashboard\education\fiber
+Z:\HDD1\MARU\dashboard\education\fiber\img
+Z:\HDD1\MARU\dashboard\education\final-qc
+Z:\HDD1\MARU\dashboard\education\final-qc\img
+Z:\HDD1\MARU\dashboard\education\finishing
+Z:\HDD1\MARU\dashboard\education\finishing\img
+Z:\HDD1\MARU\dashboard\education\knitting
+Z:\HDD1\MARU\dashboard\education\knitting\img
+Z:\HDD1\MARU\dashboard\education\print
+Z:\HDD1\MARU\dashboard\education\print\img
+Z:\HDD1\MARU\dashboard\education\sew-machines
+Z:\HDD1\MARU\dashboard\education\sew-machines\img
+Z:\HDD1\MARU\dashboard\education\sewing
+Z:\HDD1\MARU\dashboard\education\sewing\img
+Z:\HDD1\MARU\dashboard\education\shrink
+Z:\HDD1\MARU\dashboard\education\shrink\img
+Z:\HDD1\MARU\dashboard\education\spinning
+Z:\HDD1\MARU\dashboard\education\spinning\img
+Z:\HDD1\MARU\dashboard\education\tshirt-process
+Z:\HDD1\MARU\dashboard\education\tshirt-process\img
+Z:\HDD1\MARU\dashboard\goodtrust
+Z:\HDD1\MARU\dashboard\goodtrust\thumbs
+Z:\HDD1\MARU\dashboard\img
+Z:\HDD1\MARU\dashboard\process
+Z:\HDD1\MARU\dashboard\process\IO-VPL004
+Z:\HDD1\MARU\dashboard\process\IO-VPL004\img
+Z:\HDD1\MARU\dashboard\process\SP27_MPOL_RHO
+Z:\HDD1\MARU\dashboard\process\SP27_MPOL_RHO\img
+Z:\HDD1\MARU\dashboard\process\SP27_TPOL_RHO
+Z:\HDD1\MARU\dashboard\process\SP27_TPOL_RHO\img
+Z:\HDD1\MARU\dashboard\process\SP27_WVPO_RHO
+Z:\HDD1\MARU\dashboard\process\SP27_WVPO_RHO\img
+Z:\HDD1\MARU\dashboard\sales
+Z:\HDD1\MARU\dashboard\status
+Z:\HDD1\MARU\dashboard\woimg
+Z:\HDD1\MARU\dashboard\woimg\0006876
+Z:\HDD1\MARU\dashboard\woimg\0006877
+Z:\HDD1\MARU\dashboard\woimg\0007110
+Z:\HDD1\MARU\dashboard\woimg\0007116
+Z:\HDD1\MARU\dashboard\woimg\0009385
+Z:\HDD1\MARU\dashboard\woimg\0013186
+Z:\HDD1\MARU\dashboard\woimg\0013234
+Z:\HDD1\MARU\dashboard\woimg\0013276
+Z:\HDD1\MARU\dashboard\woimg\0041
+Z:\HDD1\MARU\dashboard\woimg\0044
+Z:\HDD1\MARU\dashboard\woimg\0049
+Z:\HDD1\MARU\dashboard\woimg\0051
+Z:\HDD1\MARU\dashboard\woimg\0052
+Z:\HDD1\MARU\dashboard\woimg\0053
+Z:\HDD1\MARU\dashboard\woimg\0056
+Z:\HDD1\MARU\dashboard\woimg\0057
+Z:\HDD1\MARU\dashboard\woimg\0073
+Z:\HDD1\MARU\dashboard\woimg\015
+Z:\HDD1\MARU\dashboard\woimg\100725
+Z:\HDD1\MARU\dashboard\woimg\1026
+Z:\HDD1\MARU\dashboard\woimg\1027
+Z:\HDD1\MARU\dashboard\woimg\12
+Z:\HDD1\MARU\dashboard\woimg\1243
+Z:\HDD1\MARU\dashboard\woimg\1272
+Z:\HDD1\MARU\dashboard\woimg\2025
+Z:\HDD1\MARU\dashboard\woimg\2026
+Z:\HDD1\MARU\dashboard\woimg\23242
+Z:\HDD1\MARU\dashboard\woimg\23249
+Z:\HDD1\MARU\dashboard\woimg\3876
+Z:\HDD1\MARU\dashboard\woimg\3880
+Z:\HDD1\MARU\dashboard\woimg\3881
+Z:\HDD1\MARU\dashboard\woimg\4118
+Z:\HDD1\MARU\dashboard\woimg\4141
+Z:\HDD1\MARU\dashboard\woimg\4143
+Z:\HDD1\MARU\dashboard\woimg\4378
+Z:\HDD1\MARU\dashboard\woimg\5
+Z:\HDD1\MARU\dashboard\woimg\555
+Z:\HDD1\MARU\dashboard\woimg\5793
+Z:\HDD1\MARU\dashboard\woimg\5794
+Z:\HDD1\MARU\dashboard\woimg\5795
+Z:\HDD1\MARU\dashboard\woimg\5804
+Z:\HDD1\MARU\dashboard\woimg\5821
+Z:\HDD1\MARU\dashboard\woimg\5822
+Z:\HDD1\MARU\dashboard\woimg\5850
+Z:\HDD1\MARU\dashboard\woimg\5956
+Z:\HDD1\MARU\dashboard\woimg\6157
+Z:\HDD1\MARU\dashboard\woimg\6158
+Z:\HDD1\MARU\dashboard\woimg\6165
+Z:\HDD1\MARU\dashboard\woimg\6189
+Z:\HDD1\MARU\dashboard\woimg\6725
+Z:\HDD1\MARU\dashboard\woimg\6847
+Z:\HDD1\MARU\dashboard\woimg\6851
+Z:\HDD1\MARU\dashboard\woimg\6854
+Z:\HDD1\MARU\dashboard\woimg\6855
+Z:\HDD1\MARU\dashboard\woimg\6856
+Z:\HDD1\MARU\dashboard\woimg\6958
+Z:\HDD1\MARU\dashboard\woimg\70126
+Z:\HDD1\MARU\dashboard\woimg\7087
+Z:\HDD1\MARU\dashboard\woimg\71426
+Z:\HDD1\MARU\dashboard\woimg\7149
+Z:\HDD1\MARU\dashboard\woimg\7201
+Z:\HDD1\MARU\dashboard\woimg\7203
+Z:\HDD1\MARU\dashboard\woimg\7529
+Z:\HDD1\MARU\dashboard\woimg\7779
+Z:\HDD1\MARU\dashboard\woimg\7795
+Z:\HDD1\MARU\dashboard\woimg\7798
+Z:\HDD1\MARU\dashboard\woimg\7800
+Z:\HDD1\MARU\dashboard\woimg\7825
+Z:\HDD1\MARU\dashboard\woimg\7873
+Z:\HDD1\MARU\dashboard\woimg\7876
+Z:\HDD1\MARU\dashboard\woimg\8003
+Z:\HDD1\MARU\dashboard\woimg\8544
+Z:\HDD1\MARU\dashboard\woimg\8545
+Z:\HDD1\MARU\dashboard\woimg\8546
+Z:\HDD1\MARU\dashboard\woimg\8548
+Z:\HDD1\MARU\dashboard\woimg\8696
+Z:\HDD1\MARU\dashboard\woimg\8698
+Z:\HDD1\MARU\dashboard\woimg\8700
+Z:\HDD1\MARU\dashboard\woimg\8701
+Z:\HDD1\MARU\dashboard\woimg\8704
+Z:\HDD1\MARU\dashboard\woimg\8710
+Z:\HDD1\MARU\dashboard\woimg\8716
+Z:\HDD1\MARU\dashboard\woimg\8718
+Z:\HDD1\MARU\dashboard\woimg\8719
+Z:\HDD1\MARU\dashboard\woimg\9409
+Z:\HDD1\MARU\dashboard\woimg\9413
+Z:\HDD1\MARU\dashboard\woimg\9414
+Z:\HDD1\MARU\dashboard\woimg\9415
+Z:\HDD1\MARU\dashboard\woimg\9416
+Z:\HDD1\MARU\dashboard\woimg\9417
+Z:\HDD1\MARU\dashboard\woimg\9418
+Z:\HDD1\MARU\dashboard\woimg\9419
+Z:\HDD1\MARU\dashboard\woimg\_nopO
+Z:\HDD1\MARU\dashboard\두리콜렉션
+Z:\HDD1\MARU\dashboard\두리콜렉션\27SS
+Z:\HDD1\MARU\dashboard\두리콜렉션\27SS\원가
+Z:\HDD1\MARU\dashboard\두리콜렉션\27SS\원가\print_img
+Z:\HDD1\MARU\dashboard\두리콜렉션\디즈니
+Z:\HDD1\MARU\dashboard\두리콜렉션\디즈니\진행
+Z:\HDD1\MARU\dashboard\두리콜렉션\디즈니\진행문서
+Z:\HDD1\MARU\dashboard\두리콜렉션\디즈니\진행문서\merged
+Z:\HDD1\MARU\dashboard\두리콜렉션\디즈니\진행문서\thumbs
+Z:\HDD1\MARU\dashboard\두리콜렉션\스팍스
+Z:\HDD1\MARU\dashboard\두리콜렉션\워너
+Z:\HDD1\MARU\dashboard\두리콜렉션\일방향재단
+Z:\HDD1\MARU\dashboard\봉제현황
+Z:\HDD1\MARU\dashboard\봉제현황\리포트
+Z:\HDD1\MARU\dashboard\사후정산
+Z:\HDD1\MARU\생산부
+Z:\HDD1\MARU\생산부\1. GOODTRUST
+Z:\HDD1\MARU\생산부\1. GOODTRUST\국내생산
+Z:\HDD1\MARU\생산부\1. GOODTRUST\국내생산\2026
+Z:\HDD1\MARU\생산부\1. GOODTRUST\국내생산\2026\생산1팀
+Z:\HDD1\MARU\생산부\1. GOODTRUST\국내생산\2026\생산1팀\GEORGIA GOLF COMPANY
+Z:\HDD1\MARU\생산부\1. GOODTRUST\국내생산\2026\생산1팀\GOOD GOOD GOLF
+Z:\HDD1\MARU\생산부\1. GOODTRUST\국내생산\2026\생산1팀\GOOD GOOD GOLF\HOL
+Z:\HDD1\MARU\생산부\1. GOODTRUST\국내생산\2026\생산2팀
+Z:\HDD1\MARU\생산부\1. GOODTRUST\국내생산\2026\생산2팀\ASHER GOLF
+Z:\HDD1\MARU\생산부\1. GOODTRUST\국내생산\2026\생산2팀\BAD BIRDIE
+Z:\HDD1\MARU\생산부\1. GOODTRUST\국내생산\2026\생산3팀
+Z:\HDD1\MARU\생산부\1. GOODTRUST\국내생산\2026\생산3팀\AVID
+Z:\HDD1\MARU\생산부\1. GOODTRUST\국내생산\2026\생산3팀\FLIGHTING GOLF
+Z:\HDD1\MARU\생산부\1. GOODTRUST\국내생산\2026\생산3팀\RHOBACK
+Z:\HDD1\MARU\생산부\1. GOODTRUST\국내생산\2026\생산3팀\RHOBACK\FA
+Z:\HDD1\MARU\생산부\1. GOODTRUST\국내생산\2026\생산3팀\RHOBACK\SP
+Z:\HDD1\MARU\생산부\1. GOODTRUST\국내생산\2026\생산3팀\RHOBACK\SU
+Z:\HDD1\MARU\생산부\1. GOODTRUST\국내생산\2026\생산3팀\모닝피플
+Z:\HDD1\MARU\생산부\1. GOODTRUST\국내생산\2026\생산4팀
+Z:\HDD1\MARU\생산부\1. GOODTRUST\국내생산\2026\생산4팀\BIRD DOG BAY
+Z:\HDD1\MARU\생산부\1. GOODTRUST\국내생산\2026\생산5팀
+Z:\HDD1\MARU\생산부\1. GOODTRUST\국내생산\2026\생산5팀\35x70
+Z:\HDD1\MARU\생산부\1. GOODTRUST\국내생산\2026\생산5팀\BIRD DOGS
+Z:\HDD1\MARU\생산부\1. GOODTRUST\국내생산\2026\생산5팀\IDAKA
+Z:\HDD1\MARU\생산부\1. GOODTRUST\국내생산\2026\생산5팀\IRON OAK
+Z:\HDD1\MARU\생산부\1. GOODTRUST\국내생산\2026\생산5팀\LILIHAMMER
+Z:\HDD1\MARU\생산부\1. GOODTRUST\국내생산\2026\생산5팀\MIZZEN&MAIN
+Z:\HDD1\MARU\생산부\1. GOODTRUST\국내생산\2026\생산5팀\PINK PINS
+Z:\HDD1\MARU\생산부\1. GOODTRUST\국내생산\2026\신규바이어팀
+Z:\HDD1\MARU\생산부\1. GOODTRUST\국내생산\2027
+Z:\HDD1\MARU\생산부\1. GOODTRUST\국내생산\2027\생산3팀
+Z:\HDD1\MARU\생산부\1. GOODTRUST\국내생산\2027\생산3팀\CLG
+Z:\HDD1\MARU\생산부\1. GOODTRUST\국내생산\2027\생산3팀\ROHBACK
+Z:\HDD1\MARU\생산부\1. GOODTRUST\국내생산\2027\생산3팀\ROHBACK\SP
+Z:\HDD1\MARU\생산부\1. GOODTRUST\국내생산\2027\생산3팀\ROHBACK\SP\RHO
+Z:\HDD1\MARU\생산부\1. GOODTRUST\국내생산\2027\생산5팀
+Z:\HDD1\MARU\생산부\1. GOODTRUST\국내생산\2027\생산5팀\IDAKA
+Z:\HDD1\MARU\생산부\1. GOODTRUST\국내생산\2027\생산5팀\IDAKA\결재완
+Z:\HDD1\MARU\생산부\1. GOODTRUST\국내생산\2027\생산5팀\IDAKA\결재전
+Z:\HDD1\MARU\생산부\1. GOODTRUST\샘플
+Z:\HDD1\MARU\생산부\1. GOODTRUST\샘플\1월
+Z:\HDD1\MARU\생산부\1. GOODTRUST\샘플\2월
+Z:\HDD1\MARU\생산부\1. GOODTRUST\샘플\3월
+Z:\HDD1\MARU\생산부\1. GOODTRUST\샘플\4월
+Z:\HDD1\MARU\생산부\1. GOODTRUST\샘플\5월
+Z:\HDD1\MARU\생산부\1. GOODTRUST\샘플\6월
+Z:\HDD1\MARU\생산부\1. GOODTRUST\샘플\7월
+Z:\HDD1\MARU\생산부\1. GOODTRUST\샘플\생산3팀
+Z:\HDD1\MARU\생산부\1. GOODTRUST\샘플\생산3팀\MGPW
+Z:\HDD1\MARU\생산부\1. GOODTRUST\샘플\생산3팀\MGPW\PHOTO
+Z:\HDD1\MARU\생산부\1. GOODTRUST\샘플\생산3팀\MGPW\SIZE SET
+Z:\HDD1\MARU\생산부\1. GOODTRUST\샘플\생산3팀\MGPW\SMS
+Z:\HDD1\MARU\생산부\1. GOODTRUST\샘플\생산3팀\UVPW
+Z:\HDD1\MARU\생산부\1. GOODTRUST\샘플\생산3팀\UVPW\PHOTO
+Z:\HDD1\MARU\생산부\1. GOODTRUST\샘플\생산3팀\UVPW\SMS
+Z:\HDD1\MARU\생산부\1. GOODTRUST\샘플\생산3팀\WCBP
+Z:\HDD1\MARU\생산부\1. GOODTRUST\샘플\생산3팀\WGPA
+Z:\HDD1\MARU\생산부\1. GOODTRUST\샘플\생산3팀\WKJA
+Z:\HDD1\MARU\생산부\1. GOODTRUST\샘플\생산3팀\WKJA\SIZE SET
+Z:\HDD1\MARU\생산부\1. GOODTRUST\샘플\생산3팀\WKPA
+Z:\HDD1\MARU\생산부\1. GOODTRUST\샘플\생산3팀\WKPA\P2
+Z:\HDD1\MARU\생산부\1. GOODTRUST\샘플\생산3팀\WSCR
+Z:\HDD1\MARU\생산부\1. GOODTRUST\샘플\생산3팀\다이아몬드 퀼팅
+Z:\HDD1\MARU\생산부\1. GOODTRUST\샘플\생산3팀\다이아몬드 퀼팅\다이아몬드 후드자켓 P1
+Z:\HDD1\MARU\생산부\1. GOODTRUST\샘플\생산3팀\다이아몬드 퀼팅\로백 MWJA 다이아몬드 퀼팅 자켓 P2 SAMPLE 작업지시서
+Z:\HDD1\MARU\생산부\1. GOODTRUST\자재리스트
+Z:\HDD1\MARU\생산부\1. GOODTRUST\자재리스트\로백
+Z:\HDD1\MARU\생산부\1. GOODTRUST\자재리스트\로백\8월
+Z:\HDD1\MARU\생산부\1. GOODTRUST\자재리스트\로백\8월\SP27
+Z:\HDD1\MARU\생산부\1. GOODTRUST\자재리스트\로백\8월\SP27\1차
+Z:\HDD1\MARU\생산부\1. GOODTRUST\자재리스트\로백\8월\SP27\2차
+Z:\HDD1\MARU\생산부\1. GOODTRUST\자재리스트\로백\9월
+Z:\HDD1\MARU\생산부\1. GOODTRUST\자재리스트\로백\9월\SP27
+Z:\HDD1\MARU\생산부\1. GOODTRUST\자재리스트\로백\9월\SP27\3차
+Z:\HDD1\MARU\생산부\1. GOODTRUST\자재리스트\아이언오크
+Z:\HDD1\MARU\생산부\1. GOODTRUST\자재리스트\아이언오크\9월
+Z:\HDD1\MARU\생산부\1. GOODTRUST\패턴의뢰건
+Z:\HDD1\MARU\생산부\1. GOODTRUST\패턴의뢰건\(7.14) 생산5팀 이선영주임님 의뢰건
+Z:\HDD1\MARU\생산부\1. GOODTRUST\해외생산
+Z:\HDD1\MARU\생산부\1. GOODTRUST\해외생산\2026
+Z:\HDD1\MARU\생산부\1. GOODTRUST\해외생산\2026\생산3팀
+Z:\HDD1\MARU\생산부\1. GOODTRUST\해외생산\2026\생산3팀\김경창대리
+Z:\HDD1\MARU\생산부\1. GOODTRUST\해외생산\2026\생산3팀\김경창대리\6월
+Z:\HDD1\MARU\생산부\2. 디즈니
+Z:\HDD1\MARU\생산부\2. 디즈니\27SS
+Z:\HDD1\MARU\생산부\2. 디즈니\27SS\샘플
+Z:\HDD1\MARU\생산부\2. 디즈니\27SS\샘플\DTP의뢰건
+Z:\HDD1\MARU\생산부\2. 디즈니\27SS\샘플\DTP의뢰건\티셔츠
+Z:\HDD1\MARU\생산부\2. 디즈니\27SS\샘플\DTP의뢰건\티셔츠\남티_김고운님 의뢰건
+Z:\HDD1\MARU\생산부\2. 디즈니\27SS\샘플\DTP의뢰건\티셔츠\남티_김고운님 의뢰건\CFM
+Z:\HDD1\MARU\생산부\2. 디즈니\27SS\샘플\DTP의뢰건\티셔츠\캡처
+Z:\HDD1\MARU\생산부\2. 디즈니\27SS\샘플\아우터
+Z:\HDD1\MARU\생산부\2. 디즈니\27SS\샘플\아우터\27SS LJB-016
+Z:\HDD1\MARU\생산부\2. 디즈니\27SS\샘플\아우터\LJP-001
+Z:\HDD1\MARU\생산부\2. 디즈니\27SS\샘플\아우터\LJP-013
+Z:\HDD1\MARU\생산부\2. 디즈니\27SS\샘플\아우터\LJV-016
+Z:\HDD1\MARU\생산부\2. 디즈니\27SS\샘플\아우터\LJV-017
+Z:\HDD1\MARU\생산부\2. 디즈니\27SS\샘플\아우터\MJB-002
+Z:\HDD1\MARU\생산부\2. 디즈니\27SS\샘플\안료나염 의뢰
+Z:\HDD1\MARU\생산부\2. 디즈니\27SS\샘플\전사지의뢰
+Z:\HDD1\MARU\생산부\2. 디즈니\27SS\샘플\티셔츠
+Z:\HDD1\MARU\생산부\2. 디즈니\27SS\샘플\티셔츠\LTS-003
+Z:\HDD1\MARU\생산부\2. 디즈니\27SS\샘플\티셔츠\LTS-007
+Z:\HDD1\MARU\생산부\2. 디즈니\27SS\샘플\티셔츠\MTS-008
+Z:\HDD1\MARU\생산부\2. 디즈니\27SS\샘플\티셔츠\워너
+Z:\HDD1\MARU\생산부\2. 디즈니\27SS\샘플\티셔츠\워너\MTS-047
+Z:\HDD1\MARU\생산부\2. 디즈니\27SS\샘플\티셔츠\워너\MTS-052
+Z:\HDD1\MARU\생산부\2. 디즈니\27SS\완사입
+Z:\HDD1\MARU\생산부\2. 디즈니\27SS\완사입\기획
+Z:\HDD1\MARU\생산부\2. 디즈니\27SS\완사입\기획\DR1-LJB-080
+Z:\HDD1\MARU\생산부\2. 디즈니\27SS\완사입\기획\DR1-LPA-080
+Z:\HDD1\MARU\생산부\2. 디즈니\27SS\완사입\기획\DR1LTR080
+Z:\HDD1\MARU\생산부\2. 디즈니\27SS\완사입\기획\DR2LTR091
+Z:\HDD1\MARU\생산부\2. 디즈니\27SS\완사입\기획\DR2LTS090
+Z:\HDD1\MARU\생산부\2. 디즈니\27SS\완사입\기획\DR2MTS090
+Z:\HDD1\MARU\생산부\2. 디즈니\27SS\완사입\기획\SR1-MJB-080
+Z:\HDD1\MARU\생산부\2. 디즈니\27SS\완사입\기획\SR1MTR081
+Z:\HDD1\MARU\생산부\2. 디즈니\27SS\완사입\디즈니 발주서
+Z:\HDD1\MARU\생산부\2. 디즈니\27SS\완사입\정상
+Z:\HDD1\MARU\생산부\2. 디즈니\27SS\완사입\정상\DR1-LJP-003(MYN-2070)
+Z:\HDD1\MARU\생산부\2. 디즈니\27SS\완사입\정상\DR1-LJP-004(NCS-C1349)
+Z:\HDD1\MARU\생산부\2. 디즈니\27SS\완사입\정상\DR1-LJV-009(MYP-2261)
+Z:\HDD1\MARU\생산부\2. 디즈니\27SS\완사입\정상\DR1-MJP-001
+Z:\HDD1\MARU\생산부\2. 디즈니\27SS\완사입\정상\SR1-LJB-016(BDS-2708)
+Z:\HDD1\MARU\생산부\2. 디즈니\27SS\완사입\정상\SR2-MSH-052
+Z:\HDD1\MARU\생산부\2. 디즈니\27SS\완사입\정상\견적서
+Z:\HDD1\MARU\생산부\2. 디즈니\27SS\완사입\정상\견적서\네고
+Z:\HDD1\MARU\생산부\2. 디즈니\27SS\원단
+Z:\HDD1\MARU\생산부\2. 디즈니\27SS\원단 견적서
+Z:\HDD1\MARU\생산부\2. 디즈니\27SS\원단 견적서\7.21 2차 품평 MD요청
+Z:\HDD1\MARU\생산부\2. 디즈니\27SS\원단 견적서\JD
+Z:\HDD1\MARU\생산부\2. 디즈니\27SS\원단 견적서\UK
+Z:\HDD1\MARU\생산부\2. 디즈니\27SS\원단 견적서\에르원
+Z:\HDD1\MARU\생산부\2. 디즈니\27SS\원단\26FW
+Z:\HDD1\MARU\생산부\2. 디즈니\27SS\원단\27SS
+Z:\HDD1\MARU\생산부\2. 디즈니\27SS\원단\27SS\AB-6086(DR2-MPA-031, DR2-LCR-030)
+Z:\HDD1\MARU\생산부\2. 디즈니\27SS\원단\27SS\AB-6098(DR1-MPA-003, MJV-002, LPA-006) - 복사본
+Z:\HDD1\MARU\생산부\2. 디즈니\27SS\원단\27SS\AB-6180(DR2-LPA-033, DR2-LPS-036)
+Z:\HDD1\MARU\생산부\2. 디즈니\27SS\원단\27SS\BD-6994+DTP(DR1-MJB-005)
+Z:\HDD1\MARU\생산부\2. 디즈니\27SS\원단\27SS\BDS-2708(DR2-LPS-037,DR2-LTR-039)
+Z:\HDD1\MARU\생산부\2. 디즈니\27SS\원단\27SS\DR1-LTS-010(JREA-2070)
+Z:\HDD1\MARU\생산부\2. 디즈니\27SS\원단\27SS\HS-296N(DR2-LTL-043)
+Z:\HDD1\MARU\생산부\2. 디즈니\27SS\원단\27SS\HS-8P
+Z:\HDD1\MARU\생산부\2. 디즈니\27SS\원단\27SS\JDK-G9125(SR2-MTR-049)
+Z:\HDD1\MARU\생산부\2. 디즈니\27SS\원단\27SS\JDK-S0501(DR2-LTR-040, DR2-MTS-043)
+Z:\HDD1\MARU\생산부\2. 디즈니\27SS\원단\27SS\JDK-S0501(DR2-MTS-043)
+Z:\HDD1\MARU\생산부\2. 디즈니\27SS\원단\27SS\JDK-T8822(SR1-LTR-017)
+Z:\HDD1\MARU\생산부\2. 디즈니\27SS\원단\27SS\JDK-T8845(DR1-LTW-002, DR1-LTP-002)
+Z:\HDD1\MARU\생산부\2. 디즈니\27SS\원단\27SS\JDK-T8845P+DTP(DR1-MTS-007)
+Z:\HDD1\MARU\생산부\2. 디즈니\27SS\원단\27SS\KT-7175+DTP(DR1-LTJ-015)
+Z:\HDD1\MARU\생산부\2. 디즈니\27SS\원단\27SS\L1-2495P(DR2-MTS-035)
+Z:\HDD1\MARU\생산부\2. 디즈니\27SS\원단\27SS\LS-N364(DR1-LTS-008, LTS-001)
+Z:\HDD1\MARU\생산부\2. 디즈니\27SS\원단\27SS\LS-N364(DR2-MTS-032)
+Z:\HDD1\MARU\생산부\2. 디즈니\27SS\원단\27SS\MYC-730(DR1-MPA-001, DR1-LPA-001)
+Z:\HDD1\MARU\생산부\2. 디즈니\27SS\원단\27SS\MYN-1335-2(SR1-MPA-015)
+Z:\HDD1\MARU\생산부\2. 디즈니\27SS\원단\27SS\MYN-1416(DR1-MJP-003)
+Z:\HDD1\MARU\생산부\2. 디즈니\27SS\원단\27SS\MYN-1731(DR1-LPA-004)
+Z:\HDD1\MARU\생산부\2. 디즈니\27SS\원단\27SS\MYN-585(dR2-LPA-032)
+Z:\HDD1\MARU\생산부\2. 디즈니\27SS\원단\27SS\MYP-2846(SR2-LPA-047)
+Z:\HDD1\MARU\생산부\2. 디즈니\27SS\원단\27SS\MYP-393-1(DR1-LJP-005)
+Z:\HDD1\MARU\생산부\2. 디즈니\27SS\원단\27SS\NSR-T2441(DR2-LSH-034)
+Z:\HDD1\MARU\생산부\2. 디즈니\27SS\원단\27SS\NX-0886P(DR2-MTS-031)
+Z:\HDD1\MARU\생산부\2. 디즈니\27SS\원단\27SS\NX-1353 + DTP(DR1-LTS-003)
+Z:\HDD1\MARU\생산부\2. 디즈니\27SS\원단\27SS\NX-1553(DR2-MTS-032)
+Z:\HDD1\MARU\생산부\2. 디즈니\27SS\원단\27SS\NX-1981CP(DR2-MTR-036)
+Z:\HDD1\MARU\생산부\2. 디즈니\27SS\원단\27SS\PN-1440(DR2-LTV-038)
+Z:\HDD1\MARU\생산부\2. 디즈니\27SS\원단\27SS\PPS-M3383(DR2-LSH-032, MSH-034)
+Z:\HDD1\MARU\생산부\2. 디즈니\27SS\해외생산
+Z:\HDD1\MARU\생산부\2. 디즈니\27SS\해외생산\260911 TIANHAO  수신메일
+Z:\HDD1\MARU\생산부\정산서
+Z:\HDD1\MARU\생산부\정산서\2026
+Z:\HDD1\MARU\생산부\정산서\2026\굿트러스트
+Z:\HDD1\MARU\생산부\정산서\2026\굿트러스트\7월
+Z:\HDD1\MARU\생산부\정산서\2026\굿트러스트\7월\7월 PACKINGLIST
+Z:\HDD1\MARU\생산부\정산서\2026\굿트러스트\7월\가마감
+Z:\HDD1\MARU\생산부\정산서\2026\굿트러스트\8월
+Z:\HDD1\MARU\생산부\정산서\2026\굿트러스트\8월\PACKINGLIST
+Z:\HDD1\MARU\생산부\정산서\2026\굿트러스트\9월
+Z:\HDD1\MARU\생산부\정산서\2026\굿트러스트\9월\PACKINGLIST
+Z:\HDD1\MARU\생산부\정산서\2026\디즈니
+Z:\HDD1\MARU\생산부\정산서\2026\디즈니\4월
+Z:\HDD1\MARU\생산부\정산서\2026\디즈니\5월
+Z:\HDD1\MARU\생산부\정산서\2026\디즈니\6월
+Z:\HDD1\MARU\생산부\정산서\2026\디즈니\7월
+Z:\HDD1\MARU\생산부\정산서\2026\디즈니\8월
+Z:\HDD1\MARU\생산부\정산서\2026\디즈니\8월\가공임정산 8월
+Z:\HDD1\MARU\생산부\정산서\2026\시머트리
+Z:\HDD1\MARU\생산부\정산서\2026\시머트리\9월
+Z:\HDD1\MARU\생산부\정산서\2026\월별마감
