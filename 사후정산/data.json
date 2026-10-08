@@ -1,25 +1,25 @@
 {
-  "generated": "2026-10-07 08:14",
+  "generated": "2026-10-09 07:15",
   "scope": "정산서만(누락작지·관리부·ETC 제외) · 패킹=파일명 · 종결=status meta(읽기만)",
   "targetZ": "Z:\\HDD1\\MARU\\dashboard\\사후정산\\",
-  "count": 43,
-  "packingN": 16,
+  "count": 47,
+  "packingN": 18,
   "brandCounts": {
     "?": 1,
-    "디즈니": 12,
+    "디즈니": 14,
     "시머트리": 4,
-    "굿트러스트": 26
+    "굿트러스트": 28
   },
   "statusMeta": {
-    "asOf": "2026-10-02",
+    "asOf": "2026-10-07",
     "n": 92,
     "qty": 22713,
     "completeN": 26,
     "inboundN": 13,
-    "shipN": 27,
-    "shipQ": 11726,
-    "unshipOverdueN": 1,
-    "unshipOverdueQ": 212
+    "shipN": 28,
+    "shipQ": 11938,
+    "unshipOverdueN": 0,
+    "unshipOverdueQ": 0
   },
   "inventorySource": "air-morning",
   "items": [
@@ -214,7 +214,7 @@
       "name": "260921 로백 SP27 MPOL.xls",
       "ext": ".xls",
       "bytes": 111104,
-      "mtime": "2026-10-06",
+      "mtime": "2026-10-07",
       "href": "../../생산부/정산서/2026/굿트러스트/8월/PACKINGLIST/260921 로백 SP27 MPOL.xls",
       "packing": false
     },
@@ -256,19 +256,6 @@
       "mtime": "2026-09-21",
       "href": "../../생산부/정산서/2026/굿트러스트/8월/PACKINGLIST/MORNING PEOPLE 2026 PO#0002 260921.xlsx",
       "packing": false
-    },
-    {
-      "src": "PROD",
-      "brand": "굿트러스트",
-      "year": "2026",
-      "month": "8월",
-      "path": "생산부\\정산서\\2026\\굿트러스트\\8월\\PACKINGLIST\\아이언호크 SP26 MAIN 23차 PO#0073 패킹리스트  2026.09.18 - 복사본.xlsx",
-      "name": "아이언호크 SP26 MAIN 23차 PO#0073 패킹리스트  2026.09.18 - 복사본.xlsx",
-      "ext": ".xlsx",
-      "bytes": 18679,
-      "mtime": "2026-09-18",
-      "href": "../../생산부/정산서/2026/굿트러스트/8월/PACKINGLIST/아이언호크 SP26 MAIN 23차 PO#0073 패킹리스트  2026.09.18 - 복사본.xlsx",
-      "packing": true
     },
     {
       "src": "PROD",
@@ -353,6 +340,32 @@
       "brand": "굿트러스트",
       "year": "2026",
       "month": "9월",
+      "path": "생산부\\정산서\\2026\\굿트러스트\\9월\\PACKINGLIST\\2026-10-07_RHOBACK_PO#_13199,13423,13188,13414,13424,13246,13208,13430,13236,13238,13447,13200(MLPO).xlsx",
+      "name": "2026-10-07_RHOBACK_PO#_13199,13423,13188,13414,13424,13246,13208,13430,13236,13238,13447,13200(MLPO).xlsx",
+      "ext": ".xlsx",
+      "bytes": 38153,
+      "mtime": "2026-10-08",
+      "href": "../../생산부/정산서/2026/굿트러스트/9월/PACKINGLIST/2026-10-07_RHOBACK_PO#_13199,13423,13188,13414,13424,13246,13208,13430,13236,13238,13447,13200(MLPO).xlsx",
+      "packing": false
+    },
+    {
+      "src": "PROD",
+      "brand": "굿트러스트",
+      "year": "2026",
+      "month": "9월",
+      "path": "생산부\\정산서\\2026\\굿트러스트\\9월\\PACKINGLIST\\아이언호크 SP26 MAIN 23차 PO#0073 전체 패킹리스트.xlsx",
+      "name": "아이언호크 SP26 MAIN 23차 PO#0073 전체 패킹리스트.xlsx",
+      "ext": ".xlsx",
+      "bytes": 25977,
+      "mtime": "2026-10-06",
+      "href": "../../생산부/정산서/2026/굿트러스트/9월/PACKINGLIST/아이언호크 SP26 MAIN 23차 PO#0073 전체 패킹리스트.xlsx",
+      "packing": true
+    },
+    {
+      "src": "PROD",
+      "brand": "굿트러스트",
+      "year": "2026",
+      "month": "9월",
       "path": "생산부\\정산서\\2026\\굿트러스트\\9월\\PACKINGLIST\\IDAKA FA26 MAIN 1차 PO#70126 패킹리스트  2026.10.06.xlsx",
       "name": "IDAKA FA26 MAIN 1차 PO#70126 패킹리스트  2026.10.06.xlsx",
       "ext": ".xlsx",
@@ -360,6 +373,19 @@
       "mtime": "2026-10-06",
       "href": "../../생산부/정산서/2026/굿트러스트/9월/PACKINGLIST/IDAKA FA26 MAIN 1차 PO#70126 패킹리스트  2026.10.06.xlsx",
       "packing": true
+    },
+    {
+      "src": "PROD",
+      "brand": "굿트러스트",
+      "year": "2026",
+      "month": "9월",
+      "path": "생산부\\정산서\\2026\\굿트러스트\\9월\\PACKINGLIST\\260921 로백 SP27 PO#13276,13245,13202,13220,13234.xls",
+      "name": "260921 로백 SP27 PO#13276,13245,13202,13220,13234.xls",
+      "ext": ".xls",
+      "bytes": 111104,
+      "mtime": "2026-10-08",
+      "href": "../../생산부/정산서/2026/굿트러스트/9월/PACKINGLIST/260921 로백 SP27 PO#13276,13245,13202,13220,13234.xls",
+      "packing": false
     },
     {
       "src": "PROD",
@@ -568,6 +594,32 @@
       "mtime": "2026-08-08",
       "href": "../../생산부/정산서/2026/디즈니/6월/마루 6월 마감.xlsx",
       "packing": false
+    },
+    {
+      "src": "PROD",
+      "brand": "디즈니",
+      "year": "2026",
+      "month": "9월",
+      "path": "생산부\\정산서\\2026\\디즈니\\9월\\마루 9월 완사입 결재리스트 (승우).pdf",
+      "name": "마루 9월 완사입 결재리스트 (승우).pdf",
+      "ext": ".pdf",
+      "bytes": 59875,
+      "mtime": "2026-10-08",
+      "href": "../../생산부/정산서/2026/디즈니/9월/마루 9월 완사입 결재리스트 (승우).pdf",
+      "packing": true
+    },
+    {
+      "src": "PROD",
+      "brand": "디즈니",
+      "year": "2026",
+      "month": "9월",
+      "path": "생산부\\정산서\\2026\\디즈니\\9월\\마루 9월 완사입 결재리스트 (두리).pdf",
+      "name": "마루 9월 완사입 결재리스트 (두리).pdf",
+      "ext": ".pdf",
+      "bytes": 66907,
+      "mtime": "2026-10-08",
+      "href": "../../생산부/정산서/2026/디즈니/9월/마루 9월 완사입 결재리스트 (두리).pdf",
+      "packing": true
     },
     {
       "src": "PROD",
