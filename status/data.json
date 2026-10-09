@@ -1,23 +1,23 @@
 {
   "meta": {
-    "n": 92,
-    "qty": 22713,
+    "n": 97,
+    "qty": 27413,
     "overdueN": 1,
     "overdueQ": 525,
     "soonN": 47,
     "soonQ": 7789,
-    "fabMissN": 31,
-    "fabMissQ": 6376,
+    "fabMissN": 32,
+    "fabMissQ": 6576,
     "fabTodayN": 0,
     "fabTodayQ": 0,
-    "fabIssueN": 34,
-    "fabIssueQ": 7282,
-    "cutN": 79,
-    "cutQtySum": 20269,
-    "sewN": 72,
-    "sewQ": 19037,
-    "completeN": 26,
-    "completeQ": 10396,
+    "fabIssueN": 35,
+    "fabIssueQ": 7482,
+    "cutN": 83,
+    "cutQtySum": 26162,
+    "sewN": 75,
+    "sewQ": 19703,
+    "completeN": 42,
+    "completeQ": 16438,
     "inboundN": 13,
     "inboundQ": 4235,
     "shipN": 28,
@@ -25,16 +25,16 @@
     "unshipOverdueN": 1,
     "unshipOverdueQ": 525,
     "asOf": "2026-10-09",
-    "source": "생산현황표 9월.xlsx",
-    "sourcePath": "Z:\\HDD1\\MARU\\생산부\\생산현황표\\생산현황표 9월.xlsx",
+    "source": "생산현황표 10월.xlsx",
+    "sourcePath": "Z:\\HDD1\\MARU\\생산부\\생산현황표\\생산현황표 10월.xlsx",
     "teams": {
       "생산3팀": {
-        "n": 70,
-        "qty": 12326
+        "n": 73,
+        "qty": 13026
       },
       "생산5팀": {
-        "n": 10,
-        "qty": 6278
+        "n": 12,
+        "qty": 10278
       },
       "시머트리": {
         "n": 10,
@@ -47,24 +47,24 @@
     },
     "teamKpis": {
       "생산3팀": {
-        "n": 70,
-        "qty": 12326,
+        "n": 73,
+        "qty": 13026,
         "overdueN": 1,
         "overdueQ": 525,
         "soonN": 47,
         "soonQ": 7789,
-        "fabMissN": 28,
-        "fabMissQ": 3336,
+        "fabMissN": 29,
+        "fabMissQ": 3536,
         "fabTodayN": 0,
         "fabTodayQ": 0,
-        "fabIssueN": 28,
-        "fabIssueQ": 3336,
-        "cutN": 57,
-        "cutQtySum": 12065,
-        "sewN": 56,
-        "sewQ": 10453,
-        "completeN": 8,
-        "completeQ": 3301,
+        "fabIssueN": 29,
+        "fabIssueQ": 3536,
+        "cutN": 59,
+        "cutQtySum": 12364,
+        "sewN": 59,
+        "sewQ": 11119,
+        "completeN": 20,
+        "completeQ": 6051,
         "inboundN": 0,
         "inboundQ": 0,
         "shipN": 6,
@@ -73,8 +73,8 @@
         "unshipOverdueQ": 525
       },
       "생산5팀": {
-        "n": 10,
-        "qty": 6278,
+        "n": 12,
+        "qty": 10278,
         "overdueN": 0,
         "overdueQ": 0,
         "soonN": 0,
@@ -85,12 +85,12 @@
         "fabTodayQ": 0,
         "fabIssueN": 2,
         "fabIssueQ": 2440,
-        "cutN": 10,
-        "cutQtySum": 4034,
+        "cutN": 12,
+        "cutQtySum": 9628,
         "sewN": 10,
         "sewQ": 6278,
-        "completeN": 6,
-        "completeQ": 2986,
+        "completeN": 10,
+        "completeQ": 6278,
         "inboundN": 1,
         "inboundQ": 126,
         "shipN": 10,
@@ -152,50 +152,50 @@
       }
     },
     "cal": {
-      "재단": 13407,
-      "부속": 3845,
-      "합봉": 13153,
-      "완성": 5039
+      "재단": 11239,
+      "부속": 1969,
+      "합봉": 13449,
+      "완성": 6583
     },
     "calN": {
-      "재단": 32,
-      "부속": 8,
-      "합봉": 36,
-      "완성": 12
+      "재단": 15,
+      "부속": 5,
+      "합봉": 49,
+      "완성": 15
     },
     "calMonth": {
-      "재단": 0,
+      "재단": 4000,
       "부속": 0,
-      "합봉": 0,
-      "완성": 0
+      "합봉": 2247,
+      "완성": 1544
     },
     "calMonthN": {
-      "재단": 0,
+      "재단": 4,
       "부속": 0,
-      "합봉": 0,
-      "완성": 0
+      "합봉": 17,
+      "완성": 4
     },
     "month": "2026-10",
     "teamCal": {
       "생산3팀": {
-        "재단": 5033,
-        "부속": 1750,
-        "합봉": 4706,
+        "재단": 0,
+        "부속": 0,
+        "합봉": 5202,
         "완성": 51,
-        "재단N": 15,
-        "부속N": 2,
-        "합봉N": 21,
+        "재단N": 0,
+        "부속N": 0,
+        "합봉N": 34,
         "완성N": 1
       },
       "생산5팀": {
-        "재단": 4335,
-        "부속": 126,
-        "합봉": 6478,
-        "완성": 2986,
-        "재단N": 7,
-        "부속N": 1,
+        "재단": 7200,
+        "부속": 0,
+        "합봉": 6278,
+        "완성": 4530,
+        "재단N": 5,
+        "부속N": 0,
         "합봉N": 10,
-        "완성N": 6
+        "완성N": 9
       },
       "시머트리": {
         "재단": 4039,
@@ -235,51 +235,127 @@
       "시트명 뒤 공백: '생산3팀 생산스케줄 ', '디즈니 생산스케줄 '",
       "작지는 4행 블록(총수량/일수량 · 작지/납기 · 재단/부속/합봉/완성). 병합셀은 좌상단 값만 사용.",
       "전체 시트는 스케줄형이라 작지 상세(원단·재단·봉제)가 팀 시트보다 빈약함. 작지 목록은 팀 시트를 기준으로 하고, 전체에만 있는 NO가 있으면 보충.",
-      "전체(전체) NO 81개 · 팀 시트에 있고 전체에 없는 NO 11개 (RH-22, SM-01, SM-02, SM-03, SM-04, SM-05, SM-06, SM-07, SM-08, SM-09, SM-10)",
-      "전체 시트 중복 NO: IO-16, RH-45, RH-46, RH-47, RH-48"
+      "전체(전체) NO 81개 · 팀 시트에 있고 전체에 없는 NO 16개 (RH-22, RH-72, RH-73, IO-07, SM-01, SM-02, SM-03, SM-04, SM-05, SM-06, SM-07, SM-08…)",
+      "전체 시트 중복 NO: IO-16, RH-45, RH-46, RH-47, RH-48, RH-71"
     ],
-    "imgMapped": 46,
-    "imgMissing": 46,
+    "imgMapped": 48,
+    "imgMissing": 49,
+    "dueSyncSource": "9월 5주차 주간회의.xlsx",
+    "weeklyDueSource": "9월 5주차 주간회의.xlsx",
+    "dueSyncPath": "Z:\\HDD1\\관리자료\\주간회의\\9월 5주차 주간회의.xlsx",
+    "weeklySkipped": [
+      "10월 1주차 주간회의.xlsx: 보고 시트 없음 (회의용)"
+    ],
     "jikjiFiles": 199,
-    "jikjiLinked": 89,
+    "jikjiLinked": 94,
     "jikjiUnlinked": 3,
     "matFiles": 92,
-    "matLinked": 53,
-    "matUnlinked": 39,
+    "matLinked": 55,
+    "matUnlinked": 42,
     "packingCloseAt": "2026-10-06T23:32:17.883Z",
     "dueSyncAt": "2026-10-01T23:34:54.873Z",
-    "dueSyncSource": "10월 1주차 주간회의.xlsx",
-    "dueSyncPath": "Z:\\HDD1\\관리자료\\주간회의\\9월 5주차 주간회의.xlsx",
-    "stageSource": "생산현황표 9월.xlsx",
-    "stageSourcePath": "Z:\\HDD1\\MARU\\생산부\\생산현황표\\생산현황표 9월.xlsx",
-    "weeklyDueSource": "10월 1주차 주간회의.xlsx",
-    "dueFromWeeklyN": 0,
-    "dueFallbackN": 77,
+    "stageSource": "생산현황표 10월.xlsx",
+    "stageSourcePath": "Z:\\HDD1\\MARU\\생산부\\생산현황표\\생산현황표 10월.xlsx",
+    "dueFromWeeklyN": 13,
+    "dueFallbackN": 69,
     "stageCounts": {
       "납품완료": 28,
-      "완성": 2,
-      "봉제": 48,
-      "재단": 12,
-      "원단": 2
+      "완성": 14,
+      "봉제": 39,
+      "재단": 13,
+      "원단": 2,
+      "대기": 1
     },
     "ddayCounts": {
       "완료": 28,
       "지연": 1,
       "임박": 47,
-      "정상": 1,
+      "정상": 6,
       "미정": 15
     },
-    "stageSyncAt": "2026-10-06T23:14:52.296Z",
-    "weeklyLabel": "1주차",
-    "shipGuardAt": "2026-10-09T00:28:39.833Z",
+    "stageSyncAt": "2026-10-09T00:39:21.227Z",
+    "weeklyLabel": "5주차",
+    "shipGuardAt": "2026-10-09T00:39:29.048Z",
     "preserveMerge": {
       "prevKept": 27,
-      "dueKept": 0,
-      "filled": 1427,
+      "dueKept": 11,
+      "dueKeptWeekly": 11,
+      "dueKeptFallback": 0,
+      "dueSheetWins": 0,
+      "weeklySource": "9월 5주차 주간회의.xlsx",
+      "filled": 1422,
       "locked": 0,
       "prev": true,
       "prevOnlyNos": [],
-      "dueKeptFallback": 11
+      "dueRestored": [
+        {
+          "no": "RH-2",
+          "sheet": "2026-10-09",
+          "kept": "2026-10-08",
+          "why": "weekly"
+        },
+        {
+          "no": "RH-55",
+          "sheet": "",
+          "kept": "2026-10-14",
+          "why": "weekly"
+        },
+        {
+          "no": "IO-08",
+          "sheet": "2026-09-27",
+          "kept": "2026-10-02",
+          "why": "weekly"
+        },
+        {
+          "no": "IO-09",
+          "sheet": "2026-09-27",
+          "kept": "2026-10-02",
+          "why": "weekly"
+        },
+        {
+          "no": "IO-10",
+          "sheet": "2026-09-27",
+          "kept": "2026-10-02",
+          "why": "weekly"
+        },
+        {
+          "no": "IO-11",
+          "sheet": "2026-09-27",
+          "kept": "2026-10-02",
+          "why": "weekly"
+        },
+        {
+          "no": "IO-12",
+          "sheet": "2026-09-27",
+          "kept": "2026-10-02",
+          "why": "weekly"
+        },
+        {
+          "no": "IO-13",
+          "sheet": "2026-09-27",
+          "kept": "2026-10-02",
+          "why": "weekly"
+        },
+        {
+          "no": "IO-14",
+          "sheet": "2026-09-27",
+          "kept": "2026-10-02",
+          "why": "weekly"
+        },
+        {
+          "no": "IO-15",
+          "sheet": "2026-09-27",
+          "kept": "2026-10-02",
+          "why": "weekly"
+        },
+        {
+          "no": "IO-16",
+          "sheet": "",
+          "kept": "2026-09-30",
+          "why": "weekly"
+        }
+      ],
+      "dueSheetWinsList": []
     }
   },
   "orders": [
@@ -307,14 +383,14 @@
       "ship": "2026-09-11",
       "ppRecv": "",
       "ppSend": "",
-      "note": "메인라벨 끝 사이즈 있음 / 옆트임 앞뒤편차 有 / PP1PCS / 빠른진행 / 단납기 / QC코멘트 / 대기中 / 재단금지 / 바스 기준 / 에리후세 기준",
+      "note": "바스 기준 / 에리후세 기준",
       "source": "생산3팀",
       "days": null,
       "fabricToday": false,
       "fabricMissing": true,
       "fabricIssue": true,
       "sched": {
-        "재단": 525,
+        "재단": null,
         "부속": null,
         "합봉": 51,
         "완성": 51,
@@ -322,12 +398,6 @@
         "note": "바스 기준 / 에리후세 기준"
       },
       "schedDaily": {
-        "재단": [
-          {
-            "date": "2026-08-12",
-            "qty": 525
-          }
-        ],
         "합봉": [
           {
             "date": "2026-09-17",
@@ -341,11 +411,11 @@
           }
         ]
       },
+      "dueSource": "weekly",
       "stage": "납품완료",
       "stageLabel": "납품완료",
       "stageDate": "2026-09-11",
       "deliveryDue": "2026-09-18",
-      "dueSource": "fallback",
       "ddayStatus": "완료",
       "dday": null,
       "cutQtyIssue": "",
@@ -385,11 +455,11 @@
       "fabricMissing": true,
       "fabricIssue": true,
       "sched": {
-        "재단": 1225,
-        "부속": 525,
-        "합봉": 525,
+        "재단": null,
+        "부속": null,
+        "합봉": null,
         "완성": null,
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": ""
       },
       "schedDaily": {
@@ -412,11 +482,11 @@
           }
         ]
       },
+      "dueSource": "weekly",
       "stage": "완성",
       "stageLabel": "완성",
       "stageDate": "2026-09-02",
       "deliveryDue": "2026-10-08",
-      "dueSource": "fallback",
       "ddayStatus": "지연",
       "dday": -1,
       "cutQtyIssue": "",
@@ -494,11 +564,11 @@
       "fabricMissing": false,
       "fabricIssue": false,
       "sched": {
-        "재단": 150,
-        "부속": 1225,
-        "합봉": 141,
+        "재단": null,
+        "부속": null,
+        "합봉": null,
         "완성": null,
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": ""
       },
       "schedDaily": {
@@ -595,7 +665,7 @@
       "cutQty": 838,
       "artwork": "",
       "sewDate": "2026-08-24",
-      "complete": "",
+      "complete": "2026-10-07",
       "inbound": "",
       "ship": "",
       "ppRecv": "",
@@ -607,11 +677,11 @@
       "fabricMissing": true,
       "fabricIssue": true,
       "sched": {
-        "재단": 150,
+        "재단": null,
         "부속": null,
-        "합봉": 320,
+        "합봉": null,
         "완성": null,
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": ""
       },
       "schedDaily": {
@@ -632,9 +702,9 @@
           }
         ]
       },
-      "stage": "봉제",
-      "stageLabel": "봉제",
-      "stageDate": "2026-08-24",
+      "stage": "완성",
+      "stageLabel": "완성",
+      "stageDate": "2026-10-07",
       "deliveryDue": "2026-10-09",
       "dueSource": "fallback",
       "ddayStatus": "임박",
@@ -702,7 +772,7 @@
       "cutQty": null,
       "artwork": "",
       "sewDate": "2026-08-24",
-      "complete": "",
+      "complete": "2026-10-07",
       "inbound": "",
       "ship": "",
       "ppRecv": "",
@@ -714,11 +784,11 @@
       "fabricMissing": false,
       "fabricIssue": false,
       "sched": {
-        "재단": 107,
+        "재단": null,
         "부속": null,
-        "합봉": 480,
+        "합봉": null,
         "완성": null,
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": ""
       },
       "schedDaily": {
@@ -735,9 +805,9 @@
           }
         ]
       },
-      "stage": "봉제",
-      "stageLabel": "봉제",
-      "stageDate": "2026-08-24",
+      "stage": "완성",
+      "stageLabel": "완성",
+      "stageDate": "2026-10-07",
       "deliveryDue": "2026-10-09",
       "dueSource": "fallback",
       "ddayStatus": "임박",
@@ -817,11 +887,11 @@
       "fabricMissing": false,
       "fabricIssue": false,
       "sched": {
-        "재단": 210,
+        "재단": null,
         "부속": null,
-        "합봉": 700,
+        "합봉": null,
         "완성": null,
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": ""
       },
       "schedDaily": {
@@ -926,11 +996,11 @@
       "fabricMissing": true,
       "fabricIssue": true,
       "sched": {
-        "재단": 212,
+        "재단": null,
         "부속": null,
-        "합봉": 3,
+        "합봉": null,
         "완성": null,
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": ""
       },
       "schedDaily": {
@@ -1023,7 +1093,7 @@
       "cutQty": 162,
       "artwork": "",
       "sewDate": "2026-08-26",
-      "complete": "",
+      "complete": "2026-10-07",
       "inbound": "",
       "ship": "",
       "ppRecv": "",
@@ -1035,11 +1105,11 @@
       "fabricMissing": false,
       "fabricIssue": false,
       "sched": {
-        "재단": 320,
+        "재단": null,
         "부속": null,
-        "합봉": 36,
+        "합봉": null,
         "완성": null,
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": ""
       },
       "schedDaily": {
@@ -1056,9 +1126,9 @@
           }
         ]
       },
-      "stage": "봉제",
-      "stageLabel": "봉제",
-      "stageDate": "2026-08-26",
+      "stage": "완성",
+      "stageLabel": "완성",
+      "stageDate": "2026-10-07",
       "deliveryDue": "2026-10-09",
       "dueSource": "fallback",
       "ddayStatus": "임박",
@@ -1132,7 +1202,7 @@
       "cutQty": null,
       "artwork": "",
       "sewDate": "2026-08-26",
-      "complete": "",
+      "complete": "2026-10-07",
       "inbound": "",
       "ship": "",
       "ppRecv": "",
@@ -1144,20 +1214,14 @@
       "fabricMissing": true,
       "fabricIssue": true,
       "sched": {
-        "재단": 480,
+        "재단": null,
         "부속": null,
         "합봉": 150,
         "완성": null,
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": ""
       },
       "schedDaily": {
-        "재단": [
-          {
-            "date": "2026-08-14",
-            "qty": 480
-          }
-        ],
         "합봉": [
           {
             "date": "2026-09-01",
@@ -1165,9 +1229,9 @@
           }
         ]
       },
-      "stage": "봉제",
-      "stageLabel": "봉제",
-      "stageDate": "2026-08-26",
+      "stage": "완성",
+      "stageLabel": "완성",
+      "stageDate": "2026-10-07",
       "deliveryDue": "2026-10-09",
       "dueSource": "fallback",
       "ddayStatus": "임박",
@@ -1241,7 +1305,7 @@
       "cutQty": 412,
       "artwork": "",
       "sewDate": "2026-08-26",
-      "complete": "",
+      "complete": "2026-10-07",
       "inbound": "",
       "ship": "",
       "ppRecv": "",
@@ -1253,20 +1317,14 @@
       "fabricMissing": false,
       "fabricIssue": false,
       "sched": {
-        "재단": 729,
+        "재단": null,
         "부속": null,
         "합봉": 300,
         "완성": null,
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": ""
       },
       "schedDaily": {
-        "재단": [
-          {
-            "date": "2026-08-20",
-            "qty": 729
-          }
-        ],
         "합봉": [
           {
             "date": "2026-09-01",
@@ -1274,9 +1332,9 @@
           }
         ]
       },
-      "stage": "봉제",
-      "stageLabel": "봉제",
-      "stageDate": "2026-08-26",
+      "stage": "완성",
+      "stageLabel": "완성",
+      "stageDate": "2026-10-07",
       "deliveryDue": "2026-10-09",
       "dueSource": "fallback",
       "ddayStatus": "임박",
@@ -1350,7 +1408,7 @@
       "cutQty": null,
       "artwork": "",
       "sewDate": "2026-08-27",
-      "complete": "",
+      "complete": "2026-10-07",
       "inbound": "",
       "ship": "",
       "ppRecv": "",
@@ -1362,20 +1420,14 @@
       "fabricMissing": true,
       "fabricIssue": true,
       "sched": {
-        "재단": 3,
+        "재단": null,
         "부속": null,
         "합봉": 300,
         "완성": null,
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": ""
       },
       "schedDaily": {
-        "재단": [
-          {
-            "date": "2026-08-20",
-            "qty": 3
-          }
-        ],
         "합봉": [
           {
             "date": "2026-09-01",
@@ -1383,9 +1435,9 @@
           }
         ]
       },
-      "stage": "봉제",
-      "stageLabel": "봉제",
-      "stageDate": "2026-08-27",
+      "stage": "완성",
+      "stageLabel": "완성",
+      "stageDate": "2026-10-07",
       "deliveryDue": "2026-10-09",
       "dueSource": "fallback",
       "ddayStatus": "임박",
@@ -1471,20 +1523,14 @@
       "fabricMissing": false,
       "fabricIssue": false,
       "sched": {
-        "재단": 174,
+        "재단": null,
         "부속": null,
         "합봉": 200,
         "완성": null,
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": ""
       },
       "schedDaily": {
-        "재단": [
-          {
-            "date": "2026-08-20",
-            "qty": 174
-          }
-        ],
         "합봉": [
           {
             "date": "2026-09-02",
@@ -1574,20 +1620,14 @@
       "fabricMissing": false,
       "fabricIssue": false,
       "sched": {
-        "재단": 162,
+        "재단": null,
         "부속": null,
         "합봉": 100,
         "완성": null,
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": ""
       },
       "schedDaily": {
-        "재단": [
-          {
-            "date": "2026-08-20",
-            "qty": 162
-          }
-        ],
         "합봉": [
           {
             "date": "2026-09-02",
@@ -1671,7 +1711,7 @@
       "cutQty": 174,
       "artwork": "",
       "sewDate": "2026-08-28",
-      "complete": "",
+      "complete": "2026-10-07",
       "inbound": "",
       "ship": "",
       "ppRecv": "",
@@ -1687,7 +1727,7 @@
         "부속": null,
         "합봉": 200,
         "완성": null,
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": ""
       },
       "schedDaily": {
@@ -1698,9 +1738,9 @@
           }
         ]
       },
-      "stage": "봉제",
-      "stageLabel": "봉제",
-      "stageDate": "2026-08-28",
+      "stage": "완성",
+      "stageLabel": "완성",
+      "stageDate": "2026-10-07",
       "deliveryDue": "2026-10-09",
       "dueSource": "fallback",
       "ddayStatus": "임박",
@@ -1786,20 +1826,14 @@
       "fabricMissing": false,
       "fabricIssue": false,
       "sched": {
-        "재단": 300,
+        "재단": null,
         "부속": null,
         "합봉": 200,
         "완성": null,
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": ""
       },
       "schedDaily": {
-        "재단": [
-          {
-            "date": "2026-08-20",
-            "qty": 300
-          }
-        ],
         "합봉": [
           {
             "date": "2026-09-02",
@@ -1899,20 +1933,14 @@
       "fabricMissing": false,
       "fabricIssue": false,
       "sched": {
-        "재단": 286,
+        "재단": null,
         "부속": null,
         "합봉": 200,
         "완성": null,
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": ""
       },
       "schedDaily": {
-        "재단": [
-          {
-            "date": "2026-08-20",
-            "qty": 286
-          }
-        ],
         "합봉": [
           {
             "date": "2026-09-03",
@@ -2012,7 +2040,7 @@
         "부속": null,
         "합봉": 150,
         "완성": null,
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": ""
       },
       "schedDaily": {
@@ -2115,7 +2143,7 @@
         "부속": null,
         "합봉": 150,
         "완성": null,
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": ""
       },
       "schedDaily": {
@@ -2202,7 +2230,7 @@
       "cutQty": 303,
       "artwork": "",
       "sewDate": "2026-08-31",
-      "complete": "",
+      "complete": "2026-10-07",
       "inbound": "",
       "ship": "",
       "ppRecv": "",
@@ -2218,7 +2246,7 @@
         "부속": null,
         "합봉": 150,
         "완성": null,
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": ""
       },
       "schedDaily": {
@@ -2229,9 +2257,9 @@
           }
         ]
       },
-      "stage": "봉제",
-      "stageLabel": "봉제",
-      "stageDate": "2026-08-31",
+      "stage": "완성",
+      "stageLabel": "완성",
+      "stageDate": "2026-10-07",
       "deliveryDue": "2026-10-09",
       "dueSource": "fallback",
       "ddayStatus": "임박",
@@ -2305,7 +2333,7 @@
       "cutQty": null,
       "artwork": "",
       "sewDate": "2026-08-31",
-      "complete": "",
+      "complete": "2026-10-07",
       "inbound": "",
       "ship": "",
       "ppRecv": "",
@@ -2321,7 +2349,7 @@
         "부속": null,
         "합봉": 150,
         "완성": null,
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": ""
       },
       "schedDaily": {
@@ -2332,9 +2360,9 @@
           }
         ]
       },
-      "stage": "봉제",
-      "stageLabel": "봉제",
-      "stageDate": "2026-08-31",
+      "stage": "완성",
+      "stageLabel": "완성",
+      "stageDate": "2026-10-07",
       "deliveryDue": "2026-10-09",
       "dueSource": "fallback",
       "ddayStatus": "임박",
@@ -2424,7 +2452,7 @@
         "부속": null,
         "합봉": 200,
         "완성": null,
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": ""
       },
       "schedDaily": {
@@ -2527,7 +2555,7 @@
         "부속": null,
         "합봉": null,
         "완성": null,
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": ""
       },
       "schedDaily": {},
@@ -2583,7 +2611,7 @@
       "cutQty": 123,
       "artwork": "",
       "sewDate": "2026-09-15",
-      "complete": "",
+      "complete": "2026-10-07",
       "inbound": "",
       "ship": "",
       "ppRecv": "",
@@ -2597,15 +2625,22 @@
       "sched": {
         "재단": null,
         "부속": null,
-        "합봉": null,
+        "합봉": 150,
         "완성": null,
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": ""
       },
-      "schedDaily": {},
-      "stage": "봉제",
-      "stageLabel": "봉제",
-      "stageDate": "2026-09-15",
+      "schedDaily": {
+        "합봉": [
+          {
+            "date": "2026-09-28",
+            "qty": 150
+          }
+        ]
+      },
+      "stage": "완성",
+      "stageLabel": "완성",
+      "stageDate": "2026-10-07",
       "deliveryDue": "2026-10-09",
       "dueSource": "fallback",
       "ddayStatus": "임박",
@@ -2679,7 +2714,7 @@
       "cutQty": 123,
       "artwork": "",
       "sewDate": "2026-09-15",
-      "complete": "",
+      "complete": "2026-10-07",
       "inbound": "",
       "ship": "",
       "ppRecv": "",
@@ -2693,15 +2728,22 @@
       "sched": {
         "재단": null,
         "부속": null,
-        "합봉": null,
+        "합봉": 150,
         "완성": null,
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": ""
       },
-      "schedDaily": {},
-      "stage": "봉제",
-      "stageLabel": "봉제",
-      "stageDate": "2026-09-15",
+      "schedDaily": {
+        "합봉": [
+          {
+            "date": "2026-09-28",
+            "qty": 150
+          }
+        ]
+      },
+      "stage": "완성",
+      "stageLabel": "완성",
+      "stageDate": "2026-10-07",
       "deliveryDue": "2026-10-09",
       "dueSource": "fallback",
       "ddayStatus": "임박",
@@ -2789,12 +2831,19 @@
       "sched": {
         "재단": null,
         "부속": null,
-        "합봉": null,
+        "합봉": 150,
         "완성": null,
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": ""
       },
-      "schedDaily": {},
+      "schedDaily": {
+        "합봉": [
+          {
+            "date": "2026-09-28",
+            "qty": 150
+          }
+        ]
+      },
       "stage": "봉제",
       "stageLabel": "봉제",
       "stageDate": "2026-09-15",
@@ -2887,7 +2936,7 @@
         "부속": null,
         "합봉": null,
         "완성": null,
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": ""
       },
       "schedDaily": {},
@@ -2959,7 +3008,7 @@
         "부속": null,
         "합봉": null,
         "완성": null,
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": ""
       },
       "schedDaily": {},
@@ -3015,7 +3064,7 @@
       "cutQty": 262,
       "artwork": "",
       "sewDate": "2026-09-15",
-      "complete": "",
+      "complete": "2026-10-07",
       "inbound": "",
       "ship": "",
       "ppRecv": "",
@@ -3031,13 +3080,13 @@
         "부속": null,
         "합봉": null,
         "완성": null,
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": ""
       },
       "schedDaily": {},
-      "stage": "봉제",
-      "stageLabel": "봉제",
-      "stageDate": "2026-09-15",
+      "stage": "완성",
+      "stageLabel": "완성",
+      "stageDate": "2026-10-07",
       "deliveryDue": "2026-10-09",
       "dueSource": "fallback",
       "ddayStatus": "임박",
@@ -3103,7 +3152,7 @@
         "부속": null,
         "합봉": null,
         "완성": null,
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": ""
       },
       "schedDaily": {},
@@ -3199,7 +3248,7 @@
         "부속": null,
         "합봉": null,
         "완성": null,
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": ""
       },
       "schedDaily": {},
@@ -3295,7 +3344,7 @@
         "부속": null,
         "합봉": null,
         "완성": null,
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": ""
       },
       "schedDaily": {},
@@ -3391,7 +3440,7 @@
         "부속": null,
         "합봉": null,
         "완성": null,
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": ""
       },
       "schedDaily": {},
@@ -3487,7 +3536,7 @@
         "부속": null,
         "합봉": null,
         "완성": null,
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": ""
       },
       "schedDaily": {},
@@ -3583,7 +3632,7 @@
         "부속": null,
         "합봉": null,
         "완성": null,
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": ""
       },
       "schedDaily": {},
@@ -3679,7 +3728,7 @@
         "부속": null,
         "합봉": null,
         "완성": null,
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": ""
       },
       "schedDaily": {},
@@ -3775,7 +3824,7 @@
         "부속": null,
         "합봉": null,
         "완성": null,
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": ""
       },
       "schedDaily": {},
@@ -3871,7 +3920,7 @@
         "부속": null,
         "합봉": null,
         "완성": null,
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": ""
       },
       "schedDaily": {},
@@ -3967,7 +4016,7 @@
         "부속": null,
         "합봉": null,
         "완성": null,
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": ""
       },
       "schedDaily": {},
@@ -4063,7 +4112,7 @@
         "부속": null,
         "합봉": null,
         "완성": null,
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": ""
       },
       "schedDaily": {},
@@ -4159,7 +4208,7 @@
         "부속": null,
         "합봉": null,
         "완성": null,
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": ""
       },
       "schedDaily": {},
@@ -4255,7 +4304,7 @@
         "부속": null,
         "합봉": null,
         "완성": null,
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": ""
       },
       "schedDaily": {},
@@ -4327,7 +4376,7 @@
         "부속": null,
         "합봉": null,
         "완성": null,
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": ""
       },
       "schedDaily": {},
@@ -4399,7 +4448,7 @@
         "부속": null,
         "합봉": null,
         "완성": null,
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": ""
       },
       "schedDaily": {},
@@ -4471,7 +4520,7 @@
         "부속": null,
         "합봉": null,
         "완성": null,
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": ""
       },
       "schedDaily": {},
@@ -4541,12 +4590,19 @@
       "sched": {
         "재단": null,
         "부속": null,
-        "합봉": null,
+        "합봉": 250,
         "완성": null,
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": "아동용 반팔"
       },
-      "schedDaily": {},
+      "schedDaily": {
+        "합봉": [
+          {
+            "date": "2026-10-02",
+            "qty": 250
+          }
+        ]
+      },
       "stage": "봉제",
       "stageLabel": "봉제",
       "stageDate": "2026-09-29",
@@ -4631,12 +4687,19 @@
       "sched": {
         "재단": null,
         "부속": null,
-        "합봉": null,
+        "합봉": 4,
         "완성": null,
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": "아동용 반팔"
       },
-      "schedDaily": {},
+      "schedDaily": {
+        "합봉": [
+          {
+            "date": "2026-10-02",
+            "qty": 4
+          }
+        ]
+      },
       "stage": "봉제",
       "stageLabel": "봉제",
       "stageDate": "2026-09-29",
@@ -4723,7 +4786,7 @@
         "부속": null,
         "합봉": null,
         "완성": null,
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": "아동용 반팔"
       },
       "schedDaily": {},
@@ -4819,7 +4882,7 @@
         "부속": null,
         "합봉": null,
         "완성": null,
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": "아동용 반팔"
       },
       "schedDaily": {},
@@ -4913,12 +4976,19 @@
       "sched": {
         "재단": null,
         "부속": null,
-        "합봉": null,
+        "합봉": 93,
         "완성": null,
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": "아동용 반팔"
       },
-      "schedDaily": {},
+      "schedDaily": {
+        "합봉": [
+          {
+            "date": "2026-10-03",
+            "qty": 93
+          }
+        ]
+      },
       "stage": "봉제",
       "stageLabel": "봉제",
       "stageDate": "2026-09-29",
@@ -5003,12 +5073,19 @@
       "sched": {
         "재단": null,
         "부속": null,
-        "합봉": null,
+        "합봉": 4,
         "완성": null,
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": "아동용 반팔"
       },
-      "schedDaily": {},
+      "schedDaily": {
+        "합봉": [
+          {
+            "date": "2026-10-03",
+            "qty": 4
+          }
+        ]
+      },
       "stage": "봉제",
       "stageLabel": "봉제",
       "stageDate": "2026-09-29",
@@ -5093,12 +5170,19 @@
       "sched": {
         "재단": null,
         "부속": null,
-        "합봉": null,
+        "합봉": 74,
         "완성": null,
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": "초등생 반팔"
       },
-      "schedDaily": {},
+      "schedDaily": {
+        "합봉": [
+          {
+            "date": "2026-10-03",
+            "qty": 74
+          }
+        ]
+      },
       "stage": "봉제",
       "stageLabel": "봉제",
       "stageDate": "2026-09-30",
@@ -5189,12 +5273,19 @@
       "sched": {
         "재단": null,
         "부속": null,
-        "합봉": null,
+        "합봉": 4,
         "완성": null,
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": "초등생 반팔"
       },
-      "schedDaily": {},
+      "schedDaily": {
+        "합봉": [
+          {
+            "date": "2026-10-03",
+            "qty": 4
+          }
+        ]
+      },
       "stage": "봉제",
       "stageLabel": "봉제",
       "stageDate": "2026-09-30",
@@ -5285,12 +5376,19 @@
       "sched": {
         "재단": null,
         "부속": null,
-        "합봉": null,
+        "합봉": 150,
         "완성": null,
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": "아동용 반팔"
       },
-      "schedDaily": {},
+      "schedDaily": {
+        "합봉": [
+          {
+            "date": "2026-10-03",
+            "qty": 150
+          }
+        ]
+      },
       "stage": "봉제",
       "stageLabel": "봉제",
       "stageDate": "2026-09-30",
@@ -5375,12 +5473,23 @@
       "sched": {
         "재단": null,
         "부속": null,
-        "합봉": null,
+        "합봉": 8,
         "완성": null,
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": "아동용 반팔"
       },
-      "schedDaily": {},
+      "schedDaily": {
+        "합봉": [
+          {
+            "date": "2026-09-30",
+            "qty": 4
+          },
+          {
+            "date": "2026-10-03",
+            "qty": 4
+          }
+        ]
+      },
       "stage": "봉제",
       "stageLabel": "봉제",
       "stageDate": "2026-09-30",
@@ -5450,7 +5559,7 @@
       "cutDate": "2026-09-19",
       "cutQty": 299,
       "artwork": "",
-      "sewDate": "2026-10-01",
+      "sewDate": "2026-10-02",
       "complete": "",
       "inbound": "",
       "ship": "",
@@ -5465,17 +5574,24 @@
       "sched": {
         "재단": null,
         "부속": null,
-        "합봉": null,
+        "합봉": 294,
         "완성": null,
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": ""
       },
-      "schedDaily": {},
+      "schedDaily": {
+        "합봉": [
+          {
+            "date": "2026-10-08",
+            "qty": 294
+          }
+        ]
+      },
+      "dueSource": "weekly",
       "stage": "봉제",
       "stageLabel": "봉제",
-      "stageDate": "2026-10-01",
+      "stageDate": "2026-10-02",
       "deliveryDue": "2026-10-14",
-      "dueSource": "fallback",
       "ddayStatus": "정상",
       "dday": 5,
       "cutQtyIssue": "",
@@ -5522,7 +5638,7 @@
       "cutDate": "2026-09-19",
       "cutQty": 299,
       "artwork": "",
-      "sewDate": "2026-10-01",
+      "sewDate": "2026-10-03",
       "complete": "",
       "inbound": "",
       "ship": "",
@@ -5537,15 +5653,22 @@
       "sched": {
         "재단": null,
         "부속": null,
-        "합봉": null,
+        "합봉": 294,
         "완성": null,
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": ""
       },
-      "schedDaily": {},
+      "schedDaily": {
+        "합봉": [
+          {
+            "date": "2026-10-08",
+            "qty": 294
+          }
+        ]
+      },
       "stage": "봉제",
       "stageLabel": "봉제",
-      "stageDate": "2026-10-01",
+      "stageDate": "2026-10-03",
       "deliveryDue": "",
       "dueSource": "none",
       "ddayStatus": "미정",
@@ -5592,9 +5715,9 @@
       "jikjiDate": "2026-09-15",
       "fabric": "2026-09-15",
       "cutDate": "2026-09-19",
-      "cutQty": null,
+      "cutQty": 299,
       "artwork": "",
-      "sewDate": "",
+      "sewDate": "2026-10-01",
       "complete": "",
       "inbound": "",
       "ship": "",
@@ -5609,20 +5732,27 @@
       "sched": {
         "재단": null,
         "부속": null,
-        "합봉": null,
+        "합봉": 150,
         "완성": null,
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": ""
       },
-      "schedDaily": {},
-      "stage": "재단",
-      "stageLabel": "재단",
-      "stageDate": "2026-09-19",
+      "schedDaily": {
+        "합봉": [
+          {
+            "date": "2026-10-03",
+            "qty": 150
+          }
+        ]
+      },
+      "stage": "봉제",
+      "stageLabel": "봉제",
+      "stageDate": "2026-10-01",
       "deliveryDue": "",
       "dueSource": "none",
       "ddayStatus": "미정",
       "dday": null,
-      "cutQtyIssue": "재단수량칸에 날짜(2026-09-19)",
+      "cutQtyIssue": "",
       "jikjiUrl": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20SP27_WVPO(DTP%203,%20SOLID%206).pdf",
       "jikjiName": "[마루] SP27_WVPO(DTP 3, SOLID 6).pdf",
       "jikjiRel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] SP27_WVPO(DTP 3, SOLID 6).pdf",
@@ -5666,7 +5796,7 @@
       "cutDate": "2026-09-19",
       "cutQty": 257,
       "artwork": "",
-      "sewDate": "",
+      "sewDate": "2026-10-03",
       "complete": "",
       "inbound": "",
       "ship": "",
@@ -5681,15 +5811,22 @@
       "sched": {
         "재단": null,
         "부속": null,
-        "합봉": null,
+        "합봉": 250,
         "완성": null,
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": ""
       },
-      "schedDaily": {},
-      "stage": "재단",
-      "stageLabel": "재단 257/250",
-      "stageDate": "2026-09-19",
+      "schedDaily": {
+        "합봉": [
+          {
+            "date": "2026-10-07",
+            "qty": 250
+          }
+        ]
+      },
+      "stage": "봉제",
+      "stageLabel": "봉제",
+      "stageDate": "2026-10-03",
       "deliveryDue": "",
       "dueSource": "none",
       "ddayStatus": "미정",
@@ -5753,12 +5890,19 @@
       "sched": {
         "재단": null,
         "부속": null,
-        "합봉": null,
+        "합봉": 299,
         "완성": null,
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": ""
       },
-      "schedDaily": {},
+      "schedDaily": {
+        "합봉": [
+          {
+            "date": "2026-10-09",
+            "qty": 299
+          }
+        ]
+      },
       "stage": "재단",
       "stageLabel": "재단 312/299",
       "stageDate": "2026-09-19",
@@ -5825,12 +5969,19 @@
       "sched": {
         "재단": null,
         "부속": null,
-        "합봉": null,
+        "합봉": 4,
         "완성": null,
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": ""
       },
-      "schedDaily": {},
+      "schedDaily": {
+        "합봉": [
+          {
+            "date": "2026-10-09",
+            "qty": 4
+          }
+        ]
+      },
       "stage": "원단",
       "stageLabel": "원단",
       "stageDate": "2026-09-15",
@@ -5897,12 +6048,19 @@
       "sched": {
         "재단": null,
         "부속": null,
-        "합봉": null,
+        "합봉": 103,
         "완성": null,
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": ""
       },
-      "schedDaily": {},
+      "schedDaily": {
+        "합봉": [
+          {
+            "date": "2026-10-06",
+            "qty": 103
+          }
+        ]
+      },
       "stage": "재단",
       "stageLabel": "재단 116/103",
       "stageDate": "2026-09-19",
@@ -5969,12 +6127,19 @@
       "sched": {
         "재단": null,
         "부속": null,
-        "합봉": null,
+        "합봉": 4,
         "완성": null,
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": ""
       },
-      "schedDaily": {},
+      "schedDaily": {
+        "합봉": [
+          {
+            "date": "2026-10-06",
+            "qty": 4
+          }
+        ]
+      },
       "stage": "원단",
       "stageLabel": "원단",
       "stageDate": "2026-09-15",
@@ -6026,7 +6191,7 @@
       "cutDate": "2026-09-19",
       "cutQty": 272,
       "artwork": "",
-      "sewDate": "",
+      "sewDate": "2026-10-06",
       "complete": "",
       "inbound": "",
       "ship": "",
@@ -6041,15 +6206,22 @@
       "sched": {
         "재단": null,
         "부속": null,
-        "합봉": null,
+        "합봉": 266,
         "완성": null,
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": ""
       },
-      "schedDaily": {},
-      "stage": "재단",
-      "stageLabel": "재단 272/266",
-      "stageDate": "2026-09-19",
+      "schedDaily": {
+        "합봉": [
+          {
+            "date": "2026-10-10",
+            "qty": 266
+          }
+        ]
+      },
+      "stage": "봉제",
+      "stageLabel": "봉제",
+      "stageDate": "2026-10-06",
       "deliveryDue": "",
       "dueSource": "none",
       "ddayStatus": "미정",
@@ -6115,7 +6287,7 @@
         "부속": null,
         "합봉": null,
         "완성": null,
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": ""
       },
       "schedDaily": {},
@@ -6187,7 +6359,7 @@
         "부속": null,
         "합봉": null,
         "완성": null,
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": ""
       },
       "schedDaily": {},
@@ -6259,7 +6431,7 @@
         "부속": null,
         "합봉": null,
         "완성": null,
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": ""
       },
       "schedDaily": {},
@@ -6331,7 +6503,7 @@
         "부속": null,
         "합봉": null,
         "완성": null,
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": ""
       },
       "schedDaily": {},
@@ -6403,7 +6575,7 @@
         "부속": null,
         "합봉": null,
         "완성": null,
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": ""
       },
       "schedDaily": {},
@@ -6475,7 +6647,7 @@
         "부속": null,
         "합봉": null,
         "완성": null,
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": ""
       },
       "schedDaily": {},
@@ -6547,7 +6719,7 @@
         "부속": null,
         "합봉": null,
         "완성": null,
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": ""
       },
       "schedDaily": {},
@@ -6585,6 +6757,222 @@
       ]
     },
     {
+      "no": "RH-71",
+      "team": "생산3팀",
+      "client": "굿트러스트생산3팀",
+      "manager": "임성록 / 주임",
+      "brand": "RHOBACK",
+      "po": "PO0014597",
+      "season": "SP27",
+      "styleCode": "MPOL",
+      "styleName": "THE CITRUS FLORAL",
+      "color": "WHITE/FESCUE / 화이트/페스큐",
+      "qty": 200,
+      "due": "2026-11-27",
+      "jikjiDate": "2026-10-06",
+      "fabric": "2026-10-03",
+      "cutDate": "2026-10-08",
+      "cutQty": null,
+      "artwork": "",
+      "sewDate": "",
+      "complete": "",
+      "inbound": "",
+      "ship": "",
+      "ppRecv": "",
+      "ppSend": "",
+      "note": "",
+      "source": "생산3팀",
+      "days": 49,
+      "fabricToday": false,
+      "fabricMissing": false,
+      "fabricIssue": false,
+      "sched": {
+        "재단": null,
+        "부속": null,
+        "합봉": null,
+        "완성": null,
+        "shipDate": "2026-11-27",
+        "note": ""
+      },
+      "schedDaily": {},
+      "jikjiUrl": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%203차.pdf",
+      "jikjiName": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 3차.pdf",
+      "jikjiRel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 3차.pdf",
+      "jikjiScore": 225,
+      "jikjiAlts": [
+        {
+          "name": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
+          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
+          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%202차.pdf",
+          "score": 225
+        },
+        {
+          "name": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 1차.pdf",
+          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 1차.pdf",
+          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%201차.pdf",
+          "score": 225
+        },
+        {
+          "name": "마루 SP27_MPOL(DELIVERY 2) 작업지시서 1차.pdf",
+          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\마루 SP27_MPOL(DELIVERY 2) 작업지시서 1차.pdf",
+          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/마루%20SP27_MPOL(DELIVERY%202)%20작업지시서%201차.pdf",
+          "score": 225
+        }
+      ],
+      "cutQtyIssue": "",
+      "stage": "재단",
+      "stageLabel": "재단",
+      "stageDate": "2026-10-08",
+      "deliveryDue": "2026-11-27",
+      "dueSource": "fallback",
+      "ddayStatus": "정상",
+      "dday": 49
+    },
+    {
+      "no": "RH-72",
+      "team": "생산3팀",
+      "client": "굿트러스트생산3팀",
+      "manager": "임성록 / 주임",
+      "brand": "RHOBACK",
+      "po": "PO0014673",
+      "season": "SP27",
+      "styleCode": "MPOL",
+      "styleName": "THE CITRUS FLORAL",
+      "color": "WHITE/FESCUE / 화이트/페스큐",
+      "qty": 200,
+      "due": "2026-11-27",
+      "jikjiDate": "2026-10-06",
+      "fabric": "",
+      "cutDate": "",
+      "cutQty": null,
+      "artwork": "",
+      "sewDate": "",
+      "complete": "",
+      "inbound": "",
+      "ship": "",
+      "ppRecv": "",
+      "ppSend": "",
+      "note": "",
+      "source": "생산3팀",
+      "days": 49,
+      "fabricToday": false,
+      "fabricMissing": true,
+      "fabricIssue": true,
+      "sched": {
+        "재단": null,
+        "부속": null,
+        "합봉": null,
+        "완성": null,
+        "shipDate": "2026-11-27",
+        "note": ""
+      },
+      "schedDaily": {},
+      "jikjiUrl": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%203차.pdf",
+      "jikjiName": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 3차.pdf",
+      "jikjiRel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 3차.pdf",
+      "jikjiScore": 225,
+      "jikjiAlts": [
+        {
+          "name": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
+          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
+          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%202차.pdf",
+          "score": 225
+        },
+        {
+          "name": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 1차.pdf",
+          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 1차.pdf",
+          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%201차.pdf",
+          "score": 225
+        },
+        {
+          "name": "마루 SP27_MPOL(DELIVERY 2) 작업지시서 1차.pdf",
+          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\마루 SP27_MPOL(DELIVERY 2) 작업지시서 1차.pdf",
+          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/마루%20SP27_MPOL(DELIVERY%202)%20작업지시서%201차.pdf",
+          "score": 225
+        }
+      ],
+      "cutQtyIssue": "",
+      "stage": "대기",
+      "stageLabel": "대기",
+      "stageDate": "",
+      "deliveryDue": "2026-11-27",
+      "dueSource": "fallback",
+      "ddayStatus": "정상",
+      "dday": 49
+    },
+    {
+      "no": "RH-73",
+      "team": "생산3팀",
+      "client": "굿트러스트생산3팀",
+      "manager": "임성록 / 주임",
+      "brand": "RHOBACK",
+      "po": "PO0014673",
+      "season": "SP27",
+      "styleCode": "MPOL",
+      "styleName": "THE GOPHER GALLERY",
+      "color": "WHTE/ULTRAMARINE GREEN / 화이트/울트라마린 그린",
+      "qty": 300,
+      "due": "2026-11-27",
+      "jikjiDate": "2026-10-06",
+      "fabric": "2026-10-03",
+      "cutDate": "2026-10-08",
+      "cutQty": null,
+      "artwork": "",
+      "sewDate": "",
+      "complete": "",
+      "inbound": "",
+      "ship": "",
+      "ppRecv": "",
+      "ppSend": "",
+      "note": "",
+      "source": "생산3팀",
+      "days": 49,
+      "fabricToday": false,
+      "fabricMissing": false,
+      "fabricIssue": false,
+      "sched": {
+        "재단": null,
+        "부속": null,
+        "합봉": null,
+        "완성": null,
+        "shipDate": "2026-11-27",
+        "note": ""
+      },
+      "schedDaily": {},
+      "jikjiUrl": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%203차.pdf",
+      "jikjiName": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 3차.pdf",
+      "jikjiRel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 3차.pdf",
+      "jikjiScore": 225,
+      "jikjiAlts": [
+        {
+          "name": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
+          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 2차.pdf",
+          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%202차.pdf",
+          "score": 225
+        },
+        {
+          "name": "[마루] 로백 SP27_MPOL,TPOL 작업지시서 1차.pdf",
+          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\[마루] 로백 SP27_MPOL,TPOL 작업지시서 1차.pdf",
+          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/[마루]%20로백%20SP27_MPOL,TPOL%20작업지시서%201차.pdf",
+          "score": 225
+        },
+        {
+          "name": "마루 SP27_MPOL(DELIVERY 2) 작업지시서 1차.pdf",
+          "rel": "1. GOODTRUST\\국내생산\\2027\\생산3팀\\ROHBACK\\SP\\RHO\\마루 SP27_MPOL(DELIVERY 2) 작업지시서 1차.pdf",
+          "url": "../../1.%20GOODTRUST/국내생산/2027/생산3팀/ROHBACK/SP/RHO/마루%20SP27_MPOL(DELIVERY%202)%20작업지시서%201차.pdf",
+          "score": 225
+        }
+      ],
+      "cutQtyIssue": "",
+      "stage": "재단",
+      "stageLabel": "재단",
+      "stageDate": "2026-10-08",
+      "deliveryDue": "2026-11-27",
+      "dueSource": "fallback",
+      "ddayStatus": "정상",
+      "dday": 49
+    },
+    {
       "no": "IO-07",
       "team": "생산5팀",
       "client": "굿트러스트 / 생산 5팀",
@@ -6615,26 +7003,14 @@
       "fabricMissing": false,
       "fabricIssue": false,
       "sched": {
-        "재단": 132,
-        "부속": 126,
+        "재단": null,
+        "부속": null,
         "합봉": 126,
         "완성": 126,
         "shipDate": "2026-09-21",
-        "note": "8/24 / 마이 / 재작업 / 바스 기준 / 에리후세 기준"
+        "note": ""
       },
       "schedDaily": {
-        "재단": [
-          {
-            "date": "2026-08-20",
-            "qty": 132
-          }
-        ],
-        "부속": [
-          {
-            "date": "2026-08-26",
-            "qty": 126
-          }
-        ],
         "합봉": [
           {
             "date": "2026-09-01",
@@ -6648,11 +7024,11 @@
           }
         ]
       },
+      "dueSource": "weekly",
       "stage": "납품완료",
       "stageLabel": "납품완료",
       "stageDate": "2026-09-21",
       "deliveryDue": "2026-09-21",
-      "dueSource": "fallback",
       "ddayStatus": "완료",
       "dday": null,
       "cutQtyIssue": ""
@@ -6673,10 +7049,10 @@
       "jikjiDate": "2026-08-20",
       "fabric": "",
       "cutDate": "2026-09-12",
-      "cutQty": null,
+      "cutQty": 1386,
       "artwork": "",
       "sewDate": "2026-09-14",
-      "complete": "",
+      "complete": "2026-10-02",
       "inbound": "",
       "ship": "2026-09-18",
       "ppRecv": "",
@@ -6717,11 +7093,11 @@
           }
         ]
       },
+      "dueSource": "weekly",
       "stage": "납품완료",
       "stageLabel": "납품완료",
       "stageDate": "2026-09-18",
       "deliveryDue": "2026-10-02",
-      "dueSource": "fallback",
       "ddayStatus": "완료",
       "dday": null,
       "cutQtyIssue": "",
@@ -6808,11 +7184,11 @@
           }
         ]
       },
+      "dueSource": "weekly",
       "stage": "납품완료",
       "stageLabel": "납품완료",
       "stageDate": "2026-09-18",
       "deliveryDue": "2026-10-02",
-      "dueSource": "fallback",
       "ddayStatus": "완료",
       "dday": null,
       "cutQtyIssue": "",
@@ -6903,11 +7279,11 @@
           }
         ]
       },
+      "dueSource": "weekly",
       "stage": "납품완료",
       "stageLabel": "납품완료",
       "stageDate": "2026-09-18",
       "deliveryDue": "2026-10-02",
-      "dueSource": "fallback",
       "ddayStatus": "완료",
       "dday": null,
       "cutQtyIssue": "",
@@ -6947,7 +7323,7 @@
       "cutQty": 672,
       "artwork": "",
       "sewDate": "2026-09-08",
-      "complete": "",
+      "complete": "2026-10-02",
       "inbound": "",
       "ship": "2026-09-18",
       "ppRecv": "",
@@ -6962,7 +7338,7 @@
         "재단": null,
         "부속": null,
         "합봉": 640,
-        "완성": null,
+        "완성": 212,
         "shipDate": "2026-09-27",
         "note": ""
       },
@@ -6972,13 +7348,19 @@
             "date": "2026-09-16",
             "qty": 640
           }
+        ],
+        "완성": [
+          {
+            "date": "2026-10-02",
+            "qty": 212
+          }
         ]
       },
+      "dueSource": "weekly",
       "stage": "납품완료",
       "stageLabel": "납품완료",
       "stageDate": "2026-09-18",
       "deliveryDue": "2026-10-02",
-      "dueSource": "fallback",
       "ddayStatus": "완료",
       "dday": null,
       "cutQtyIssue": "",
@@ -7030,7 +7412,7 @@
       "fabricMissing": false,
       "fabricIssue": false,
       "sched": {
-        "재단": 500,
+        "재단": null,
         "부속": null,
         "합봉": 500,
         "완성": 500,
@@ -7038,12 +7420,6 @@
         "note": ""
       },
       "schedDaily": {
-        "재단": [
-          {
-            "date": "2026-08-25",
-            "qty": 500
-          }
-        ],
         "합봉": [
           {
             "date": "2026-09-07",
@@ -7057,11 +7433,11 @@
           }
         ]
       },
+      "dueSource": "weekly",
       "stage": "납품완료",
       "stageLabel": "납품완료",
       "stageDate": "2026-09-18",
       "deliveryDue": "2026-10-02",
-      "dueSource": "fallback",
       "ddayStatus": "완료",
       "dday": null,
       "cutQtyIssue": "",
@@ -7101,7 +7477,7 @@
       "cutQty": null,
       "artwork": "",
       "sewDate": "2026-09-16",
-      "complete": "",
+      "complete": "2026-10-06",
       "inbound": "",
       "ship": "2026-09-18",
       "ppRecv": "",
@@ -7115,8 +7491,8 @@
       "sched": {
         "재단": null,
         "부속": null,
-        "합봉": 1320,
-        "완성": null,
+        "합봉": 1120,
+        "완성": 1120,
         "shipDate": "2026-09-27",
         "note": ""
       },
@@ -7124,19 +7500,29 @@
         "합봉": [
           {
             "date": "2026-09-22",
-            "qty": 660
+            "qty": 560
           },
           {
             "date": "2026-09-23",
-            "qty": 660
+            "qty": 560
+          }
+        ],
+        "완성": [
+          {
+            "date": "2026-10-05",
+            "qty": 560
+          },
+          {
+            "date": "2026-10-06",
+            "qty": 560
           }
         ]
       },
+      "dueSource": "weekly",
       "stage": "납품완료",
       "stageLabel": "납품완료",
       "stageDate": "2026-09-18",
       "deliveryDue": "2026-10-02",
-      "dueSource": "fallback",
       "ddayStatus": "완료",
       "dday": null,
       "cutQtyIssue": "",
@@ -7188,7 +7574,7 @@
       "fabricMissing": false,
       "fabricIssue": false,
       "sched": {
-        "재단": 293,
+        "재단": null,
         "부속": null,
         "합봉": 280,
         "완성": 280,
@@ -7196,12 +7582,6 @@
         "note": ""
       },
       "schedDaily": {
-        "재단": [
-          {
-            "date": "2026-08-25",
-            "qty": 293
-          }
-        ],
         "합봉": [
           {
             "date": "2026-09-08",
@@ -7215,11 +7595,11 @@
           }
         ]
       },
+      "dueSource": "weekly",
       "stage": "납품완료",
       "stageLabel": "납품완료",
       "stageDate": "2026-09-18",
       "deliveryDue": "2026-10-02",
-      "dueSource": "fallback",
       "ddayStatus": "완료",
       "dday": null,
       "cutQtyIssue": "",
@@ -7271,7 +7651,7 @@
       "fabricMissing": false,
       "fabricIssue": false,
       "sched": {
-        "재단": 210,
+        "재단": null,
         "부속": null,
         "합봉": 200,
         "완성": 200,
@@ -7279,12 +7659,6 @@
         "note": ""
       },
       "schedDaily": {
-        "재단": [
-          {
-            "date": "2026-08-25",
-            "qty": 210
-          }
-        ],
         "합봉": [
           {
             "date": "2026-09-09",
@@ -7298,11 +7672,11 @@
           }
         ]
       },
+      "dueSource": "weekly",
       "stage": "납품완료",
       "stageLabel": "납품완료",
       "stageDate": "2026-09-18",
       "deliveryDue": "2026-10-02",
-      "dueSource": "fallback",
       "ddayStatus": "완료",
       "dday": null,
       "cutQtyIssue": "",
@@ -7342,7 +7716,7 @@
       "cutQty": 227,
       "artwork": "",
       "sewDate": "2026-09-22",
-      "complete": "",
+      "complete": "2026-10-06",
       "inbound": "",
       "ship": "2026-10-06",
       "ppRecv": "",
@@ -7357,7 +7731,7 @@
         "재단": null,
         "부속": null,
         "합봉": 212,
-        "완성": null,
+        "완성": 212,
         "shipDate": "",
         "note": ""
       },
@@ -7367,13 +7741,19 @@
             "date": "2026-09-23",
             "qty": 212
           }
+        ],
+        "완성": [
+          {
+            "date": "2026-10-06",
+            "qty": 212
+          }
         ]
       },
+      "dueSource": "weekly",
       "stage": "납품완료",
       "stageLabel": "납품완료",
       "stageDate": "2026-10-06",
       "deliveryDue": "2026-09-30",
-      "dueSource": "fallback",
       "ddayStatus": "완료",
       "dday": null,
       "cutQtyIssue": "",
@@ -7389,6 +7769,156 @@
           "score": 222
         }
       ]
+    },
+    {
+      "no": "IO-17",
+      "team": "생산5팀",
+      "client": "굿트러스트 / 생산 5팀",
+      "manager": "지동희 / 대리님",
+      "brand": "IRON / OAK",
+      "po": "PO#0076",
+      "season": "SP26 MAIN 26차",
+      "styleCode": "IO-DVPL006",
+      "styleName": "DENIMLIKE POLO",
+      "color": "RECKLESS / (렐리스)",
+      "qty": 2000,
+      "due": "2026-11-03",
+      "jikjiDate": "2026-09-29",
+      "fabric": "2026-09-30",
+      "cutDate": "2026-10-01",
+      "cutQty": 2104,
+      "artwork": "",
+      "sewDate": "",
+      "complete": "",
+      "inbound": "",
+      "ship": "",
+      "ppRecv": "",
+      "ppSend": "",
+      "note": "",
+      "source": "생산5팀",
+      "days": 25,
+      "fabricToday": false,
+      "fabricMissing": false,
+      "fabricIssue": false,
+      "sched": {
+        "재단": 2000,
+        "부속": null,
+        "합봉": null,
+        "완성": null,
+        "shipDate": "2026-11-03",
+        "note": ""
+      },
+      "schedDaily": {
+        "재단": [
+          {
+            "date": "2026-10-01",
+            "qty": 1000
+          },
+          {
+            "date": "2026-10-02",
+            "qty": 1000
+          }
+        ]
+      },
+      "jikjiUrl": "../../1.%20GOODTRUST/국내생산/2026/생산5팀/IRON%20OAK/아이언오크%20SP26%20메인%2026차%20_0076_IO-DVPL006%20작업지시서_마루.pdf",
+      "jikjiName": "아이언오크 SP26 메인 26차 _0076_IO-DVPL006 작업지시서_마루.pdf",
+      "jikjiRel": "1. GOODTRUST\\국내생산\\2026\\생산5팀\\IRON OAK\\아이언오크 SP26 메인 26차 _0076_IO-DVPL006 작업지시서_마루.pdf",
+      "jikjiScore": 242,
+      "matUrl": "../../1.%20GOODTRUST/자재리스트/아이언오크/현재진행건/아이언오크%20PO%230076.xlsx",
+      "matName": "아이언오크 PO#0076.xlsx",
+      "matRel": "아이언오크\\현재진행건\\아이언오크 PO#0076.xlsx",
+      "matScore": 100,
+      "matAlts": [
+        {
+          "name": "아이언오크 PO#0076.xlsx",
+          "rel": "아이언오크\\10월\\아이언오크 PO#0076.xlsx",
+          "url": "../../1.%20GOODTRUST/자재리스트/아이언오크/10월/아이언오크%20PO%230076.xlsx",
+          "score": 100
+        }
+      ],
+      "cutQtyIssue": "",
+      "stage": "재단",
+      "stageLabel": "재단 2104/2000",
+      "stageDate": "2026-10-01",
+      "deliveryDue": "2026-11-03",
+      "dueSource": "fallback",
+      "ddayStatus": "정상",
+      "dday": 25
+    },
+    {
+      "no": "IO-18",
+      "team": "생산5팀",
+      "client": "굿트러스트 / 생산 5팀",
+      "manager": "지동희 / 대리님",
+      "brand": "IRON / OAK",
+      "po": "PO#0076",
+      "season": "SP26 MAIN 26차",
+      "styleCode": "IO-DVPL006",
+      "styleName": "DENIMLIKE POLO",
+      "color": "WAYWARD / (웨이워드)",
+      "qty": 2000,
+      "due": "2026-11-03",
+      "jikjiDate": "2026-09-29",
+      "fabric": "2026-09-30",
+      "cutDate": "2026-10-06",
+      "cutQty": 2104,
+      "artwork": "",
+      "sewDate": "",
+      "complete": "",
+      "inbound": "",
+      "ship": "",
+      "ppRecv": "",
+      "ppSend": "",
+      "note": "",
+      "source": "생산5팀",
+      "days": 25,
+      "fabricToday": false,
+      "fabricMissing": false,
+      "fabricIssue": false,
+      "sched": {
+        "재단": 2000,
+        "부속": null,
+        "합봉": null,
+        "완성": null,
+        "shipDate": "2026-11-03",
+        "note": ""
+      },
+      "schedDaily": {
+        "재단": [
+          {
+            "date": "2026-10-03",
+            "qty": 1000
+          },
+          {
+            "date": "2026-10-05",
+            "qty": 1000
+          }
+        ]
+      },
+      "jikjiUrl": "../../1.%20GOODTRUST/국내생산/2026/생산5팀/IRON%20OAK/아이언오크%20SP26%20메인%2026차%20_0076_IO-DVPL006%20작업지시서_마루.pdf",
+      "jikjiName": "아이언오크 SP26 메인 26차 _0076_IO-DVPL006 작업지시서_마루.pdf",
+      "jikjiRel": "1. GOODTRUST\\국내생산\\2026\\생산5팀\\IRON OAK\\아이언오크 SP26 메인 26차 _0076_IO-DVPL006 작업지시서_마루.pdf",
+      "jikjiScore": 242,
+      "matUrl": "../../1.%20GOODTRUST/자재리스트/아이언오크/현재진행건/아이언오크%20PO%230076.xlsx",
+      "matName": "아이언오크 PO#0076.xlsx",
+      "matRel": "아이언오크\\현재진행건\\아이언오크 PO#0076.xlsx",
+      "matScore": 100,
+      "matAlts": [
+        {
+          "name": "아이언오크 PO#0076.xlsx",
+          "rel": "아이언오크\\10월\\아이언오크 PO#0076.xlsx",
+          "url": "../../1.%20GOODTRUST/자재리스트/아이언오크/10월/아이언오크%20PO%230076.xlsx",
+          "score": 100
+        }
+      ],
+      "cutQtyIssue": "",
+      "stage": "재단",
+      "stageLabel": "재단 2104/2000",
+      "stageDate": "2026-10-06",
+      "deliveryDue": "2026-11-03",
+      "dueSource": "fallback",
+      "ddayStatus": "정상",
+      "dday": 25
     },
     {
       "no": "SM-01",
@@ -8352,6 +8882,16 @@
       "kind": "도식화",
       "src": "IRON OAK VINTAGE POLO PO#0073 공통 작지"
     },
+    "IO-17": {
+      "file": "ironoak_0073-01.jpg",
+      "kind": "도식화",
+      "src": "IRON OAK VINTAGE POLO PO#0073 공통 작지"
+    },
+    "IO-18": {
+      "file": "ironoak_0073-01.jpg",
+      "kind": "도식화",
+      "src": "IRON OAK VINTAGE POLO PO#0073 공통 작지"
+    },
     "SM-01": {
       "file": "symmetry_mtk1003-1.jpg",
       "kind": "도식화",
@@ -8491,7 +9031,7 @@
     {
       "id": "all",
       "name": "전체",
-      "sub": "92 · 22,713"
+      "sub": "97 · 27,413"
     },
     {
       "id": "risk",
@@ -8501,12 +9041,12 @@
     {
       "id": "생산3팀",
       "name": "생산3팀",
-      "sub": "70 · 12,326"
+      "sub": "73 · 13,026"
     },
     {
       "id": "생산5팀",
       "name": "생산5팀",
-      "sub": "10 · 6,278"
+      "sub": "12 · 10,278"
     },
     {
       "id": "시머트리",
@@ -8521,12 +9061,12 @@
     {
       "id": "공정",
       "name": "공정",
-      "sub": "2026-10 캘린더"
+      "sub": "2026-10 합봉 2,247"
     },
     {
       "id": "작지",
       "name": "작지PDF",
-      "sub": "89 작지 · 53 자재"
+      "sub": "94 작지 · 55 자재"
     }
   ],
   "teamOrder": [
@@ -8536,13 +9076,6 @@
     "디즈니"
   ],
   "calDaily": [
-    {
-      "date": "2026-08-12",
-      "proc": "재단",
-      "qty": 525,
-      "no": "RH-1",
-      "team": "생산3팀"
-    },
     {
       "date": "2026-09-17",
       "proc": "합봉",
@@ -8558,150 +9091,10 @@
       "team": "생산3팀"
     },
     {
-      "date": "2026-08-12",
-      "proc": "재단",
-      "qty": 1225,
-      "no": "RH-2",
-      "team": "생산3팀"
-    },
-    {
-      "date": "2026-08-21",
-      "proc": "부속",
-      "qty": 525,
-      "no": "RH-2",
-      "team": "생산3팀"
-    },
-    {
-      "date": "2026-08-25",
-      "proc": "합봉",
-      "qty": 525,
-      "no": "RH-2",
-      "team": "생산3팀"
-    },
-    {
-      "date": "2026-08-13",
-      "proc": "재단",
-      "qty": 150,
-      "no": "RH-3",
-      "team": "생산3팀"
-    },
-    {
-      "date": "2026-08-20",
-      "proc": "부속",
-      "qty": 457,
-      "no": "RH-3",
-      "team": "생산3팀"
-    },
-    {
-      "date": "2026-08-21",
-      "proc": "부속",
-      "qty": 768,
-      "no": "RH-3",
-      "team": "생산3팀"
-    },
-    {
-      "date": "2026-08-26",
-      "proc": "합봉",
-      "qty": 141,
-      "no": "RH-3",
-      "team": "생산3팀"
-    },
-    {
-      "date": "2026-08-13",
-      "proc": "재단",
-      "qty": 150,
-      "no": "RH-4",
-      "team": "생산3팀"
-    },
-    {
-      "date": "2026-08-27",
-      "proc": "합봉",
-      "qty": 50,
-      "no": "RH-4",
-      "team": "생산3팀"
-    },
-    {
-      "date": "2026-08-28",
-      "proc": "합봉",
-      "qty": 270,
-      "no": "RH-4",
-      "team": "생산3팀"
-    },
-    {
-      "date": "2026-08-14",
-      "proc": "재단",
-      "qty": 107,
-      "no": "RH-5",
-      "team": "생산3팀"
-    },
-    {
-      "date": "2026-08-28",
-      "proc": "합봉",
-      "qty": 480,
-      "no": "RH-5",
-      "team": "생산3팀"
-    },
-    {
-      "date": "2026-08-14",
-      "proc": "재단",
-      "qty": 210,
-      "no": "RH-6",
-      "team": "생산3팀"
-    },
-    {
-      "date": "2026-08-31",
-      "proc": "합봉",
-      "qty": 700,
-      "no": "RH-6",
-      "team": "생산3팀"
-    },
-    {
-      "date": "2026-08-14",
-      "proc": "재단",
-      "qty": 212,
-      "no": "RH-7",
-      "team": "생산3팀"
-    },
-    {
-      "date": "2026-08-31",
-      "proc": "합봉",
-      "qty": 3,
-      "no": "RH-7",
-      "team": "생산3팀"
-    },
-    {
-      "date": "2026-08-14",
-      "proc": "재단",
-      "qty": 320,
-      "no": "RH-8",
-      "team": "생산3팀"
-    },
-    {
-      "date": "2026-08-31",
-      "proc": "합봉",
-      "qty": 36,
-      "no": "RH-8",
-      "team": "생산3팀"
-    },
-    {
-      "date": "2026-08-14",
-      "proc": "재단",
-      "qty": 480,
-      "no": "RH-9",
-      "team": "생산3팀"
-    },
-    {
       "date": "2026-09-01",
       "proc": "합봉",
       "qty": 150,
       "no": "RH-9",
-      "team": "생산3팀"
-    },
-    {
-      "date": "2026-08-20",
-      "proc": "재단",
-      "qty": 729,
-      "no": "RH-10",
       "team": "생산3팀"
     },
     {
@@ -8712,24 +9105,10 @@
       "team": "생산3팀"
     },
     {
-      "date": "2026-08-20",
-      "proc": "재단",
-      "qty": 3,
-      "no": "RH-11",
-      "team": "생산3팀"
-    },
-    {
       "date": "2026-09-01",
       "proc": "합봉",
       "qty": 300,
       "no": "RH-11",
-      "team": "생산3팀"
-    },
-    {
-      "date": "2026-08-20",
-      "proc": "재단",
-      "qty": 174,
-      "no": "RH-12",
       "team": "생산3팀"
     },
     {
@@ -8737,13 +9116,6 @@
       "proc": "합봉",
       "qty": 200,
       "no": "RH-12",
-      "team": "생산3팀"
-    },
-    {
-      "date": "2026-08-20",
-      "proc": "재단",
-      "qty": 162,
-      "no": "RH-13",
       "team": "생산3팀"
     },
     {
@@ -8761,13 +9133,6 @@
       "team": "생산3팀"
     },
     {
-      "date": "2026-08-20",
-      "proc": "재단",
-      "qty": 300,
-      "no": "RH-15",
-      "team": "생산3팀"
-    },
-    {
       "date": "2026-09-02",
       "proc": "합봉",
       "qty": 100,
@@ -8779,13 +9144,6 @@
       "proc": "합봉",
       "qty": 100,
       "no": "RH-15",
-      "team": "생산3팀"
-    },
-    {
-      "date": "2026-08-20",
-      "proc": "재단",
-      "qty": 286,
-      "no": "RH-16",
       "team": "생산3팀"
     },
     {
@@ -8831,18 +9189,151 @@
       "team": "생산3팀"
     },
     {
-      "date": "2026-08-20",
-      "proc": "재단",
-      "qty": 132,
-      "no": "IO-07",
-      "team": "생산5팀"
+      "date": "2026-10-02",
+      "proc": "합봉",
+      "qty": 250,
+      "no": "RH-45",
+      "team": "생산3팀"
     },
     {
-      "date": "2026-08-26",
-      "proc": "부속",
-      "qty": 126,
-      "no": "IO-07",
-      "team": "생산5팀"
+      "date": "2026-10-02",
+      "proc": "합봉",
+      "qty": 4,
+      "no": "RH-46",
+      "team": "생산3팀"
+    },
+    {
+      "date": "2026-09-28",
+      "proc": "합봉",
+      "qty": 150,
+      "no": "RH-23",
+      "team": "생산3팀"
+    },
+    {
+      "date": "2026-09-28",
+      "proc": "합봉",
+      "qty": 150,
+      "no": "RH-24",
+      "team": "생산3팀"
+    },
+    {
+      "date": "2026-09-28",
+      "proc": "합봉",
+      "qty": 150,
+      "no": "RH-25",
+      "team": "생산3팀"
+    },
+    {
+      "date": "2026-10-03",
+      "proc": "합봉",
+      "qty": 93,
+      "no": "RH-49",
+      "team": "생산3팀"
+    },
+    {
+      "date": "2026-10-03",
+      "proc": "합봉",
+      "qty": 4,
+      "no": "RH-50",
+      "team": "생산3팀"
+    },
+    {
+      "date": "2026-10-03",
+      "proc": "합봉",
+      "qty": 74,
+      "no": "RH-51",
+      "team": "생산3팀"
+    },
+    {
+      "date": "2026-10-03",
+      "proc": "합봉",
+      "qty": 4,
+      "no": "RH-52",
+      "team": "생산3팀"
+    },
+    {
+      "date": "2026-10-03",
+      "proc": "합봉",
+      "qty": 150,
+      "no": "RH-53",
+      "team": "생산3팀"
+    },
+    {
+      "date": "2026-09-30",
+      "proc": "합봉",
+      "qty": 4,
+      "no": "RH-54",
+      "team": "생산3팀"
+    },
+    {
+      "date": "2026-10-03",
+      "proc": "합봉",
+      "qty": 4,
+      "no": "RH-54",
+      "team": "생산3팀"
+    },
+    {
+      "date": "2026-10-08",
+      "proc": "합봉",
+      "qty": 294,
+      "no": "RH-55",
+      "team": "생산3팀"
+    },
+    {
+      "date": "2026-10-08",
+      "proc": "합봉",
+      "qty": 294,
+      "no": "RH-56",
+      "team": "생산3팀"
+    },
+    {
+      "date": "2026-10-03",
+      "proc": "합봉",
+      "qty": 150,
+      "no": "RH-57",
+      "team": "생산3팀"
+    },
+    {
+      "date": "2026-10-07",
+      "proc": "합봉",
+      "qty": 250,
+      "no": "RH-58",
+      "team": "생산3팀"
+    },
+    {
+      "date": "2026-10-09",
+      "proc": "합봉",
+      "qty": 299,
+      "no": "RH-59",
+      "team": "생산3팀"
+    },
+    {
+      "date": "2026-10-09",
+      "proc": "합봉",
+      "qty": 4,
+      "no": "RH-60",
+      "team": "생산3팀"
+    },
+    {
+      "date": "2026-10-06",
+      "proc": "합봉",
+      "qty": 103,
+      "no": "RH-61",
+      "team": "생산3팀"
+    },
+    {
+      "date": "2026-10-06",
+      "proc": "합봉",
+      "qty": 4,
+      "no": "RH-62",
+      "team": "생산3팀"
+    },
+    {
+      "date": "2026-10-10",
+      "proc": "합봉",
+      "qty": 266,
+      "no": "RH-63",
+      "team": "생산3팀"
     },
     {
       "date": "2026-09-01",
@@ -8971,10 +9462,10 @@
       "team": "생산5팀"
     },
     {
-      "date": "2026-08-25",
-      "proc": "재단",
-      "qty": 500,
-      "no": "IO-12",
+      "date": "2026-10-02",
+      "proc": "완성",
+      "qty": 212,
+      "no": "IO-11",
       "team": "생산5팀"
     },
     {
@@ -8994,22 +9485,29 @@
     {
       "date": "2026-09-22",
       "proc": "합봉",
-      "qty": 660,
+      "qty": 560,
       "no": "IO-13",
       "team": "생산5팀"
     },
     {
       "date": "2026-09-23",
       "proc": "합봉",
-      "qty": 660,
+      "qty": 560,
       "no": "IO-13",
       "team": "생산5팀"
     },
     {
-      "date": "2026-08-25",
-      "proc": "재단",
-      "qty": 293,
-      "no": "IO-14",
+      "date": "2026-10-05",
+      "proc": "완성",
+      "qty": 560,
+      "no": "IO-13",
+      "team": "생산5팀"
+    },
+    {
+      "date": "2026-10-06",
+      "proc": "완성",
+      "qty": 560,
+      "no": "IO-13",
       "team": "생산5팀"
     },
     {
@@ -9024,13 +9522,6 @@
       "proc": "완성",
       "qty": 280,
       "no": "IO-14",
-      "team": "생산5팀"
-    },
-    {
-      "date": "2026-08-25",
-      "proc": "재단",
-      "qty": 210,
-      "no": "IO-15",
       "team": "생산5팀"
     },
     {
@@ -9052,6 +9543,41 @@
       "proc": "합봉",
       "qty": 212,
       "no": "IO-16",
+      "team": "생산5팀"
+    },
+    {
+      "date": "2026-10-06",
+      "proc": "완성",
+      "qty": 212,
+      "no": "IO-16",
+      "team": "생산5팀"
+    },
+    {
+      "date": "2026-10-01",
+      "proc": "재단",
+      "qty": 1000,
+      "no": "IO-17",
+      "team": "생산5팀"
+    },
+    {
+      "date": "2026-10-02",
+      "proc": "재단",
+      "qty": 1000,
+      "no": "IO-17",
+      "team": "생산5팀"
+    },
+    {
+      "date": "2026-10-03",
+      "proc": "재단",
+      "qty": 1000,
+      "no": "IO-18",
+      "team": "생산5팀"
+    },
+    {
+      "date": "2026-10-05",
+      "proc": "재단",
+      "qty": 1000,
+      "no": "IO-18",
       "team": "생산5팀"
     },
     {
@@ -9257,13 +9783,8 @@
         "no": "RH-1",
         "procs": {
           "재단": {
-            "cum": 525,
-            "daily": [
-              {
-                "date": "2026-08-12",
-                "qty": 525
-              }
-            ]
+            "cum": null,
+            "daily": []
           },
           "부속": {
             "cum": null,
@@ -9295,262 +9816,169 @@
         "no": "RH-2",
         "procs": {
           "재단": {
-            "cum": 1225,
-            "daily": [
-              {
-                "date": "2026-08-12",
-                "qty": 1225
-              }
-            ]
+            "cum": null,
+            "daily": []
           },
           "부속": {
-            "cum": 525,
-            "daily": [
-              {
-                "date": "2026-08-21",
-                "qty": 525
-              }
-            ]
+            "cum": null,
+            "daily": []
           },
           "합봉": {
-            "cum": 525,
-            "daily": [
-              {
-                "date": "2026-08-25",
-                "qty": 525
-              }
-            ]
+            "cum": null,
+            "daily": []
           },
           "완성": {
             "cum": null,
             "daily": []
           }
         },
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": ""
       },
       {
         "no": "RH-3",
         "procs": {
           "재단": {
-            "cum": 150,
-            "daily": [
-              {
-                "date": "2026-08-13",
-                "qty": 150
-              }
-            ]
+            "cum": null,
+            "daily": []
           },
           "부속": {
-            "cum": 1225,
-            "daily": [
-              {
-                "date": "2026-08-20",
-                "qty": 457
-              },
-              {
-                "date": "2026-08-21",
-                "qty": 768
-              }
-            ]
+            "cum": null,
+            "daily": []
           },
           "합봉": {
-            "cum": 141,
-            "daily": [
-              {
-                "date": "2026-08-26",
-                "qty": 141
-              }
-            ]
+            "cum": null,
+            "daily": []
           },
           "완성": {
             "cum": null,
             "daily": []
           }
         },
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": ""
       },
       {
         "no": "RH-4",
         "procs": {
           "재단": {
-            "cum": 150,
-            "daily": [
-              {
-                "date": "2026-08-13",
-                "qty": 150
-              }
-            ]
+            "cum": null,
+            "daily": []
           },
           "부속": {
             "cum": null,
             "daily": []
           },
           "합봉": {
-            "cum": 320,
-            "daily": [
-              {
-                "date": "2026-08-27",
-                "qty": 50
-              },
-              {
-                "date": "2026-08-28",
-                "qty": 270
-              }
-            ]
+            "cum": null,
+            "daily": []
           },
           "완성": {
             "cum": null,
             "daily": []
           }
         },
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": ""
       },
       {
         "no": "RH-5",
         "procs": {
           "재단": {
-            "cum": 107,
-            "daily": [
-              {
-                "date": "2026-08-14",
-                "qty": 107
-              }
-            ]
+            "cum": null,
+            "daily": []
           },
           "부속": {
             "cum": null,
             "daily": []
           },
           "합봉": {
-            "cum": 480,
-            "daily": [
-              {
-                "date": "2026-08-28",
-                "qty": 480
-              }
-            ]
+            "cum": null,
+            "daily": []
           },
           "완성": {
             "cum": null,
             "daily": []
           }
         },
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": ""
       },
       {
         "no": "RH-6",
         "procs": {
           "재단": {
-            "cum": 210,
-            "daily": [
-              {
-                "date": "2026-08-14",
-                "qty": 210
-              }
-            ]
+            "cum": null,
+            "daily": []
           },
           "부속": {
             "cum": null,
             "daily": []
           },
           "합봉": {
-            "cum": 700,
-            "daily": [
-              {
-                "date": "2026-08-31",
-                "qty": 700
-              }
-            ]
+            "cum": null,
+            "daily": []
           },
           "완성": {
             "cum": null,
             "daily": []
           }
         },
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": ""
       },
       {
         "no": "RH-7",
         "procs": {
           "재단": {
-            "cum": 212,
-            "daily": [
-              {
-                "date": "2026-08-14",
-                "qty": 212
-              }
-            ]
+            "cum": null,
+            "daily": []
           },
           "부속": {
             "cum": null,
             "daily": []
           },
           "합봉": {
-            "cum": 3,
-            "daily": [
-              {
-                "date": "2026-08-31",
-                "qty": 3
-              }
-            ]
+            "cum": null,
+            "daily": []
           },
           "완성": {
             "cum": null,
             "daily": []
           }
         },
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": ""
       },
       {
         "no": "RH-8",
         "procs": {
           "재단": {
-            "cum": 320,
-            "daily": [
-              {
-                "date": "2026-08-14",
-                "qty": 320
-              }
-            ]
+            "cum": null,
+            "daily": []
           },
           "부속": {
             "cum": null,
             "daily": []
           },
           "합봉": {
-            "cum": 36,
-            "daily": [
-              {
-                "date": "2026-08-31",
-                "qty": 36
-              }
-            ]
+            "cum": null,
+            "daily": []
           },
           "완성": {
             "cum": null,
             "daily": []
           }
         },
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": ""
       },
       {
         "no": "RH-9",
         "procs": {
           "재단": {
-            "cum": 480,
-            "daily": [
-              {
-                "date": "2026-08-14",
-                "qty": 480
-              }
-            ]
+            "cum": null,
+            "daily": []
           },
           "부속": {
             "cum": null,
@@ -9570,20 +9998,15 @@
             "daily": []
           }
         },
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": ""
       },
       {
         "no": "RH-10",
         "procs": {
           "재단": {
-            "cum": 729,
-            "daily": [
-              {
-                "date": "2026-08-20",
-                "qty": 729
-              }
-            ]
+            "cum": null,
+            "daily": []
           },
           "부속": {
             "cum": null,
@@ -9603,20 +10026,15 @@
             "daily": []
           }
         },
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": ""
       },
       {
         "no": "RH-11",
         "procs": {
           "재단": {
-            "cum": 3,
-            "daily": [
-              {
-                "date": "2026-08-20",
-                "qty": 3
-              }
-            ]
+            "cum": null,
+            "daily": []
           },
           "부속": {
             "cum": null,
@@ -9636,20 +10054,15 @@
             "daily": []
           }
         },
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": ""
       },
       {
         "no": "RH-12",
         "procs": {
           "재단": {
-            "cum": 174,
-            "daily": [
-              {
-                "date": "2026-08-20",
-                "qty": 174
-              }
-            ]
+            "cum": null,
+            "daily": []
           },
           "부속": {
             "cum": null,
@@ -9669,20 +10082,15 @@
             "daily": []
           }
         },
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": ""
       },
       {
         "no": "RH-13",
         "procs": {
           "재단": {
-            "cum": 162,
-            "daily": [
-              {
-                "date": "2026-08-20",
-                "qty": 162
-              }
-            ]
+            "cum": null,
+            "daily": []
           },
           "부속": {
             "cum": null,
@@ -9702,7 +10110,7 @@
             "daily": []
           }
         },
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": ""
       },
       {
@@ -9730,20 +10138,15 @@
             "daily": []
           }
         },
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": ""
       },
       {
         "no": "RH-15",
         "procs": {
           "재단": {
-            "cum": 300,
-            "daily": [
-              {
-                "date": "2026-08-20",
-                "qty": 300
-              }
-            ]
+            "cum": null,
+            "daily": []
           },
           "부속": {
             "cum": null,
@@ -9767,20 +10170,15 @@
             "daily": []
           }
         },
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": ""
       },
       {
         "no": "RH-16",
         "procs": {
           "재단": {
-            "cum": 286,
-            "daily": [
-              {
-                "date": "2026-08-20",
-                "qty": 286
-              }
-            ]
+            "cum": null,
+            "daily": []
           },
           "부속": {
             "cum": null,
@@ -9800,7 +10198,7 @@
             "daily": []
           }
         },
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": ""
       },
       {
@@ -9828,7 +10226,7 @@
             "daily": []
           }
         },
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": ""
       },
       {
@@ -9856,7 +10254,7 @@
             "daily": []
           }
         },
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": ""
       },
       {
@@ -9884,7 +10282,7 @@
             "daily": []
           }
         },
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": ""
       },
       {
@@ -9912,7 +10310,7 @@
             "daily": []
           }
         },
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": ""
       },
       {
@@ -9940,7 +10338,7 @@
             "daily": []
           }
         },
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": ""
       },
       {
@@ -9955,15 +10353,20 @@
             "daily": []
           },
           "합봉": {
-            "cum": null,
-            "daily": []
+            "cum": 250,
+            "daily": [
+              {
+                "date": "2026-10-02",
+                "qty": 250
+              }
+            ]
           },
           "완성": {
             "cum": null,
             "daily": []
           }
         },
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": "아동용 반팔"
       },
       {
@@ -9978,15 +10381,20 @@
             "daily": []
           },
           "합봉": {
-            "cum": null,
-            "daily": []
+            "cum": 4,
+            "daily": [
+              {
+                "date": "2026-10-02",
+                "qty": 4
+              }
+            ]
           },
           "완성": {
             "cum": null,
             "daily": []
           }
         },
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": "아동용 반팔"
       },
       {
@@ -10009,7 +10417,7 @@
             "daily": []
           }
         },
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": "아동용 반팔"
       },
       {
@@ -10032,7 +10440,7 @@
             "daily": []
           }
         },
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": "아동용 반팔"
       },
       {
@@ -10055,7 +10463,7 @@
             "daily": []
           }
         },
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": ""
       },
       {
@@ -10070,15 +10478,20 @@
             "daily": []
           },
           "합봉": {
-            "cum": null,
-            "daily": []
+            "cum": 150,
+            "daily": [
+              {
+                "date": "2026-09-28",
+                "qty": 150
+              }
+            ]
           },
           "완성": {
             "cum": null,
             "daily": []
           }
         },
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": ""
       },
       {
@@ -10093,15 +10506,20 @@
             "daily": []
           },
           "합봉": {
-            "cum": null,
-            "daily": []
+            "cum": 150,
+            "daily": [
+              {
+                "date": "2026-09-28",
+                "qty": 150
+              }
+            ]
           },
           "완성": {
             "cum": null,
             "daily": []
           }
         },
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": ""
       },
       {
@@ -10116,15 +10534,20 @@
             "daily": []
           },
           "합봉": {
-            "cum": null,
-            "daily": []
+            "cum": 150,
+            "daily": [
+              {
+                "date": "2026-09-28",
+                "qty": 150
+              }
+            ]
           },
           "완성": {
             "cum": null,
             "daily": []
           }
         },
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": ""
       },
       {
@@ -10147,7 +10570,7 @@
             "daily": []
           }
         },
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": ""
       },
       {
@@ -10170,7 +10593,7 @@
             "daily": []
           }
         },
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": ""
       },
       {
@@ -10193,7 +10616,7 @@
             "daily": []
           }
         },
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": ""
       },
       {
@@ -10216,7 +10639,7 @@
             "daily": []
           }
         },
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": ""
       },
       {
@@ -10239,7 +10662,7 @@
             "daily": []
           }
         },
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": ""
       },
       {
@@ -10262,7 +10685,7 @@
             "daily": []
           }
         },
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": ""
       },
       {
@@ -10285,7 +10708,7 @@
             "daily": []
           }
         },
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": ""
       },
       {
@@ -10308,7 +10731,7 @@
             "daily": []
           }
         },
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": ""
       },
       {
@@ -10331,7 +10754,7 @@
             "daily": []
           }
         },
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": ""
       },
       {
@@ -10354,7 +10777,7 @@
             "daily": []
           }
         },
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": ""
       },
       {
@@ -10377,7 +10800,7 @@
             "daily": []
           }
         },
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": ""
       },
       {
@@ -10400,7 +10823,7 @@
             "daily": []
           }
         },
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": ""
       },
       {
@@ -10423,7 +10846,7 @@
             "daily": []
           }
         },
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": ""
       },
       {
@@ -10446,7 +10869,7 @@
             "daily": []
           }
         },
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": ""
       },
       {
@@ -10469,7 +10892,7 @@
             "daily": []
           }
         },
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": ""
       },
       {
@@ -10492,7 +10915,7 @@
             "daily": []
           }
         },
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": ""
       },
       {
@@ -10515,7 +10938,7 @@
             "daily": []
           }
         },
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": ""
       },
       {
@@ -10538,7 +10961,7 @@
             "daily": []
           }
         },
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": ""
       },
       {
@@ -10561,7 +10984,7 @@
             "daily": []
           }
         },
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": ""
       },
       {
@@ -10576,15 +10999,20 @@
             "daily": []
           },
           "합봉": {
-            "cum": null,
-            "daily": []
+            "cum": 93,
+            "daily": [
+              {
+                "date": "2026-10-03",
+                "qty": 93
+              }
+            ]
           },
           "완성": {
             "cum": null,
             "daily": []
           }
         },
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": "아동용 반팔"
       },
       {
@@ -10599,15 +11027,20 @@
             "daily": []
           },
           "합봉": {
-            "cum": null,
-            "daily": []
+            "cum": 4,
+            "daily": [
+              {
+                "date": "2026-10-03",
+                "qty": 4
+              }
+            ]
           },
           "완성": {
             "cum": null,
             "daily": []
           }
         },
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": "아동용 반팔"
       },
       {
@@ -10622,15 +11055,20 @@
             "daily": []
           },
           "합봉": {
-            "cum": null,
-            "daily": []
+            "cum": 74,
+            "daily": [
+              {
+                "date": "2026-10-03",
+                "qty": 74
+              }
+            ]
           },
           "완성": {
             "cum": null,
             "daily": []
           }
         },
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": "초등생 반팔"
       },
       {
@@ -10645,15 +11083,20 @@
             "daily": []
           },
           "합봉": {
-            "cum": null,
-            "daily": []
+            "cum": 4,
+            "daily": [
+              {
+                "date": "2026-10-03",
+                "qty": 4
+              }
+            ]
           },
           "완성": {
             "cum": null,
             "daily": []
           }
         },
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": "초등생 반팔"
       },
       {
@@ -10668,15 +11111,20 @@
             "daily": []
           },
           "합봉": {
-            "cum": null,
-            "daily": []
+            "cum": 150,
+            "daily": [
+              {
+                "date": "2026-10-03",
+                "qty": 150
+              }
+            ]
           },
           "완성": {
             "cum": null,
             "daily": []
           }
         },
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": "아동용 반팔"
       },
       {
@@ -10691,15 +11139,24 @@
             "daily": []
           },
           "합봉": {
-            "cum": null,
-            "daily": []
+            "cum": 8,
+            "daily": [
+              {
+                "date": "2026-09-30",
+                "qty": 4
+              },
+              {
+                "date": "2026-10-03",
+                "qty": 4
+              }
+            ]
           },
           "완성": {
             "cum": null,
             "daily": []
           }
         },
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": "아동용 반팔"
       },
       {
@@ -10714,15 +11171,20 @@
             "daily": []
           },
           "합봉": {
-            "cum": null,
-            "daily": []
+            "cum": 294,
+            "daily": [
+              {
+                "date": "2026-10-08",
+                "qty": 294
+              }
+            ]
           },
           "완성": {
             "cum": null,
             "daily": []
           }
         },
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": ""
       },
       {
@@ -10737,15 +11199,20 @@
             "daily": []
           },
           "합봉": {
-            "cum": null,
-            "daily": []
+            "cum": 294,
+            "daily": [
+              {
+                "date": "2026-10-08",
+                "qty": 294
+              }
+            ]
           },
           "완성": {
             "cum": null,
             "daily": []
           }
         },
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": ""
       },
       {
@@ -10760,15 +11227,20 @@
             "daily": []
           },
           "합봉": {
-            "cum": null,
-            "daily": []
+            "cum": 150,
+            "daily": [
+              {
+                "date": "2026-10-03",
+                "qty": 150
+              }
+            ]
           },
           "완성": {
             "cum": null,
             "daily": []
           }
         },
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": ""
       },
       {
@@ -10783,15 +11255,20 @@
             "daily": []
           },
           "합봉": {
-            "cum": null,
-            "daily": []
+            "cum": 250,
+            "daily": [
+              {
+                "date": "2026-10-07",
+                "qty": 250
+              }
+            ]
           },
           "완성": {
             "cum": null,
             "daily": []
           }
         },
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": ""
       },
       {
@@ -10806,15 +11283,20 @@
             "daily": []
           },
           "합봉": {
-            "cum": null,
-            "daily": []
+            "cum": 299,
+            "daily": [
+              {
+                "date": "2026-10-09",
+                "qty": 299
+              }
+            ]
           },
           "완성": {
             "cum": null,
             "daily": []
           }
         },
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": ""
       },
       {
@@ -10829,15 +11311,20 @@
             "daily": []
           },
           "합봉": {
-            "cum": null,
-            "daily": []
+            "cum": 4,
+            "daily": [
+              {
+                "date": "2026-10-09",
+                "qty": 4
+              }
+            ]
           },
           "완성": {
             "cum": null,
             "daily": []
           }
         },
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": ""
       },
       {
@@ -10852,15 +11339,20 @@
             "daily": []
           },
           "합봉": {
-            "cum": null,
-            "daily": []
+            "cum": 103,
+            "daily": [
+              {
+                "date": "2026-10-06",
+                "qty": 103
+              }
+            ]
           },
           "완성": {
             "cum": null,
             "daily": []
           }
         },
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": ""
       },
       {
@@ -10875,15 +11367,20 @@
             "daily": []
           },
           "합봉": {
-            "cum": null,
-            "daily": []
+            "cum": 4,
+            "daily": [
+              {
+                "date": "2026-10-06",
+                "qty": 4
+              }
+            ]
           },
           "완성": {
             "cum": null,
             "daily": []
           }
         },
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": ""
       },
       {
@@ -10898,15 +11395,20 @@
             "daily": []
           },
           "합봉": {
-            "cum": null,
-            "daily": []
+            "cum": 266,
+            "daily": [
+              {
+                "date": "2026-10-10",
+                "qty": 266
+              }
+            ]
           },
           "완성": {
             "cum": null,
             "daily": []
           }
         },
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": ""
       },
       {
@@ -10929,7 +11431,7 @@
             "daily": []
           }
         },
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": ""
       },
       {
@@ -10952,7 +11454,7 @@
             "daily": []
           }
         },
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": ""
       },
       {
@@ -10975,7 +11477,7 @@
             "daily": []
           }
         },
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": ""
       },
       {
@@ -10998,7 +11500,7 @@
             "daily": []
           }
         },
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": ""
       },
       {
@@ -11021,7 +11523,7 @@
             "daily": []
           }
         },
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": ""
       },
       {
@@ -11044,7 +11546,7 @@
             "daily": []
           }
         },
-        "shipDate": "",
+        "shipDate": "2026-10-15",
         "note": ""
       },
       {
@@ -11067,7 +11569,76 @@
             "daily": []
           }
         },
-        "shipDate": "",
+        "shipDate": "2026-10-15",
+        "note": ""
+      },
+      {
+        "no": "RH-71",
+        "procs": {
+          "재단": {
+            "cum": null,
+            "daily": []
+          },
+          "부속": {
+            "cum": null,
+            "daily": []
+          },
+          "합봉": {
+            "cum": null,
+            "daily": []
+          },
+          "완성": {
+            "cum": null,
+            "daily": []
+          }
+        },
+        "shipDate": "2026-11-27",
+        "note": ""
+      },
+      {
+        "no": "RH-72",
+        "procs": {
+          "재단": {
+            "cum": null,
+            "daily": []
+          },
+          "부속": {
+            "cum": null,
+            "daily": []
+          },
+          "합봉": {
+            "cum": null,
+            "daily": []
+          },
+          "완성": {
+            "cum": null,
+            "daily": []
+          }
+        },
+        "shipDate": "2026-11-27",
+        "note": ""
+      },
+      {
+        "no": "RH-73",
+        "procs": {
+          "재단": {
+            "cum": null,
+            "daily": []
+          },
+          "부속": {
+            "cum": null,
+            "daily": []
+          },
+          "합봉": {
+            "cum": null,
+            "daily": []
+          },
+          "완성": {
+            "cum": null,
+            "daily": []
+          }
+        },
+        "shipDate": "2026-11-27",
         "note": ""
       }
     ],
@@ -11076,22 +11647,12 @@
         "no": "IO-07",
         "procs": {
           "재단": {
-            "cum": 132,
-            "daily": [
-              {
-                "date": "2026-08-20",
-                "qty": 132
-              }
-            ]
+            "cum": null,
+            "daily": []
           },
           "부속": {
-            "cum": 126,
-            "daily": [
-              {
-                "date": "2026-08-26",
-                "qty": 126
-              }
-            ]
+            "cum": null,
+            "daily": []
           },
           "합봉": {
             "cum": 126,
@@ -11113,7 +11674,7 @@
           }
         },
         "shipDate": "2026-09-21",
-        "note": "8/24 / 마이 / 재작업 / 바스 기준 / 에리후세 기준"
+        "note": ""
       },
       {
         "no": "IO-08",
@@ -11273,8 +11834,13 @@
             ]
           },
           "완성": {
-            "cum": null,
-            "daily": []
+            "cum": 212,
+            "daily": [
+              {
+                "date": "2026-10-02",
+                "qty": 212
+              }
+            ]
           }
         },
         "shipDate": "2026-09-27",
@@ -11284,13 +11850,8 @@
         "no": "IO-12",
         "procs": {
           "재단": {
-            "cum": 500,
-            "daily": [
-              {
-                "date": "2026-08-25",
-                "qty": 500
-              }
-            ]
+            "cum": null,
+            "daily": []
           },
           "부속": {
             "cum": null,
@@ -11330,21 +11891,30 @@
             "daily": []
           },
           "합봉": {
-            "cum": 1320,
+            "cum": 1120,
             "daily": [
               {
                 "date": "2026-09-22",
-                "qty": 660
+                "qty": 560
               },
               {
                 "date": "2026-09-23",
-                "qty": 660
+                "qty": 560
               }
             ]
           },
           "완성": {
-            "cum": null,
-            "daily": []
+            "cum": 1120,
+            "daily": [
+              {
+                "date": "2026-10-05",
+                "qty": 560
+              },
+              {
+                "date": "2026-10-06",
+                "qty": 560
+              }
+            ]
           }
         },
         "shipDate": "2026-09-27",
@@ -11354,13 +11924,8 @@
         "no": "IO-14",
         "procs": {
           "재단": {
-            "cum": 293,
-            "daily": [
-              {
-                "date": "2026-08-25",
-                "qty": 293
-              }
-            ]
+            "cum": null,
+            "daily": []
           },
           "부속": {
             "cum": null,
@@ -11392,13 +11957,8 @@
         "no": "IO-15",
         "procs": {
           "재단": {
-            "cum": 210,
-            "daily": [
-              {
-                "date": "2026-08-25",
-                "qty": 210
-              }
-            ]
+            "cum": null,
+            "daily": []
           },
           "부속": {
             "cum": null,
@@ -11447,11 +12007,80 @@
             ]
           },
           "완성": {
+            "cum": 212,
+            "daily": [
+              {
+                "date": "2026-10-06",
+                "qty": 212
+              }
+            ]
+          }
+        },
+        "shipDate": "",
+        "note": ""
+      },
+      {
+        "no": "IO-17",
+        "procs": {
+          "재단": {
+            "cum": 2000,
+            "daily": [
+              {
+                "date": "2026-10-01",
+                "qty": 1000
+              },
+              {
+                "date": "2026-10-02",
+                "qty": 1000
+              }
+            ]
+          },
+          "부속": {
+            "cum": null,
+            "daily": []
+          },
+          "합봉": {
+            "cum": null,
+            "daily": []
+          },
+          "완성": {
             "cum": null,
             "daily": []
           }
         },
-        "shipDate": "",
+        "shipDate": "2026-11-03",
+        "note": ""
+      },
+      {
+        "no": "IO-18",
+        "procs": {
+          "재단": {
+            "cum": 2000,
+            "daily": [
+              {
+                "date": "2026-10-03",
+                "qty": 1000
+              },
+              {
+                "date": "2026-10-05",
+                "qty": 1000
+              }
+            ]
+          },
+          "부속": {
+            "cum": null,
+            "daily": []
+          },
+          "합봉": {
+            "cum": null,
+            "daily": []
+          },
+          "완성": {
+            "cum": null,
+            "daily": []
+          }
+        },
+        "shipDate": "2026-11-03",
         "note": ""
       }
     ],
@@ -11876,15 +12505,15 @@
   "clientKpis": [
     {
       "client": "굿트러스트생산3팀",
-      "n": 70,
-      "qty": 12326,
+      "n": 73,
+      "qty": 13026,
       "shipN": 6,
       "shipQ": 1551
     },
     {
       "client": "굿트러스트 / 생산 5팀",
-      "n": 10,
-      "qty": 6278,
+      "n": 12,
+      "qty": 10278,
       "shipN": 10,
       "shipQ": 6278
     },
@@ -11906,8 +12535,8 @@
   "teamKpis": [
     {
       "team": "생산3팀",
-      "n": 70,
-      "qty": 12326,
+      "n": 73,
+      "qty": 13026,
       "shipN": 6,
       "shipQ": 1551,
       "overdueN": 1,
@@ -11915,8 +12544,8 @@
     },
     {
       "team": "생산5팀",
-      "n": 10,
-      "qty": 6278,
+      "n": 12,
+      "qty": 10278,
       "shipN": 10,
       "shipQ": 6278,
       "overdueN": 0,

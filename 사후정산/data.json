@@ -1,12 +1,12 @@
 {
-  "generated": "2026-10-09 09:33",
+  "generated": "2026-10-09 09:43",
   "scope": "정산서만(누락작지·관리부·ETC 제외) · 패킹=파일명 · 종결=status meta(읽기만)",
   "targetZ": "Z:\\HDD1\\MARU\\dashboard\\사후정산\\",
   "statusMeta": {
     "asOf": "2026-10-09",
-    "n": 92,
-    "qty": 22713,
-    "completeN": 26,
+    "n": 97,
+    "qty": 27413,
+    "completeN": 42,
     "inboundN": 13,
     "shipN": 28,
     "shipQ": 11938,
