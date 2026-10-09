@@ -1,6 +1,6 @@
 /* MARU dashboard visibility — R10 */
 :root{
-  --bg:#ffffff; --card:#fff; --ink:#1c2a3a; --muted:#5a6b7d;
+  --bg:#ffffff; --card:#fff; --ink:#1c2a3a; --muted:#3e4c5c; /* 2026-10-09: was #5a6b7d (5.5:1) -> 8.8:1 on #fff, >=7.6:1 on #f0f4f8/#f4f0e8 */
   --navy:#1c3558; --blue:#2f6fed; --heat:#c45c26; --ok:#1f8a4c; --warn:#d97706; --danger:#c0392b;
   --line:#d5dee8; --radius:14px; --pad:16px; --gap:20px; --wrap:1280px;
 }
@@ -51,5 +51,5 @@ table.data tr:nth-child(even) td{background:#fafcfe}
 /* shared top fold-nav (all dashboards) */
 .fold-nav{display:flex;gap:8px;flex-wrap:wrap;align-items:center;padding:12px 20px;background:#fff;border-bottom:1px solid var(--line,#d5dee8);position:sticky;top:0;z-index:50}
 .fold-nav a{display:inline-flex;align-items:center;border:1px solid var(--line,#d5dee8);border-radius:999px;padding:6px 12px;font-size:13px;font-weight:700;color:var(--ink,#1c2a3a);background:#fff;text-decoration:none}
-.fold-nav a:hover{border-color:var(--blue,#2f6fed);color:var(--blue,#2f6fed);background:#e8f0fe}
-.fold-nav a.home,.fold-nav a.on{border-color:var(--blue,#2f6fed);color:var(--blue,#2f6fed);background:#e8f0fe}
+.fold-nav a:hover{border-color:var(--blue,#2f6fed);color:var(--navy,#1c3558);background:#e8f0fe}
+.fold-nav a.home,.fold-nav a.on{border-color:var(--blue,#2f6fed);color:var(--navy,#1c3558);background:#e8f0fe}
