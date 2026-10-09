@@ -1,0 +1,98 @@
+{
+  "asOf": "2026-10-09",
+  "ran_at": "2026-10-09T09:14:15.394270+09:00",
+  "cutoff_used": "2026-10-07 08:12:49 Asia/Seoul",
+  "scan_count": 21,
+  "changes": [
+    "DR1-LTS-004 added (원단 fabric_po: HS-8P발주서.xlsx)",
+    "DR1-LTS-005 added (원단 fabric_po: HS-8P발주서.xlsx)",
+    "DR1-LTS-007 added (원단 fabric_po: HS-8P발주서.xlsx)",
+    "DR1-LTS-009 added (원단 fabric_po: HS-8P발주서.xlsx)",
+    "DR1-LTS-012 added (원단 fabric_po: HS-8P발주서.xlsx)",
+    "DR1-LTJ-014 added (원단 fabric_po: HS-8P발주서.xlsx)",
+    "DR1-MTS-005 added (원단 fabric_po: HS-8P발주서.xlsx)",
+    "DR1-MTS-009 added (원단 fabric_po: HS-8P발주서.xlsx)",
+    "DQ3-LAC-005 fabric_po/NX-1402+DTP(DQ3-LAC-005)발주서.xlsx mtime→2026-10-08",
+    "DR1-MJP-003 fabric_po += MYN-1416(DR1-MJP-003)발주서.xlsx",
+    "DR1-MJP-003 fabric_po += MYN-1416(DR1-MJP-003)발주서.pdf",
+    "DR1-MJP-003 note: 발주서 본문 STYLE NO=DR1-MPA-003 오기 — 폴더·BT·용도(남점퍼)·ITEM MYN-1416 기준 DR1-MJP-003 반영",
+    "DR1LTW002 qc += DRI-LTW-002, DRI-LTP-002, DRI-MTR-010 JDK-T8845.PDF",
+    "DR1LTP002 qc += DRI-LTW-002, DRI-LTP-002, DRI-MTR-010 JDK-T8845.PDF",
+    "DR1MTR010 qc += DRI-LTW-002, DRI-LTP-002, DRI-MTR-010 JDK-T8845.PDF",
+    "DR1-LTJ-014 progdocs article inserted",
+    "DR1-LTS-004 progdocs article inserted",
+    "DR1-LTS-005 progdocs article inserted",
+    "DR1-LTS-007 progdocs article inserted",
+    "DR1-LTS-009 progdocs article inserted",
+    "DR1-LTS-012 progdocs article inserted",
+    "DR1-MTS-005 progdocs article inserted",
+    "DR1-MTS-009 progdocs article inserted"
+  ],
+  "silent_skip": [
+    "완사입/정상/견적서 아우터·봄티·LJV 원가견적 xlsx 다건 · 26FW 가공임정산 → 원가보드/비슬롯 skip",
+    "완사입/기획/DR1LTR080/*.tmp · ~$* 5건 무시",
+    "작업지시서/27SS기획티셔츠 작지/새 폴더 (4)/*.ai 4건 = 완사입/기획 기존 AI와 동일 해시 사본 → 슬롯 경로 유지·wip 미변경",
+    "작업지시서/DR1-LTR-080 마루 금현수 연습본.ai · 2026 FW 기획 아이템 (1).ai → 비슬롯 skip",
+    "NX-1402 본문 side DQ4-LTS-009 — 대시보드 미등록·빈슬롯 억지 추가 안 함"
+  ],
+  "merge": [],
+  "thumb_skip": "all: no extractable 작지 color diagram change (AI copies identical hash)",
+  "touched_styles": [
+    "DQ3-LAC-005",
+    "DR1-LTJ-014",
+    "DR1-LTS-004",
+    "DR1-LTS-005",
+    "DR1-LTS-007",
+    "DR1-LTS-009",
+    "DR1-LTS-012",
+    "DR1-MJP-003",
+    "DR1-MTS-005",
+    "DR1-MTS-009",
+    "DR1LTP002",
+    "DR1LTW002",
+    "DR1MTR010"
+  ],
+  "new_styles": [
+    "DR1-LTJ-014",
+    "DR1-LTS-004",
+    "DR1-LTS-005",
+    "DR1-LTS-007",
+    "DR1-LTS-009",
+    "DR1-LTS-012",
+    "DR1-MTS-005",
+    "DR1-MTS-009"
+  ],
+  "n_styles": 75,
+  "written": [
+    "디즈니/진행문서/progress.json",
+    "디즈니/진행문서/slots.json",
+    "디즈니/진행문서/진행-progress.json",
+    "디즈니/진행문서/index.html",
+    "디즈니/진행/index.html",
+    "디즈니/진행/progress.json",
+    "디즈니/진행문서/_scan_stamp.json",
+    "디즈니/진행문서/_scan_report_2026-10-09.json",
+    "summary.json",
+    "index.html"
+  ],
+  "gate": "Z:\\HDD1\\MARU\\dashboard\\두리콜렉션\\ — 2026-10-09 일일폴더반영(HS-8P 원단발주 8스타일·LAC005 mtime·MJP-003 발주서·JDK-T8845 시험성적 QC) 게이트",
+  "kpi_regen": {
+    "styles": 75,
+    "avg_pct": 8,
+    "complete": 0,
+    "oneway": 2,
+    "counts": {
+      "완사입기획": 12,
+      "완사입정상": 9,
+      "원단": 50,
+      "BT미정": 4
+    },
+    "bt_file_none": 28
+  },
+  "regen_written": [
+    "index.html",
+    "summary.json",
+    "디즈니/진행문서/index.html",
+    "디즈니/진행/progress.json"
+  ]
+}
