@@ -69,7 +69,7 @@ h2.sec { font-size:1.2rem; margin:28px 0 8px; border-left:3px solid var(--accent
     <div class="kpi"><p class="label">nego_ref 일치</p><p class="value">4/4</p><p class="sub">확정단가 = board nego_ref</p></div>
   </div>
 
-  <h2 class="sec" id="print-cmp">기은 vs 금산 나염 단가비교 (스타일 합산)</h2>
+  <h2 class="sec" id="print-cmp">기은 vs 금산 나염 단가비교 (스타일 합산) <small>[구버전 · 금산 실리콘/우레탄 KRW]</small></h2>
   <p class="note">기획티 나염은 <b>기은 KRW</b>를 원가 보드에 반영. 금산은 실리콘/우레탄 참고. 매핑 태그 file = 작업지시서·수량 확정.</p>
   <table class="cmp">
     <thead><tr>
@@ -150,6 +150,25 @@ h2.sec { font-size:1.2rem; margin:28px 0 8px; border-left:3px solid var(--accent
     </tbody>
   </table>
 
+
+
+  <h2 class="sec" id="vendor-cmp">나염업체별 원가·수익 비교</h2>
+  <p class="note">기은(2026-09-22) vs 금산비나(결제 달러 2공정 합산) 시나리오. 환율 USD/KRW <b>1366.0</b> (2026-09-24 잠금 동일). 금산안 원가 = 기은안 원가총액 + 나염차액×수량. 매출 = 발주 확정단가×수량. 데이터: <a href="vendor_compare.json">vendor_compare.json</a></p>
+  <table class="cmp" id="vendor-cmp-tbl">
+    <thead><tr><th>STYLE</th><th>도안 조합</th><th class="num">기은 USD</th><th class="num">기은 KRW</th><th class="num">금산 USD</th><th class="num">금산 KRW</th><th class="num">장당원가 기은안</th><th class="num">장당원가 금산안</th><th class="num">수량</th><th class="num">원가총액 기은</th><th class="num">원가총액 금산</th><th class="num">매출액</th><th class="num">예상수익 기은</th><th class="num">예상수익 금산</th><th class="num">마진 기은</th><th class="num">마진 금산</th></tr></thead>
+    <tbody>
+<tr><td class="merged">DR1LTR080</td><td>Mickey heart</td><td class="num">$0.70</td><td class="num">956.2</td><td class="num">$1.68</td><td class="num">2,294.9</td><td class="num">3,983.1</td><td class="num">5,321.8</td><td class="num">4,000</td><td class="num">15,932,320</td><td class="num">21,287,040</td><td class="num">29,600,000</td><td class="num total">13,667,680</td><td class="num total">8,312,960</td><td class="num">46.17%</td><td class="num">28.08%</td></tr>
+<tr><td class="merged">DR2LTR091</td><td>Daisy green</td><td class="num">$0.55</td><td class="num">751.3</td><td class="num">$1.31</td><td class="num">1,789.5</td><td class="num">3,352.8</td><td class="num">4,391.0</td><td class="num">12,000</td><td class="num">40,233,890</td><td class="num">52,691,810</td><td class="num">75,600,000</td><td class="num total">35,366,110</td><td class="num total">22,908,190</td><td class="num">46.78%</td><td class="num">30.30%</td></tr>
+<tr><td class="merged">DR2LTS090</td><td>Daisy purple + D logo</td><td class="num">$0.75</td><td class="num">1,024.5</td><td class="num">$1.77</td><td class="num">2,417.8</td><td class="num">8,529.4</td><td class="num">9,922.7</td><td class="num">5,000</td><td class="num">42,647,000</td><td class="num">49,613,600</td><td class="num">50,000,000</td><td class="num total">7,353,000</td><td class="num total">386,400</td><td class="num">14.71%</td><td class="num">0.77%</td></tr>
+<tr><td class="merged">DR2MTS090</td><td>Mickey Mouse + MM EST.1928</td><td class="num">$0.90</td><td class="num">1,229.4</td><td class="num">$2.00</td><td class="num">2,732.0</td><td class="num">9,463.3</td><td class="num">10,965.9</td><td class="num">3,300</td><td class="num">31,228,890</td><td class="num">36,187,470</td><td class="num">36,300,000</td><td class="num total">5,071,110</td><td class="num total">112,530</td><td class="num">13.97%</td><td class="num">0.31%</td></tr>
+<tr><td class="merged">SR1MTR081</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+<tr><td class="merged">DR1-LJB-080</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+<tr><td class="merged">DR1-LPA-080</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+<tr><td class="merged">SR1-MJB-080</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+<tr><td class="merged"><b>합계</b></td><td colspan="7"></td><td class="num"><b>24,300</b></td><td class="num"><b>130,042,100</b></td><td class="num"><b>159,779,920</b></td><td class="num"><b>191,500,000</b></td><td class="num total"><b>61,457,900</b></td><td class="num total"><b>31,720,080</b></td><td class="num"><b>32.09%</b></td><td class="num"><b>16.56%</b></td></tr>
+    </tbody>
+  </table>
+  <p class="note">'-' = 원가·발주 데이터 없음: SR1MTR081, DR1-LJB-080, DR1-LPA-080, SR1-MJB-080. 금산 27SW-LIP-015(Bugs Bunny 등)는 매칭 기획 스타일 없어 제외.</p>
 
   <h2 class="sec" id="po-profit">완사입 발주·예상수익</h2>
   <p class="note">발주서 JPG <b>확정단가</b>×수량 − 원가보드 총액. DR2LTR090.jpg → 보드 품번 DR2LTR091. 태그 file = 발주서 스캔 추출. LTS/MTS는 인쇄 NEGO단가(10,100/11,100)와 수기 확정단가(10,000/11,000) 상이 → 확정단가·nego_ref 사용.</p>
