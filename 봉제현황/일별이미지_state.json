@@ -1,16 +1,16 @@
 {
-  "updated": "2026-10-10 07:41",
+  "updated": "2026-10-16 11:53",
   "source_folder": "Z:\\HDD1\\MARU\\생산부\\생산현황표\\봉제생산현황",
   "processed": [
     {
       "name": "봉제생산현황_묶음.pdf",
-      "sha256": "2de41790c514bbfd706f4a02d5ba334285a46b3e8f69ed2e791c45a3f2c3fbf4",
-      "size": 38157650,
-      "pages": 55,
-      "images": 55,
+      "sha256": "57ab2d96ec4edc827ca667e6faaf73e309c539fb11714cc4d521cb87b257f1e4",
+      "size": 39946952,
+      "pages": 58,
+      "images": 58,
       "name_old": "봉제생산현황.pdf",
       "path": "Z:\\HDD1\\MARU\\생산부\\생산현황표\\봉제생산현황\\PDF\\봉제생산현황_묶음.pdf",
-      "sha256_prev": "47a93474f669778b6dac80f86a14143381dfde7ee0cef3b1de0daafa9dbc80b7"
+      "sha256_prev": "2de41790c514bbfd706f4a02d5ba334285a46b3e8f69ed2e791c45a3f2c3fbf4"
     },
     {
       "name": "2026-09-18_일지.pdf",
@@ -187,6 +187,39 @@
       "note": "본문10/09(금)확정 애리후세279",
       "name_old": null,
       "path": "Z:\\HDD1\\MARU\\생산부\\생산현황표\\봉제생산현황\\PDF\\2026-10-09_일지.pdf"
+    },
+    {
+      "name": "2026-10-13_일지.pdf",
+      "sha256": "574eef056b660be8171513760b85dcafb562be5b7fa3fab35cfed8b8d74cb111",
+      "size": 579367,
+      "pages": 1,
+      "images": 1,
+      "date_guess": "2026-10-13",
+      "note": "본문10/13(화)확정 애리후세미기재(칸 비어 있음)",
+      "name_old": null,
+      "path": "Z:\\HDD1\\MARU\\생산부\\생산현황표\\봉제생산현황\\PDF\\2026-10-13_일지.pdf"
+    },
+    {
+      "name": "2026-10-14_일지.pdf",
+      "sha256": "09d656aa6d621f0bd3f373a374a2e33430a2d7a9f4f796156abebedcff0ff5bf",
+      "size": 614967,
+      "pages": 1,
+      "images": 1,
+      "date_guess": "2026-10-14",
+      "note": "본문10/14(수)확정 애리후세417",
+      "name_old": null,
+      "path": "Z:\\HDD1\\MARU\\생산부\\생산현황표\\봉제생산현황\\PDF\\2026-10-14_일지.pdf"
+    },
+    {
+      "name": "2026-10-15_일지.pdf",
+      "sha256": "7e3b15ecfcff3d14861f32351a00d15601c037baca429bf1d9b7f4cf6d34d1b1",
+      "size": 608807,
+      "pages": 1,
+      "images": 1,
+      "date_guess": "2026-10-15",
+      "note": "본문10/15(목)확정 애리후세545",
+      "name_old": null,
+      "path": "Z:\\HDD1\\MARU\\생산부\\생산현황표\\봉제생산현황\\PDF\\2026-10-15_일지.pdf"
     }
   ],
   "output": "Z:\\HDD1\\MARU\\생산부\\생산현황표\\봉제생산현황\\일별",
@@ -200,7 +233,7 @@
     "enabled": true,
     "note": "평일 08:00 · 신규 PDF만 · 생산현황 일일보드와 별개"
   },
-  "image_count": 72,
+  "image_count": 78,
   "source_pdf": "Z:\\HDD1\\MARU\\생산부\\생산현황표\\봉제생산현황\\PDF",
   "source_daily": "Z:\\HDD1\\MARU\\생산부\\생산현황표\\봉제생산현황\\일별",
   "dashboard_mirror": "Z:\\HDD1\\MARU\\dashboard\\봉제현황\\일별이미지",
