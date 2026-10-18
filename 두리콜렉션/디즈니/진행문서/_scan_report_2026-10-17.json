@@ -1,0 +1,279 @@
+{
+  "asOf": "2026-10-17",
+  "ran_at": "2026-10-17T08:16:08.925551+09:00",
+  "cutoff_used": "2026-10-09 09:15:27 Asia/Seoul",
+  "new_cutoff": "2026-10-17 08:08:31 Asia/Seoul",
+  "scan_count": 32,
+  "temp_skip": 1,
+  "changes": [
+    "DR1-LTS-004 fabric_po/HS-8P발주서.xlsx mtime→2026-10-16",
+    "DR1-LTS-005 fabric_po/HS-8P발주서.xlsx mtime→2026-10-16",
+    "DR1-LTS-007 fabric_po/HS-8P발주서.xlsx mtime→2026-10-16",
+    "DR1-LTS-009 fabric_po/HS-8P발주서.xlsx mtime→2026-10-16",
+    "DR1-LTS-012 fabric_po/HS-8P발주서.xlsx mtime→2026-10-16",
+    "DR1-LTJ-014 fabric_po/HS-8P발주서.xlsx mtime→2026-10-16",
+    "DR1-MTS-005 fabric_po/HS-8P발주서.xlsx mtime→2026-10-16",
+    "DR1-MTS-009 fabric_po/HS-8P발주서.xlsx mtime→2026-10-16",
+    "DR1-LTJ-014 fabric_po += DR1LTJ014 L1-2067 +DTP.jpg",
+    "DR1-LTJ-015 fabric_po += DR1LTJ015  KT-7175.jpg",
+    "DR1-LTS-005 fabric_po += DR1LTS005 HS-8P.jpg",
+    "DR1LTS010 fabric_po += DR1LTS010 JERA-2070.jpg",
+    "DR1MTS007 fabric_po += DR1MTS007  JDK-8845 DTP.jpg",
+    "DR1-LTJ-014 note: 본사 개별발주서 ART L1-2067(P) DTP(BK700·LAV500=1,200PCS·납기 26-11-30) — HS-8P발주서 DTP바닥지 시트와 ART 표기 상이, 확인",
+    "DR1-LJP-003 bt += DR1-LJP-003(NJD-L0612A)BT.xls",
+    "DR1-LJP-004 bt/DR1-LJP-004, LJV-010, LCR-010(NCS-C1349)BT.xls mtime→2026-10-12",
+    "SR2-MSH-052 bt/SR2-MSH-052(MR-001)BT.xls mtime→2026-10-16",
+    "DR2-MPA-031 bt/AB-6086(DR2-MPA-031, DR2-LCR-030)BT.xls mtime→2026-10-12",
+    "DR2-LCR-030 bt/AB-6086(DR2-MPA-031, DR2-LCR-030)BT.xls mtime→2026-10-12",
+    "DR1-LTS-005 bt += HS-8P 그린 추가BT.xls",
+    "SR2-LPA-047 bt/MYP-2846(SR2-LPA-047).xls mtime→2026-10-16",
+    "DR1-MJP-004 added (원단 bt: MYP-2899(DR1-MJP-004)BT.xls)",
+    "DR2LTS090 wip += DR2-LTS-090  메인작업지시서.ai",
+    "DR2MTS090 wip += DR2MTS090 디즈니 작지.ai",
+    "DR2LTS090 note: 10-15 작지 칼라사양서 S/# 'DR1LTR080' 표기 오기 — 도식·칼라(WH/BK/GN/PR)는 LTS090",
+    "DR2LTS090 trim_po/DR2LTS090 부자재 발주서.xlsx mtime→2026-10-15",
+    "DR2MTS090 trim_po/DR2MTS090 부자재 발주서.xlsx mtime→2026-10-15",
+    "DR2LTS090 trim_po += DR2-LTS-090 부자재 지시서 2026-10-16.xlsx",
+    "DR2LTS090 fabric_qty += 3214 패킹 (1).xlsx",
+    "DR2LTS090 note: 원단 패킹 KR26-3214(코라, 10-14) 소울 ORD 6,350→P.K 7,386YDS → 원단생산량 슬롯",
+    "DR2MTS090 fabric_qty += 3214 패킹 (1).xlsx",
+    "DR2MTS090 note: 원단 패킹 KR26-3214(코라, 10-14) 소울 ORD 6,350→P.K 7,386YDS → 원단생산량 슬롯",
+    "DR2LTS090 note: 기타: 10-16 원부자재 베트남 선적(MARU 20261016 인보이스·FCL·FCL DD·마루패킹 26.10.15·쉬핑마크, 해외생산/선적서류/기은 27SS 기획) — 완제품 패킹 아님",
+    "DR2MTS090 note: 기타: 10-16 원부자재 베트남 선적(MARU 20261016 인보이스·FCL·FCL DD·마루패킹 26.10.15·쉬핑마크, 해외생산/선적서류/기은 27SS 기획) — 완제품 패킹 아님",
+    "DR2LTR091 note: 기타: 10-16 원부자재 베트남 선적(MARU 20261016 인보이스·FCL·FCL DD·마루패킹 26.10.15·쉬핑마크, 해외생산/선적서류/기은 27SS 기획) — 완제품 패킹 아님",
+    "DR1LTR080 note: 기타: 10-16 원부자재 베트남 선적(MARU 20261016 인보이스·FCL·FCL DD·마루패킹 26.10.15·쉬핑마크, 해외생산/선적서류/기은 27SS 기획) — 완제품 패킹 아님",
+    "SR1MTR081 note: 기타: 10-16 원부자재 베트남 선적(MARU 20261016 인보이스·FCL·FCL DD·마루패킹 26.10.15·쉬핑마크, 해외생산/선적서류/기은 27SS 기획) — 완제품 패킹 아님",
+    "DR1LPA080 note: 기타: LPA080자수도안(마루기획바지).ai 10-12 — 자수도안(단계 애매, 슬롯 미반영)",
+    "DR1-MJP-004 progdocs article inserted",
+    "DR1-LTJ-014 merged/DR1-LTJ-014.pdf 합본 링크",
+    "DR1-LTJ-015 merged/DR1-LTJ-015.pdf 합본 링크",
+    "DR1-LTS-005 merged/DR1-LTS-005.pdf 합본 링크",
+    "DR1LTS010 merged/DR1LTS010.pdf 합본 링크",
+    "DR1MTS007 merged/DR1MTS007.pdf 합본 링크"
+  ],
+  "silent_skip": [
+    "27SS MAINLIST.xlsx(10-16) · 27SS 원단현황.xlsx(10-10) → 마스터리스트/비슬롯 skip (선례 동일)",
+    "완사입/정상/견적서 아우터 원가견적 3건(10.07·네고 10.15 원가포함·재회신 10.08 최종4건) → 원가보드/비슬롯 skip",
+    "완사입/기획/26FW 디즈니 아우터 자재리스트.xlsx → 26FW 비대상 skip",
+    "작업지시서/DR1-LTR-080·DR2-LTR-091 마루 금현수 연습본.ai → 연습본 비슬롯 skip (선례 동일)",
+    "작업지시서/27SS기획티셔츠 작지/DR1-LTR-080·DR2-LTR-091 디즈니 작지.ai = 10-08 '새 폴더 (4)' 사본 폴더정리(mtime 컷오프 이전) → 미변경",
+    "~$두리 기획티셔츠 투명어깨테이프 발주서.xlsx (0B 임시) 무시",
+    "DR1-LJP-004 BT 파일명 LJV-010·LCR-010 — 대시보드 미등록(선례대로 신규 추가 안 함)",
+    "3214 패킹 S# 'DRS-LTS-909' — DR2-LTS-090 오기 추정(별도 스타일 추가 안 함)"
+  ],
+  "merge": [
+    {
+      "style": "DR1-LTJ-014",
+      "ok": true,
+      "used": [
+        "fabric_po:SKIP:HS-8P발주서.xlsx",
+        "fabric_po:DR1LTJ014 L1-2067 +DTP.jpg"
+      ],
+      "pages": 1,
+      "bytes": 566027
+    },
+    {
+      "style": "DR1-LTJ-015",
+      "ok": true,
+      "used": [
+        "fabric_po:SKIP:KT-7175(DR1-LTJ-015) 발주서.xlsx",
+        "fabric_po:DR1LTJ015  KT-7175.jpg",
+        "bt:SKIP:KT-7175(DR1-LTJ-015)BT.xls"
+      ],
+      "pages": 1,
+      "bytes": 556832
+    },
+    {
+      "style": "DR1-LTS-005",
+      "ok": true,
+      "used": [
+        "fabric_po:SKIP:HS-8P발주서.xlsx",
+        "fabric_po:DR1LTS005 HS-8P.jpg",
+        "bt:SKIP:HS-8P 그린 추가BT.xls"
+      ],
+      "pages": 1,
+      "bytes": 506884
+    },
+    {
+      "style": "DR1LTS010",
+      "ok": true,
+      "used": [
+        "fabric_po:SKIP:JREA-2070(DR1-LTS-010) 발주서.xlsx",
+        "fabric_po:DR1LTS010 JERA-2070.jpg"
+      ],
+      "pages": 1,
+      "bytes": 511977
+    },
+    {
+      "style": "DR1MTS007",
+      "ok": true,
+      "used": [
+        "fabric_po:JDK-T8845P(DR1-MTS-007)발주서.pdf",
+        "fabric_po:SKIP:JDK-T8845P+DTP(DR1-MTS-007) 발주서.xlsx",
+        "fabric_po:DR1MTS007  JDK-8845 DTP.jpg"
+      ],
+      "pages": 2,
+      "bytes": 769182
+    }
+  ],
+  "integrate": {
+    "ok": true,
+    "pages": 16,
+    "styles": [
+      "DR1LJB080",
+      "DR1-LTJ-014",
+      "DR1-LTJ-015",
+      "DR1-LTS-005",
+      "DR1LTS010",
+      "DR1MTS007",
+      "SR1MJB080",
+      "SR1MTR081"
+    ],
+    "bytes": 6498089,
+    "note": "merged 있는 스타일만 통합(전 스타일 합본 아님)"
+  },
+  "thumbs": [
+    "DR2LTS090",
+    "DR2MTS090"
+  ],
+  "touched_styles": [
+    "DR1-LJP-003",
+    "DR1-LJP-004",
+    "DR1-LTJ-014",
+    "DR1-LTJ-015",
+    "DR1-LTS-004",
+    "DR1-LTS-005",
+    "DR1-LTS-007",
+    "DR1-LTS-009",
+    "DR1-LTS-012",
+    "DR1-MJP-004",
+    "DR1-MTS-005",
+    "DR1-MTS-009",
+    "DR1LPA080",
+    "DR1LTR080",
+    "DR1LTS010",
+    "DR1MTS007",
+    "DR2-LCR-030",
+    "DR2-MPA-031",
+    "DR2LTR091",
+    "DR2LTS090",
+    "DR2MTS090",
+    "SR1MTR081",
+    "SR2-LPA-047",
+    "SR2-MSH-052"
+  ],
+  "new_styles": [
+    "DR1-MJP-004"
+  ],
+  "n_styles": 76,
+  "written": [
+    "디즈니/진행문서/progress.json",
+    "디즈니/진행문서/slots.json",
+    "디즈니/진행문서/진행-progress.json",
+    "디즈니/진행문서/index.html",
+    "디즈니/진행/index.html",
+    "디즈니/진행/progress.json",
+    "디즈니/진행문서/_scan_stamp.json",
+    "디즈니/진행문서/_scan_report_2026-10-17.json",
+    "summary.json",
+    "index.html",
+    "디즈니/진행문서/merged/DR1-LTJ-014.pdf",
+    "디즈니/진행문서/merged/DR1-LTJ-015.pdf",
+    "디즈니/진행문서/merged/DR1-LTS-005.pdf",
+    "디즈니/진행문서/merged/DR1LTS010.pdf",
+    "디즈니/진행문서/merged/DR1MTS007.pdf",
+    "디즈니/진행문서/merged/27SS_진행문서_통합.pdf",
+    "디즈니/진행문서/thumbs/DR2LTS090.jpg",
+    "디즈니/진행문서/thumbs/DR2MTS090.jpg"
+  ],
+  "gate": "Z:\\HDD1\\MARU\\dashboard\\두리콜렉션\\ — 2026-10-17 일일폴더반영(10-09~10-16 밀림분: MJP-004 신규·본사발주서 5·BT·LTS/MTS090 작지·부자재·원단패킹·thumbs 2·merged 5) 게이트",
+  "regen": {
+    "layout": "flat",
+    "root": "/workspace/duri_daily_scan/1017/out",
+    "out": "/workspace/duri_daily_scan/1017/out",
+    "asOf": "2026-10-17",
+    "kpi": {
+      "styles": 76,
+      "avg_pct": 8,
+      "complete": 0,
+      "oneway": 2,
+      "counts": {
+        "완사입기획": 12,
+        "완사입정상": 9,
+        "원단": 51,
+        "BT미정": 4
+      },
+      "bt_file_none": 27
+    },
+    "docs_sec_counts": {
+      "완사입 기획": {
+        "before": 12,
+        "after": 12
+      },
+      "완사입 정상": {
+        "before": 9,
+        "after": 9
+      },
+      "원단": {
+        "before": 50,
+        "after": 51
+      },
+      "BT미정": {
+        "before": 4,
+        "after": 4
+      }
+    },
+    "changed": [
+      {
+        "file": "index.html",
+        "before": "651F6D1FBE47E69226FC247047F8900224F3FE74103063224FE58BAD8322269F",
+        "after": "6C3313985F254E51D2C37F66B52E5E12C60B4F1445745D9AA54AF0DA78DE4985"
+      },
+      {
+        "file": "summary.json",
+        "before": "EAAD4C7262E0D59E7E95560EE3DBD2A2CF421EC8616FCF2194582CB6170EC4BD",
+        "after": "34FEAFDCC720B8C16AFC615C9D0BC2B62D101FC34782B00582238F8C8E55D82B"
+      },
+      {
+        "file": "디즈니/진행문서/index.html",
+        "before": "73E753684D4CD0FA935619F98549F6FF4218C0EAD9D2C8D8B67FE3EC90A7CDA5",
+        "after": "6D7375B6436BAD93657ADEE2FFCF11FB3EF1C0DF421DC9FF80B59EB99EEA5F99"
+      },
+      {
+        "file": "디즈니/진행/progress.json",
+        "before": null,
+        "after": "51C30A90035F1751DCDA91F8951106AD230FE9B5971E82B66D9DD14C1DDD94C5"
+      }
+    ],
+    "written": [
+      "index.html",
+      "summary.json",
+      "디즈니/진행문서/index.html",
+      "디즈니/진행/progress.json"
+    ]
+  },
+  "kpi_before": {
+    "styles": 75,
+    "counts": {
+      "완사입기획": 12,
+      "완사입정상": 9,
+      "원단": 50,
+      "BT미정": 4
+    },
+    "bt_file_none": 28,
+    "avg_pct": 8
+  },
+  "kpi_after": {
+    "styles": 76,
+    "avg_pct": 8,
+    "complete": 0,
+    "oneway": 2,
+    "counts": {
+      "완사입기획": 12,
+      "완사입정상": 9,
+      "원단": 51,
+      "BT미정": 4
+    },
+    "bt_file_none": 27
+  }
+}

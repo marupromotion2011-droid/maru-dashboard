@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-10-09",
+  "asOf": "2026-10-17",
   "href_root": "../../생산부/2. 디즈니/27SS/",
   "stages": [
     "원단발주",
@@ -21,17 +21,17 @@
   ],
   "complete_rule": "패킹리스트 존재 + 완제품 디즈니 물류 입고 시에만 완료",
   "kpi": {
-    "styles": 75,
+    "styles": 76,
     "avg_pct": 8,
     "complete": 0,
     "oneway": 2,
     "counts": {
       "완사입기획": 12,
       "완사입정상": 9,
-      "원단": 50,
+      "원단": 51,
       "BT미정": 4
     },
-    "bt_file_none": 28,
+    "bt_file_none": 27,
     "note": "counts = 칸(category) 기준, 합 = styles · bt_file_none = bt_links·bt_cfm 둘 다 없는 행 수(progress counts.BT미정과 같은 값)"
   },
   "rows": [
@@ -87,6 +87,13 @@
           "mtime": "2026-08-05",
           "rel": "완사입/기획/DR2LTS090/DR2LTS090 작업지시서.png",
           "missing": false
+        },
+        {
+          "name": "DR2-LTS-090  메인작업지시서.ai",
+          "href": "../../생산부/2. 디즈니/27SS/작업지시서/27SS기획티셔츠 작지/DR2-LTS-S090/DR2-LTS-090  메인작업지시서.ai",
+          "mtime": "2026-10-15",
+          "rel": "작업지시서/27SS기획티셔츠 작지/DR2-LTS-S090/DR2-LTS-090  메인작업지시서.ai",
+          "missing": false
         }
       ],
       "fabric_po_links": [
@@ -123,7 +130,7 @@
         {
           "name": "DR2LTS090 부자재 발주서.xlsx",
           "href": "../../생산부/2. 디즈니/27SS/완사입/기획/DR2LTS090/DR2LTS090 부자재 발주서.xlsx",
-          "mtime": "2026-09-14",
+          "mtime": "2026-10-15",
           "rel": "완사입/기획/DR2LTS090/DR2LTS090 부자재 발주서.xlsx",
           "missing": false
         },
@@ -135,10 +142,10 @@
           "missing": false
         },
         {
-          "name": "KakaoTalk_20261002_094503673.png",
-          "href": "../../생산부/2. 디즈니/27SS/완사입/기획/DR2LTS090/KakaoTalk_20261002_094503673.png",
+          "name": "어깨테이프 ANYTAPE JAB-0608s.png",
+          "href": "../../생산부/2. 디즈니/27SS/완사입/기획/DR2LTS090/어깨테이프 ANYTAPE JAB-0608s.png",
           "mtime": "2026-10-02",
-          "rel": "완사입/기획/DR2LTS090/KakaoTalk_20261002_094503673.png",
+          "rel": "완사입/기획/DR2LTS090/어깨테이프 ANYTAPE JAB-0608s.png",
           "missing": false
         },
         {
@@ -146,6 +153,13 @@
           "href": "../../생산부/2. 디즈니/27SS/완사입/기획/DR2LTS090/투명모빌론 어깨TAPE.txt",
           "mtime": "2026-10-02",
           "rel": "완사입/기획/DR2LTS090/투명모빌론 어깨TAPE.txt",
+          "missing": false
+        },
+        {
+          "name": "DR2-LTS-090 부자재 지시서 2026-10-16.xlsx",
+          "href": "../../생산부/2. 디즈니/27SS/작업지시서/27SS기획티셔츠 작지/DR2-LTS-S090/DR2-LTS-090 부자재 지시서 2026-10-16.xlsx",
+          "mtime": "2026-10-16",
+          "rel": "작업지시서/27SS기획티셔츠 작지/DR2-LTS-S090/DR2-LTS-090 부자재 지시서 2026-10-16.xlsx",
           "missing": false
         }
       ],
@@ -168,7 +182,7 @@
           "qty": 708
         }
       ],
-      "nfiles": 12,
+      "nfiles": 14,
       "flags": {
         "fabric_po": true,
         "trim_po": true,
@@ -183,7 +197,7 @@
       "pct": 43,
       "complete": false,
       "oneway": false,
-      "pending_note": "",
+      "pending_note": "10-15 작지 칼라사양서 S/# 'DR1LTR080' 표기 오기 — 도식·칼라(WH/BK/GN/PR)는 LTS090 · 원단 패킹 KR26-3214(코라, 10-14) 소울 ORD 6,350→P.K 7,386YDS → 원단생산량 슬롯 · 기타: 10-16 원부자재 베트남 선적(MARU 20261016 인보이스·FCL·FCL DD·마루패킹 26.10.15·쉬핑마크, 해외생산/선적서류/기은 27SS 기획) — 완제품 패킹 아님",
       "code": {
         "raw": "DR2LTS090",
         "code": "DR2LTS090",
@@ -272,6 +286,13 @@
           "mtime": "2026-08-05",
           "rel": "완사입/기획/DR2MTS090/DR2MTS090 작업지시서.png",
           "missing": false
+        },
+        {
+          "name": "DR2MTS090 디즈니 작지.ai",
+          "href": "../../생산부/2. 디즈니/27SS/작업지시서/27SS기획티셔츠 작지/DR2-MTS-090/DR2MTS090 디즈니 작지.ai",
+          "mtime": "2026-10-16",
+          "rel": "작업지시서/27SS기획티셔츠 작지/DR2-MTS-090/DR2MTS090 디즈니 작지.ai",
+          "missing": false
         }
       ],
       "fabric_po_links": [
@@ -308,7 +329,7 @@
         {
           "name": "DR2MTS090 부자재 발주서.xlsx",
           "href": "../../생산부/2. 디즈니/27SS/완사입/기획/DR2MTS090/DR2MTS090 부자재 발주서.xlsx",
-          "mtime": "2026-09-14",
+          "mtime": "2026-10-15",
           "rel": "완사입/기획/DR2MTS090/DR2MTS090 부자재 발주서.xlsx",
           "missing": false
         },
@@ -320,10 +341,10 @@
           "missing": false
         },
         {
-          "name": "KakaoTalk_20261002_094503673.png",
-          "href": "../../생산부/2. 디즈니/27SS/완사입/기획/DR2MTS090/KakaoTalk_20261002_094503673.png",
+          "name": "어깨테이프 ANYTAPE JAB-0608s.png",
+          "href": "../../생산부/2. 디즈니/27SS/완사입/기획/DR2MTS090/어깨테이프 ANYTAPE JAB-0608s.png",
           "mtime": "2026-10-02",
-          "rel": "완사입/기획/DR2MTS090/KakaoTalk_20261002_094503673.png",
+          "rel": "완사입/기획/DR2MTS090/어깨테이프 ANYTAPE JAB-0608s.png",
           "missing": false
         },
         {
@@ -353,7 +374,7 @@
           "qty": 510
         }
       ],
-      "nfiles": 10,
+      "nfiles": 11,
       "flags": {
         "fabric_po": true,
         "trim_po": true,
@@ -368,7 +389,7 @@
       "pct": 43,
       "complete": false,
       "oneway": false,
-      "pending_note": "",
+      "pending_note": "원단 패킹 KR26-3214(코라, 10-14) 소울 ORD 6,350→P.K 7,386YDS → 원단생산량 슬롯 · 기타: 10-16 원부자재 베트남 선적(MARU 20261016 인보이스·FCL·FCL DD·마루패킹 26.10.15·쉬핑마크, 해외생산/선적서류/기은 27SS 기획) — 완제품 패킹 아님",
       "code": {
         "raw": "DR2MTS090",
         "code": "DR2MTS090",
@@ -514,7 +535,7 @@
       "pct": 29,
       "complete": false,
       "oneway": false,
-      "pending_note": "",
+      "pending_note": "기타: 10-16 원부자재 베트남 선적(MARU 20261016 인보이스·FCL·FCL DD·마루패킹 26.10.15·쉬핑마크, 해외생산/선적서류/기은 27SS 기획) — 완제품 패킹 아님",
       "code": {
         "raw": "SR1MTR081",
         "code": "SR1MTR081",
@@ -871,7 +892,7 @@
       "pct": 14,
       "complete": false,
       "oneway": false,
-      "pending_note": "",
+      "pending_note": "기타: LPA080자수도안(마루기획바지).ai 10-12 — 자수도안(단계 애매, 슬롯 미반영)",
       "code": {
         "raw": "DR1LPA080",
         "code": "DR1LPA080",
@@ -990,10 +1011,10 @@
           "missing": false
         },
         {
-          "name": "KakaoTalk_20261002_094503673.png",
-          "href": "../../생산부/2. 디즈니/27SS/완사입/기획/DR1LTR080/KakaoTalk_20261002_094503673.png",
+          "name": "어깨테이프 ANYTAPE JAB-0608s.png",
+          "href": "../../생산부/2. 디즈니/27SS/완사입/기획/DR1LTR080/어깨테이프 ANYTAPE JAB-0608s.png",
           "mtime": "2026-10-02",
-          "rel": "완사입/기획/DR1LTR080/KakaoTalk_20261002_094503673.png",
+          "rel": "완사입/기획/DR1LTR080/어깨테이프 ANYTAPE JAB-0608s.png",
           "missing": false
         },
         {
@@ -1021,7 +1042,7 @@
       "pct": 29,
       "complete": false,
       "oneway": true,
-      "pending_note": "",
+      "pending_note": "기타: 10-16 원부자재 베트남 선적(MARU 20261016 인보이스·FCL·FCL DD·마루패킹 26.10.15·쉬핑마크, 해외생산/선적서류/기은 27SS 기획) — 완제품 패킹 아님",
       "code": {
         "raw": "DR1LTR080",
         "code": "DR1LTR080",
@@ -1389,10 +1410,10 @@
           "missing": false
         },
         {
-          "name": "KakaoTalk_20261002_094503673.png",
-          "href": "../../생산부/2. 디즈니/27SS/완사입/기획/DR2LTR091/KakaoTalk_20261002_094503673.png",
+          "name": "어깨테이프 ANYTAPE JAB-0608s.png",
+          "href": "../../생산부/2. 디즈니/27SS/완사입/기획/DR2LTR091/어깨테이프 ANYTAPE JAB-0608s.png",
           "mtime": "2026-10-02",
-          "rel": "완사입/기획/DR2LTR091/KakaoTalk_20261002_094503673.png",
+          "rel": "완사입/기획/DR2LTR091/어깨테이프 ANYTAPE JAB-0608s.png",
           "missing": false
         },
         {
@@ -1420,7 +1441,7 @@
       "pct": 29,
       "complete": false,
       "oneway": true,
-      "pending_note": "",
+      "pending_note": "기타: 10-16 원부자재 베트남 선적(MARU 20261016 인보이스·FCL·FCL DD·마루패킹 26.10.15·쉬핑마크, 해외생산/선적서류/기은 27SS 기획) — 완제품 패킹 아님",
       "code": {
         "raw": "DR2LTR091",
         "code": "DR2LTR091",
@@ -1824,14 +1845,15 @@
       "due": "",
       "fabric_order": "",
       "bt_cfm": [
-        "2026-09-12"
+        "2026-09-12",
+        "2026-10-12"
       ],
       "bt_links": [
         {
-          "name": "DR1-LJP-003(MYN-2070)BT.xls",
-          "href": "../../생산부/2. 디즈니/27SS/완사입/정상/DR1-LJP-003(MYN-2070)/DR1-LJP-003(MYN-2070)BT.xls",
-          "mtime": "2026-09-28",
-          "rel": "완사입/정상/DR1-LJP-003(MYN-2070)/DR1-LJP-003(MYN-2070)BT.xls",
+          "name": "DR1-LJP-003(NJD-L0612A)BT.xls",
+          "href": "../../생산부/2. 디즈니/27SS/완사입/정상/DR1-LJP-003(MYN-2070)/DR1-LJP-003(NJD-L0612A)BT.xls",
+          "mtime": "2026-10-12",
+          "rel": "완사입/정상/DR1-LJP-003(MYN-2070)/DR1-LJP-003(NJD-L0612A)BT.xls",
           "missing": false
         }
       ],
@@ -1891,13 +1913,14 @@
       "due": "",
       "fabric_order": "",
       "bt_cfm": [
-        "2026-08-18"
+        "2026-08-18",
+        "2026-10-12"
       ],
       "bt_links": [
         {
           "name": "DR1-LJP-004, LJV-010, LCR-010(NCS-C1349)BT.xls",
           "href": "../../생산부/2. 디즈니/27SS/완사입/정상/DR1-LJP-004(NCS-C1349)/DR1-LJP-004, LJV-010, LCR-010(NCS-C1349)BT.xls",
-          "mtime": "2026-08-18",
+          "mtime": "2026-10-12",
           "rel": "완사입/정상/DR1-LJP-004(NCS-C1349)/DR1-LJP-004, LJV-010, LCR-010(NCS-C1349)BT.xls",
           "missing": false
         }
@@ -2165,13 +2188,14 @@
       "due": "",
       "fabric_order": "",
       "bt_cfm": [
-        "2026-09-17"
+        "2026-09-17",
+        "2026-10-16"
       ],
       "bt_links": [
         {
           "name": "SR2-MSH-052(MR-001)BT.xls",
           "href": "../../생산부/2. 디즈니/27SS/완사입/정상/SR2-MSH-052/SR2-MSH-052(MR-001)BT.xls",
-          "mtime": "2026-09-17",
+          "mtime": "2026-10-16",
           "rel": "완사입/정상/SR2-MSH-052/SR2-MSH-052(MR-001)BT.xls",
           "missing": false
         }
@@ -2433,15 +2457,22 @@
         {
           "name": "HS-8P발주서.xlsx",
           "href": "../../생산부/2. 디즈니/27SS/원단/27SS/HS-8P/HS-8P발주서.xlsx",
-          "mtime": "2026-10-08",
+          "mtime": "2026-10-16",
           "rel": "원단/27SS/HS-8P/HS-8P발주서.xlsx",
+          "missing": false
+        },
+        {
+          "name": "DR1LTJ014 L1-2067 +DTP.jpg",
+          "href": "../../생산부/2. 디즈니/27SS/원단/27SS/디즈니 본사 발주서/DR1LTJ014 L1-2067 +DTP.jpg",
+          "mtime": "2026-10-09",
+          "rel": "원단/27SS/디즈니 본사 발주서/DR1LTJ014 L1-2067 +DTP.jpg",
           "missing": false
         }
       ],
       "trim_po_links": [],
       "pack_links": [],
       "trim_orders": [],
-      "nfiles": 1,
+      "nfiles": 2,
       "flags": {
         "fabric_po": true,
         "trim_po": false,
@@ -2456,7 +2487,7 @@
       "pct": 14,
       "complete": false,
       "oneway": false,
-      "pending_note": "",
+      "pending_note": "본사 개별발주서 ART L1-2067(P) DTP(BK700·LAV500=1,200PCS·납기 26-11-30) — HS-8P발주서 DTP바닥지 시트와 ART 표기 상이, 확인",
       "code": {
         "raw": "DR1-LTJ-014",
         "code": "DR1LTJ014",
@@ -2511,12 +2542,19 @@
           "mtime": "2026-09-15",
           "rel": "원단/27SS/KT-7175+DTP(DR1-LTJ-015)/KT-7175(DR1-LTJ-015) 발주서.xlsx",
           "missing": false
+        },
+        {
+          "name": "DR1LTJ015  KT-7175.jpg",
+          "href": "../../생산부/2. 디즈니/27SS/원단/27SS/디즈니 본사 발주서/DR1LTJ015  KT-7175.jpg",
+          "mtime": "2026-10-09",
+          "rel": "원단/27SS/디즈니 본사 발주서/DR1LTJ015  KT-7175.jpg",
+          "missing": false
         }
       ],
       "trim_po_links": [],
       "pack_links": [],
       "trim_orders": [],
-      "nfiles": 2,
+      "nfiles": 3,
       "flags": {
         "fabric_po": true,
         "trim_po": false,
@@ -2573,7 +2611,7 @@
         {
           "name": "HS-8P발주서.xlsx",
           "href": "../../생산부/2. 디즈니/27SS/원단/27SS/HS-8P/HS-8P발주서.xlsx",
-          "mtime": "2026-10-08",
+          "mtime": "2026-10-16",
           "rel": "원단/27SS/HS-8P/HS-8P발주서.xlsx",
           "missing": false
         }
@@ -2631,22 +2669,39 @@
       "art": "HS-8P",
       "due": "",
       "fabric_order": "",
-      "bt_cfm": [],
-      "bt_links": [],
+      "bt_cfm": [
+        "2026-10-16"
+      ],
+      "bt_links": [
+        {
+          "name": "HS-8P 그린 추가BT.xls",
+          "href": "../../생산부/2. 디즈니/27SS/원단/27SS/HS-8P/HS-8P 그린 추가BT.xls",
+          "mtime": "2026-10-16",
+          "rel": "원단/27SS/HS-8P/HS-8P 그린 추가BT.xls",
+          "missing": false
+        }
+      ],
       "wip_links": [],
       "fabric_po_links": [
         {
           "name": "HS-8P발주서.xlsx",
           "href": "../../생산부/2. 디즈니/27SS/원단/27SS/HS-8P/HS-8P발주서.xlsx",
-          "mtime": "2026-10-08",
+          "mtime": "2026-10-16",
           "rel": "원단/27SS/HS-8P/HS-8P발주서.xlsx",
+          "missing": false
+        },
+        {
+          "name": "DR1LTS005 HS-8P.jpg",
+          "href": "../../생산부/2. 디즈니/27SS/원단/27SS/디즈니 본사 발주서/DR1LTS005 HS-8P.jpg",
+          "mtime": "2026-10-09",
+          "rel": "원단/27SS/디즈니 본사 발주서/DR1LTS005 HS-8P.jpg",
           "missing": false
         }
       ],
       "trim_po_links": [],
       "pack_links": [],
       "trim_orders": [],
-      "nfiles": 1,
+      "nfiles": 3,
       "flags": {
         "fabric_po": true,
         "trim_po": false,
@@ -2703,7 +2758,7 @@
         {
           "name": "HS-8P발주서.xlsx",
           "href": "../../생산부/2. 디즈니/27SS/원단/27SS/HS-8P/HS-8P발주서.xlsx",
-          "mtime": "2026-10-08",
+          "mtime": "2026-10-16",
           "rel": "원단/27SS/HS-8P/HS-8P발주서.xlsx",
           "missing": false
         }
@@ -2768,7 +2823,7 @@
         {
           "name": "HS-8P발주서.xlsx",
           "href": "../../생산부/2. 디즈니/27SS/원단/27SS/HS-8P/HS-8P발주서.xlsx",
-          "mtime": "2026-10-08",
+          "mtime": "2026-10-16",
           "rel": "원단/27SS/HS-8P/HS-8P발주서.xlsx",
           "missing": false
         }
@@ -2833,7 +2888,7 @@
         {
           "name": "HS-8P발주서.xlsx",
           "href": "../../생산부/2. 디즈니/27SS/원단/27SS/HS-8P/HS-8P발주서.xlsx",
-          "mtime": "2026-10-08",
+          "mtime": "2026-10-16",
           "rel": "원단/27SS/HS-8P/HS-8P발주서.xlsx",
           "missing": false
         }
@@ -2879,6 +2934,73 @@
       "color_str": ""
     },
     {
+      "style": "DR1-MJP-004",
+      "name": "",
+      "brand": "디즈니",
+      "source": "폴더스캔",
+      "category": "원단",
+      "category_sub": "",
+      "qty": 0,
+      "colors": {},
+      "vendor": "",
+      "art": "MYP-2899",
+      "due": "",
+      "fabric_order": "",
+      "bt_cfm": [
+        "2026-10-12"
+      ],
+      "bt_links": [
+        {
+          "name": "MYP-2899(DR1-MJP-004)BT.xls",
+          "href": "../../생산부/2. 디즈니/27SS/원단/27SS/MYP-2899(DR1-MJP-004)/MYP-2899(DR1-MJP-004)BT.xls",
+          "mtime": "2026-10-12",
+          "rel": "원단/27SS/MYP-2899(DR1-MJP-004)/MYP-2899(DR1-MJP-004)BT.xls",
+          "missing": false
+        }
+      ],
+      "wip_links": [],
+      "fabric_po_links": [],
+      "trim_po_links": [],
+      "pack_links": [],
+      "trim_orders": [],
+      "nfiles": 1,
+      "flags": {
+        "fabric_po": false,
+        "trim_po": false,
+        "qc": false,
+        "sew": false,
+        "finish": false,
+        "pack": false,
+        "logistics": false
+      },
+      "done": 0,
+      "total": 7,
+      "pct": 0,
+      "complete": false,
+      "oneway": false,
+      "pending_note": "",
+      "code": {
+        "raw": "DR1-MJP-004",
+        "code": "DR1MJP004",
+        "brand_code": "D",
+        "brand": "디즈니",
+        "year_code": "R",
+        "year": "2027년",
+        "season_code": "1",
+        "season": "봄",
+        "gender_code": "M",
+        "gender": "남성",
+        "item_code": "JP",
+        "item": "점퍼",
+        "seq": "004",
+        "seq_band": "MAIN",
+        "ok": true
+      },
+      "thumb": null,
+      "images": [],
+      "color_str": ""
+    },
+    {
       "style": "DR1-MTS-005",
       "name": "",
       "brand": "디즈니",
@@ -2898,7 +3020,7 @@
         {
           "name": "HS-8P발주서.xlsx",
           "href": "../../생산부/2. 디즈니/27SS/원단/27SS/HS-8P/HS-8P발주서.xlsx",
-          "mtime": "2026-10-08",
+          "mtime": "2026-10-16",
           "rel": "원단/27SS/HS-8P/HS-8P발주서.xlsx",
           "missing": false
         }
@@ -2963,7 +3085,7 @@
         {
           "name": "HS-8P발주서.xlsx",
           "href": "../../생산부/2. 디즈니/27SS/원단/27SS/HS-8P/HS-8P발주서.xlsx",
-          "mtime": "2026-10-08",
+          "mtime": "2026-10-16",
           "rel": "원단/27SS/HS-8P/HS-8P발주서.xlsx",
           "missing": false
         }
@@ -3358,12 +3480,19 @@
           "mtime": "2026-09-16",
           "rel": "원단/27SS/DR1-LTS-010(JREA-2070)/JREA-2070(DR1-LTS-010) 발주서.xlsx",
           "missing": false
+        },
+        {
+          "name": "DR1LTS010 JERA-2070.jpg",
+          "href": "../../생산부/2. 디즈니/27SS/원단/27SS/디즈니 본사 발주서/DR1LTS010 JERA-2070.jpg",
+          "mtime": "2026-10-09",
+          "rel": "원단/27SS/디즈니 본사 발주서/DR1LTS010 JERA-2070.jpg",
+          "missing": false
         }
       ],
       "trim_po_links": [],
       "pack_links": [],
       "trim_orders": [],
-      "nfiles": 1,
+      "nfiles": 2,
       "flags": {
         "fabric_po": true,
         "trim_po": false,
@@ -3583,13 +3712,6 @@
           "missing": false
         },
         {
-          "name": "AB-6098(DR1-MPA-003, MJV-002, LPA-006) 발주서.pdf",
-          "href": "../../생산부/2. 디즈니/27SS/원단/27SS/AB-6098(DR1-MPA-003, MJV-002, LPA-006)/AB-6098(DR1-MPA-003, MJV-002, LPA-006) 발주서.pdf",
-          "mtime": "2026-09-03",
-          "rel": "원단/27SS/AB-6098(DR1-MPA-003, MJV-002, LPA-006)/AB-6098(DR1-MPA-003, MJV-002, LPA-006) 발주서.pdf",
-          "missing": true
-        },
-        {
           "name": "AB-6098(DR1-MPA-003, MJV-002, LPA-006) 발주서.xlsx",
           "href": "../../생산부/2. 디즈니/27SS/원단/27SS/AB-6098(DR1-MPA-003, MJV-002, LPA-006) - 복사본/AB-6098(DR1-MPA-003, MJV-002, LPA-006) 발주서.xlsx",
           "mtime": "2026-09-03",
@@ -3600,7 +3722,7 @@
       "trim_po_links": [],
       "pack_links": [],
       "trim_orders": [],
-      "nfiles": 4,
+      "nfiles": 3,
       "flags": {
         "fabric_po": true,
         "trim_po": false,
@@ -3739,12 +3861,19 @@
           "mtime": "2026-09-15",
           "rel": "원단/27SS/JDK-T8845P+DTP(DR1-MTS-007)/JDK-T8845P+DTP(DR1-MTS-007) 발주서.xlsx",
           "missing": false
+        },
+        {
+          "name": "DR1MTS007  JDK-8845 DTP.jpg",
+          "href": "../../생산부/2. 디즈니/27SS/원단/27SS/디즈니 본사 발주서/DR1MTS007  JDK-8845 DTP.jpg",
+          "mtime": "2026-10-09",
+          "rel": "원단/27SS/디즈니 본사 발주서/DR1MTS007  JDK-8845 DTP.jpg",
+          "missing": false
         }
       ],
       "trim_po_links": [],
       "pack_links": [],
       "trim_orders": [],
-      "nfiles": 2,
+      "nfiles": 3,
       "flags": {
         "fabric_po": true,
         "trim_po": false,
@@ -4153,13 +4282,14 @@
       "due": "",
       "fabric_order": "",
       "bt_cfm": [
-        "2026-10-02"
+        "2026-10-02",
+        "2026-10-12"
       ],
       "bt_links": [
         {
           "name": "AB-6086(DR2-MPA-031, DR2-LCR-030)BT.xls",
           "href": "../../생산부/2. 디즈니/27SS/원단/27SS/AB-6086(DR2-MPA-031, DR2-LCR-030)/AB-6086(DR2-MPA-031, DR2-LCR-030)BT.xls",
-          "mtime": "2026-10-02",
+          "mtime": "2026-10-12",
           "rel": "원단/27SS/AB-6086(DR2-MPA-031, DR2-LCR-030)/AB-6086(DR2-MPA-031, DR2-LCR-030)BT.xls",
           "missing": false
         }
@@ -4890,13 +5020,14 @@
       "due": "",
       "fabric_order": "",
       "bt_cfm": [
-        "2026-10-02"
+        "2026-10-02",
+        "2026-10-12"
       ],
       "bt_links": [
         {
           "name": "AB-6086(DR2-MPA-031, DR2-LCR-030)BT.xls",
           "href": "../../생산부/2. 디즈니/27SS/원단/27SS/AB-6086(DR2-MPA-031, DR2-LCR-030)/AB-6086(DR2-MPA-031, DR2-LCR-030)BT.xls",
-          "mtime": "2026-10-02",
+          "mtime": "2026-10-12",
           "rel": "원단/27SS/AB-6086(DR2-MPA-031, DR2-LCR-030)/AB-6086(DR2-MPA-031, DR2-LCR-030)BT.xls",
           "missing": false
         }
@@ -5566,13 +5697,14 @@
       "due": "",
       "fabric_order": "",
       "bt_cfm": [
-        "2026-10-01"
+        "2026-10-01",
+        "2026-10-16"
       ],
       "bt_links": [
         {
           "name": "MYP-2846(SR2-LPA-047).xls",
           "href": "../../생산부/2. 디즈니/27SS/원단/27SS/MYP-2846(SR2-LPA-047)/MYP-2846(SR2-LPA-047).xls",
-          "mtime": "2026-10-01",
+          "mtime": "2026-10-16",
           "rel": "원단/27SS/MYP-2846(SR2-LPA-047)/MYP-2846(SR2-LPA-047).xls",
           "missing": false
         }

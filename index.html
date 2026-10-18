@@ -22,6 +22,13 @@ body{background:#ffffff !important;color:var(--ink,#1c2a3a)}
 .kids a:hover{color:var(--blue,#2f6fed);border-color:var(--blue,#2f6fed)}
 </style>
 <script src="./_shared/fold-nav.js" defer></script>
+<style>/* NAS 전용 표시 (2026-10-17 takedown v4): a 유지 + href 제거. 배지 14px #1c3558/#fff (카드만, 칩은 배지 없음), 안내 14px #3e4c5c/#f8fafc (WCAG >=4.5:1) */
+.nas-off{cursor:not-allowed}
+.nas-off::after{content:"NAS 전용";display:inline-block;margin-left:6px;padding:0 5px;border:1px solid #cbd5e1;border-radius:4px;background:#fff;color:#1c3558;font-size:14px;font-weight:700;line-height:1.5;vertical-align:middle;text-decoration:none}
+.nav-cards a.card.nas-off::after{align-self:flex-start;margin:6px 0 0}
+.kids a.nas-off::after{content:none}
+.nas-guide{margin:10px 0 0;padding:8px 12px;border:1px dashed #cbd5e1;border-radius:8px;background:#f8fafc;color:#3e4c5c;font-size:14px;word-break:break-all}
+</style>
 <script src="/maru-dashboard/js/auth-gate.js"></script>
 </head>
 <body>
@@ -59,7 +66,7 @@ body{background:#ffffff !important;color:var(--ink,#1c2a3a)}
       <a class="card" href="sales/index.html"><span class="k">06</span><span class="nm">매출</span><span class="d">건수 · 거래처</span></a>
       <a class="card" href="education/index.html"><span class="k">07</span><span class="nm">교육자료</span><span class="d">원단 · 생산공정</span></a>
       <a class="card" href="education/_errors/index.html"><span class="k">08</span><span class="nm">오답노트</span><span class="d">미반영 · 스캔 <span class="badge warn">주의</span></span></a>
-    <a class="card" href="사후정산/index.html"><span class="k">09</span><span class="nm">사후정산</span><span class="d">패킹리스트 · 정산</span></a>
+    <a class="card nas-only" href="사후정산/index.html" data-nas-path="Z:\HDD1\MARU\dashboard\사후정산\index.html"><span class="k">09</span><span class="nm">사후정산</span><span class="d">패킹리스트 · 정산</span></a>
 
     </div>
     <div class="kids" style="margin-top:16px">
@@ -67,7 +74,7 @@ body{background:#ffffff !important;color:var(--ink,#1c2a3a)}
       <a href="두리콜렉션/스팍스/index.html">스팍스</a>
       <a href="두리콜렉션/워너/index.html">워너</a>
       <a href="두리콜렉션/27SS/index.html">27SS</a>
-      <a href="두리콜렉션/27SS/원가/index.html">27SS 원가</a>
+      <a class="nas-only" href="두리콜렉션/27SS/원가/index.html" data-nas-path="Z:\HDD1\MARU\dashboard\두리콜렉션\27SS\원가\index.html">27SS 원가</a>
       <a href="두리콜렉션/일방향재단/index.html">일방향재단</a>
       <a href="education/tshirt-process/index.html">전체공정</a>
       <a href="education/fiber/index.html">섬유</a>
@@ -78,5 +85,8 @@ body{background:#ffffff !important;color:var(--ink,#1c2a3a)}
 
   <p class="foot">출처: Z:\HDD1\MARU\dashboard\index.html · 규격 R10 · CSS _shared/visibility.css · 메일 칸 삭제 · 작지이미지(woimg) 봉인</p>
 </div>
+<script>/* NAS 전용 (2026-10-17 takedown v3): 웹(file: 아님)에서는 a.nas-only의 href만 제거하고 class nas-off 추가 - a 태그·class 유지(카드/칩 모양·글자색 그대로). 아래에 Z 경로 안내 문구 추가. file:(Z/NAS)에서는 링크 유지. */
+(function(){if(location.protocol==="file:")return;var g=[];[].slice.call(document.querySelectorAll("a.nas-only")).forEach(function(a){g.push(((a.querySelector(".nm")||a).textContent||"").trim()+" → "+(a.getAttribute("data-nas-path")||""));});[].slice.call(document.querySelectorAll("a.nas-only")).forEach(function(a){var p=a.getAttribute("data-nas-path")||"";a.removeAttribute("href");a.classList.add("nas-off");a.setAttribute("aria-disabled","true");a.title="NAS 전용 · 사내 PC Z 드라이브에서 열기: "+p;});var k=document.querySelector(".kids");if(g.length&&k){var n=document.createElement("p");n.className="nas-guide";n.textContent="NAS 전용 항목은 웹에서 열리지 않음 · 사내 PC에서 Z 드라이브로 열기: "+g.join(" / ");k.parentNode.insertBefore(n,k.nextSibling);}})();
+</script>
 </body>
 </html>

@@ -63,8 +63,8 @@ a[href*="생산부/"]::after,.nas-off::after{content:"NAS";margin-left:4px;paddi
 </style>
 <script src="/maru-dashboard/js/auth-gate.js"></script>
 </head><body>
-<p class="nas-note">「NAS 전용」 — <b>NAS</b> 표시가 붙은 생산부 문서 링크: 웹에서는 열리지 않음 · Z 드라이브(사내 NAS)에서 열기.</p>
-<div style="margin:12px 0;padding:12px 16px;background:#1c3558;border-radius:8px"><a href="./원가/index.html" style="color:#f4f0e8;font-weight:600;text-decoration:none">27SS 기획티셔츠 원가 (운송·통관세 포함)</a></div>
+<p class="nas-note">「NAS 전용」 — <b>NAS</b> 표시가 붙은 링크(생산부 문서 · 27SS 원가): 웹에서는 열리지 않음 · Z 드라이브(사내 NAS)에서 열기. 27SS 원가: Z:\HDD1\MARU\dashboard\두리콜렉션\27SS\원가\index.html</p>
+<div style="margin:12px 0;padding:12px 16px;background:#1c3558;border-radius:8px"><a class="nas-only" href="./원가/index.html" data-nas-path="Z:\HDD1\MARU\dashboard\두리콜렉션\27SS\원가\index.html" style="color:#f4f0e8;font-weight:600;text-decoration:none">27SS 기획티셔츠 원가 (운송·통관세 포함)</a></div>
 <a class="back" href="../index.html">← 뒤로</a>
 <div class="top"><h1>27SS 스타일별</h1>
 <p>디즈니 27SS · MAINLIST·파일 매칭</p></div>
@@ -353,5 +353,8 @@ a[href*="생산부/"]::after,.nas-off::after{content:"NAS";margin-left:4px;paddi
   if(document.readyState==="loading")document.addEventListener("DOMContentLoaded",swap);
   if(window.MutationObserver)new MutationObserver(swap).observe(document.documentElement,{childList:true,subtree:true});
 })();
+</script>
+<script>/* NAS 전용 (2026-10-17 takedown v3): 웹(file: 아님)에서는 a.nas-only의 href만 제거하고 class nas-off 추가 - a 태그·class·inline style 유지(카드/칩 모양·글자색 그대로). file:(Z/NAS)에서는 링크 유지. */
+(function(){if(location.protocol==="file:")return;[].slice.call(document.querySelectorAll("a.nas-only")).forEach(function(a){var p=a.getAttribute("data-nas-path")||"";a.removeAttribute("href");a.classList.add("nas-off");a.setAttribute("aria-disabled","true");a.title="NAS 전용 · 사내 PC Z 드라이브에서 열기: "+p;});})();
 </script>
 </body></html>

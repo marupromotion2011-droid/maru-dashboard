@@ -77,23 +77,24 @@ html,body{font-size:medium;line-height:normal}
 .nas-note{margin:8px 22px;padding:8px 12px;border:1px dashed #cbd5e1;border-radius:8px;background:#f8fafc;font-size:14px;color:#475569}
 a[href*="생산부/"]::after,.nas-off::after{content:"NAS";margin-left:4px;padding:0 4px;border:1px solid #cbd5e1;border-radius:4px;font-size:14px;font-weight:700;color:#64748b;background:#fff;text-decoration:none;display:inline-block}
 .nas-off{cursor:not-allowed}
+.card.nas-only p{color:#475569} /* 2026-10-17 v3: NAS 전용 원가 카드 설명·Z경로 - #64748b/#eff6ff 4.37:1 -> #475569 (>=4.5:1) */
 .nas-thumb{display:flex;align-items:center;justify-content:center;width:100%;height:100%;min-height:60px;font-size:14px;font-weight:700;color:#475569;background:#f1f5f9;text-align:center}
 </style>
 <script src="/maru-dashboard/js/auth-gate.js"></script>
 </head><body>
-<p class="nas-note">「NAS 전용」 — <b>NAS</b> 표시가 붙은 생산부 문서 링크: 웹에서는 열리지 않음 · Z 드라이브(사내 NAS)에서 열기.</p>
+<p class="nas-note">「NAS 전용」 — <b>NAS</b> 표시가 붙은 링크(생산부 문서 · 27SS 원가): 웹에서는 열리지 않음 · Z 드라이브(사내 NAS)에서 열기. 27SS 원가: Z:\HDD1\MARU\dashboard\두리콜렉션\27SS\원가\index.html</p>
 <div class="top"><h1>두리콜렉션</h1>
-<p>디즈니 · 스팍스 · 워너 오더 · 스타일별 생산현황 일괄 요약 (asOf 2026-10-09)</p></div>
+<p>디즈니 · 스팍스 · 워너 오더 · 스타일별 생산현황 일괄 요약 (asOf 2026-10-17)</p></div>
 
 <p class="src">소스: <code>../../생산부/2. 디즈니/</code> · 문서 링크 depth2 · 상세 보드 <a href="디즈니/진행/index.html">디즈니/진행</a> · <a href="디즈니/진행문서/index.html">진행문서 7슬롯</a></p>
 <div class="wrap">
   <div class="kpi">
-    <div><b>75</b><span>스타일</span></div>
-    <div><b>12/9/50/4</b><span>기획/정상/원단/BT미정</span></div>
+    <div><b>76</b><span>스타일</span></div>
+    <div><b>12/9/51/4</b><span>기획/정상/원단/BT미정</span></div>
     <div><b>8%</b><span>평균진행</span></div>
     <div><b>0</b><span>완료</span></div>
     <div><b>2</b><span>일방향</span></div>
-    <div><b>28</b><span>BT파일 없음</span></div>
+    <div><b>27</b><span>BT파일 없음</span></div>
   </div>
   <div class="banner">기획 티셔츠 일부 <b>일방향 재단</b> → 원단·비용 증가.
     <a href="일방향재단/index.html">일방향재단 칸 보기</a> ·
@@ -108,7 +109,7 @@ a[href*="생산부/"]::after,.nas-off::after{content:"NAS";margin-left:4px;paddi
   </div>
 
   <div class="cards" style="grid-template-columns:1fr">
-    <a class="card prog cost" href="27SS/원가/index.html"><b>27SS 기획티셔츠 원가 · 나염비교 (기은 기준)</b><span class="en">27SS COST</span><p>스타일별 원가 · 발주·예상수익 · 기은/금산 나염 단가비교</p></a>
+    <a class="card prog cost nas-only" href="27SS/원가/index.html" data-nas-path="Z:\HDD1\MARU\dashboard\두리콜렉션\27SS\원가\index.html"><b>27SS 기획티셔츠 원가 · 나염비교 (기은 기준)</b><span class="en">27SS COST</span><p>사내 NAS 전용 · 웹에서는 열리지 않음 · Z:\HDD1\MARU\dashboard\두리콜렉션\27SS\원가\index.html 에서 열기</p></a>
   </div>
 
   <h2 style="font-size:14px;margin:8px 0 4px;color:var(--navy);font-weight:800">스타일별 생산현황 요약</h2>
@@ -120,25 +121,25 @@ a[href*="생산부/"]::after,.nas-off::after{content:"NAS";margin-left:4px;paddi
     <span class="pct">43%</span></div>
   <div class="smeta"><span class="colors">WH 1700 BK 1300 GR 1100 PU 900</span>
     · 업체 <b>코라</b> · 납기 <b>27.01.20</b>
-    · 발주 2026-08-31 · CFM 2026-08-05, 2026-09-16</div>
+    · 발주 2026-08-31 · CFM 2026-08-05, 2026-09-16 <span class="note-inline">10-15 작지 칼라사양서 S/# &#x27;DR1LTR080&#x27; 표기 오기 — 도식·칼라(WH/BK/GN/PR)는 LTS090 · 원단 패킹 KR26-3214(코라, 10-14) 소울 ORD 6,350→P.K 7,386YDS → 원단생산량 슬롯 · 기타: 10-16 원부자재 베트남 선적(MARU 20261016 인보이스·FCL·FCL DD·마루패킹 26.10.15·쉬핑마크, 해외생산/선적서류/기은 27SS 기획) — 완제품 패킹 아님</span></div>
   <div class="schips"><span class="chip on">원단발주</span><span class="chip on">부자재발주</span><span class="chip on">QC</span><span class="chip off">봉제</span><span class="chip off">완성</span><span class="chip off">납품</span><span class="chip off">물류입고</span></div>
-  <div class="sdocs"><a class="dlink" href="../../생산부/2. 디즈니/27SS/완사입/기획/DR2LTS090/DR2-LTS-090 헤리테잎변경 작지(09.11).jpg" title="DR2-LTS-090 헤리테잎변경 작지(09.11).jpg">작지</a> <span class="sep">·</span> <a class="dlink" href="../../생산부/2. 디즈니/27SS/완사입/기획/DR2LTS090/DR2LTS090 BT CFM 260805-1.jpg" title="DR2LTS090 BT CFM 260805-1.jpg">BT/CFM</a> <span class="sep">·</span> <a class="dlink" href="../../생산부/2. 디즈니/27SS/완사입/기획/DR2LTS090/DR2LTS090 TP-01 발주서 2609014.pdf" title="DR2LTS090 TP-01 발주서 2609014.pdf">원단발주</a> <span class="sep">·</span> <a class="dlink" href="../../생산부/2. 디즈니/27SS/완사입/기획/DR2LTS090/DR2LTS090 부자재 발주서.xlsx" title="DR2LTS090 부자재 발주서.xlsx">부자재발주</a> · <a class="badge jpg" href="../../생산부/2. 디즈니/27SS/완사입/기획/DR2LTS090/DR2-LTS-090 헤리테잎변경 작지(09.11).jpg" title="작지: DR2-LTS-090 헤리테잎변경 작지(09.11).jpg">JPG</a><a class="badge png" href="../../생산부/2. 디즈니/27SS/완사입/기획/DR2LTS090/DR2LTS090 작업지시서.png" title="작지: DR2LTS090 작업지시서.png">PNG</a><a class="badge jpg" href="../../생산부/2. 디즈니/27SS/완사입/기획/DR2LTS090/DR2LTS090 BT CFM 260805-1.jpg" title="BT/CFM: DR2LTS090 BT CFM 260805-1.jpg">JPG</a><a class="badge jpg" href="../../생산부/2. 디즈니/27SS/완사입/기획/DR2LTS090/DR2LTS090 BT CFM 260805-2.jpg" title="BT/CFM: DR2LTS090 BT CFM 260805-2.jpg">JPG</a><a class="badge pdf" href="../../생산부/2. 디즈니/27SS/완사입/기획/DR2LTS090/DR2LTS090 TP-01 발주서 2609014.pdf" title="원단발주: DR2LTS090 TP-01 발주서 2609014.pdf">PDF</a><a class="badge pdf" href="../../생산부/2. 디즈니/27SS/완사입/기획/DR2LTS090/DR2LTS090 원단발주서.pdf" title="원단발주: DR2LTS090 원단발주서.pdf">PDF</a><a class="badge xlsx" href="../../생산부/2. 디즈니/27SS/완사입/기획/DR2LTS090/DR2LTS090 원단발주서.xlsx" title="원단발주: DR2LTS090 원단발주서.xlsx">XLSX</a><a class="badge jpg" href="../../생산부/2. 디즈니/27SS/완사입/디즈니 발주서/DR2LTS090.jpg" title="원단발주: DR2LTS090.jpg">JPG</a><a class="badge xlsx" href="../../생산부/2. 디즈니/27SS/완사입/기획/DR2LTS090/DR2LTS090 부자재 발주서.xlsx" title="부자재발주: DR2LTS090 부자재 발주서.xlsx">XLSX</a><a class="badge xlsx" href="../../생산부/2. 디즈니/27SS/완사입/기획/DR2LTS090/두리 기획티셔츠 투명어깨테이프 발주서.xlsx" title="부자재발주: 두리 기획티셔츠 투명어깨테이프 발주서.xlsx">XLSX</a><a class="badge png" href="../../생산부/2. 디즈니/27SS/완사입/기획/DR2LTS090/KakaoTalk_20261002_094503673.png" title="부자재발주: KakaoTalk_20261002_094503673.png">PNG</a><a class="badge txt" href="../../생산부/2. 디즈니/27SS/완사입/기획/DR2LTS090/투명모빌론 어깨TAPE.txt" title="부자재발주: 투명모빌론 어깨TAPE.txt">TXT</a></div>
+  <div class="sdocs"><a class="dlink" href="../../생산부/2. 디즈니/27SS/완사입/기획/DR2LTS090/DR2-LTS-090 헤리테잎변경 작지(09.11).jpg" title="DR2-LTS-090 헤리테잎변경 작지(09.11).jpg">작지</a> <span class="sep">·</span> <a class="dlink" href="../../생산부/2. 디즈니/27SS/완사입/기획/DR2LTS090/DR2LTS090 BT CFM 260805-1.jpg" title="DR2LTS090 BT CFM 260805-1.jpg">BT/CFM</a> <span class="sep">·</span> <a class="dlink" href="../../생산부/2. 디즈니/27SS/완사입/기획/DR2LTS090/DR2LTS090 TP-01 발주서 2609014.pdf" title="DR2LTS090 TP-01 발주서 2609014.pdf">원단발주</a> <span class="sep">·</span> <a class="dlink" href="../../생산부/2. 디즈니/27SS/완사입/기획/DR2LTS090/DR2LTS090 부자재 발주서.xlsx" title="DR2LTS090 부자재 발주서.xlsx">부자재발주</a> · <a class="badge jpg" href="../../생산부/2. 디즈니/27SS/완사입/기획/DR2LTS090/DR2-LTS-090 헤리테잎변경 작지(09.11).jpg" title="작지: DR2-LTS-090 헤리테잎변경 작지(09.11).jpg">JPG</a><a class="badge png" href="../../생산부/2. 디즈니/27SS/완사입/기획/DR2LTS090/DR2LTS090 작업지시서.png" title="작지: DR2LTS090 작업지시서.png">PNG</a><a class="badge ai" href="../../생산부/2. 디즈니/27SS/작업지시서/27SS기획티셔츠 작지/DR2-LTS-S090/DR2-LTS-090  메인작업지시서.ai" title="작지: DR2-LTS-090  메인작업지시서.ai">AI</a><a class="badge jpg" href="../../생산부/2. 디즈니/27SS/완사입/기획/DR2LTS090/DR2LTS090 BT CFM 260805-1.jpg" title="BT/CFM: DR2LTS090 BT CFM 260805-1.jpg">JPG</a><a class="badge jpg" href="../../생산부/2. 디즈니/27SS/완사입/기획/DR2LTS090/DR2LTS090 BT CFM 260805-2.jpg" title="BT/CFM: DR2LTS090 BT CFM 260805-2.jpg">JPG</a><a class="badge pdf" href="../../생산부/2. 디즈니/27SS/완사입/기획/DR2LTS090/DR2LTS090 TP-01 발주서 2609014.pdf" title="원단발주: DR2LTS090 TP-01 발주서 2609014.pdf">PDF</a><a class="badge pdf" href="../../생산부/2. 디즈니/27SS/완사입/기획/DR2LTS090/DR2LTS090 원단발주서.pdf" title="원단발주: DR2LTS090 원단발주서.pdf">PDF</a><a class="badge xlsx" href="../../생산부/2. 디즈니/27SS/완사입/기획/DR2LTS090/DR2LTS090 원단발주서.xlsx" title="원단발주: DR2LTS090 원단발주서.xlsx">XLSX</a><a class="badge jpg" href="../../생산부/2. 디즈니/27SS/완사입/디즈니 발주서/DR2LTS090.jpg" title="원단발주: DR2LTS090.jpg">JPG</a><a class="badge xlsx" href="../../생산부/2. 디즈니/27SS/완사입/기획/DR2LTS090/DR2LTS090 부자재 발주서.xlsx" title="부자재발주: DR2LTS090 부자재 발주서.xlsx">XLSX</a><a class="badge xlsx" href="../../생산부/2. 디즈니/27SS/완사입/기획/DR2LTS090/두리 기획티셔츠 투명어깨테이프 발주서.xlsx" title="부자재발주: 두리 기획티셔츠 투명어깨테이프 발주서.xlsx">XLSX</a><a class="badge png" href="../../생산부/2. 디즈니/27SS/완사입/기획/DR2LTS090/어깨테이프 ANYTAPE JAB-0608s.png" title="부자재발주: 어깨테이프 ANYTAPE JAB-0608s.png">PNG</a><a class="badge txt" href="../../생산부/2. 디즈니/27SS/완사입/기획/DR2LTS090/투명모빌론 어깨TAPE.txt" title="부자재발주: 투명모빌론 어깨TAPE.txt">TXT</a><a class="badge xlsx" href="../../생산부/2. 디즈니/27SS/작업지시서/27SS기획티셔츠 작지/DR2-LTS-S090/DR2-LTS-090 부자재 지시서 2026-10-16.xlsx" title="부자재발주: DR2-LTS-090 부자재 지시서 2026-10-16.xlsx">XLSX</a></div>
 </div>
 <div class="srow">
   <div class="shead"><a class="style" href="../../생산부/2. 디즈니/27SS/완사입/기획/DR2MTS090/DR2MTS090 메인작업지시서.ai">DR2MTS090</a> <span class="brand">디즈니</span>
     <span class="pct">43%</span></div>
   <div class="smeta"><span class="colors">CH 1300 GR 900 NV 1100</span>
     · 업체 <b>코라</b> · 납기 <b>27.01.20</b>
-    · 발주 2026-08-31 · CFM 2026-08-05</div>
+    · 발주 2026-08-31 · CFM 2026-08-05 <span class="note-inline">원단 패킹 KR26-3214(코라, 10-14) 소울 ORD 6,350→P.K 7,386YDS → 원단생산량 슬롯 · 기타: 10-16 원부자재 베트남 선적(MARU 20261016 인보이스·FCL·FCL DD·마루패킹 26.10.15·쉬핑마크, 해외생산/선적서류/기은 27SS 기획) — 완제품 패킹 아님</span></div>
   <div class="schips"><span class="chip on">원단발주</span><span class="chip on">부자재발주</span><span class="chip on">QC</span><span class="chip off">봉제</span><span class="chip off">완성</span><span class="chip off">납품</span><span class="chip off">물류입고</span></div>
-  <div class="sdocs"><a class="dlink" href="../../생산부/2. 디즈니/27SS/완사입/기획/DR2MTS090/DR2MTS090 메인작업지시서.ai" title="DR2MTS090 메인작업지시서.ai">작지</a> <span class="sep">·</span> <a class="dlink" href="../../생산부/2. 디즈니/27SS/완사입/기획/DR2MTS090/DR2MTS090 TP-01 발주서  2609014.pdf" title="DR2MTS090 TP-01 발주서  2609014.pdf">원단발주</a> <span class="sep">·</span> <a class="dlink" href="../../생산부/2. 디즈니/27SS/완사입/기획/DR2MTS090/DR2MTS090 부자재 발주서.xlsx" title="DR2MTS090 부자재 발주서.xlsx">부자재발주</a> · <a class="badge ai" href="../../생산부/2. 디즈니/27SS/완사입/기획/DR2MTS090/DR2MTS090 메인작업지시서.ai" title="작지: DR2MTS090 메인작업지시서.ai">AI</a><a class="badge png" href="../../생산부/2. 디즈니/27SS/완사입/기획/DR2MTS090/DR2MTS090 작업지시서.png" title="작지: DR2MTS090 작업지시서.png">PNG</a><a class="badge pdf" href="../../생산부/2. 디즈니/27SS/완사입/기획/DR2MTS090/DR2MTS090 TP-01 발주서  2609014.pdf" title="원단발주: DR2MTS090 TP-01 발주서  2609014.pdf">PDF</a><a class="badge pdf" href="../../생산부/2. 디즈니/27SS/완사입/기획/DR2MTS090/DR2MTS090 원단발주서.pdf" title="원단발주: DR2MTS090 원단발주서.pdf">PDF</a><a class="badge xlsx" href="../../생산부/2. 디즈니/27SS/완사입/기획/DR2MTS090/DR2MTS090 원단발주서.xlsx" title="원단발주: DR2MTS090 원단발주서.xlsx">XLSX</a><a class="badge jpg" href="../../생산부/2. 디즈니/27SS/완사입/디즈니 발주서/DR2MTS090.jpg" title="원단발주: DR2MTS090.jpg">JPG</a><a class="badge xlsx" href="../../생산부/2. 디즈니/27SS/완사입/기획/DR2MTS090/DR2MTS090 부자재 발주서.xlsx" title="부자재발주: DR2MTS090 부자재 발주서.xlsx">XLSX</a><a class="badge xlsx" href="../../생산부/2. 디즈니/27SS/완사입/기획/DR2MTS090/두리 기획티셔츠 투명어깨테이프 발주서.xlsx" title="부자재발주: 두리 기획티셔츠 투명어깨테이프 발주서.xlsx">XLSX</a><a class="badge png" href="../../생산부/2. 디즈니/27SS/완사입/기획/DR2MTS090/KakaoTalk_20261002_094503673.png" title="부자재발주: KakaoTalk_20261002_094503673.png">PNG</a><a class="badge txt" href="../../생산부/2. 디즈니/27SS/완사입/기획/DR2MTS090/투명모빌론 어깨TAPE.txt" title="부자재발주: 투명모빌론 어깨TAPE.txt">TXT</a></div>
+  <div class="sdocs"><a class="dlink" href="../../생산부/2. 디즈니/27SS/완사입/기획/DR2MTS090/DR2MTS090 메인작업지시서.ai" title="DR2MTS090 메인작업지시서.ai">작지</a> <span class="sep">·</span> <a class="dlink" href="../../생산부/2. 디즈니/27SS/완사입/기획/DR2MTS090/DR2MTS090 TP-01 발주서  2609014.pdf" title="DR2MTS090 TP-01 발주서  2609014.pdf">원단발주</a> <span class="sep">·</span> <a class="dlink" href="../../생산부/2. 디즈니/27SS/완사입/기획/DR2MTS090/DR2MTS090 부자재 발주서.xlsx" title="DR2MTS090 부자재 발주서.xlsx">부자재발주</a> · <a class="badge ai" href="../../생산부/2. 디즈니/27SS/완사입/기획/DR2MTS090/DR2MTS090 메인작업지시서.ai" title="작지: DR2MTS090 메인작업지시서.ai">AI</a><a class="badge png" href="../../생산부/2. 디즈니/27SS/완사입/기획/DR2MTS090/DR2MTS090 작업지시서.png" title="작지: DR2MTS090 작업지시서.png">PNG</a><a class="badge ai" href="../../생산부/2. 디즈니/27SS/작업지시서/27SS기획티셔츠 작지/DR2-MTS-090/DR2MTS090 디즈니 작지.ai" title="작지: DR2MTS090 디즈니 작지.ai">AI</a><a class="badge pdf" href="../../생산부/2. 디즈니/27SS/완사입/기획/DR2MTS090/DR2MTS090 TP-01 발주서  2609014.pdf" title="원단발주: DR2MTS090 TP-01 발주서  2609014.pdf">PDF</a><a class="badge pdf" href="../../생산부/2. 디즈니/27SS/완사입/기획/DR2MTS090/DR2MTS090 원단발주서.pdf" title="원단발주: DR2MTS090 원단발주서.pdf">PDF</a><a class="badge xlsx" href="../../생산부/2. 디즈니/27SS/완사입/기획/DR2MTS090/DR2MTS090 원단발주서.xlsx" title="원단발주: DR2MTS090 원단발주서.xlsx">XLSX</a><a class="badge jpg" href="../../생산부/2. 디즈니/27SS/완사입/디즈니 발주서/DR2MTS090.jpg" title="원단발주: DR2MTS090.jpg">JPG</a><a class="badge xlsx" href="../../생산부/2. 디즈니/27SS/완사입/기획/DR2MTS090/DR2MTS090 부자재 발주서.xlsx" title="부자재발주: DR2MTS090 부자재 발주서.xlsx">XLSX</a><a class="badge xlsx" href="../../생산부/2. 디즈니/27SS/완사입/기획/DR2MTS090/두리 기획티셔츠 투명어깨테이프 발주서.xlsx" title="부자재발주: 두리 기획티셔츠 투명어깨테이프 발주서.xlsx">XLSX</a><a class="badge png" href="../../생산부/2. 디즈니/27SS/완사입/기획/DR2MTS090/어깨테이프 ANYTAPE JAB-0608s.png" title="부자재발주: 어깨테이프 ANYTAPE JAB-0608s.png">PNG</a><a class="badge txt" href="../../생산부/2. 디즈니/27SS/완사입/기획/DR2MTS090/투명모빌론 어깨TAPE.txt" title="부자재발주: 투명모빌론 어깨TAPE.txt">TXT</a></div>
 </div>
 <div class="srow">
   <div class="shead"><a class="style" href="../../생산부/2. 디즈니/27SS/완사입/기획/SR1MTR081/SR1MTR081 완사입 발주서.pdf">SR1MTR081</a> <span class="brand">스팍스</span>
     <span class="pct">29%</span></div>
   <div class="smeta"><span class="colors">WH 500 TB 800 BK 700</span>
     · 업체 <b>TIANHAO</b> · 납기 <b>26.12.23</b>
-    · 발주 2026-09-15 · CFM 2026-09-29</div>
+    · 발주 2026-09-15 · CFM 2026-09-29 <span class="note-inline">기타: 10-16 원부자재 베트남 선적(MARU 20261016 인보이스·FCL·FCL DD·마루패킹 26.10.15·쉬핑마크, 해외생산/선적서류/기은 27SS 기획) — 완제품 패킹 아님</span></div>
   <div class="schips"><span class="chip on">원단발주</span><span class="chip on">부자재발주</span><span class="chip off">QC</span><span class="chip off">봉제</span><span class="chip off">완성</span><span class="chip off">납품</span><span class="chip off">물류입고</span></div>
   <div class="sdocs"><a class="dlink" href="../../생산부/2. 디즈니/27SS/완사입/기획/SR1MTR081/SM1MTR081 메인작업지시서.pdf" title="SM1MTR081 메인작업지시서.pdf">작지</a> <span class="sep">·</span> <a class="dlink" href="../../생산부/2. 디즈니/27SS/완사입/기획/SR1MTR081/SR1MTR081 BK, WH BT컨펌.jpg" title="SR1MTR081 BK, WH BT컨펌.jpg">BT/CFM</a> <span class="sep">·</span> <a class="dlink" href="../../생산부/2. 디즈니/27SS/완사입/기획/SR1MTR081/SR1MTR081 완사입 발주서.pdf" title="SR1MTR081 완사입 발주서.pdf">원단발주</a> · <a class="badge pdf" href="../../생산부/2. 디즈니/27SS/완사입/기획/SR1MTR081/SM1MTR081 메인작업지시서.pdf" title="작지: SM1MTR081 메인작업지시서.pdf">PDF</a><a class="badge jpg" href="../../생산부/2. 디즈니/27SS/완사입/기획/SR1MTR081/SR1MTR081 BK, WH BT컨펌.jpg" title="BT/CFM: SR1MTR081 BK, WH BT컨펌.jpg">JPG</a><a class="badge pdf" href="../../생산부/2. 디즈니/27SS/완사입/기획/SR1MTR081/SR1MTR081 완사입 발주서.pdf" title="원단발주: SR1MTR081 완사입 발주서.pdf">PDF</a><a class="badge pdf" href="../../생산부/2. 디즈니/27SS/완사입/기획/SR1MTR081/SR1MTR081 원단 발주서.pdf" title="원단발주: SR1MTR081 원단 발주서.pdf">PDF</a><a class="badge pdf" href="../../생산부/2. 디즈니/27SS/완사입/기획/SR1MTR081/SR1MTS081 TP-01 발주서 2609014.pdf" title="원단발주: SR1MTS081 TP-01 발주서 2609014.pdf">PDF</a><a class="badge png" href="../../생산부/2. 디즈니/27SS/완사입/기획/SR1MTR081/SR1MTS081 고주파와펜 발주서 260914.png" title="원단발주: SR1MTS081 고주파와펜 발주서 260914.png">PNG</a></div>
 </div>
@@ -165,7 +166,7 @@ a[href*="생산부/"]::after,.nas-off::after{content:"NAS";margin-left:4px;paddi
     <span class="pct">14%</span></div>
   <div class="smeta"><span class="colors">BK 1500 GR 800 BE 800</span>
     · 업체 <b>-</b> · 납기 <b>26.12.23</b>
-    · 발주 - · CFM 2026-08-05, 2026-08-06, 2026-09-19</div>
+    · 발주 - · CFM 2026-08-05, 2026-08-06, 2026-09-19 <span class="note-inline">기타: LPA080자수도안(마루기획바지).ai 10-12 — 자수도안(단계 애매, 슬롯 미반영)</span></div>
   <div class="schips"><span class="chip on">원단발주</span><span class="chip off">부자재발주</span><span class="chip off">QC</span><span class="chip off">봉제</span><span class="chip off">완성</span><span class="chip off">납품</span><span class="chip off">물류입고</span></div>
   <div class="sdocs"><a class="dlink" href="../../생산부/2. 디즈니/27SS/완사입/기획/DR1-LPA-080/DR1-LPA-080 BT컨펌.jpg" title="DR1-LPA-080 BT컨펌.jpg">BT/CFM</a> <span class="sep">·</span> <a class="dlink" href="../../생산부/2. 디즈니/27SS/완사입/디즈니 발주서/DR1LPA080.jpg" title="DR1LPA080.jpg">원단발주</a> · <a class="badge jpg" href="../../생산부/2. 디즈니/27SS/완사입/기획/DR1-LPA-080/DR1-LPA-080 BT컨펌.jpg" title="BT/CFM: DR1-LPA-080 BT컨펌.jpg">JPG</a><a class="badge xls" href="../../생산부/2. 디즈니/27SS/완사입/기획/DR1-LPA-080/DR1-LPA-080(CS260703-2C)BT.xls" title="BT/CFM: DR1-LPA-080(CS260703-2C)BT.xls">XLS</a><a class="badge jpg" href="../../생산부/2. 디즈니/27SS/완사입/디즈니 발주서/DR1LPA080.jpg" title="원단발주: DR1LPA080.jpg">JPG</a></div>
 </div>
@@ -174,9 +175,9 @@ a[href*="생산부/"]::after,.nas-off::after{content:"NAS";margin-left:4px;paddi
     <span class="pct">29%</span></div>
   <div class="smeta"><span class="colors">WH 1800 BK 1400 GR 800</span>
     · 업체 <b>TIANHAO</b> · 납기 <b>26.12.23</b>
-    · 발주 8/31 수정발주 9/15 · CFM 2026-09-17</div>
+    · 발주 8/31 수정발주 9/15 · CFM 2026-09-17 <span class="note-inline">기타: 10-16 원부자재 베트남 선적(MARU 20261016 인보이스·FCL·FCL DD·마루패킹 26.10.15·쉬핑마크, 해외생산/선적서류/기은 27SS 기획) — 완제품 패킹 아님</span></div>
   <div class="schips"><span class="chip on">원단발주</span><span class="chip on">부자재발주</span><span class="chip off">QC</span><span class="chip off">봉제</span><span class="chip off">완성</span><span class="chip off">납품</span><span class="chip off">물류입고</span></div>
-  <div class="sdocs"><a class="dlink" href="../../생산부/2. 디즈니/27SS/완사입/기획/DR1LTR080/DR2LTR080 작업지시서 원단수정 0813.jpg" title="DR2LTR080 작업지시서 원단수정 0813.jpg">작지</a> <span class="sep">·</span> <a class="dlink" href="../../생산부/2. 디즈니/27SS/완사입/기획/DR1LTR080/DR1LTR080 BT CFM 260917.jpg" title="DR1LTR080 BT CFM 260917.jpg">BT/CFM</a> <span class="sep">·</span> <a class="dlink" href="../../생산부/2. 디즈니/27SS/완사입/기획/DR1LTR080/DR2LTR080 원단 발주서.pdf" title="DR2LTR080 원단 발주서.pdf">원단발주</a> <span class="sep">·</span> <a class="dlink" href="../../생산부/2. 디즈니/27SS/완사입/기획/DR1LTR080/두리 기획티셔츠 투명어깨테이프 발주서.xlsx" title="두리 기획티셔츠 투명어깨테이프 발주서.xlsx">부자재발주</a> · <a class="badge jpg" href="../../생산부/2. 디즈니/27SS/완사입/기획/DR1LTR080/DR2LTR080 작업지시서 원단수정 0813.jpg" title="작지: DR2LTR080 작업지시서 원단수정 0813.jpg">JPG</a><a class="badge png" href="../../생산부/2. 디즈니/27SS/완사입/기획/DR1LTR080/DR2LTR080 작업지시서.png" title="작지: DR2LTR080 작업지시서.png">PNG</a><a class="badge jpg" href="../../생산부/2. 디즈니/27SS/완사입/기획/DR1LTR080/DR1LTR080 BT CFM 260917.jpg" title="BT/CFM: DR1LTR080 BT CFM 260917.jpg">JPG</a><a class="badge pdf" href="../../생산부/2. 디즈니/27SS/완사입/기획/DR1LTR080/DR2LTR080 원단 발주서.pdf" title="원단발주: DR2LTR080 원단 발주서.pdf">PDF</a><a class="badge xlsx" href="../../생산부/2. 디즈니/27SS/완사입/기획/DR1LTR080/DR2LTR080 원단발주서.xlsx" title="원단발주: DR2LTR080 원단발주서.xlsx">XLSX</a><a class="badge xlsx" href="../../생산부/2. 디즈니/27SS/완사입/기획/DR1LTR080/기획티셔츠 일방향 재단으로 인한 원단 추가발주의 건 260915.xlsx" title="원단발주: 기획티셔츠 일방향 재단으로 인한 원단 추가발주의 건 260915.xlsx">XLSX</a><a class="badge jpg" href="../../생산부/2. 디즈니/27SS/완사입/디즈니 발주서/DR1LTR080.jpg" title="원단발주: DR1LTR080.jpg">JPG</a><a class="badge xlsx" href="../../생산부/2. 디즈니/27SS/완사입/기획/DR1LTR080/두리 기획티셔츠 투명어깨테이프 발주서.xlsx" title="부자재발주: 두리 기획티셔츠 투명어깨테이프 발주서.xlsx">XLSX</a><a class="badge png" href="../../생산부/2. 디즈니/27SS/완사입/기획/DR1LTR080/KakaoTalk_20261002_094503673.png" title="부자재발주: KakaoTalk_20261002_094503673.png">PNG</a><a class="badge txt" href="../../생산부/2. 디즈니/27SS/완사입/기획/DR1LTR080/투명모빌론 어깨TAPE.txt" title="부자재발주: 투명모빌론 어깨TAPE.txt">TXT</a></div>
+  <div class="sdocs"><a class="dlink" href="../../생산부/2. 디즈니/27SS/완사입/기획/DR1LTR080/DR2LTR080 작업지시서 원단수정 0813.jpg" title="DR2LTR080 작업지시서 원단수정 0813.jpg">작지</a> <span class="sep">·</span> <a class="dlink" href="../../생산부/2. 디즈니/27SS/완사입/기획/DR1LTR080/DR1LTR080 BT CFM 260917.jpg" title="DR1LTR080 BT CFM 260917.jpg">BT/CFM</a> <span class="sep">·</span> <a class="dlink" href="../../생산부/2. 디즈니/27SS/완사입/기획/DR1LTR080/DR2LTR080 원단 발주서.pdf" title="DR2LTR080 원단 발주서.pdf">원단발주</a> <span class="sep">·</span> <a class="dlink" href="../../생산부/2. 디즈니/27SS/완사입/기획/DR1LTR080/두리 기획티셔츠 투명어깨테이프 발주서.xlsx" title="두리 기획티셔츠 투명어깨테이프 발주서.xlsx">부자재발주</a> · <a class="badge jpg" href="../../생산부/2. 디즈니/27SS/완사입/기획/DR1LTR080/DR2LTR080 작업지시서 원단수정 0813.jpg" title="작지: DR2LTR080 작업지시서 원단수정 0813.jpg">JPG</a><a class="badge png" href="../../생산부/2. 디즈니/27SS/완사입/기획/DR1LTR080/DR2LTR080 작업지시서.png" title="작지: DR2LTR080 작업지시서.png">PNG</a><a class="badge jpg" href="../../생산부/2. 디즈니/27SS/완사입/기획/DR1LTR080/DR1LTR080 BT CFM 260917.jpg" title="BT/CFM: DR1LTR080 BT CFM 260917.jpg">JPG</a><a class="badge pdf" href="../../생산부/2. 디즈니/27SS/완사입/기획/DR1LTR080/DR2LTR080 원단 발주서.pdf" title="원단발주: DR2LTR080 원단 발주서.pdf">PDF</a><a class="badge xlsx" href="../../생산부/2. 디즈니/27SS/완사입/기획/DR1LTR080/DR2LTR080 원단발주서.xlsx" title="원단발주: DR2LTR080 원단발주서.xlsx">XLSX</a><a class="badge xlsx" href="../../생산부/2. 디즈니/27SS/완사입/기획/DR1LTR080/기획티셔츠 일방향 재단으로 인한 원단 추가발주의 건 260915.xlsx" title="원단발주: 기획티셔츠 일방향 재단으로 인한 원단 추가발주의 건 260915.xlsx">XLSX</a><a class="badge jpg" href="../../생산부/2. 디즈니/27SS/완사입/디즈니 발주서/DR1LTR080.jpg" title="원단발주: DR1LTR080.jpg">JPG</a><a class="badge xlsx" href="../../생산부/2. 디즈니/27SS/완사입/기획/DR1LTR080/두리 기획티셔츠 투명어깨테이프 발주서.xlsx" title="부자재발주: 두리 기획티셔츠 투명어깨테이프 발주서.xlsx">XLSX</a><a class="badge png" href="../../생산부/2. 디즈니/27SS/완사입/기획/DR1LTR080/어깨테이프 ANYTAPE JAB-0608s.png" title="부자재발주: 어깨테이프 ANYTAPE JAB-0608s.png">PNG</a><a class="badge txt" href="../../생산부/2. 디즈니/27SS/완사입/기획/DR1LTR080/투명모빌론 어깨TAPE.txt" title="부자재발주: 투명모빌론 어깨TAPE.txt">TXT</a></div>
 </div>
 <div class="srow">
   <div class="shead"><a class="style" href="../../생산부/2. 디즈니/27SS/원단/27SS/MYC-730(DR1-MPA-001, DR1-LPA-001)/MYC-730(DR1-LPA-002, DR1-MPA-001) BT컨펌1.jpg">DR1MPA001</a> <span class="brand">디즈니</span>
@@ -201,9 +202,9 @@ a[href*="생산부/"]::after,.nas-off::after{content:"NAS";margin-left:4px;paddi
     <span class="pct">29%</span></div>
   <div class="smeta"><span class="colors">WH 3500 BK 2300 SB 1700 VR 1500 RD 1500 LV 1500</span>
     · 업체 <b>TIANHAO</b> · 납기 <b>27.01.20</b>
-    · 발주 8/31 수정발주 9/15 · CFM 2026-09-17</div>
+    · 발주 8/31 수정발주 9/15 · CFM 2026-09-17 <span class="note-inline">기타: 10-16 원부자재 베트남 선적(MARU 20261016 인보이스·FCL·FCL DD·마루패킹 26.10.15·쉬핑마크, 해외생산/선적서류/기은 27SS 기획) — 완제품 패킹 아님</span></div>
   <div class="schips"><span class="chip on">원단발주</span><span class="chip on">부자재발주</span><span class="chip off">QC</span><span class="chip off">봉제</span><span class="chip off">완성</span><span class="chip off">납품</span><span class="chip off">물류입고</span></div>
-  <div class="sdocs"><a class="dlink" href="../../생산부/2. 디즈니/27SS/완사입/기획/DR2LTR091/DR2LTR091 작업지시서 원단수정 0813.jpg" title="DR2LTR091 작업지시서 원단수정 0813.jpg">작지</a> <span class="sep">·</span> <a class="dlink" href="../../생산부/2. 디즈니/27SS/완사입/기획/DR2LTR091/DR2LTR091 BT CFM-1 260917.jpg" title="DR2LTR091 BT CFM-1 260917.jpg">BT/CFM</a> <span class="sep">·</span> <a class="dlink" href="../../생산부/2. 디즈니/27SS/완사입/기획/DR2LTR091/DR2LTR091 원단발주서.xlsx" title="DR2LTR091 원단발주서.xlsx">원단발주</a> <span class="sep">·</span> <a class="dlink" href="../../생산부/2. 디즈니/27SS/완사입/기획/DR2LTR091/두리 기획티셔츠 투명어깨테이프 발주서.xlsx" title="두리 기획티셔츠 투명어깨테이프 발주서.xlsx">부자재발주</a> · <a class="badge jpg" href="../../생산부/2. 디즈니/27SS/완사입/기획/DR2LTR091/DR2LTR091 작업지시서 원단수정 0813.jpg" title="작지: DR2LTR091 작업지시서 원단수정 0813.jpg">JPG</a><a class="badge png" href="../../생산부/2. 디즈니/27SS/완사입/기획/DR2LTR091/DR2LTR091 작업지시서.png" title="작지: DR2LTR091 작업지시서.png">PNG</a><a class="badge jpg" href="../../생산부/2. 디즈니/27SS/완사입/기획/DR2LTR091/DR2LTR091 BT CFM-1 260917.jpg" title="BT/CFM: DR2LTR091 BT CFM-1 260917.jpg">JPG</a><a class="badge jpg" href="../../생산부/2. 디즈니/27SS/완사입/기획/DR2LTR091/DR2LTR091 BT CFM-2 260917.jpg" title="BT/CFM: DR2LTR091 BT CFM-2 260917.jpg">JPG</a><a class="badge xlsx" href="../../생산부/2. 디즈니/27SS/완사입/기획/DR2LTR091/DR2LTR091 원단발주서.xlsx" title="원단발주: DR2LTR091 원단발주서.xlsx">XLSX</a><a class="badge xlsx" href="../../생산부/2. 디즈니/27SS/완사입/기획/DR2LTR091/기획티셔츠 일방향 재단으로 인한 원단 추가발주의 건 260915.xlsx" title="원단발주: 기획티셔츠 일방향 재단으로 인한 원단 추가발주의 건 260915.xlsx">XLSX</a><a class="badge jpg" href="../../생산부/2. 디즈니/27SS/완사입/디즈니 발주서/DR2LTR090.jpg" title="원단발주: DR2LTR090.jpg (개별발주서·품번오기→091)">JPG</a><a class="badge xlsx" href="../../생산부/2. 디즈니/27SS/완사입/기획/DR2LTR091/두리 기획티셔츠 투명어깨테이프 발주서.xlsx" title="부자재발주: 두리 기획티셔츠 투명어깨테이프 발주서.xlsx">XLSX</a><a class="badge png" href="../../생산부/2. 디즈니/27SS/완사입/기획/DR2LTR091/KakaoTalk_20261002_094503673.png" title="부자재발주: KakaoTalk_20261002_094503673.png">PNG</a><a class="badge txt" href="../../생산부/2. 디즈니/27SS/완사입/기획/DR2LTR091/투명모빌론 어깨TAPE.txt" title="부자재발주: 투명모빌론 어깨TAPE.txt">TXT</a></div>
+  <div class="sdocs"><a class="dlink" href="../../생산부/2. 디즈니/27SS/완사입/기획/DR2LTR091/DR2LTR091 작업지시서 원단수정 0813.jpg" title="DR2LTR091 작업지시서 원단수정 0813.jpg">작지</a> <span class="sep">·</span> <a class="dlink" href="../../생산부/2. 디즈니/27SS/완사입/기획/DR2LTR091/DR2LTR091 BT CFM-1 260917.jpg" title="DR2LTR091 BT CFM-1 260917.jpg">BT/CFM</a> <span class="sep">·</span> <a class="dlink" href="../../생산부/2. 디즈니/27SS/완사입/기획/DR2LTR091/DR2LTR091 원단발주서.xlsx" title="DR2LTR091 원단발주서.xlsx">원단발주</a> <span class="sep">·</span> <a class="dlink" href="../../생산부/2. 디즈니/27SS/완사입/기획/DR2LTR091/두리 기획티셔츠 투명어깨테이프 발주서.xlsx" title="두리 기획티셔츠 투명어깨테이프 발주서.xlsx">부자재발주</a> · <a class="badge jpg" href="../../생산부/2. 디즈니/27SS/완사입/기획/DR2LTR091/DR2LTR091 작업지시서 원단수정 0813.jpg" title="작지: DR2LTR091 작업지시서 원단수정 0813.jpg">JPG</a><a class="badge png" href="../../생산부/2. 디즈니/27SS/완사입/기획/DR2LTR091/DR2LTR091 작업지시서.png" title="작지: DR2LTR091 작업지시서.png">PNG</a><a class="badge jpg" href="../../생산부/2. 디즈니/27SS/완사입/기획/DR2LTR091/DR2LTR091 BT CFM-1 260917.jpg" title="BT/CFM: DR2LTR091 BT CFM-1 260917.jpg">JPG</a><a class="badge jpg" href="../../생산부/2. 디즈니/27SS/완사입/기획/DR2LTR091/DR2LTR091 BT CFM-2 260917.jpg" title="BT/CFM: DR2LTR091 BT CFM-2 260917.jpg">JPG</a><a class="badge xlsx" href="../../생산부/2. 디즈니/27SS/완사입/기획/DR2LTR091/DR2LTR091 원단발주서.xlsx" title="원단발주: DR2LTR091 원단발주서.xlsx">XLSX</a><a class="badge xlsx" href="../../생산부/2. 디즈니/27SS/완사입/기획/DR2LTR091/기획티셔츠 일방향 재단으로 인한 원단 추가발주의 건 260915.xlsx" title="원단발주: 기획티셔츠 일방향 재단으로 인한 원단 추가발주의 건 260915.xlsx">XLSX</a><a class="badge jpg" href="../../생산부/2. 디즈니/27SS/완사입/디즈니 발주서/DR2LTR090.jpg" title="원단발주: DR2LTR090.jpg (개별발주서·품번오기→091)">JPG</a><a class="badge xlsx" href="../../생산부/2. 디즈니/27SS/완사입/기획/DR2LTR091/두리 기획티셔츠 투명어깨테이프 발주서.xlsx" title="부자재발주: 두리 기획티셔츠 투명어깨테이프 발주서.xlsx">XLSX</a><a class="badge png" href="../../생산부/2. 디즈니/27SS/완사입/기획/DR2LTR091/어깨테이프 ANYTAPE JAB-0608s.png" title="부자재발주: 어깨테이프 ANYTAPE JAB-0608s.png">PNG</a><a class="badge txt" href="../../생산부/2. 디즈니/27SS/완사입/기획/DR2LTR091/투명모빌론 어깨TAPE.txt" title="부자재발주: 투명모빌론 어깨TAPE.txt">TXT</a></div>
 </div>
 <div class="srow">
   <div class="shead"><a class="style" href="../../생산부/2. 디즈니/27SS/완사입/기획/SR1MTR081/SR1MTS081 TP-01 발주서 2609014.pdf">SR1MTS081</a> <span class="brand">스팍스</span>
@@ -253,20 +254,20 @@ a[href*="생산부/"]::after,.nas-off::after{content:"NAS";margin-left:4px;paddi
   <div class="sdocs"></div>
 </div>
 <div class="srow">
-  <div class="shead"><a class="style" href="../../생산부/2. 디즈니/27SS/완사입/정상/DR1-LJP-003(MYN-2070)/DR1-LJP-003(MYN-2070)BT.xls">DR1-LJP-003</a> <span class="brand">디즈니</span>
+  <div class="shead"><a class="style" href="../../생산부/2. 디즈니/27SS/완사입/정상/DR1-LJP-003(MYN-2070)/DR1-LJP-003(NJD-L0612A)BT.xls">DR1-LJP-003</a> <span class="brand">디즈니</span>
     <span class="pct">0%</span></div>
   <div class="smeta"><span class="colors">—</span>
     · 업체 <b>-</b> · 납기 <b>-</b>
-    · 발주 - · CFM 2026-09-12</div>
+    · 발주 - · CFM 2026-09-12, 2026-10-12</div>
   <div class="schips"><span class="chip off">원단발주</span><span class="chip off">부자재발주</span><span class="chip off">QC</span><span class="chip off">봉제</span><span class="chip off">완성</span><span class="chip off">납품</span><span class="chip off">물류입고</span></div>
-  <div class="sdocs"><a class="dlink" href="../../생산부/2. 디즈니/27SS/완사입/정상/DR1-LJP-003(MYN-2070)/DR1-LJP-003(MYN-2070)BT.xls" title="DR1-LJP-003(MYN-2070)BT.xls">BT/CFM</a> · <a class="badge xls" href="../../생산부/2. 디즈니/27SS/완사입/정상/DR1-LJP-003(MYN-2070)/DR1-LJP-003(MYN-2070)BT.xls" title="BT/CFM: DR1-LJP-003(MYN-2070)BT.xls">XLS</a></div>
+  <div class="sdocs"><a class="dlink" href="../../생산부/2. 디즈니/27SS/완사입/정상/DR1-LJP-003(MYN-2070)/DR1-LJP-003(NJD-L0612A)BT.xls" title="DR1-LJP-003(NJD-L0612A)BT.xls">BT/CFM</a> · <a class="badge xls" href="../../생산부/2. 디즈니/27SS/완사입/정상/DR1-LJP-003(MYN-2070)/DR1-LJP-003(NJD-L0612A)BT.xls" title="BT/CFM: DR1-LJP-003(NJD-L0612A)BT.xls">XLS</a></div>
 </div>
 <div class="srow">
   <div class="shead"><a class="style" href="../../생산부/2. 디즈니/27SS/완사입/정상/DR1-LJP-004(NCS-C1349)/DR1-LJP-004, LJV-010, LCR-010(NCS-C1349)BT.xls">DR1-LJP-004</a> <span class="brand">디즈니</span>
     <span class="pct">0%</span></div>
   <div class="smeta"><span class="colors">—</span>
     · 업체 <b>-</b> · 납기 <b>-</b>
-    · 발주 - · CFM 2026-08-18</div>
+    · 발주 - · CFM 2026-08-18, 2026-10-12</div>
   <div class="schips"><span class="chip off">원단발주</span><span class="chip off">부자재발주</span><span class="chip off">QC</span><span class="chip off">봉제</span><span class="chip off">완성</span><span class="chip off">납품</span><span class="chip off">물류입고</span></div>
   <div class="sdocs"><a class="dlink" href="../../생산부/2. 디즈니/27SS/완사입/정상/DR1-LJP-004(NCS-C1349)/DR1-LJP-004, LJV-010, LCR-010(NCS-C1349)BT.xls" title="DR1-LJP-004, LJV-010, LCR-010(NCS-C1349)BT.xls">BT/CFM</a> · <a class="badge xls" href="../../생산부/2. 디즈니/27SS/완사입/정상/DR1-LJP-004(NCS-C1349)/DR1-LJP-004, LJV-010, LCR-010(NCS-C1349)BT.xls" title="BT/CFM: DR1-LJP-004, LJV-010, LCR-010(NCS-C1349)BT.xls">XLS</a></div>
 </div>
@@ -302,12 +303,12 @@ a[href*="생산부/"]::after,.nas-off::after{content:"NAS";margin-left:4px;paddi
     <span class="pct">0%</span></div>
   <div class="smeta"><span class="colors">—</span>
     · 업체 <b>-</b> · 납기 <b>-</b>
-    · 발주 - · CFM 2026-09-17</div>
+    · 발주 - · CFM 2026-09-17, 2026-10-16</div>
   <div class="schips"><span class="chip off">원단발주</span><span class="chip off">부자재발주</span><span class="chip off">QC</span><span class="chip off">봉제</span><span class="chip off">완성</span><span class="chip off">납품</span><span class="chip off">물류입고</span></div>
   <div class="sdocs"><a class="dlink" href="../../생산부/2. 디즈니/27SS/완사입/정상/SR2-MSH-052/SR2-MSH-052(MR-001)BT.xls" title="SR2-MSH-052(MR-001)BT.xls">BT/CFM</a> · <a class="badge xls" href="../../생산부/2. 디즈니/27SS/완사입/정상/SR2-MSH-052/SR2-MSH-052(MR-001)BT.xls" title="BT/CFM: SR2-MSH-052(MR-001)BT.xls">XLS</a></div>
 </div></div>
 </section><section class="sec">
-  <div class="sec-h"><h2>원단</h2><span class="cnt">50개</span></div>
+  <div class="sec-h"><h2>원단</h2><span class="cnt">51개</span></div>
   <div class="slist"><div class="srow">
   <div class="shead"><a class="style" href="../../생산부/2. 디즈니/27SS/원단/26FW/DQ3-LJB-005(BD-8008)발주서(26.04.01단가수정).pdf">DQ3-LJB-005</a> <span class="brand">디즈니</span>
     <span class="pct">14%</span></div>
@@ -340,9 +341,9 @@ a[href*="생산부/"]::after,.nas-off::after{content:"NAS";margin-left:4px;paddi
     <span class="pct">14%</span></div>
   <div class="smeta"><span class="colors">—</span>
     · 업체 <b>-</b> · 납기 <b>-</b>
-    · 발주 - · CFM -</div>
+    · 발주 - · CFM - <span class="note-inline">본사 개별발주서 ART L1-2067(P) DTP(BK700·LAV500=1,200PCS·납기 26-11-30) — HS-8P발주서 DTP바닥지 시트와 ART 표기 상이, 확인</span></div>
   <div class="schips"><span class="chip on">원단발주</span><span class="chip off">부자재발주</span><span class="chip off">QC</span><span class="chip off">봉제</span><span class="chip off">완성</span><span class="chip off">납품</span><span class="chip off">물류입고</span></div>
-  <div class="sdocs"><a class="dlink" href="../../생산부/2. 디즈니/27SS/원단/27SS/HS-8P/HS-8P발주서.xlsx" title="HS-8P발주서.xlsx">원단발주</a> · <a class="badge xlsx" href="../../생산부/2. 디즈니/27SS/원단/27SS/HS-8P/HS-8P발주서.xlsx" title="원단발주: HS-8P발주서.xlsx">XLSX</a></div>
+  <div class="sdocs"><a class="dlink" href="../../생산부/2. 디즈니/27SS/원단/27SS/HS-8P/HS-8P발주서.xlsx" title="HS-8P발주서.xlsx">원단발주</a> · <a class="badge xlsx" href="../../생산부/2. 디즈니/27SS/원단/27SS/HS-8P/HS-8P발주서.xlsx" title="원단발주: HS-8P발주서.xlsx">XLSX</a><a class="badge jpg" href="../../생산부/2. 디즈니/27SS/원단/27SS/디즈니 본사 발주서/DR1LTJ014 L1-2067 +DTP.jpg" title="원단발주: DR1LTJ014 L1-2067 +DTP.jpg">JPG</a></div>
 </div>
 <div class="srow">
   <div class="shead"><a class="style" href="../../생산부/2. 디즈니/27SS/원단/27SS/KT-7175+DTP(DR1-LTJ-015)/KT-7175(DR1-LTJ-015)BT.xls">DR1-LTJ-015</a> <span class="brand">디즈니</span>
@@ -351,7 +352,7 @@ a[href*="생산부/"]::after,.nas-off::after{content:"NAS";margin-left:4px;paddi
     · 업체 <b>-</b> · 납기 <b>-</b>
     · 발주 - · CFM 2026-09-15</div>
   <div class="schips"><span class="chip on">원단발주</span><span class="chip off">부자재발주</span><span class="chip off">QC</span><span class="chip off">봉제</span><span class="chip off">완성</span><span class="chip off">납품</span><span class="chip off">물류입고</span></div>
-  <div class="sdocs"><a class="dlink" href="../../생산부/2. 디즈니/27SS/원단/27SS/KT-7175+DTP(DR1-LTJ-015)/KT-7175(DR1-LTJ-015)BT.xls" title="KT-7175(DR1-LTJ-015)BT.xls">BT/CFM</a> <span class="sep">·</span> <a class="dlink" href="../../생산부/2. 디즈니/27SS/원단/27SS/KT-7175+DTP(DR1-LTJ-015)/KT-7175(DR1-LTJ-015) 발주서.xlsx" title="KT-7175(DR1-LTJ-015) 발주서.xlsx">원단발주</a> · <a class="badge xls" href="../../생산부/2. 디즈니/27SS/원단/27SS/KT-7175+DTP(DR1-LTJ-015)/KT-7175(DR1-LTJ-015)BT.xls" title="BT/CFM: KT-7175(DR1-LTJ-015)BT.xls">XLS</a><a class="badge xlsx" href="../../생산부/2. 디즈니/27SS/원단/27SS/KT-7175+DTP(DR1-LTJ-015)/KT-7175(DR1-LTJ-015) 발주서.xlsx" title="원단발주: KT-7175(DR1-LTJ-015) 발주서.xlsx">XLSX</a></div>
+  <div class="sdocs"><a class="dlink" href="../../생산부/2. 디즈니/27SS/원단/27SS/KT-7175+DTP(DR1-LTJ-015)/KT-7175(DR1-LTJ-015)BT.xls" title="KT-7175(DR1-LTJ-015)BT.xls">BT/CFM</a> <span class="sep">·</span> <a class="dlink" href="../../생산부/2. 디즈니/27SS/원단/27SS/KT-7175+DTP(DR1-LTJ-015)/KT-7175(DR1-LTJ-015) 발주서.xlsx" title="KT-7175(DR1-LTJ-015) 발주서.xlsx">원단발주</a> · <a class="badge xls" href="../../생산부/2. 디즈니/27SS/원단/27SS/KT-7175+DTP(DR1-LTJ-015)/KT-7175(DR1-LTJ-015)BT.xls" title="BT/CFM: KT-7175(DR1-LTJ-015)BT.xls">XLS</a><a class="badge xlsx" href="../../생산부/2. 디즈니/27SS/원단/27SS/KT-7175+DTP(DR1-LTJ-015)/KT-7175(DR1-LTJ-015) 발주서.xlsx" title="원단발주: KT-7175(DR1-LTJ-015) 발주서.xlsx">XLSX</a><a class="badge jpg" href="../../생산부/2. 디즈니/27SS/원단/27SS/디즈니 본사 발주서/DR1LTJ015  KT-7175.jpg" title="원단발주: DR1LTJ015  KT-7175.jpg">JPG</a></div>
 </div>
 <div class="srow">
   <div class="shead"><a class="style" href="../../생산부/2. 디즈니/27SS/원단/27SS/HS-8P/HS-8P발주서.xlsx">DR1-LTS-004</a> <span class="brand">디즈니</span>
@@ -367,9 +368,9 @@ a[href*="생산부/"]::after,.nas-off::after{content:"NAS";margin-left:4px;paddi
     <span class="pct">14%</span></div>
   <div class="smeta"><span class="colors">—</span>
     · 업체 <b>-</b> · 납기 <b>-</b>
-    · 발주 - · CFM -</div>
+    · 발주 - · CFM 2026-10-16</div>
   <div class="schips"><span class="chip on">원단발주</span><span class="chip off">부자재발주</span><span class="chip off">QC</span><span class="chip off">봉제</span><span class="chip off">완성</span><span class="chip off">납품</span><span class="chip off">물류입고</span></div>
-  <div class="sdocs"><a class="dlink" href="../../생산부/2. 디즈니/27SS/원단/27SS/HS-8P/HS-8P발주서.xlsx" title="HS-8P발주서.xlsx">원단발주</a> · <a class="badge xlsx" href="../../생산부/2. 디즈니/27SS/원단/27SS/HS-8P/HS-8P발주서.xlsx" title="원단발주: HS-8P발주서.xlsx">XLSX</a></div>
+  <div class="sdocs"><a class="dlink" href="../../생산부/2. 디즈니/27SS/원단/27SS/HS-8P/HS-8P 그린 추가BT.xls" title="HS-8P 그린 추가BT.xls">BT/CFM</a> <span class="sep">·</span> <a class="dlink" href="../../생산부/2. 디즈니/27SS/원단/27SS/HS-8P/HS-8P발주서.xlsx" title="HS-8P발주서.xlsx">원단발주</a> · <a class="badge xls" href="../../생산부/2. 디즈니/27SS/원단/27SS/HS-8P/HS-8P 그린 추가BT.xls" title="BT/CFM: HS-8P 그린 추가BT.xls">XLS</a><a class="badge xlsx" href="../../생산부/2. 디즈니/27SS/원단/27SS/HS-8P/HS-8P발주서.xlsx" title="원단발주: HS-8P발주서.xlsx">XLSX</a><a class="badge jpg" href="../../생산부/2. 디즈니/27SS/원단/27SS/디즈니 본사 발주서/DR1LTS005 HS-8P.jpg" title="원단발주: DR1LTS005 HS-8P.jpg">JPG</a></div>
 </div>
 <div class="srow">
   <div class="shead"><a class="style" href="../../생산부/2. 디즈니/27SS/원단/27SS/HS-8P/HS-8P발주서.xlsx">DR1-LTS-007</a> <span class="brand">디즈니</span>
@@ -397,6 +398,15 @@ a[href*="생산부/"]::after,.nas-off::after{content:"NAS";margin-left:4px;paddi
     · 발주 - · CFM -</div>
   <div class="schips"><span class="chip on">원단발주</span><span class="chip off">부자재발주</span><span class="chip off">QC</span><span class="chip off">봉제</span><span class="chip off">완성</span><span class="chip off">납품</span><span class="chip off">물류입고</span></div>
   <div class="sdocs"><a class="dlink" href="../../생산부/2. 디즈니/27SS/원단/27SS/HS-8P/HS-8P발주서.xlsx" title="HS-8P발주서.xlsx">원단발주</a> · <a class="badge xlsx" href="../../생산부/2. 디즈니/27SS/원단/27SS/HS-8P/HS-8P발주서.xlsx" title="원단발주: HS-8P발주서.xlsx">XLSX</a></div>
+</div>
+<div class="srow">
+  <div class="shead"><a class="style" href="../../생산부/2. 디즈니/27SS/원단/27SS/MYP-2899(DR1-MJP-004)/MYP-2899(DR1-MJP-004)BT.xls">DR1-MJP-004</a> <span class="brand">디즈니</span>
+    <span class="pct">0%</span></div>
+  <div class="smeta"><span class="colors">—</span>
+    · 업체 <b>-</b> · 납기 <b>-</b>
+    · 발주 - · CFM 2026-10-12</div>
+  <div class="schips"><span class="chip off">원단발주</span><span class="chip off">부자재발주</span><span class="chip off">QC</span><span class="chip off">봉제</span><span class="chip off">완성</span><span class="chip off">납품</span><span class="chip off">물류입고</span></div>
+  <div class="sdocs"><a class="dlink" href="../../생산부/2. 디즈니/27SS/원단/27SS/MYP-2899(DR1-MJP-004)/MYP-2899(DR1-MJP-004)BT.xls" title="MYP-2899(DR1-MJP-004)BT.xls">BT/CFM</a> · <a class="badge xls" href="../../생산부/2. 디즈니/27SS/원단/27SS/MYP-2899(DR1-MJP-004)/MYP-2899(DR1-MJP-004)BT.xls" title="BT/CFM: MYP-2899(DR1-MJP-004)BT.xls">XLS</a></div>
 </div>
 <div class="srow">
   <div class="shead"><a class="style" href="../../생산부/2. 디즈니/27SS/원단/27SS/HS-8P/HS-8P발주서.xlsx">DR1-MTS-005</a> <span class="brand">디즈니</span>
@@ -459,7 +469,7 @@ a[href*="생산부/"]::after,.nas-off::after{content:"NAS";margin-left:4px;paddi
     · 업체 <b>에르원</b> · 납기 <b>2026-10-30</b>
     · 발주 2026-09-15 · CFM -</div>
   <div class="schips"><span class="chip on">원단발주</span><span class="chip off">부자재발주</span><span class="chip off">QC</span><span class="chip off">봉제</span><span class="chip off">완성</span><span class="chip off">납품</span><span class="chip off">물류입고</span></div>
-  <div class="sdocs"><a class="dlink" href="../../생산부/2. 디즈니/27SS/원단/27SS/DR1-LTS-010(JREA-2070)/JREA-2070(DR1-LTS-010) 발주서.xlsx" title="JREA-2070(DR1-LTS-010) 발주서.xlsx">원단발주</a> · <a class="badge xlsx" href="../../생산부/2. 디즈니/27SS/원단/27SS/DR1-LTS-010(JREA-2070)/JREA-2070(DR1-LTS-010) 발주서.xlsx" title="원단발주: JREA-2070(DR1-LTS-010) 발주서.xlsx">XLSX</a></div>
+  <div class="sdocs"><a class="dlink" href="../../생산부/2. 디즈니/27SS/원단/27SS/DR1-LTS-010(JREA-2070)/JREA-2070(DR1-LTS-010) 발주서.xlsx" title="JREA-2070(DR1-LTS-010) 발주서.xlsx">원단발주</a> · <a class="badge xlsx" href="../../생산부/2. 디즈니/27SS/원단/27SS/DR1-LTS-010(JREA-2070)/JREA-2070(DR1-LTS-010) 발주서.xlsx" title="원단발주: JREA-2070(DR1-LTS-010) 발주서.xlsx">XLSX</a><a class="badge jpg" href="../../생산부/2. 디즈니/27SS/원단/27SS/디즈니 본사 발주서/DR1LTS010 JERA-2070.jpg" title="원단발주: DR1LTS010 JERA-2070.jpg">JPG</a></div>
 </div>
 <div class="srow">
   <div class="shead"><a class="style" href="../../생산부/2. 디즈니/27SS/원단/27SS/JDK-T8845(DR1-LTW-002, DR1-LTP-002)/JDK-T8845 (DR1-LTW-002, DR1-LTP-002) BT.xls">DR1LTW002</a> <span class="brand">디즈니</span>
@@ -486,7 +496,7 @@ a[href*="생산부/"]::after,.nas-off::after{content:"NAS";margin-left:4px;paddi
     · 업체 <b>JUNTEX</b> · 납기 <b>2026-10-20</b>
     · 발주 2026-08-31 · CFM 2026-08-06 <span class="note-inline">기타: AB-6098 폴더가 &#x27;- 복사본&#x27; 이름으로만 존재 — 원폴더명 복구 시 링크 재확인</span></div>
   <div class="schips"><span class="chip on">원단발주</span><span class="chip off">부자재발주</span><span class="chip off">QC</span><span class="chip off">봉제</span><span class="chip off">완성</span><span class="chip off">납품</span><span class="chip off">물류입고</span></div>
-  <div class="sdocs"><a class="dlink" href="../../생산부/2. 디즈니/27SS/원단/27SS/AB-6098(DR1-MPA-003, MJV-002, LPA-006) - 복사본/AB-6098(DR1-MPA-003, MJV-002, LPA-006)BT.xls" title="AB-6098(DR1-MPA-003, MJV-002, LPA-006)BT.xls">BT/CFM</a> <span class="sep">·</span> <a class="dlink" href="../../생산부/2. 디즈니/27SS/원단/27SS/AB-6098(DR1-MPA-003, MJV-002, LPA-006) - 복사본/AB-6098 발주서(본사, 마루).pdf" title="AB-6098 발주서(본사, 마루).pdf">원단발주</a> · <a class="badge xls" href="../../생산부/2. 디즈니/27SS/원단/27SS/AB-6098(DR1-MPA-003, MJV-002, LPA-006) - 복사본/AB-6098(DR1-MPA-003, MJV-002, LPA-006)BT.xls" title="BT/CFM: AB-6098(DR1-MPA-003, MJV-002, LPA-006)BT.xls">XLS</a><a class="badge pdf" href="../../생산부/2. 디즈니/27SS/원단/27SS/AB-6098(DR1-MPA-003, MJV-002, LPA-006) - 복사본/AB-6098 발주서(본사, 마루).pdf" title="원단발주: AB-6098 발주서(본사, 마루).pdf">PDF</a><span class="badge pdf missing" title="원단발주: AB-6098(DR1-MPA-003, MJV-002, LPA-006) 발주서.pdf — NAS 원본 없음">PDF</span><small style="font-size:10px;color:#94a3b8;margin-left:3px">NAS 원본 없음</small><a class="badge xlsx" href="../../생산부/2. 디즈니/27SS/원단/27SS/AB-6098(DR1-MPA-003, MJV-002, LPA-006) - 복사본/AB-6098(DR1-MPA-003, MJV-002, LPA-006) 발주서.xlsx" title="원단발주: AB-6098(DR1-MPA-003, MJV-002, LPA-006) 발주서.xlsx">XLSX</a></div>
+  <div class="sdocs"><a class="dlink" href="../../생산부/2. 디즈니/27SS/원단/27SS/AB-6098(DR1-MPA-003, MJV-002, LPA-006) - 복사본/AB-6098(DR1-MPA-003, MJV-002, LPA-006)BT.xls" title="AB-6098(DR1-MPA-003, MJV-002, LPA-006)BT.xls">BT/CFM</a> <span class="sep">·</span> <a class="dlink" href="../../생산부/2. 디즈니/27SS/원단/27SS/AB-6098(DR1-MPA-003, MJV-002, LPA-006) - 복사본/AB-6098 발주서(본사, 마루).pdf" title="AB-6098 발주서(본사, 마루).pdf">원단발주</a> · <a class="badge xls" href="../../생산부/2. 디즈니/27SS/원단/27SS/AB-6098(DR1-MPA-003, MJV-002, LPA-006) - 복사본/AB-6098(DR1-MPA-003, MJV-002, LPA-006)BT.xls" title="BT/CFM: AB-6098(DR1-MPA-003, MJV-002, LPA-006)BT.xls">XLS</a><a class="badge pdf" href="../../생산부/2. 디즈니/27SS/원단/27SS/AB-6098(DR1-MPA-003, MJV-002, LPA-006) - 복사본/AB-6098 발주서(본사, 마루).pdf" title="원단발주: AB-6098 발주서(본사, 마루).pdf">PDF</a><a class="badge xlsx" href="../../생산부/2. 디즈니/27SS/원단/27SS/AB-6098(DR1-MPA-003, MJV-002, LPA-006) - 복사본/AB-6098(DR1-MPA-003, MJV-002, LPA-006) 발주서.xlsx" title="원단발주: AB-6098(DR1-MPA-003, MJV-002, LPA-006) 발주서.xlsx">XLSX</a></div>
 </div>
 <div class="srow">
   <div class="shead"><a class="style" href="../../생산부/2. 디즈니/27SS/원단/27SS/JDK-T8845(DR1-LTW-002, DR1-LTP-002)/JDK-T8845 (DR1-LTW-002, DR1-LTP-002, DR1-MTR-010) 발주서.xlsx">DR1MTR010</a> <span class="brand">디즈니</span>
@@ -504,7 +514,7 @@ a[href*="생산부/"]::after,.nas-off::after{content:"NAS";margin-left:4px;paddi
     · 업체 <b>-</b> · 납기 <b>2026-10-26</b>
     · 발주 2026-10-26 · CFM 2026-09-15</div>
   <div class="schips"><span class="chip on">원단발주</span><span class="chip off">부자재발주</span><span class="chip off">QC</span><span class="chip off">봉제</span><span class="chip off">완성</span><span class="chip off">납품</span><span class="chip off">물류입고</span></div>
-  <div class="sdocs"><a class="dlink" href="../../생산부/2. 디즈니/27SS/원단/27SS/JDK-T8845P+DTP(DR1-MTS-007)/JDK-T8845P(DR1-MTS-007)발주서.pdf" title="JDK-T8845P(DR1-MTS-007)발주서.pdf">원단발주</a> · <a class="badge pdf" href="../../생산부/2. 디즈니/27SS/원단/27SS/JDK-T8845P+DTP(DR1-MTS-007)/JDK-T8845P(DR1-MTS-007)발주서.pdf" title="원단발주: JDK-T8845P(DR1-MTS-007)발주서.pdf">PDF</a><a class="badge xlsx" href="../../생산부/2. 디즈니/27SS/원단/27SS/JDK-T8845P+DTP(DR1-MTS-007)/JDK-T8845P+DTP(DR1-MTS-007) 발주서.xlsx" title="원단발주: JDK-T8845P+DTP(DR1-MTS-007) 발주서.xlsx">XLSX</a></div>
+  <div class="sdocs"><a class="dlink" href="../../생산부/2. 디즈니/27SS/원단/27SS/JDK-T8845P+DTP(DR1-MTS-007)/JDK-T8845P(DR1-MTS-007)발주서.pdf" title="JDK-T8845P(DR1-MTS-007)발주서.pdf">원단발주</a> · <a class="badge pdf" href="../../생산부/2. 디즈니/27SS/원단/27SS/JDK-T8845P+DTP(DR1-MTS-007)/JDK-T8845P(DR1-MTS-007)발주서.pdf" title="원단발주: JDK-T8845P(DR1-MTS-007)발주서.pdf">PDF</a><a class="badge xlsx" href="../../생산부/2. 디즈니/27SS/원단/27SS/JDK-T8845P+DTP(DR1-MTS-007)/JDK-T8845P+DTP(DR1-MTS-007) 발주서.xlsx" title="원단발주: JDK-T8845P+DTP(DR1-MTS-007) 발주서.xlsx">XLSX</a><a class="badge jpg" href="../../생산부/2. 디즈니/27SS/원단/27SS/디즈니 본사 발주서/DR1MTS007  JDK-8845 DTP.jpg" title="원단발주: DR1MTS007  JDK-8845 DTP.jpg">JPG</a></div>
 </div>
 <div class="srow">
   <div class="shead"><a class="style" href="../../생산부/2. 디즈니/27SS/원단/27SS/MYP-393-1(DR1-LJP-005)/MYN-1731(DR1-LPA-004)BT.xls">DR1-LJP-005</a> <span class="brand">디즈니</span>
@@ -556,7 +566,7 @@ a[href*="생산부/"]::after,.nas-off::after{content:"NAS";margin-left:4px;paddi
     <span class="pct">0%</span></div>
   <div class="smeta"><span class="colors">—</span>
     · 업체 <b>-</b> · 납기 <b>-</b>
-    · 발주 - · CFM 2026-10-02</div>
+    · 발주 - · CFM 2026-10-02, 2026-10-12</div>
   <div class="schips"><span class="chip off">원단발주</span><span class="chip off">부자재발주</span><span class="chip off">QC</span><span class="chip off">봉제</span><span class="chip off">완성</span><span class="chip off">납품</span><span class="chip off">물류입고</span></div>
   <div class="sdocs"><a class="dlink" href="../../생산부/2. 디즈니/27SS/원단/27SS/AB-6086(DR2-MPA-031, DR2-LCR-030)/AB-6086(DR2-MPA-031, DR2-LCR-030)BT.xls" title="AB-6086(DR2-MPA-031, DR2-LCR-030)BT.xls">BT/CFM</a> · <a class="badge xls" href="../../생산부/2. 디즈니/27SS/원단/27SS/AB-6086(DR2-MPA-031, DR2-LCR-030)/AB-6086(DR2-MPA-031, DR2-LCR-030)BT.xls" title="BT/CFM: AB-6086(DR2-MPA-031, DR2-LCR-030)BT.xls">XLS</a></div>
 </div>
@@ -655,7 +665,7 @@ a[href*="생산부/"]::after,.nas-off::after{content:"NAS";margin-left:4px;paddi
     <span class="pct">0%</span></div>
   <div class="smeta"><span class="colors">—</span>
     · 업체 <b>-</b> · 납기 <b>-</b>
-    · 발주 - · CFM 2026-10-02</div>
+    · 발주 - · CFM 2026-10-02, 2026-10-12</div>
   <div class="schips"><span class="chip off">원단발주</span><span class="chip off">부자재발주</span><span class="chip off">QC</span><span class="chip off">봉제</span><span class="chip off">완성</span><span class="chip off">납품</span><span class="chip off">물류입고</span></div>
   <div class="sdocs"><a class="dlink" href="../../생산부/2. 디즈니/27SS/원단/27SS/AB-6086(DR2-MPA-031, DR2-LCR-030)/AB-6086(DR2-MPA-031, DR2-LCR-030)BT.xls" title="AB-6086(DR2-MPA-031, DR2-LCR-030)BT.xls">BT/CFM</a> · <a class="badge xls" href="../../생산부/2. 디즈니/27SS/원단/27SS/AB-6086(DR2-MPA-031, DR2-LCR-030)/AB-6086(DR2-MPA-031, DR2-LCR-030)BT.xls" title="BT/CFM: AB-6086(DR2-MPA-031, DR2-LCR-030)BT.xls">XLS</a></div>
 </div>
@@ -745,7 +755,7 @@ a[href*="생산부/"]::after,.nas-off::after{content:"NAS";margin-left:4px;paddi
     <span class="pct">0%</span></div>
   <div class="smeta"><span class="colors">—</span>
     · 업체 <b>-</b> · 납기 <b>-</b>
-    · 발주 - · CFM 2026-10-01</div>
+    · 발주 - · CFM 2026-10-01, 2026-10-16</div>
   <div class="schips"><span class="chip off">원단발주</span><span class="chip off">부자재발주</span><span class="chip off">QC</span><span class="chip off">봉제</span><span class="chip off">완성</span><span class="chip off">납품</span><span class="chip off">물류입고</span></div>
   <div class="sdocs"><a class="dlink" href="../../생산부/2. 디즈니/27SS/원단/27SS/MYP-2846(SR2-LPA-047)/MYP-2846(SR2-LPA-047).xls" title="MYP-2846(SR2-LPA-047).xls">BT/CFM</a> · <a class="badge xls" href="../../생산부/2. 디즈니/27SS/원단/27SS/MYP-2846(SR2-LPA-047)/MYP-2846(SR2-LPA-047).xls" title="BT/CFM: MYP-2846(SR2-LPA-047).xls">XLS</a></div>
 </div>
@@ -817,5 +827,8 @@ a[href*="생산부/"]::after,.nas-off::after{content:"NAS";margin-left:4px;paddi
   if(document.readyState==="loading")document.addEventListener("DOMContentLoaded",swap);
   if(window.MutationObserver)new MutationObserver(swap).observe(document.documentElement,{childList:true,subtree:true});
 })();
+</script>
+<script>/* NAS 전용 (2026-10-17 takedown v3): 웹(file: 아님)에서는 a.nas-only의 href만 제거하고 class nas-off 추가 - a 태그·class·inline style 유지(카드/칩 모양·글자색 그대로). file:(Z/NAS)에서는 링크 유지. */
+(function(){if(location.protocol==="file:")return;[].slice.call(document.querySelectorAll("a.nas-only")).forEach(function(a){var p=a.getAttribute("data-nas-path")||"";a.removeAttribute("href");a.classList.add("nas-off");a.setAttribute("aria-disabled","true");a.title="NAS 전용 · 사내 PC Z 드라이브에서 열기: "+p;});})();
 </script>
 </body></html>

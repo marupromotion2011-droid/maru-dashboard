@@ -65,10 +65,12 @@
     { key: "status", href: up + "status/index.html", label: "생산현황" },
     { key: "process", href: up + "process/index.html", label: "공정" },
     { key: "sales", href: up + "sales/index.html", label: "매출" },
-    { key: "settle", href: up + "사후정산/index.html", label: "사후정산" },
+    { key: "settle", href: up + "사후정산/index.html", label: "사후정산", nasOnly: true },
     { key: "edu", href: up + "education/index.html", label: "교육자료" },
     { key: "errors", href: up + "education/_errors/index.html", label: "오답노트" }
   ];
+  // 2026-10-17 takedown v3: 사후정산은 NAS 전용 - 웹(file: 아님)에서는 메뉴에서 뺌
+  if (location.protocol !== "file:") items = items.filter(function (it) { return !it.nasOnly; });
   var cur = currentKey();
 
   var nav = document.createElement("nav");
