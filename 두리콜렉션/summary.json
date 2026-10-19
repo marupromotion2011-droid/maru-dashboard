@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-10-17",
+  "asOf": "2026-10-19",
   "href_root": "../../생산부/2. 디즈니/27SS/",
   "stages": [
     "원단발주",
@@ -161,6 +161,13 @@
           "mtime": "2026-10-16",
           "rel": "작업지시서/27SS기획티셔츠 작지/DR2-LTS-S090/DR2-LTS-090 부자재 지시서 2026-10-16.xlsx",
           "missing": false
+        },
+        {
+          "name": "DR2LTS090 심지.png",
+          "href": "../../생산부/2. 디즈니/27SS/완사입/기획/DR2LTS090/DR2LTS090 심지.png",
+          "mtime": "2026-10-18",
+          "rel": "완사입/기획/DR2LTS090/DR2LTS090 심지.png",
+          "missing": false
         }
       ],
       "pack_links": [],
@@ -182,7 +189,7 @@
           "qty": 708
         }
       ],
-      "nfiles": 14,
+      "nfiles": 15,
       "flags": {
         "fabric_po": true,
         "trim_po": true,
@@ -353,6 +360,13 @@
           "mtime": "2026-10-02",
           "rel": "완사입/기획/DR2MTS090/투명모빌론 어깨TAPE.txt",
           "missing": false
+        },
+        {
+          "name": "DR2MTS090 심지.png",
+          "href": "../../생산부/2. 디즈니/27SS/완사입/기획/DR2MTS090/DR2MTS090 심지.png",
+          "mtime": "2026-10-18",
+          "rel": "완사입/기획/DR2MTS090/DR2MTS090 심지.png",
+          "missing": false
         }
       ],
       "pack_links": [],
@@ -374,7 +388,7 @@
           "qty": 510
         }
       ],
-      "nfiles": 11,
+      "nfiles": 12,
       "flags": {
         "fabric_po": true,
         "trim_po": true,
@@ -502,6 +516,13 @@
           "mtime": "2026-09-15",
           "rel": "완사입/기획/SR1MTR081/SR1MTS081 고주파와펜 발주서 260914.png",
           "missing": false
+        },
+        {
+          "name": "rev PI SCNY260929001.pdf",
+          "href": "../../생산부/2. 디즈니/27SS/완사입/기획/SR1MTR081/rev PI SCNY260929001.pdf",
+          "mtime": "2026-10-18",
+          "rel": "완사입/기획/SR1MTR081/rev PI SCNY260929001.pdf",
+          "missing": false
         }
       ],
       "trim_po_links": [],
@@ -520,7 +541,7 @@
           "qty": 824
         }
       ],
-      "nfiles": 6,
+      "nfiles": 7,
       "flags": {
         "fabric_po": true,
         "trim_po": true,
@@ -535,7 +556,7 @@
       "pct": 29,
       "complete": false,
       "oneway": false,
-      "pending_note": "기타: 10-16 원부자재 베트남 선적(MARU 20261016 인보이스·FCL·FCL DD·마루패킹 26.10.15·쉬핑마크, 해외생산/선적서류/기은 27SS 기획) — 완제품 패킹 아님",
+      "pending_note": "기타: 10-16 원부자재 베트남 선적(MARU 20261016 인보이스·FCL·FCL DD·마루패킹 26.10.15·쉬핑마크, 해외생산/선적서류/기은 27SS 기획) — 완제품 패킹 아님 · 원단 rev PI SCNY260929001(SHAOXING NUOYA, 9/29, Delivery 10/20) 10-18 → 원단발주서 슬롯",
       "code": {
         "raw": "SR1MTR081",
         "code": "SR1MTR081",
@@ -1000,6 +1021,13 @@
           "mtime": "2026-09-10",
           "rel": "완사입/디즈니 발주서/DR1LTR080.jpg",
           "missing": false
+        },
+        {
+          "name": "rev PI SCNY260929001.pdf",
+          "href": "../../생산부/2. 디즈니/27SS/완사입/기획/DR1LTR080/rev PI SCNY260929001.pdf",
+          "mtime": "2026-10-18",
+          "rel": "완사입/기획/DR1LTR080/rev PI SCNY260929001.pdf",
+          "missing": false
         }
       ],
       "trim_po_links": [
@@ -1027,7 +1055,7 @@
       ],
       "pack_links": [],
       "trim_orders": [],
-      "nfiles": 10,
+      "nfiles": 11,
       "flags": {
         "fabric_po": true,
         "trim_po": true,
@@ -1042,7 +1070,7 @@
       "pct": 29,
       "complete": false,
       "oneway": true,
-      "pending_note": "기타: 10-16 원부자재 베트남 선적(MARU 20261016 인보이스·FCL·FCL DD·마루패킹 26.10.15·쉬핑마크, 해외생산/선적서류/기은 27SS 기획) — 완제품 패킹 아님",
+      "pending_note": "기타: 10-16 원부자재 베트남 선적(MARU 20261016 인보이스·FCL·FCL DD·마루패킹 26.10.15·쉬핑마크, 해외생산/선적서류/기은 27SS 기획) — 완제품 패킹 아님 · 원단 rev PI SCNY260929001(SHAOXING NUOYA, 9/29, Delivery 10/20) 10-18 → 원단발주서 슬롯",
       "code": {
         "raw": "DR1LTR080",
         "code": "DR1LTR080",
@@ -1399,6 +1427,13 @@
           "mtime": "2026-09-10",
           "rel": "완사입/디즈니 발주서/DR2LTR090.jpg",
           "missing": false
+        },
+        {
+          "name": "rev PI SCNY260929001.pdf",
+          "href": "../../생산부/2. 디즈니/27SS/완사입/기획/DR2LTR091/rev PI SCNY260929001.pdf",
+          "mtime": "2026-10-18",
+          "rel": "완사입/기획/DR2LTR091/rev PI SCNY260929001.pdf",
+          "missing": false
         }
       ],
       "trim_po_links": [
@@ -1426,7 +1461,7 @@
       ],
       "pack_links": [],
       "trim_orders": [],
-      "nfiles": 10,
+      "nfiles": 11,
       "flags": {
         "fabric_po": true,
         "trim_po": true,
@@ -1441,7 +1476,7 @@
       "pct": 29,
       "complete": false,
       "oneway": true,
-      "pending_note": "기타: 10-16 원부자재 베트남 선적(MARU 20261016 인보이스·FCL·FCL DD·마루패킹 26.10.15·쉬핑마크, 해외생산/선적서류/기은 27SS 기획) — 완제품 패킹 아님",
+      "pending_note": "기타: 10-16 원부자재 베트남 선적(MARU 20261016 인보이스·FCL·FCL DD·마루패킹 26.10.15·쉬핑마크, 해외생산/선적서류/기은 27SS 기획) — 완제품 패킹 아님 · 원단 rev PI SCNY260929001(SHAOXING NUOYA, 9/29, Delivery 10/20) 10-18 → 원단발주서 슬롯",
       "code": {
         "raw": "DR2LTR091",
         "code": "DR2LTR091",

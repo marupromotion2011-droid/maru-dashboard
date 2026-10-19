@@ -1,0 +1,178 @@
+{
+  "asOf": "2026-10-19",
+  "ran_at": "2026-10-19T08:09:59.572666+09:00",
+  "cutoff_used": "2026-10-18 08:24:36 Asia/Seoul",
+  "new_cutoff": "2026-10-19 08:06:40 Asia/Seoul",
+  "scan_count": 5,
+  "temp_skip": 0,
+  "changes": [
+    "DR2LTR091 fabric_po += rev PI SCNY260929001.pdf",
+    "DR2LTR091 note: 원단 rev PI SCNY260929001(SHAOXING NUOYA, 9/29, Delivery 10/20) 10-18 → 원단발주서 슬롯",
+    "DR1LTR080 fabric_po += rev PI SCNY260929001.pdf",
+    "DR1LTR080 note: 원단 rev PI SCNY260929001(SHAOXING NUOYA, 9/29, Delivery 10/20) 10-18 → 원단발주서 슬롯",
+    "SR1MTR081 fabric_po += rev PI SCNY260929001.pdf",
+    "SR1MTR081 note: 원단 rev PI SCNY260929001(SHAOXING NUOYA, 9/29, Delivery 10/20) 10-18 → 원단발주서 슬롯",
+    "DR2LTS090 trim_po += DR2LTS090 심지.png",
+    "DR2MTS090 trim_po += DR2MTS090 심지.png",
+    "DR1LTR080 merged/DR1LTR080.pdf 합본 링크",
+    "DR2LTR091 merged/DR2LTR091.pdf 합본 링크",
+    "DR2LTS090 merged/DR2LTS090.pdf 합본 링크",
+    "DR2MTS090 merged/DR2MTS090.pdf 합본 링크",
+    "SR1MTR081 merged/SR1MTR081.pdf 합본 링크"
+  ],
+  "silent_skip": [
+    "완사입/기획/rev PI SCNY260929001.pdf (기획 루트 사본, 스타일 폴더 3곳과 동일 171,480B) → 스타일 폴더본으로 반영, 루트본 skip",
+    "CS04C, ZJZD26090709793…品有限公司.pdf (DR2LTR091·TIANHAO 수신메일, 중국어 파일명 PC 열거 불가) → 컷오프 이전 기존 파일, 미변경"
+  ],
+  "merge": [
+    {
+      "style": "DR1LTR080",
+      "ok": true,
+      "used": [
+        "wip:DR2LTR080 작업지시서 원단수정 0813.jpg",
+        "wip:DR2LTR080 작업지시서.png",
+        "fabric_po:DR2LTR080 원단 발주서.pdf",
+        "fabric_po:SKIP:DR2LTR080 원단발주서.xlsx",
+        "fabric_po:SKIP:기획티셔츠 일방향 재단으로 인한 원단 추가발주의 건 260915.xlsx",
+        "fabric_po:DR1LTR080.jpg",
+        "fabric_po:rev PI SCNY260929001.pdf",
+        "bt:DR1LTR080 BT CFM 260917.jpg",
+        "trim_po:SKIP:두리 기획티셔츠 투명어깨테이프 발주서.xlsx",
+        "trim_po:어깨테이프 ANYTAPE JAB-0608s.png",
+        "trim_po:SKIP:투명모빌론 어깨TAPE.txt"
+      ],
+      "pages": 10,
+      "bytes": 5442224
+    },
+    {
+      "style": "DR2LTR091",
+      "ok": true,
+      "used": [
+        "wip:DR2LTR091 작업지시서 원단수정 0813.jpg",
+        "wip:DR2LTR091 작업지시서.png",
+        "fabric_po:SKIP:DR2LTR091 원단발주서.xlsx",
+        "fabric_po:SKIP:기획티셔츠 일방향 재단으로 인한 원단 추가발주의 건 260915.xlsx",
+        "fabric_po:DR2LTR090.jpg (개별발주서·품번오기→091)",
+        "fabric_po:rev PI SCNY260929001.pdf",
+        "bt:DR2LTR091 BT CFM-1 260917.jpg",
+        "bt:DR2LTR091 BT CFM-2 260917.jpg",
+        "trim_po:SKIP:두리 기획티셔츠 투명어깨테이프 발주서.xlsx",
+        "trim_po:어깨테이프 ANYTAPE JAB-0608s.png",
+        "trim_po:SKIP:투명모빌론 어깨TAPE.txt"
+      ],
+      "pages": 7,
+      "bytes": 3027586
+    },
+    {
+      "style": "DR2LTS090",
+      "ok": true,
+      "used": [
+        "wip:DR2-LTS-090 헤리테잎변경 작지(09.11).jpg",
+        "wip:DR2LTS090 작업지시서.png",
+        "wip:SKIP:DR2-LTS-090  메인작업지시서.ai",
+        "fabric_po:DR2LTS090 TP-01 발주서 2609014.pdf",
+        "fabric_po:DR2LTS090 원단발주서.pdf",
+        "fabric_po:SKIP:DR2LTS090 원단발주서.xlsx",
+        "fabric_po:DR2LTS090.jpg",
+        "bt:DR2LTS090 BT CFM 260805-1.jpg",
+        "bt:DR2LTS090 BT CFM 260805-2.jpg",
+        "fabric_qty:SKIP:3214 패킹 (1).xlsx",
+        "trim_po:SKIP:DR2LTS090 부자재 발주서.xlsx",
+        "trim_po:SKIP:두리 기획티셔츠 투명어깨테이프 발주서.xlsx",
+        "trim_po:어깨테이프 ANYTAPE JAB-0608s.png",
+        "trim_po:SKIP:투명모빌론 어깨TAPE.txt",
+        "trim_po:SKIP:DR2-LTS-090 부자재 지시서 2026-10-16.xlsx",
+        "trim_po:DR2LTS090 심지.png",
+        "qc:SKIP:DR2LTS090, MTS090 검사리포트.xlsx"
+      ],
+      "pages": 13,
+      "bytes": 15781739
+    },
+    {
+      "style": "DR2MTS090",
+      "ok": true,
+      "used": [
+        "wip:SKIP:DR2MTS090 메인작업지시서.ai",
+        "wip:DR2MTS090 작업지시서.png",
+        "wip:SKIP:DR2MTS090 디즈니 작지.ai",
+        "fabric_po:DR2MTS090 TP-01 발주서  2609014.pdf",
+        "fabric_po:DR2MTS090 원단발주서.pdf",
+        "fabric_po:SKIP:DR2MTS090 원단발주서.xlsx",
+        "fabric_po:DR2MTS090.jpg",
+        "fabric_qty:SKIP:3214 패킹 (1).xlsx",
+        "trim_po:SKIP:DR2MTS090 부자재 발주서.xlsx",
+        "trim_po:SKIP:두리 기획티셔츠 투명어깨테이프 발주서.xlsx",
+        "trim_po:어깨테이프 ANYTAPE JAB-0608s.png",
+        "trim_po:SKIP:투명모빌론 어깨TAPE.txt",
+        "trim_po:DR2MTS090 심지.png",
+        "qc:SKIP:DR2LTS090, MTS090 검사리포트.xlsx"
+      ],
+      "pages": 10,
+      "bytes": 4970782
+    },
+    {
+      "style": "SR1MTR081",
+      "ok": true,
+      "used": [
+        "wip:SM1MTR081 메인작업지시서.pdf",
+        "fabric_po:SR1MTR081 완사입 발주서.pdf",
+        "fabric_po:SR1MTR081 원단 발주서.pdf",
+        "fabric_po:SR1MTS081 TP-01 발주서 2609014.pdf",
+        "fabric_po:SR1MTS081 고주파와펜 발주서 260914.png",
+        "fabric_po:rev PI SCNY260929001.pdf",
+        "bt:SR1MTR081 BK, WH BT컨펌.jpg"
+      ],
+      "pages": 7,
+      "bytes": 2898926
+    }
+  ],
+  "integrate": {
+    "ok": true,
+    "pages": 57,
+    "styles": [
+      "DR1LJB080",
+      "DR1-LTJ-014",
+      "DR1-LTJ-015",
+      "DR1LTR080",
+      "DR1-LTS-005",
+      "DR1LTS010",
+      "DR1MTS007",
+      "DR2LTR091",
+      "DR2LTS090",
+      "DR2MTS090",
+      "SR1MJB080",
+      "SR1MTR081"
+    ],
+    "bytes": 31010482,
+    "note": "merged 있는 스타일만 통합(전 스타일 합본 아님)"
+  },
+  "thumbs": [],
+  "touched_styles": [
+    "DR1LTR080",
+    "DR2LTR091",
+    "DR2LTS090",
+    "DR2MTS090",
+    "SR1MTR081"
+  ],
+  "new_styles": [],
+  "n_styles": 76,
+  "written": [
+    "디즈니/진행문서/progress.json",
+    "디즈니/진행문서/slots.json",
+    "디즈니/진행문서/진행-progress.json",
+    "디즈니/진행문서/index.html",
+    "디즈니/진행/index.html",
+    "디즈니/진행/progress.json",
+    "디즈니/진행문서/_scan_stamp.json",
+    "디즈니/진행문서/_scan_report_2026-10-19.json",
+    "summary.json",
+    "index.html",
+    "디즈니/진행문서/merged/DR1LTR080.pdf",
+    "디즈니/진행문서/merged/DR2LTR091.pdf",
+    "디즈니/진행문서/merged/DR2LTS090.pdf",
+    "디즈니/진행문서/merged/DR2MTS090.pdf",
+    "디즈니/진행문서/merged/SR1MTR081.pdf",
+    "디즈니/진행문서/merged/27SS_진행문서_통합.pdf"
+  ],
+  "gate": "Z:\\HDD1\\MARU\\dashboard\\두리콜렉션\\ — 2026-10-19 일일폴더반영(원단 PI 3·심지 발주서 2·merged 5·통합 재생성) 게이트"
+}
