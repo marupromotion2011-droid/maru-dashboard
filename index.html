@@ -28,6 +28,8 @@ body{background:#ffffff !important;color:var(--ink,#1c2a3a)}
 .nav-cards a.card.nas-off::after{align-self:flex-start;margin:6px 0 0}
 .kids a.nas-off::after{content:none}
 .nas-guide{margin:10px 0 0;padding:8px 12px;border:1px dashed #cbd5e1;border-radius:8px;background:#f8fafc;color:#3e4c5c;font-size:14px;word-break:break-all}
+.sqm-top{margin:12px 0 0;display:flex;flex-wrap:wrap;gap:8px}  /* 2026-10-18 v5: SQM 중량 계산기 바로가기 (NAS 전용, nas-only 방식) - 16px 700 #1c3558/#fff 12.36:1, 터치 44px */
+.sqm-top a.sqm-link{display:inline-flex;align-items:center;flex-wrap:wrap;min-height:44px;max-width:100%;box-sizing:border-box;padding:8px 14px;border:1px solid #cbd5e1;border-radius:10px;background:#fff;color:#1c3558;font-size:16px;font-weight:700;line-height:1.4;text-decoration:none}
 </style>
 <script src="/maru-dashboard/js/auth-gate.js"></script>
 </head>
@@ -36,6 +38,7 @@ body{background:#ffffff !important;color:var(--ink,#1c2a3a)}
   <header class="topbar">
     <h1>운영 대시보드</h1>
     <p class="meta">마루2011 · 공통 입구 · R10 시인성 · 북마크는 이 파일만</p>
+    <p class="sqm-top"><a class="nas-only sqm-link" href="tools/sqm-calc/index.html" data-nas-path="Z:\HDD1\MARU\dashboard\tools\sqm-calc\index.html">SQM 중량 계산기</a></p>
   </header>
 
   <section class="kpi-row" aria-label="요약">
