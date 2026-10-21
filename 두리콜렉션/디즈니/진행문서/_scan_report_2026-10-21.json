@@ -1,0 +1,157 @@
+{
+  "asOf": "2026-10-21",
+  "ran_at": "2026-10-21T08:23:57.197547+09:00",
+  "cutoff_used": "2026-10-20 08:08:29 Asia/Seoul",
+  "new_cutoff": "2026-10-21 08:13:00 Asia/Seoul",
+  "scan_count": 14,
+  "changes": [
+    "[10-20 미배포분] DR2LTS090 링크 경로 이름바뀜 반영 4곳: 작업지시서/27SS기획티셔츠 작지/DR2-LTS-S090/ → DR2-LTS-090/ (메인작업지시서.ai·부자재 지시서 xlsx, MD5 동일)",
+    "[10-20 미배포분] DR2LTR091 fabric_po += DR2LTR091 원단발주서.pdf",
+    "[10-20 미배포분] DR2LTR091 note: 원단발주서.pdf 교체본(TIANHAO CS-038C 7,837YDS 수정발주 9/15, 2.9MB→0.76MB) 10-20 반영 → 원단발주서 슬롯",
+    "[10-20 미배포분] DR1LTR080 trim_po += 기획티셔츠 어깨TAPE 정산의 건.pdf",
+    "[10-20 미배포분] DR1LTR080 note: 어깨TAPE 정산 지출기안서(ANYTAPE JAB-0608s 181,500원, 결재 10-15) 10-20 → 부자재발주서 슬롯",
+    "[10-20 미배포분] DR2LTR091 trim_po += 기획티셔츠 어깨TAPE 정산의 건.pdf",
+    "[10-20 미배포분] DR2LTR091 note: 어깨TAPE 정산 지출기안서(ANYTAPE JAB-0608s 181,500원, 결재 10-15) 10-20 → 부자재발주서 슬롯",
+    "[10-20 미배포분] DR2LTS090 trim_po += 기획티셔츠 어깨TAPE 정산의 건.pdf",
+    "[10-20 미배포분] DR2LTS090 note: 어깨TAPE 정산 지출기안서(ANYTAPE JAB-0608s 181,500원, 결재 10-15) 10-20 → 부자재발주서 슬롯",
+    "[10-20 미배포분] DR2MTS090 trim_po += 기획티셔츠 어깨TAPE 정산의 건.pdf",
+    "[10-20 미배포분] DR2MTS090 note: 어깨TAPE 정산 지출기안서(ANYTAPE JAB-0608s 181,500원, 결재 10-15) 10-20 → 부자재발주서 슬롯",
+    "[10-20 미배포분] DR2LTS090 bt += DR2-LTS-090 마루 나염의뢰서_9.15.ai",
+    "[10-20 미배포분] DR2LTS090 note: 나염 .ai(작지 폴더, 10-19) → 나염=BT~원단 추정, BT컴펌서 슬롯(링크만)",
+    "[10-20 미배포분] DR2LTR091 bt += DR2-LTR-091 마루 나염의뢰서_9.18.ai",
+    "[10-20 미배포분] DR2LTR091 note: 나염 .ai(작지 폴더, 10-19) → 나염=BT~원단 추정, BT컴펌서 슬롯(링크만)",
+    "[10-20 미배포분] DR1LTR080 bt += DR1-LTR-080 마루 나염의뢰서_9.18.ai",
+    "[10-20 미배포분] DR1LTR080 note: 나염 .ai(작지 폴더, 10-19) → 나염=BT~원단 추정, BT컴펌서 슬롯(링크만)",
+    "[10-20 미배포분] DR2MTS090 note: 기타: DR2-MTS-090 나염위치확인용패턴.ai(작지/DR2-LTS-090 폴더, 10-19) — 나염 단계, BT 미확정이라 BT슬롯 안 채움",
+    "[10-20 미배포분] DR2LTS090 trim_po += DR2-LTS-090 자재카드.ai",
+    "DR2LTR091 fabric_po += PROFORMA INVOICE.pdf",
+    "DR2LTR091 note: 원단 PI SCNY260929001 수정본(PROFORMA INVOICE.pdf, 10-20 — 서차지 단가 포함) → 원단발주서 슬롯",
+    "DR1LTR080 fabric_po += PROFORMA INVOICE.pdf",
+    "DR1LTR080 note: 원단 PI SCNY260929001 수정본(PROFORMA INVOICE.pdf, 10-20 — 서차지 단가 포함) → 원단발주서 슬롯",
+    "SR1MTR081 fabric_po += PROFORMA INVOICE.pdf",
+    "SR1MTR081 note: 원단 PI SCNY260929001 수정본(PROFORMA INVOICE.pdf, 10-20 — 서차지 단가 포함) → 원단발주서 슬롯"
+  ],
+  "silent_skip": [
+    "완사입/기획/20261019131147.png (27SS 기획티셔츠 나염 2안×공임 2안 원가·수익 비교표, 10-18 작성) · 완사입/기획/SR1MTR081/9f712c….png (SR1MTR081 원가 산출·공임 케이스) → 원가보드/비슬롯 skip (원가·견적 silent skip 선례)",
+    "완사입/기획/프린트 단가/KakaoTalk_20261016_*.png·jpg 2건 (프린트 단가) → 원가/비슬롯 skip",
+    "완사입/정상/견적서/27SS디즈니 아우터 원가 견적서(10.07) 최종 4건.xlsx · …LJV-010 10.08.xlsx · 견적서/네고/마루완사입 원단 최종 변경 확정 10.15 원가포함.xlsx (원가·견적 수정) → 비슬롯 skip",
+    "27SS 기획북/27SS 기획북 스펙 및 라벨.xlsx · 완사입/정상/27SS 자재리스트.xlsx (공통자료 갱신) → 비슬롯 skip",
+    "완사입/기획/rev PI SCNY260929001.pdf (기획 루트 사본) → PROFORMA INVOICE/ 폴더로 이동(MD5 동일). 링크는 스타일 폴더본이라 영향 없음",
+    "완사입/기획/PROFORMA INVOICE/PI SCNY26093001.pdf (10-12, surcharge 별도 구버전 = rev PI와 같은 내용) · PROFORMA INVOICE.jpg (pdf 이미지본) · TIANHAO-MARU.xlsx (같은 PI 한글 구매계약서/결제조건) → PDF본만 반영, 나머지 skip",
+    "CS04C, ZJZD26090709793…品有限公司.pdf 2건 (#BADNAME 열거 불가) → 기존 파일, 미변경"
+  ],
+  "renames": {
+    "작업지시서/27SS기획티셔츠 작지/DR2-LTS-S090/DR2-LTS-090  메인작업지시서.ai": "작업지시서/27SS기획티셔츠 작지/DR2-LTS-090/DR2-LTS-090  메인작업지시서.ai",
+    "작업지시서/27SS기획티셔츠 작지/DR2-LTS-S090/DR2-LTS-090 부자재 지시서 2026-10-16.xlsx": "작업지시서/27SS기획티셔츠 작지/DR2-LTS-090/DR2-LTS-090 부자재 지시서 2026-10-16.xlsx"
+  },
+  "merge": [
+    {
+      "style": "DR1LTR080",
+      "ok": true,
+      "pages": 13,
+      "old_pages": 10,
+      "bytes": 6753935,
+      "sha256": "3D2603CA4014FD1C975AD527FCF64D13305030E5533444211368E339FC02B837",
+      "method": "증분 덧붙이기(기존 merged + 새 페이지 객체, 페이지별 렌더 대조·qpdf OK)"
+    },
+    {
+      "style": "DR2LTR091",
+      "ok": true,
+      "pages": 11,
+      "old_pages": 7,
+      "bytes": 5093875,
+      "sha256": "F2B9FAF0C20D5D4FC9030367DC04937D55EB8369500E6C4F1440A1E5A388BB52",
+      "method": "증분 덧붙이기(기존 merged + 새 페이지 객체, 페이지별 렌더 대조·qpdf OK)"
+    },
+    {
+      "style": "DR2LTS090",
+      "ok": true,
+      "pages": 15,
+      "old_pages": 13,
+      "bytes": 16921907,
+      "sha256": "6BEEDC501BA32807264A863CEF835F44C9FF06B44B0C592A4829A0517B8D6D03",
+      "method": "증분 덧붙이기(기존 merged + 새 페이지 객체, 페이지별 렌더 대조·qpdf OK)"
+    },
+    {
+      "style": "DR2MTS090",
+      "ok": true,
+      "pages": 12,
+      "old_pages": 10,
+      "bytes": 6110927,
+      "sha256": "3C0EAFE88275249B3E26B19B3392D8978644EA19995EF572DD1C5F5058C28084",
+      "method": "증분 덧붙이기(기존 merged + 새 페이지 객체, 페이지별 렌더 대조·qpdf OK)"
+    },
+    {
+      "style": "SR1MTR081",
+      "ok": true,
+      "pages": 8,
+      "old_pages": 7,
+      "bytes": 3070787,
+      "sha256": "52CF30B39DBCDD3B392AA72204CC4789DE634E110EC6B7D6B312399443A8FB26",
+      "method": "증분 덧붙이기(기존 merged + 새 페이지 객체, 페이지별 렌더 대조·qpdf OK)"
+    }
+  ],
+  "integrate": {
+    "ok": true,
+    "pages": 69,
+    "old_pages": 57,
+    "bytes": 33079015,
+    "styles": 12,
+    "note": "merged 있는 스타일만 통합(전 스타일 합본 아님) · TAPE 기안서·PI 객체 공유"
+  },
+  "thumbs": [],
+  "touched_styles": [
+    "DR1LTR080",
+    "DR2LTR091",
+    "DR2LTS090",
+    "DR2MTS090",
+    "SR1MTR081"
+  ],
+  "new_styles": [],
+  "n_styles": 76,
+  "source_links": {
+    "out/progress.json": {
+      "ok": 215
+    },
+    "out/slots.json": {
+      "ok": 185
+    }
+  },
+  "html_href_check": {
+    "out/progdocs_index.html": {
+      "ok": 185,
+      "bad": 0
+    },
+    "out/prog_index.html": {
+      "ok": 215,
+      "bad": 0
+    },
+    "out/hub_index.html": {
+      "ok": 341,
+      "bad": 0
+    },
+    "out/summary.json": {
+      "ok": 215,
+      "bad": 0
+    }
+  },
+  "written": [
+    "디즈니/진행문서/progress.json",
+    "디즈니/진행문서/slots.json",
+    "디즈니/진행문서/진행-progress.json",
+    "디즈니/진행문서/index.html",
+    "디즈니/진행/index.html",
+    "디즈니/진행/progress.json",
+    "디즈니/진행문서/_scan_stamp.json",
+    "디즈니/진행문서/_scan_report_2026-10-21.json",
+    "summary.json",
+    "index.html",
+    "디즈니/진행문서/merged/DR1LTR080.pdf",
+    "디즈니/진행문서/merged/DR2LTR091.pdf",
+    "디즈니/진행문서/merged/DR2LTS090.pdf",
+    "디즈니/진행문서/merged/DR2MTS090.pdf",
+    "디즈니/진행문서/merged/SR1MTR081.pdf",
+    "디즈니/진행문서/merged/27SS_진행문서_통합.pdf"
+  ],
+  "gate": "Z:\\HDD1\\MARU\\dashboard\\두리콜렉션\\ — 2026-10-21 일일폴더반영(10-20 미배포분 포함: 이름바뀜 2·원단발주서 1·어깨TAPE 4·나염 .ai 3·자재카드 1 + 10-21: PI 수정본 3스타일 fabric_po · merged 5·통합 69p) 게이트"
+}
